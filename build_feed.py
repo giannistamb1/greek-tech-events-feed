@@ -29,7 +29,7 @@ import re
 import sys
 import time
 import unicodedata
-from concurrent.futures import ThreadPoolExecutor
+import threading
 from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta, timezone
 from email.utils import format_datetime
@@ -57,7 +57,11 @@ SESSION.headers.update({
     "Accept-Language": "en-US,en;q=0.8,el;q=0.7",
 })
 
-CONTROL_CHARS = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+# Characters that are not allowed in XML 1.0 or cannot be encoded as UTF-8.
+CONTROL_CHARS = re.compile("[\x00-\x08\x0b\x0c\x0e-\x1f" + chr(0xD800) + "-" + chr(0xDFFF)
+                           + chr(0xFFFE) + chr(0xFFFF) + "]")
+UNSAFE_IN_URL = re.compile(r"[\s\x00-\x1f\x7f<>\"'`\\]")
+MAX_URL_LENGTH = 2000
 URL_IN_TEXT = re.compile(r"https?://[^\s<>\"']+")
 TRACKING_PARAMS = ("utm_", "fbclid", "gclid", "mc_", "aff", "ref", "_hs")
 
@@ -106,13 +110,28 @@ def to_dt(value) -> datetime | None:
     return d
 
 
-def is_web_link(link: str) -> bool:
-    """Only http(s) links reach the feed (no javascript:, data:, file:, mailto:)."""
+def clean_link(link) -> str:
+    """Return the link exactly as it will be stored, or "" if it is not a plain http(s) URL.
+
+    Validation and storage use the same string, so nothing that fails the check
+    (javascript:, data:, whitespace, control characters, markup) can reach the feed.
+    """
+    link = str(link or "").strip()
+    if not link or len(link) > MAX_URL_LENGTH or UNSAFE_IN_URL.search(link):
+        return ""
+    if CONTROL_CHARS.search(link):
+        return ""
     try:
-        parts = urlsplit(link.strip())
-    except (ValueError, AttributeError):
-        return False
-    return parts.scheme.lower() in ("http", "https") and bool(parts.netloc)
+        parts = urlsplit(link)
+    except ValueError:
+        return ""
+    if parts.scheme.lower() not in ("http", "https") or not parts.netloc:
+        return ""
+    return link
+
+
+def is_web_link(link) -> bool:
+    return bool(clean_link(link))
 
 
 def fetch(url: str, settings: dict) -> tuple[bytes, str]:
@@ -298,7 +317,10 @@ def collect(src: dict, pats: dict, settings: dict, res: Result) -> list[Item]:
 
     items = []
     for r in raw:
-        if not r.get("title") or not is_web_link(r.get("link") or ""):
+        r["link"] = clean_link(r.get("link"))
+        if r.get("uid"):
+            r["uid"] = CONTROL_CHARS.sub("", str(r["uid"]))[:300]
+        if not r.get("title") or not r["link"]:
             continue
         text = " ".join([r["title"], r.get("summary", ""), r.get("location", "")])
         if mode in ("tech", "tech_event") and not matches(text, pats["tech"]):
@@ -315,6 +337,37 @@ def collect(src: dict, pats: dict, settings: dict, res: Result) -> list[Item]:
         items.append(Item(source=src["name"], source_url=src.get("home", src["url"]),
                           category=src.get("category", "General"), kind=kind, **r))
     return items
+
+
+def run_all(sources: list[dict], pats: dict, settings: dict) -> list[Result]:
+    """Run every source in its own daemon thread under one hard wall-clock limit.
+
+    The limit is enforced here, not inside the worker, so a source that stalls
+    mid-read or hangs while parsing is reported as an error and left behind.
+    """
+    limit = settings.get("max_fetch_seconds", 60) + settings.get("timeout", 30)
+    lock = threading.Lock()
+    results: list[Result | None] = [None] * len(sources)
+    state = {"closed": False}  # set once the limit has passed; late workers are ignored
+
+    def work(i: int, src: dict):
+        res = run_source(src, pats, settings)
+        with lock:
+            if not state["closed"]:
+                results[i] = res
+
+    threads = [threading.Thread(target=work, args=(i, s), daemon=True) for i, s in enumerate(sources)]
+    for t in threads:
+        t.start()
+    deadline = time.monotonic() + limit
+    for t in threads:
+        t.join(max(0.0, deadline - time.monotonic()))
+    with lock:
+        state["closed"] = True
+        done = list(results)
+    return [res or Result(str(src.get("name") or "unnamed source"),
+                          error=f"TimeoutError: no result within {limit} seconds")
+            for res, src in zip(done, sources)]
 
 
 def dedupe(items: list[Item]) -> list[Item]:
@@ -396,7 +449,7 @@ def write_rss(items: list[Item], meta: dict, path: Path, subtitle: str = ""):
             "</item>",
         ]
     out += ["</channel>", "</rss>"]
-    path.write_text("\n".join(out), encoding="utf-8")
+    path.write_text(CONTROL_CHARS.sub("", "\n".join(out)), encoding="utf-8")
 
 
 def write_json(items: list[Item], meta: dict, path: Path):
@@ -437,8 +490,7 @@ def main() -> int:
     if args.only:
         sources = [s for s in sources if s["name"].lower() == args.only.lower()]
 
-    with ThreadPoolExecutor(max_workers=settings.get("workers", 8)) as pool:
-        results = list(pool.map(lambda s: run_source(s, pats, settings), sources))
+    results = run_all(sources, pats, settings)
 
     width = max((len(r.name) for r in results), default=10)
     for r in results:

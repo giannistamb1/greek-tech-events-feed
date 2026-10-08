@@ -14,7 +14,6 @@ feed:
 
 settings:
   timeout: 30
-  workers: 8
   max_items: 600
   max_news_age_days: 45
 
