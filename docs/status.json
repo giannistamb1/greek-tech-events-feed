@@ -1,0 +1,144 @@
+{
+  "built": "2026-10-08T10:58:00.575311+00:00",
+  "items": 62,
+  "sources": [
+    {
+      "name": "Meetup — Athens tech",
+      "fetched": 12,
+      "kept": 12,
+      "error": ""
+    },
+    {
+      "name": "Meetup — Thessaloniki tech",
+      "fetched": 11,
+      "kept": 11,
+      "error": ""
+    },
+    {
+      "name": "Eventbrite — Greece science & tech",
+      "fetched": 8,
+      "kept": 8,
+      "error": ""
+    },
+    {
+      "name": "Eventbrite — Greece business (tech-filtered)",
+      "fetched": 8,
+      "kept": 4,
+      "error": ""
+    },
+    {
+      "name": "Eventbrite — Athens startups",
+      "fetched": 17,
+      "kept": 11,
+      "error": ""
+    },
+    {
+      "name": "Stayhappening — Athens",
+      "fetched": 100,
+      "kept": 2,
+      "error": ""
+    },
+    {
+      "name": "dev.events — Greece",
+      "fetched": 10,
+      "kept": 10,
+      "error": ""
+    },
+    {
+      "name": "Startupper",
+      "fetched": 10,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "name": "ICT Plus",
+      "fetched": 21,
+      "kept": 2,
+      "error": ""
+    },
+    {
+      "name": "Techgear",
+      "fetched": 50,
+      "kept": 3,
+      "error": ""
+    },
+    {
+      "name": "Startup.gr",
+      "fetched": 3,
+      "kept": 1,
+      "error": ""
+    },
+    {
+      "name": "EMEA.gr",
+      "fetched": 15,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "name": "Naftemporiki",
+      "fetched": 30,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "name": "Insider.gr",
+      "fetched": 60,
+      "kept": 1,
+      "error": ""
+    },
+    {
+      "name": "Fortune Greece",
+      "fetched": 203,
+      "kept": 3,
+      "error": ""
+    },
+    {
+      "name": "Business Daily",
+      "fetched": 40,
+      "kept": 1,
+      "error": ""
+    },
+    {
+      "name": "Techblog",
+      "fetched": 20,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "name": "Techmaniacs",
+      "fetched": 12,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "name": "Netweek",
+      "fetched": 10,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "name": "EU-Startups",
+      "fetched": 0,
+      "kept": 0,
+      "error": "ReadTimeout: HTTPSConnectionPool(host='www.eu-startups.com', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "name": "Tech.eu",
+      "fetched": 20,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "name": "Silicon Canals",
+      "fetched": 10,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "name": "Sifted",
+      "fetched": 24,
+      "kept": 0,
+      "error": ""
+    }
+  ]
+}

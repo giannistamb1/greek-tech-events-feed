@@ -1,0 +1,451 @@
+# =====================================================================
+#  Greek Tech Events feed — source list
+#  After any change run:  python build_feed.py --check
+#  Sources marked "verify" use URL patterns that sites change often.
+#  If --check shows an error, open the site, find the current listing
+#  URL (or its RSS/iCal link) and paste it in.
+# =====================================================================
+
+feed:
+  title: "Greek Tech Events & Meetups"
+  description: "Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media."
+  link: "https://giannistamb1.github.io/greek-tech-events-feed/feed.xml"
+  home: "https://giannistamb1.github.io/greek-tech-events-feed/"
+
+settings:
+  timeout: 30
+  workers: 8
+  max_items: 600
+  max_news_age_days: 45
+
+# Patterns are regular expressions matched against lowercased text with
+# Greek accents removed and ς turned into σ. So write Greek without tonos
+# and with σ (e.g. "συνεδρι" matches "Συνέδριο", "συνεδρίου").
+keywords:
+  tech:
+    - '\bai\b'
+    - 'artificial intelligence|τεχνητη νοημοσυνη'
+    - 'machine learning|μηχανικη μαθηση|\bml\b|\bllms?\b|genai|generative'
+    - 'tech|τεχνολογ'
+    - 'start-?ups?|νεοφυ'
+    - 'founder|ιδρυτ|entrepreneur|επιχειρηματικοτητ'
+    - 'develop|προγραμματισ|coding|software|λογισμικ'
+    - 'javascript|typescript|python|\bjava\b|rust|golang|react|kotlin|\.net|php|flutter'
+    - 'cloud|kubernetes|devops|aws|azure|gcp|open source'
+    - '\bdata\b|δεδομεν|analytics'
+    - 'cyber|security|infosec|κυβερνοασφαλ'
+    - 'blockchain|crypto|web3'
+    - 'fintech|proptech|healthtech|edtech|agritech|deeptech|climate ?tech|insurtech|spacetech'
+    - 'saas|product manag|\bux\b|\bui\b'
+    - 'hackathon|game ?jam|gamedev'
+    - 'innovation|καινοτομ|ψηφιακ|digital'
+    - 'robot|ρομποτ|\biot\b|embedded|semiconductor|quantum|drone'
+    - 'accelerator|incubator|επιταχυντ|θερμοκοιτιδ'
+    - 'venture|investor|\bvcs?\b|επενδυτ'
+    - 'demo ?day|pitch'
+  event:
+    - 'event|εκδηλωσ|meetup|meet-up'
+    - 'conference|συνεδρι|summit|forum|φορουμ'
+    - 'workshop|εργαστηρι|bootcamp|masterclass|training'
+    - 'webinar|ημεριδ|παρουσιασ|ομιλι|\btalks?\b|panel'
+    - 'hackathon|expo|εκθεσ|festival|φεστιβαλ|\bweek\b'
+    - 'demo ?day|pitch|competition|διαγωνισμ|awards|βραβει'
+    - 'open call|call for|προσκλησ|applications|αιτησ'
+    - 'regist|εγγραφ|tickets|εισιτηρι|networking'
+  greece:
+    - 'greece|greek|hellenic|ελλαδ|ελληνικ|ελλην'
+    - 'athens|αθην|piraeus|πειραι'
+    - 'thessaloniki|θεσσαλονικ'
+    - 'patras|πατρα\b|πατρων'
+    - 'crete|κρητ|heraklion|ηρακλει|chania|χανι'
+    - 'ioannina|ιωαννιν|larissa|λαρισ|volos|βολοσ|βολου'
+    - 'kalamata|καλαματ|rhodes|ροδου|ροδοσ|corfu|κερκυρ|kavala|καβαλ|syros|συρο'
+
+# ---------------------------------------------------------------------
+# Fields:
+#   name, url, type (rss|ical|jsonld), kind (events|news), category
+#   filter: none|tech|tech_event     require_greece: true|false
+#   home: optional public page shown as the item's source link
+#   enabled: false to switch a source off
+# ---------------------------------------------------------------------
+sources:
+
+  # ===== EVENT PLATFORMS (very high / high) ==========================
+
+  - name: Meetup — Athens tech
+    url: https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546
+    type: jsonld          # verify
+    kind: events
+    category: Meetup
+    filter: none
+
+  - name: Meetup — Thessaloniki tech
+    url: https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546
+    type: jsonld          # verify
+    kind: events
+    category: Meetup
+    filter: none
+
+  # Most reliable Meetup method: one iCal per group you care about.
+  # On any group page the URL is meetup.com/<group-name>/ → use:
+  #   https://www.meetup.com/<group-name>/events/ical/
+  # Copy this block once per group (Athens JS, Python, AI, Data, UX,
+  # cybersecurity, Open Coffee Greece, GDG, AWS user groups, etc.).
+  - name: Meetup group — TEMPLATE
+    url: https://www.meetup.com/REPLACE-GROUP-NAME/events/ical/
+    type: ical
+    kind: events
+    category: Meetup
+    filter: none
+    enabled: false
+
+  - name: Eventbrite — Greece science & tech
+    url: https://www.eventbrite.com/d/greece/science-and-tech--events/
+    type: jsonld          # verify
+    kind: events
+    category: Eventbrite
+    filter: none
+
+  - name: Eventbrite — Greece business (tech-filtered)
+    url: https://www.eventbrite.com/d/greece/business--events/
+    type: jsonld          # verify
+    kind: events
+    category: Eventbrite
+    filter: tech
+
+  - name: Eventbrite — Athens startups
+    url: https://www.eventbrite.com/d/greece--athens/startup/
+    type: jsonld          # verify
+    kind: events
+    category: Eventbrite
+    filter: tech
+
+  - name: Luma — Athens
+    url: https://lu.ma/athens
+    type: jsonld          # verify
+    kind: events
+    category: Luma
+    filter: tech
+    enabled: false        # 2026-10-08: page has no schema.org data; use per-calendar iCal below
+
+  # Luma calendars (community/organiser pages) have an iCal subscribe link:
+  # on the calendar page click "Subscribe" → copy the iCal URL here.
+  - name: Luma calendar — TEMPLATE
+    url: https://api.lu.ma/ics/get?entity=calendar&id=REPLACE-CAL-ID
+    type: ical
+    kind: events
+    category: Luma
+    filter: none
+    enabled: false
+
+  # ===== AGGREGATORS (medium) ========================================
+
+  - name: AllEvents — Athens tech
+    url: https://allevents.in/athens/tech
+    type: jsonld
+    kind: events
+    category: Aggregator
+    filter: tech
+    enabled: false        # 2026-10-08: listing page no longer embeds schema.org Event data
+
+  - name: AllEvents — Thessaloniki tech
+    url: https://allevents.in/thessaloniki/tech
+    type: jsonld
+    kind: events
+    category: Aggregator
+    filter: tech
+    enabled: false        # 2026-10-08: listing page no longer embeds schema.org Event data
+
+  - name: 10Times — Greece technology
+    url: https://10times.com/greece/technology
+    type: jsonld          # verify
+    kind: events
+    category: Conferences & expos
+    filter: none
+    enabled: false        # 2026-10-08: 403, blocks scrapers
+
+  - name: Stayhappening — Athens
+    url: https://www.stayhappening.com/athens
+    type: jsonld          # verify
+    kind: events
+    category: Aggregator
+    filter: tech
+
+  - name: dev.events — Greece
+    url: https://dev.events/EU/GR/tech
+    type: jsonld
+    kind: events
+    category: Conferences & expos
+    filter: none
+
+  - name: More.com — conferences
+    url: https://www.more.com/   # TODO: paste the conferences/seminars listing URL
+    type: jsonld
+    kind: events
+    category: Ticketing
+    filter: tech
+    enabled: false
+
+  - name: Ticket Services — conferences
+    url: https://www.ticketservices.gr/   # TODO: paste the conferences listing URL
+    type: jsonld
+    kind: events
+    category: Ticketing
+    filter: tech
+    enabled: false
+
+  # Academic conference sites: high spam risk, so tech + Greece filters on.
+  - name: All Conference Alert — Greece
+    url: https://allconferencealert.net/greece.html   # verify
+    type: jsonld
+    kind: events
+    category: Academic
+    filter: tech
+    require_greece: true
+    enabled: false
+
+  - name: Conference Locate — Greece
+    url: https://www.conferencelocate.com/   # TODO: Greece listing URL
+    type: jsonld
+    kind: events
+    category: Academic
+    filter: tech
+    require_greece: true
+    enabled: false
+
+  # ===== GREEK TECH & STARTUP MEDIA (news → event announcements only) ==
+
+  - name: Startupper
+    url: https://startupper.gr/feed/
+    home: https://startupper.gr/
+    type: rss
+    kind: news
+    category: Startups
+    filter: tech_event
+
+  - name: ICT Plus
+    url: https://www.ictplus.gr/feed
+    home: https://www.ictplus.gr/
+    type: rss
+    kind: news
+    category: Enterprise IT
+    filter: tech_event
+
+  - name: Techgear
+    url: https://www.techgear.gr/feed
+    home: https://www.techgear.gr/
+    type: rss
+    kind: news
+    category: Tech media
+    filter: tech_event
+
+  - name: Startup.gr
+    url: https://www.startup.gr/feed/
+    home: https://www.startup.gr/
+    type: rss
+    kind: news
+    category: Startups
+    filter: tech_event
+
+  - name: Greek Dev News
+    url: https://REPLACE-DOMAIN/feed/   # TODO: add site's RSS URL
+    type: rss
+    kind: news
+    category: Developers
+    filter: tech_event
+    enabled: false
+
+  - name: EMEA.gr
+    url: https://www.emea.gr/feed/            # verify
+    type: rss
+    kind: news
+    category: Business & tech media
+    filter: tech_event
+
+  - name: Capital.gr — technology
+    url: https://www.capital.gr/rss/technology   # verify (site has an RSS index page)
+    type: rss
+    kind: news
+    category: Business & tech media
+    filter: tech_event
+    enabled: false        # 2026-10-08: 404/403, no public RSS found
+
+  - name: Naftemporiki
+    url: https://www.naftemporiki.gr/feed/    # verify
+    type: rss
+    kind: news
+    category: Business & tech media
+    filter: tech_event
+
+  - name: Insider.gr
+    url: https://www.insider.gr/rss.xml
+    type: rss
+    kind: news
+    category: Business & tech media
+    filter: tech_event
+
+  - name: Fortune Greece
+    url: https://www.fortunegreece.com/feed/  # verify
+    type: rss
+    kind: news
+    category: Business & tech media
+    filter: tech_event
+
+  - name: Business Daily
+    url: https://www.businessdaily.gr/rss.xml # verify
+    type: rss
+    kind: news
+    category: Business & tech media
+    filter: tech_event
+
+  - name: Techblog
+    url: https://techblog.gr/feed/            # verify
+    type: rss
+    kind: news
+    category: Tech media
+    filter: tech_event
+
+  - name: Techmaniacs
+    url: https://techmaniacs.gr/feed/         # verify
+    type: rss
+    kind: news
+    category: Tech media
+    filter: tech_event
+
+  - name: Insomnia
+    url: https://www.insomnia.gr/rss/         # verify
+    type: rss
+    kind: news
+    category: Tech media
+    filter: tech_event
+    enabled: false        # 2026-10-08: 404, RSS URL not found
+
+  - name: Netweek
+    url: https://www.netweek.gr/feed/         # verify
+    type: rss
+    kind: news
+    category: Enterprise IT
+    filter: tech_event
+
+  - name: Epixeiro.gr
+    url: https://www.epixeiro.gr/rss          # verify
+    type: rss
+    kind: news
+    category: Business & tech media
+    filter: tech_event
+    enabled: false        # 2026-10-08: 404, RSS URL not found
+
+  - name: Deasy
+    url: https://REPLACE-DOMAIN/feed/         # TODO
+    type: rss
+    kind: news
+    category: Digital economy
+    filter: tech_event
+    enabled: false
+
+  - name: Greek News Agenda
+    url: https://www.greeknewsagenda.gr/      # TODO: find RSS link on site
+    type: rss
+    kind: news
+    category: Public sector & innovation
+    filter: tech_event
+    enabled: false
+
+  - name: CNN Greece
+    url: https://www.cnn.gr/                  # TODO: paste business/tech RSS URL
+    type: rss
+    kind: news
+    category: General media
+    filter: tech_event
+    enabled: false
+
+  - name: Proto Thema
+    url: https://www.protothema.gr/           # TODO: paste technology RSS URL
+    type: rss
+    kind: news
+    category: General media
+    filter: tech_event
+    enabled: false
+
+  # ===== EUROPEAN SOURCES (Greece-only filter) =======================
+
+  - name: EU-Startups
+    url: https://www.eu-startups.com/feed/    # verify
+    type: rss
+    kind: news
+    category: European ecosystem
+    filter: tech_event
+    require_greece: true
+
+  - name: Tech.eu
+    url: https://tech.eu/feed/                # verify
+    type: rss
+    kind: news
+    category: European ecosystem
+    filter: tech_event
+    require_greece: true
+
+  - name: Silicon Canals
+    url: https://siliconcanals.com/feed/      # verify
+    type: rss
+    kind: news
+    category: European ecosystem
+    filter: tech_event
+    require_greece: true
+
+  - name: Sifted
+    url: https://sifted.eu/feed               # verify
+    type: rss
+    kind: news
+    category: European ecosystem
+    filter: tech_event
+    require_greece: true
+
+  # ===== NEWSLETTERS ================================================
+  # Substack: https://<name>.substack.com/feed
+  # Beehiiv:  https://rss.beehiiv.com/feeds/<id>.xml
+  # Mailchimp archive: open the archive page → RSS link
+  - name: Newsletter — TEMPLATE
+    url: https://REPLACE.substack.com/feed
+    type: rss
+    kind: news
+    category: Newsletters
+    filter: tech_event
+    enabled: false
+
+  # ===== GOOGLE ALERTS (covers Google search + LinkedIn/Facebook pages)
+  # google.com/alerts → create alert → "Show options" → Deliver to: RSS feed
+  # → copy the feed URL. Suggested queries (one alert each):
+  #   "Athens" (meetup OR hackathon OR "demo day") tech
+  #   site:linkedin.com/events Athens OR Thessaloniki
+  #   site:facebook.com/events Athens startup
+  #   "τεχνητή νοημοσύνη" εκδήλωση
+  #   startup "pitch competition" Greece
+  - name: Google Alert — TEMPLATE
+    url: https://www.google.com/alerts/feeds/REPLACE/REPLACE
+    type: rss
+    kind: news
+    category: Web search
+    filter: tech
+    enabled: false
+
+  # ===== LINKEDIN & FACEBOOK via an RSS bridge ======================
+  # Neither offers RSS or a public events API, and direct scraping
+  # breaks their terms and gets blocked. Use a bridge service
+  # (RSS.app, FetchRSS, Zapier/Make → RSS) on specific pages, e.g.
+  # Athens Tech Circle, Open Coffee Greece, Greek startup communities.
+  - name: LinkedIn — Athens Tech Circle (via bridge) — TEMPLATE
+    url: https://rss.app/feeds/REPLACE.xml
+    type: rss
+    kind: news
+    category: Community calendars
+    filter: tech
+    enabled: false
+
+  - name: Facebook — community page (via bridge) — TEMPLATE
+    url: https://rss.app/feeds/REPLACE.xml
+    type: rss
+    kind: news
+    category: Community calendars
+    filter: tech
+    enabled: false
