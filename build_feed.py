@@ -106,6 +106,34 @@ def to_dt(value) -> datetime | None:
     return d
 
 
+def is_web_link(link: str) -> bool:
+    """Only http(s) links reach the feed (no javascript:, data:, file:, mailto:)."""
+    try:
+        parts = urlsplit(link.strip())
+    except (ValueError, AttributeError):
+        return False
+    return parts.scheme.lower() in ("http", "https") and bool(parts.netloc)
+
+
+def fetch(url: str, settings: dict) -> tuple[bytes, str]:
+    """GET a source with a size cap and a total time budget. Returns (body, final URL)."""
+    if not is_web_link(url):
+        raise ValueError("source url must be http(s)")
+    max_bytes = settings.get("max_bytes", 5_000_000)
+    deadline = time.monotonic() + settings.get("max_fetch_seconds", 60)
+    with SESSION.get(url, timeout=settings.get("timeout", 30), stream=True) as resp:
+        resp.raise_for_status()
+        chunks, size = [], 0
+        for chunk in resp.iter_content(65536):
+            size += len(chunk)
+            if size > max_bytes:
+                raise ValueError(f"response larger than {max_bytes} bytes")
+            if time.monotonic() > deadline:
+                raise TimeoutError("source took too long to send its response")
+            chunks.append(chunk)
+        return b"".join(chunks), resp.url
+
+
 def canonical_url(link: str) -> str:
     parts = urlsplit(link.strip())
     query = [(k, v) for k, v in parse_qsl(parts.query)
@@ -145,8 +173,8 @@ class Item:
 
 
 # ---------------------------------------------------------------- parsers
-def parse_rss(src: dict, resp: requests.Response):
-    fp = feedparser.parse(resp.content)
+def parse_rss(src: dict, body: bytes, url: str):
+    fp = feedparser.parse(body)
     if fp.bozo and not fp.entries:
         raise ValueError(f"not a valid feed ({fp.bozo_exception})")
     for e in fp.entries:
@@ -158,8 +186,8 @@ def parse_rss(src: dict, resp: requests.Response):
         )
 
 
-def parse_ical(src: dict, resp: requests.Response):
-    cal = Calendar.from_ical(resp.content)
+def parse_ical(src: dict, body: bytes, url: str):
+    cal = Calendar.from_ical(body)
     for ev in cal.walk("VEVENT"):
         description = str(ev.get("DESCRIPTION", ""))
         link = str(ev.get("URL") or "")
@@ -213,8 +241,8 @@ def _location(loc) -> str:
     return ", ".join(p for p in parts if p)
 
 
-def parse_jsonld(src: dict, resp: requests.Response):
-    soup = BeautifulSoup(resp.text, "html.parser")
+def parse_jsonld(src: dict, body: bytes, url: str):
+    soup = BeautifulSoup(body, "html.parser")
     blocks = []
     for tag in soup.find_all("script", type="application/ld+json"):
         try:
@@ -228,7 +256,7 @@ def parse_jsonld(src: dict, resp: requests.Response):
     for ev in events:
         yield dict(
             title=clean_text(ev.get("name"), 300),
-            link=urljoin(resp.url, ev.get("url") or "") or src["url"],
+            link=urljoin(url, str(ev.get("url") or "")) or src["url"],
             summary=clean_text(ev.get("description")),
             location=clean_text(_location(ev.get("location")), 200),
             starts=to_dt(ev.get("startDate")),
@@ -249,23 +277,28 @@ class Result:
 
 
 def run_source(src: dict, pats: dict, settings: dict) -> Result:
-    res = Result(src["name"])
-    try:
-        resp = SESSION.get(src["url"], timeout=settings.get("timeout", 30))
-        resp.raise_for_status()
-        raw = list(PARSERS[src.get("type", "rss")](src, resp))
-    except Exception as exc:  # one broken source never breaks the feed
+    res = Result(str(src.get("name") or src.get("url") or "unnamed source"))
+    try:  # one broken source never breaks the feed
+        res.items = collect(src, pats, settings, res)
+    except Exception as exc:
+        res.items = []
         res.error = f"{type(exc).__name__}: {exc}"[:300]
-        return res
+    res.kept = len(res.items)
+    return res
 
+
+def collect(src: dict, pats: dict, settings: dict, res: Result) -> list[Item]:
+    body, final_url = fetch(src["url"], settings)
+    raw = list(PARSERS[src.get("type", "rss")](src, body, final_url))
     res.fetched = len(raw)
     mode = src.get("filter", "tech")
     kind = src.get("kind", "events")
     max_news_age = timedelta(days=settings.get("max_news_age_days", 45))
     past_grace = timedelta(days=1)
 
+    items = []
     for r in raw:
-        if not r.get("title") or not r.get("link"):
+        if not r.get("title") or not is_web_link(r.get("link") or ""):
             continue
         text = " ".join([r["title"], r.get("summary", ""), r.get("location", "")])
         if mode in ("tech", "tech_event") and not matches(text, pats["tech"]):
@@ -279,10 +312,9 @@ def run_source(src: dict, pats: dict, settings: dict) -> Result:
             continue
         if kind == "news" and published and published < NOW - max_news_age:
             continue
-        res.items.append(Item(source=src["name"], source_url=src.get("home", src["url"]),
-                              category=src.get("category", "General"), kind=kind, **r))
-    res.kept = len(res.items)
-    return res
+        items.append(Item(source=src["name"], source_url=src.get("home", src["url"]),
+                          category=src.get("category", "General"), kind=kind, **r))
+    return items
 
 
 def dedupe(items: list[Item]) -> list[Item]:

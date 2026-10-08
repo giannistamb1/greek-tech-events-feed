@@ -10,15 +10,21 @@ Merges event platforms, community calendars, Greek tech media and newsletters in
 - `feed.json` contains everything in `feed.xml` as structured fields (key, title, link, starts, location, source…). Automations read this one.
 - `status.json` is a health report: items fetched and kept per source, plus errors.
 
-## Where it lives
+## Use the live feed
 
-- Repo: `giannistamb1/greek-tech-events-feed`. GitHub Actions rebuilds `docs/` every 3 hours.
-- Feed: `https://giannistamb1.github.io/greek-tech-events-feed/feed.xml` (GitHub Pages, `main` branch, `/docs` folder).
+- RSS: `https://giannistamb1.github.io/greek-tech-events-feed/feed.xml`
 - JSON: `https://giannistamb1.github.io/greek-tech-events-feed/feed.json`
 
-## Who reads it
+Subscribe to the RSS in any reader (Feedly, Inoreader, NetNewsWire…). Point scripts and automations (n8n, Make, Zapier) at the JSON. Each item has a stable `key`, so you can skip the ones you have already stored.
 
-The n8n workflow "Bonny — Opportunities Ingest + Match" reads `feed.json` after each build. It stores new items in the Airtable base "Bonny Opportunities" and matches them to people by interest and region. The workflow source is in `n8n/`.
+## Run your own copy (about 10 minutes)
+
+1. Fork this repo, keeping the `.github/workflows/` folder.
+2. Open `sources.yaml` and replace `giannistamb1` in the `feed:` section with your GitHub username.
+3. Go to **Settings → Pages**, choose "Deploy from a branch", then pick `main` and the `/docs` folder.
+4. Go to **Actions → Build feed → Run workflow**.
+
+Know a Greek tech community, Meetup group or newsletter that is missing? Open a pull request that adds it to `sources.yaml`.
 
 ## Make it strong: first-run checklist
 
@@ -49,6 +55,12 @@ Keywords are in `sources.yaml` and cover both English and Greek. Matching ignore
 
 Past events are dropped automatically. Duplicates across sources are merged (same URL, or same title on the same day). Each item keeps a stable date, so your reader won't reshuffle the feed.
 
+Only `http` and `https` links are kept. A source that sends more than 5 MB, or takes longer than a minute, is skipped for that build and shows as `ERROR` in `status.json`. The other sources still build. Change the limits with `max_bytes` and `max_fetch_seconds` under `settings:` in `sources.yaml`.
+
 ## Maintenance
 
 Check `docs/status.json` (or the Actions log) every few weeks. A source showing `ERROR` or `kept 0` for a long time needs its URL updated.
+
+## License
+
+MIT. See `LICENSE`.
