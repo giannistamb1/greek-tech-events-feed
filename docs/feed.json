@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-08T11:12:01.271490+00:00",
+ "built": "2026-10-08T12:09:15.685631+00:00",
  "items": [
+  {
+   "key": "url:https://techblog.gr/software/google-messages-erchetai-telos-stin-epilogi-sms-ana-epafi",
+   "title": "Google Messages: Έρχεται τέλος στην επιλογή SMS ανά επαφή",
+   "link": "https://techblog.gr/software/google-messages-erchetai-telos-stin-epilogi-sms-ana-epafi/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Το Google Messages καταργεί στη beta τη ρύθμιση «Only send SMS & MMS» ανά συνομιλία. Τι επιλογές μένουν σε όσους θέλουν SMS αντί για RCS. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Google Messages: Έρχεται τέλος στην επιλογή SMS ανά επαφή )",
+   "first_seen": "2026-10-08T11:30:29+00:00"
+  },
   {
    "key": "url:https://meetup.com/greece-postgresql-users-group/events/316663505",
    "title": "Greece PostgreSQL Users Group Meetup #3",
@@ -302,19 +315,6 @@
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
-   "key": "url:https://businessdaily.gr/diethni/236872_ipa-kai-rosia-syzitoyn-polisi-fysikoy-aerioy-stin-eyropi-en-meso-polemoy",
-   "title": "ΗΠΑ και Ρωσία συζητούν για πωλήσεις αερίου στην Ευρώπη εν μέσω πολέμου",
-   "link": "https://www.businessdaily.gr/diethni/236872_ipa-kai-rosia-syzitoyn-polisi-fysikoy-aerioy-stin-eyropi-en-meso-polemoy?utm_source=Feedelio&utm_medium=News&utm_campaign=APE-MPE&utm_content=auto",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Υψηλόβαθμοι Ρώσοι και Αμερικανοί αξιωματούχοι, μεταξύ τους ο Κούσνερ και ο Ντμίτριεφ, είχαν συνομιλίες για συμμετοχή Αμερικανού επενδυτή στους...",
-   "first_seen": "2026-10-08T09:38:48+00:00"
-  },
-  {
    "key": "url:https://ictplus.gr/i-intelli-anadeichthike-best-digital-identity-kyc-consultancy-2026-europe-sta-management-consulting-awards-2026",
    "title": "Η Intelli αναδείχθηκε “Best Digital Identity & KYC Consultancy 2026 – Europe” στα Management Consulting Awards 2026",
    "link": "https://www.ictplus.gr/i-intelli-anadeichthike-best-digital-identity-kyc-consultancy-2026-europe-sta-management-consulting-awards-2026/",
@@ -326,19 +326,6 @@
    "location": "",
    "summary": "Η Intelli Solutions Α.Ε. (Intelli) ανακοινώνει με ιδιαίτερη χαρά τη νέα διεθνή της διάκριση στα Management Consulting Awards 2026 της Wealth & Finance International, όπου αναδείχθηκε “Best Digital Identity & KYC Consultancy 2026 – Europe”. Η διάκριση αποτελεί σημαντική αναγνώριση της τεχνογνωσίας, της εξειδίκευσης και της καινοτομίας της Intelli Solutions στον χώρο του Digital Identity […] Το άρθρο Η Intelli αναδείχθηκε “Best Digital Identity & KYC Consultancy 2026 – Europe” στα Management Consulting Awards 2026 εμφανίστηκε πρώτα στο ICTPLUS .",
    "first_seen": "2026-10-08T09:37:05+00:00"
-  },
-  {
-   "key": "url:https://insider.gr/oikonomia/427882/reuters-ipa-kai-rosia-exetazoyn-tin-polisi-fysikoy-aerioy-stin-eyropi",
-   "title": "Reuters: ΗΠΑ και Ρωσία εξετάζουν την πώληση φυσικού αερίου στην Ευρώπη",
-   "link": "https://www.insider.gr/oikonomia/427882/reuters-ipa-kai-rosia-exetazoyn-tin-polisi-fysikoy-aerioy-stin-eyropi",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Συνομιλίες για την είσοδο Αμερικανών επενδυτών στους αγωγούς φυσικού αερίου Nord Stream, που μετέφερ...",
-   "first_seen": "2026-10-08T07:38:58+00:00"
   },
   {
    "key": "url:https://ictplus.gr/dimosthenis-anagnostopoulos-to-kentro-dialeitourgikotitas-ston-pyrina-tis-epomenis-imeras-tis-psifiakis-diakyvernisis",

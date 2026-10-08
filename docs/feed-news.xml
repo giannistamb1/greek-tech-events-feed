@@ -6,16 +6,16 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Thu, 08 Oct 2026 11:12:01 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 12:09:15 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>ΗΠΑ και Ρωσία συζητούν για πωλήσεις αερίου στην Ευρώπη εν μέσω πολέμου</title>
-<link>https://www.businessdaily.gr/diethni/236872_ipa-kai-rosia-syzitoyn-polisi-fysikoy-aerioy-stin-eyropi-en-meso-polemoy?utm_source=Feedelio&amp;utm_medium=News&amp;utm_campaign=APE-MPE&amp;utm_content=auto</link>
-<guid isPermaLink="false">url:https://businessdaily.gr/diethni/236872_ipa-kai-rosia-syzitoyn-polisi-fysikoy-aerioy-stin-eyropi-en-meso-polemoy</guid>
-<pubDate>Thu, 08 Oct 2026 09:38:48 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Υψηλόβαθμοι Ρώσοι και Αμερικανοί αξιωματούχοι, μεταξύ τους ο Κούσνερ και ο Ντμίτριεφ, είχαν συνομιλίες για συμμετοχή Αμερικανού επενδυτή στους...&lt;/p&gt;</description>
+<title>Google Messages: Έρχεται τέλος στην επιλογή SMS ανά επαφή</title>
+<link>https://techblog.gr/software/google-messages-erchetai-telos-stin-epilogi-sms-ana-epafi/</link>
+<guid isPermaLink="false">url:https://techblog.gr/software/google-messages-erchetai-telos-stin-epilogi-sms-ana-epafi</guid>
+<pubDate>Thu, 08 Oct 2026 11:30:29 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techblog.gr/feed/">Techblog</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techblog · Tech media&lt;/p&gt;&lt;p&gt;Το Google Messages καταργεί στη beta τη ρύθμιση «Only send SMS &amp;amp; MMS» ανά συνομιλία. Τι επιλογές μένουν σε όσους θέλουν SMS αντί για RCS. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Google Messages: Έρχεται τέλος στην επιλογή SMS ανά επαφή )&lt;/p&gt;</description>
 </item>
 <item>
 <title>Η Intelli αναδείχθηκε “Best Digital Identity &amp; KYC Consultancy 2026 – Europe” στα Management Consulting Awards 2026</title>
@@ -25,15 +25,6 @@
 <category>Enterprise IT</category>
 <source url="https://www.ictplus.gr/">ICT Plus</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Η Intelli Solutions Α.Ε. (Intelli) ανακοινώνει με ιδιαίτερη χαρά τη νέα διεθνή της διάκριση στα Management Consulting Awards 2026 της Wealth &amp;amp; Finance International, όπου αναδείχθηκε “Best Digital Identity &amp;amp; KYC Consultancy 2026 – Europe”. Η διάκριση αποτελεί σημαντική αναγνώριση της τεχνογνωσίας, της εξειδίκευσης και της καινοτομίας της Intelli Solutions στον χώρο του Digital Identity […] Το άρθρο Η Intelli αναδείχθηκε “Best Digital Identity &amp;amp; KYC Consultancy 2026 – Europe” στα Management Consulting Awards 2026 εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Reuters: ΗΠΑ και Ρωσία εξετάζουν την πώληση φυσικού αερίου στην Ευρώπη</title>
-<link>https://www.insider.gr/oikonomia/427882/reuters-ipa-kai-rosia-exetazoyn-tin-polisi-fysikoy-aerioy-stin-eyropi</link>
-<guid isPermaLink="false">url:https://insider.gr/oikonomia/427882/reuters-ipa-kai-rosia-exetazoyn-tin-polisi-fysikoy-aerioy-stin-eyropi</guid>
-<pubDate>Thu, 08 Oct 2026 07:38:58 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Συνομιλίες για την είσοδο Αμερικανών επενδυτών στους αγωγούς φυσικού αερίου Nord Stream, που μετέφερ...&lt;/p&gt;</description>
 </item>
 <item>
 <title>Δημοσθένης Αναγνωστόπουλος: Το Κέντρο Διαλειτουργικότητας στον πυρήνα της επόμενης ημέρας της Ψηφιακής Διακυβέρνησης</title>
