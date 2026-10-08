@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-08T10:58:00.575311+00:00",
-  "items": 62,
+  "built": "2026-10-08T11:12:01.271490+00:00",
+  "items": 34,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -16,21 +16,21 @@
     },
     {
       "name": "Eventbrite — Greece science & tech",
-      "fetched": 8,
-      "kept": 8,
-      "error": ""
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/greece/science-and-tech--events/"
     },
     {
       "name": "Eventbrite — Greece business (tech-filtered)",
-      "fetched": 8,
-      "kept": 4,
-      "error": ""
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/greece/business--events/"
     },
     {
       "name": "Eventbrite — Athens startups",
-      "fetched": 17,
-      "kept": 11,
-      "error": ""
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/greece--athens/startup/"
     },
     {
       "name": "Stayhappening — Athens",
@@ -40,9 +40,9 @@
     },
     {
       "name": "dev.events — Greece",
-      "fetched": 10,
-      "kept": 10,
-      "error": ""
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://dev.events/EU/GR/tech"
     },
     {
       "name": "Startupper",
@@ -118,9 +118,9 @@
     },
     {
       "name": "EU-Startups",
-      "fetched": 0,
+      "fetched": 10,
       "kept": 0,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='www.eu-startups.com', port=443): Read timed out. (read timeout=30)"
+      "error": ""
     },
     {
       "name": "Tech.eu",
