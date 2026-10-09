@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-09T10:40:19.336259+00:00",
-  "items": 40,
+  "built": "2026-10-09T18:23:50.119653+00:00",
+  "items": 44,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -10,8 +10,8 @@
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
@@ -47,7 +47,7 @@
     {
       "name": "Startupper",
       "fetched": 10,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 199,
-      "kept": 3,
+      "fetched": 245,
+      "kept": 5,
       "error": ""
     },
     {
@@ -101,13 +101,13 @@
     {
       "name": "Techblog",
       "fetched": 20,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 0,
+      "kept": 3,
       "error": ""
     },
     {
