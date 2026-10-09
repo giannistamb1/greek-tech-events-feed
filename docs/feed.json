@@ -1,7 +1,137 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-09T01:15:22.264976+00:00",
+ "built": "2026-10-09T10:40:19.336259+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/thessaloniki-net-meetup/events/316894632",
+   "title": "Prompt It. Ship It. Track It. Apps on Microsoft Fabric",
+   "link": "https://www.meetup.com/thessaloniki-net-meetup/events/316894632/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-23T19:00:00+03:00",
+   "location": "",
+   "summary": "**Prompt It. Ship It. Track It. Apps on Microsoft Fabric** Description: What if building a business app was as easy as describing it? In this fast-paced 1-hour session, we'll show how Fabric Apps lets you go from idea to a running app directly inside Microsoft Fabric. You'll see how to prompt an AI assistant to create the app, ship it to Fabric in minutes without managing any infrastructure, and track what matters, with your app's data instantly ready for dashboards, AI and automation. Through a live demo, you'll see how apps, data and AI finally come together in one place, and you'll leave with practical ideas to start building your own. Whether you work in data, development or business, th…",
+   "first_seen": "2026-10-09T10:40:19.336259+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/european-software-crafters/events/316894439",
+   "title": "/human-review - Tools & Guardrails for Agentic Engineers",
+   "link": "https://www.meetup.com/european-software-crafters/events/316894439/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-30T12:30:00+02:00",
+   "location": "Online",
+   "summary": "At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a \"Frustrated / Creative Users Follow-up Meeting\" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…",
+   "first_seen": "2026-10-09T10:40:19.336259+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/stis-9-oktovriou-to-proto-fortune-greece-cyprus-roundtable-sti-lefkosia",
+   "title": "Σήμερα το πρώτο Fortune Greece & Cyprus Roundtable στη Λευκωσία",
+   "link": "https://www.fortunegreece.com/article/stis-9-oktovriou-to-proto-fortune-greece-cyprus-roundtable-sti-lefkosia/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Επιχειρηματικοί ηγέτες και θεσμικοί εκπρόσωποι από Ελλάδα και Κύπρο συναντώνται στο The Landmark Nicosia, σε μια συνάντηση-«γέφυρα» για τις επενδύσεις, την επιχειρηματικότητα, την τεχνολογία και τη νέα γεωοικονομική δυναμική που συνδέει τις δύο αγορές. Δείτε την ατζέντα της εκδήλωσης",
+   "first_seen": "2026-10-09T09:59:24+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/hellas-space-2-0-ependyseis-350-ekat-evro-gia-tis-nees-diastimikes-ypodomes-tis-elladas",
+   "title": "HELLAS SPACE 2.0: Επενδύσεις 350 εκατ. ευρώ για τις νέες διαστημικές υποδομές της Ελλάδας",
+   "link": "https://www.ictplus.gr/hellas-space-2-0-ependyseis-350-ekat-evro-gia-tis-nees-diastimikes-ypodomes-tis-elladas/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Η δεύτερη φάση του εθνικού διαστημικού προγράμματος βρέθηκε στο επίκεντρο της ενημερωτικής εκδήλωσης του Υπουργείου Ψηφιακής Διακυβέρνησης, της ESA και του Ελληνικού Κέντρου Διαστήματος. Οι τεχνολογικές κατευθύνσεις, η αξιοποίηση δορυφορικών δεδομένων και οι ευκαιρίες για την ελληνική βιομηχανία. Το άρθρο HELLAS SPACE 2.0: Επενδύσεις 350 εκατ. ευρώ για τις νέες διαστημικές υποδομές της Ελλάδας εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-09T09:59:03+00:00"
+  },
+  {
+   "key": "url:https://techgear.gr/claude-dashboards-kai-motion-dynamiki-analysi-kai-live-animations-stis-paroysiaseis-50865",
+   "title": "Claude Dashboards και Motion: Δυναμική ανάλυση και live animations στις παρουσιάσεις",
+   "link": "https://www.techgear.gr/claude-dashboards-kai-motion-dynamiki-analysi-kai-live-animations-stis-paroysiaseis-50865",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techgear",
+   "source_url": "https://www.techgear.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Σύνοψη Claude Dashboards: Νέα λειτουργία που συνδέεται απευθείας με πλατφόρμες δεδομένων (BigQuery, Snowflake, Databricks) ή εργαλεία CRM ...",
+   "first_seen": "2026-10-09T09:50:00+00:00"
+  },
+  {
+   "key": "url:https://businessvoice.gr/diethni/990996/openai-i-trypa-20-dis-dolarion-sta-esoda-pou-anisychei-tin-agora-ai",
+   "title": "OpenAI: Η «τρύπα» 20 δισ. δολαρίων στα έσοδα που ανησυχεί την αγορά AI",
+   "link": "https://businessvoice.gr/diethni/990996/openai-i-trypa-20-dis-dolarion-sta-esoda-pou-anisychei-tin-agora-ai/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "EMEA.gr",
+   "source_url": "https://www.emea.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Τα ετησια έσοδα της OpenAI είναι περίπου 20 δισ. δολάρια χαμηλότερα από όσα αναμενόταν, σύμφωνα με οικονομικά έγγραφα που κοινοποιήθηκαν σε επενδυτές. Η απόκλιση προέκυψε από διαφορετικούς τρόπους υπολογισμού των εσόδων μεταξύ OpenAI και Anthropic.",
+   "first_seen": "2026-10-09T09:02:36+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/tech-against-terrorism-kabanaki-gia-kena-asfaleias-ton-montelon-ai-stis-anazitiseis-epidoxon-tromokraton",
+   "title": "Tech Against Terrorism: «Καμπανάκι» για κενά ασφαλείας των μοντέλων ΑΙ στις αναζητήσεις επίδοξων τρομοκρατών",
+   "link": "https://www.ictplus.gr/tech-against-terrorism-kabanaki-gia-kena-asfaleias-ton-montelon-ai-stis-anazitiseis-epidoxon-tromokraton/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Πολλά μοντέλα τεχνητής νοημοσύνης (ΑΙ) δεν διαθέτουν επαρκείς δικλείδες ασφαλείας έναντι αιτημάτων για «παροχή βοήθειας σε τρομοκρατική επιχείρηση», επισημαίνει η πρωτοβουλία Tech Against Terrorism σε έκθεση που δημοσιεύτηκε σήμερα. Στο πλαίσιο αυτής της πρωτοβουλίας, την οποία υποστηρίζει ο ΟΗΕ, πραγματοποιήθηκε δοκιμή με 162 μοντέλα της ΑΙ, μεταξύ των οποίων 116 τυπικά μοντέλα, 13 μοντέλα προσαρμοσμένα […] Το άρθρο Tech Against Terrorism: «Καμπανάκι» για κενά ασφαλείας των μοντέλων ΑΙ στις αναζητήσεις επίδοξων τρομοκρατών εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-09T08:40:40+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/diafaneia-ai-i-techniti-noimosyni-archeiothetei-72-ekatommyria-apofaseis-tis-diavgeias",
+   "title": "diafaneia.ai: Η τεχνητή νοημοσύνη αρχειοθετεί 72 εκατομμύρια αποφάσεις της Διαύγειας",
+   "link": "https://www.ictplus.gr/diafaneia-ai-i-techniti-noimosyni-archeiothetei-72-ekatommyria-apofaseis-tis-diavgeias/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "«Μια φορά κι έναν καιρό, τα δημόσια χρήματα κρύβονταν σε εβδομήντα δύο εκατομμύρια έγγραφα». Με αυτή τη φράση υποδέχεται η νέα «Διαύγεια» τον πολίτη που πάνω από 15 χρόνια ταλαπωρείτο στην αναζήτηση στοιχείων από μια πλατφόρμα που γεννήθηκε από μια εξαιρετική ιδέα αλλά υλοποιήθηκε με τον χειρότερο δυνατό πληροφορικό τρόπο. Η νέα πλατφόρμα αξιοποιεί την […] Το άρθρο diafaneia.ai: Η τεχνητή νοημοσύνη αρχειοθετεί 72 εκατομμύρια αποφάσεις της Διαύγειας εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-09T08:20:46+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/news/279909/trophytrofi-meet-up-2026-pos-i-kykliki-oikonomia-fernei-yperaxia-stis-epicheiriseis-agrodiatrofis",
+   "title": "TrophyΤροφή Meet-Up 2026: Πώς η κυκλική οικονομία φέρνει υπεραξία στις επιχειρήσεις αγροδιατροφής",
+   "link": "https://startupper.gr/news/279909/trophytrofi-meet-up-2026-pos-i-kykliki-oikonomia-fernei-yperaxia-stis-epicheiriseis-agrodiatrofis/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Η μετάβαση από τη θεωρία στην επιχειρηματική πράξη βρέθηκε στο επίκεντρο του 1ου TrophyΤροφή Meet-Up στην Κόρινθο The post TrophyΤροφή Meet-Up 2026: Πώς η κυκλική οικονομία φέρνει υπεραξία στις επιχειρήσεις αγροδιατροφής appeared first on STARTUPPER .",
+   "first_seen": "2026-10-09T08:00:29+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/diethnis-diakrisi-gia-tin-intelli-solutions-ston-tomea-digital-identity-kyc",
+   "title": "Διεθνής διάκριση για την Intelli Solutions στον τομέα Digital Identity & KYC",
+   "link": "https://www.ictplus.gr/diethnis-diakrisi-gia-tin-intelli-solutions-ston-tomea-digital-identity-kyc/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Intelli Solutions αναδείχθηκε «Best Digital Identity & KYC Consultancy 2026 – Europe» στα Management Consulting Awards 2026 του διεθνούς οργανισμού Wealth & Finance International, λαμβάνοντας διάκριση για την εξειδίκευσή της στις ψηφιακές ταυτότητες, την ταυτοποίηση πελατών και την κανονιστική συμμόρφωση. Η βράβευση αναδεικνύει τη δραστηριότητα της εταιρείας στην ανάπτυξη τεχνολογικών λύσεων που συνδυάζουν την […] Το άρθρο Διεθνής διάκριση για την Intelli Solutions στον τομέα Digital Identity & KYC εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-09T07:39:20+00:00"
+  },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316712915",
    "title": "🌙 Thursday Social Night | Meet New People in Athens@Mint bar",
@@ -42,19 +172,6 @@
    "first_seen": "2026-10-09T01:15:22.264976+00:00"
   },
   {
-   "key": "url:https://meetup.com/microsoft-fabric-dublin/events/315946929",
-   "title": "Fabric FinOps - Cost Optimization for Fabric",
-   "link": "https://www.meetup.com/microsoft-fabric-dublin/events/315946929/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-20T20:00:00+03:00",
-   "location": "Online",
-   "summary": "**Important Details** This event will be ONLINE using Teams. not in person! **Topic Summary** A software-as-a-service offering such as Microsoft Fabric offers a fixed cost per month, making budgeting much easier. That should be the end of the conversation, but it's actually only the beginning - how do you make the most of the capacity units you get with the fixed price? How can you ensure that you are getting the most out of your monthly investment? The different Fabric workloads all have different ways of using capacity units - some are cost CUs per minute of runtime, some cost per query, some are straight forward to calculate, some are not. Take dataflows gen 2 an an example - it used to b…",
-   "first_seen": "2026-10-09T01:15:22.264976+00:00"
-  },
-  {
    "key": "url:https://meetup.com/london-women-on-the-rise-meetup-group/events/316054729",
    "title": "Women On the RISE Speed Networking",
    "link": "https://www.meetup.com/london-women-on-the-rise-meetup-group/events/316054729/",
@@ -81,30 +198,17 @@
    "first_seen": "2026-10-09T01:15:22.264976+00:00"
   },
   {
-   "key": "url:https://meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/316667082",
-   "title": "Oct 22 - Advances in AI at Virginia Tech",
-   "link": "https://www.meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/316667082/",
+   "key": "url:https://meetup.com/microsoft-fabric-dublin/events/315946929",
+   "title": "Fabric FinOps - Cost Optimization for Fabric",
+   "link": "https://www.meetup.com/microsoft-fabric-dublin/events/315946929/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-22T19:00:00+03:00",
+   "starts": "2026-10-20T20:00:00+03:00",
    "location": "Online",
-   "summary": "Join our virtual meetup to hear talks from AI researchers at Virginia Tech! **Date, Time and Location** Oct 22, 2026 9:00 AM - 11:00 AM PST **[Online. Register for the Zoom!](https://voxel51.com/events/advances-in-ai-at-virginia-tech-october-22-2026)** **Multi-Agent Communication: A framework, diagnostic and mechanistic perspective** Multi-agent LLM systems are increasingly used for collaborative reasoning, debate, and consensus, yet their communication dynamics remain poorly understood. This talk presents a framework for studying multi-agent communication through diagnostic and mechanistic perspectives. I will discuss CONSENSAGENT, which improves consensus by mitigating sycophancy, alongsid…",
+   "summary": "**Important Details** This event will be ONLINE using Teams. not in person! **Topic Summary** A software-as-a-service offering such as Microsoft Fabric offers a fixed cost per month, making budgeting much easier. That should be the end of the conversation, but it's actually only the beginning - how do you make the most of the capacity units you get with the fixed price? How can you ensure that you are getting the most out of your monthly investment? The different Fabric workloads all have different ways of using capacity units - some are cost CUs per minute of runtime, some cost per query, some are straight forward to calculate, some are not. Take dataflows gen 2 an an example - it used to b…",
    "first_seen": "2026-10-09T01:15:22.264976+00:00"
-  },
-  {
-   "key": "url:https://naftemporiki.gr/finance/markets/2172661/wall-street-ptosi-125-gia-ton-nasdaq-ypo-tin-piesi-ton-technologikon-metochon",
-   "title": "Wall Street: Πτώση 1,25% για τον Nasdaq υπό την πίεση των τεχνολογικών μετοχών",
-   "link": "https://www.naftemporiki.gr/finance/markets/2172661/wall-street-ptosi-125-gia-ton-nasdaq-ypo-tin-piesi-ton-technologikon-metochon/?utm_source=rss&utm_medium=rss&utm_campaign=wall-street-ptosi-125-gia-ton-nasdaq-ypo-tin-piesi-ton-technologikon-metochon",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Πτώση μεγαλύτερη της μίας ποσοστιαίας μονάδας σημείωσε ο δείκτης υψηλής τεχνολογίας Nasdaq στη σημερινή συνεδρίαση της Wall Street, καθώς νέες λεπτομέρειες σχετικά με την OpenAI προκάλεσαν ανησυχία στους επενδυτές, ασκώντας… Wall Street: Πτώση 1,25% για τον Nasdaq υπό την πίεση των τεχνολογικών μετοχών - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-10-08T21:09:13+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/openai-20-dis-dolaria-xamilotera-oi-ektimiseis-gia-ta-esoda",
@@ -146,19 +250,6 @@
    "first_seen": "2026-10-08T14:10:09+00:00"
   },
   {
-   "key": "url:https://techblog.gr/software/google-messages-erchetai-telos-stin-epilogi-sms-ana-epafi",
-   "title": "Google Messages: Έρχεται τέλος στην επιλογή SMS ανά επαφή",
-   "link": "https://techblog.gr/software/google-messages-erchetai-telos-stin-epilogi-sms-ana-epafi/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techblog",
-   "source_url": "https://techblog.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το Google Messages καταργεί στη beta τη ρύθμιση «Only send SMS & MMS» ανά συνομιλία. Τι επιλογές μένουν σε όσους θέλουν SMS αντί για RCS. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Google Messages: Έρχεται τέλος στην επιλογή SMS ανά επαφή )",
-   "first_seen": "2026-10-08T11:30:29+00:00"
-  },
-  {
    "key": "url:https://meetup.com/react-athens-meetup/events/316480561",
    "title": "CityJS Athens Warmup-Meetup",
    "link": "https://www.meetup.com/react-athens-meetup/events/316480561/",
@@ -168,7 +259,7 @@
    "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-10-21T18:00:00+03:00",
    "location": "Epignosis, Likourgou 1, Athina 105 51, Greece, Athina, Athina",
-   "summary": "👋 Hello guys and gals, 👋 🎉🎉🎉 Summer is over — we already ready for our new season 🎉🎉🎉 Doors open at 18:00, and your **ID is required** for entrance. 18:15 - 18:30 - Gathering and welcome from the organizers. 19:00 - 19:30 -Cracking the Code: Salaries & the Gender Pay Gap in Greek Tech / Anastasia Karagkiozoglou 19:30 - 20:00 -Inside My Real Claude Code Workflow: Commands, Voice, Memory, and Building Your Own Agents // Yaroslav Matushevych 20:00 - 20:30 - AI Governance for Engineers: Mapping Real Risk Under the EU AI Act // Christos Makris, Konstantinos Anagnostopoulos 20:30 - 21:00 - To Infer or not to Infer - The Local LLM Dilemma // Athanasios Zografos This is an event prioritised for our …",
+   "summary": "👋 Hello guys and gals, 👋 🎉🎉🎉 Summer is over — we already ready for our new season 🎉🎉🎉 Doors open at 18:00, and your **ID is required** for entrance. 18:00 - 19:00 - Gathering and welcome from the organizers. 19:00 - 19:30 -Cracking the Code: Salaries & the Gender Pay Gap in Greek Tech / Anastasia Karagkiozoglou 19:30 - 20:00 -Inside My Real Claude Code Workflow: Commands, Voice, Memory, and Building Your Own Agents // Yaroslav Matushevych 20:00 - 20:30 - AI Governance for Engineers: Mapping Real Risk Under the EU AI Act // Christos Makris, Konstantinos Anagnostopoulos 20:30 - 21:00 - To Infer or not to Infer - The Local LLM Dilemma // Athanasios Zografos This is an event prioritised for our …",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
@@ -185,19 +276,6 @@
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
-   "key": "url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316570872",
-   "title": "Hack The Box Meetup Bypassing UAC with Fodhelper",
-   "link": "https://www.meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316570872/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-11T23:00:00+03:00",
-   "location": "Online",
-   "summary": "Join us for the next session of HTB Meetup Beni Mellal, Morocco, where we take a hands-on look at bypassing Windows User Account Control (UAC) using the Fodhelper technique — a classic and still widely relevant privilege escalation method used in real-world red team engagements. We'll walk through how the technique works under the hood, why it bypasses UAC's default consent flow, and how to apply it in practice. **Speaker:** Amine Ziani — Senior Penetration Tester & Red Teamer at Exploit Flux LTD, specializing in offensive security, penetration testing, and adversary simulation. Certifications: CRTO, CRTE, CRTP, CRTA, CAPE, CPTS, eWPTXv3, eCPPTv3 — 14+ Pro Labs completed. HTB Machine Creator…",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
    "key": "url:https://meetup.com/react-athens-meetup/events/315268633",
    "title": "CityJS Athens 2026",
    "link": "https://www.meetup.com/react-athens-meetup/events/315268633/",
@@ -211,6 +289,19 @@
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
+   "key": "url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316570872",
+   "title": "Hack The Box Meetup Bypassing UAC with Fodhelper",
+   "link": "https://www.meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316570872/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-10-11T23:00:00+03:00",
+   "location": "Online",
+   "summary": "Join us for the next session of HTB Meetup Beni Mellal, Morocco, where we take a hands-on look at bypassing Windows User Account Control (UAC) using the Fodhelper technique — a classic and still widely relevant privilege escalation method used in real-world red team engagements. We'll walk through how the technique works under the hood, why it bypasses UAC's default consent flow, and how to apply it in practice. **Speaker:** Amine Ziani — Senior Penetration Tester & Red Teamer at Exploit Flux LTD, specializing in offensive security, penetration testing, and adversary simulation. Certifications: CRTO, CRTE, CRTP, CRTA, CAPE, CPTS, eWPTXv3, eCPPTv3 — 14+ Pro Labs completed. HTB Machine Creator…",
+   "first_seen": "2026-10-08T10:58:00.575311+00:00"
+  },
+  {
    "key": "url:https://meetup.com/mindstone-athens-practicalai-meetup/events/316745991",
    "title": "Mindstone Athens October AI Meetup",
    "link": "https://www.meetup.com/mindstone-athens-practicalai-meetup/events/316745991/",
@@ -221,6 +312,19 @@
    "starts": "2026-10-19T18:30:00+03:00",
    "location": "Epignosis HQ, Likourgou 1, Athina 105 51, Greece, Athens, Athens",
    "summary": "Welcome to the most electrifying and ground-breaking AI Meetup in Athens! Join us once a month as we delve into the world of artificial intelligence, explore its cutting-edge practical applications, and marvel at the astonishing projects that are shaping our future. Why should you attend? • Get up close and personal with the AI projects that are redefining the boundaries of technology and human potential. • Learn from the brightest minds in the field and gain valuable insights into the ever-evolving AI landscape. • Unleash your curiosity, fuel your creativity, and expand your network as you connect with fellow AI aficionados and pioneers. What you can expect? Mindstone events consist of thre…",
+   "first_seen": "2026-10-08T10:58:00.575311+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/d-c_powerbi/events/315871528",
+   "title": "MCPs, Skills and Plugins | Cristi Prifti",
+   "link": "https://www.meetup.com/d-c_powerbi/events/315871528/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-10-13T20:00:00+03:00",
+   "location": "Online",
+   "summary": "**MCPS, Skills and Plugins** ... what are these? and why do they matter? AI assistants can already write DAX and explain your model, but the real shift is when they can act inside your Power BI work. Three building blocks make that possible, and most of us have only just met them: **MCP servers** that hand the model live access to your tenant and files, **Skills** that teach it how your team actually does things, and **Plugins** that bundle it all into something repeatable. MCP Servers, Skills and Plugins are reshaping how AI assists Power BI development. Learn what each one is, where they fit, and how to turn AI from a chatbot into a co-worker. With over 6 years of experience as a Power BI …",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
@@ -263,19 +367,6 @@
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
-   "key": "url:https://meetup.com/d-c_powerbi/events/315871528",
-   "title": "MCPs, Skills and Plugins | Cristi Prifti",
-   "link": "https://www.meetup.com/d-c_powerbi/events/315871528/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-13T20:00:00+03:00",
-   "location": "Online",
-   "summary": "**MCPS, Skills and Plugins** ... what are these? and why do they matter? AI assistants can already write DAX and explain your model, but the real shift is when they can act inside your Power BI work. Three building blocks make that possible, and most of us have only just met them: **MCP servers** that hand the model live access to your tenant and files, **Skills** that teach it how your team actually does things, and **Plugins** that bundle it all into something repeatable. MCP Servers, Skills and Plugins are reshaping how AI assists Power BI development. Learn what each one is, where they fit, and how to turn AI from a chatbot into a co-worker. With over 6 years of experience as a Power BI …",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
    "key": "url:https://meetup.com/skg-js/events/316581613",
    "title": "SKG JS Meetup #9: Migrations & Dependencies",
    "link": "https://www.meetup.com/skg-js/events/316581613/",
@@ -302,19 +393,6 @@
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
-   "key": "url:https://meetup.com/thessaloniki-ux-meetup/events/316870000",
-   "title": "44th Thessaloniki UX Meetup - Part of Hacktoberfest 2026",
-   "link": "https://www.meetup.com/thessaloniki-ux-meetup/events/316870000/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-17T11:00:00+03:00",
-   "location": "fromScratch Design Studio, Themistokli Sofouli 70Α, Thessaloniki, Thessaloniki",
-   "summary": "(This event will be held in Greek only.) Για 5η χρονιά, το Thessaloniki UX Meetup συμμετέχει στο [Hacktoberfest](https://hacktoberfest.com/) με ένα ολοήμερο event στη Θεσσαλονίκη, για designers και engineers, juniors και seniors. Φέτος, το επίκεντρο είναι η δημιουργία εργαλείων και λύσεων με open-weight models και open source AI. Το Σάββατο 17 Οκτωβρίου, σε μια μέρα γεμάτη συζητήσεις και hands-on sessions, σχηματίζουμε ομάδες και δουλεύουμε μαζί, σε ένα co-design και co-development hackathon από το [fromScratch Studio](https://www.fromscratch.io/). Ξεκινάμε με μια παρουσίαση από τον Γιώργο Καμτζηρίδη, Lead AI/Software Engineer από το fromScratch Studio, για το πώς οι coding agents επηρεάζουν…",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
    "key": "url:https://meetup.com/ai-builders-skg/events/316886042",
    "title": "AI Builders SKG - Meetup #1",
    "link": "https://www.meetup.com/ai-builders-skg/events/316886042/",
@@ -328,16 +406,16 @@
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
-   "key": "url:https://meetup.com/techexcellence/events/316851439",
-   "title": "Spec-Driven Development with ATDD & AI (Valentina Jemuović)",
-   "link": "https://www.meetup.com/techexcellence/events/316851439/",
+   "key": "url:https://meetup.com/thessaloniki-ux-meetup/events/316870000",
+   "title": "44th Thessaloniki UX Meetup - Part of Hacktoberfest 2026",
+   "link": "https://www.meetup.com/thessaloniki-ux-meetup/events/316870000/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-14T18:30:00+03:00",
-   "location": "Online",
-   "summary": "You write a spec, hand it to AI, and it gives you back a PR that looks right. But the implementation can be wrong! In the current tools (Kiro, spec-kit, Tessl), the spec is a Markdown file AI is supposed to follow. But AI can ignore the spec or misread it. So you end up testing everything by hand, and QA keeps sending the PR back because it doesn't work. In this session, you'll see how to use ATDD to practice spec-driven development with executable specs. Starting from the acceptance criteria, AI writes failing acceptance tests (RED), and you review and approve them. Then AI implements the system code until the acceptance tests pass (GREEN), which shows that the acceptance criteria are met. …",
+   "starts": "2026-10-17T11:00:00+03:00",
+   "location": "fromScratch Design Studio, Themistokli Sofouli 70Α, Thessaloniki, Thessaloniki",
+   "summary": "(This event will be held in Greek only.) Για 5η χρονιά, το Thessaloniki UX Meetup συμμετέχει στο [Hacktoberfest](https://hacktoberfest.com/) με ένα ολοήμερο event στη Θεσσαλονίκη, για designers και engineers, juniors και seniors. Φέτος, το επίκεντρο είναι η δημιουργία εργαλείων και λύσεων με open-weight models και open source AI. Το Σάββατο 17 Οκτωβρίου, σε μια μέρα γεμάτη συζητήσεις και hands-on sessions, σχηματίζουμε ομάδες και δουλεύουμε μαζί, σε ένα co-design και co-development hackathon από το [fromScratch Studio](https://www.fromscratch.io/). Ξεκινάμε με μια παρουσίαση από τον Γιώργο Καμτζηρίδη, Lead AI/Software Engineer από το fromScratch Studio, για το πώς οι coding agents επηρεάζουν…",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
@@ -378,19 +456,6 @@
    "location": "Telekom Center Athens, Λεωφόρος Ολυμπιονίκη Σπύρου Λούη, κλειστό γήπεδο μπάσκετ \"Telekom Center Athens\", Amaroúsion, Greece, Athens",
    "summary": "",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/i-intelli-anadeichthike-best-digital-identity-kyc-consultancy-2026-europe-sta-management-consulting-awards-2026",
-   "title": "Η Intelli αναδείχθηκε “Best Digital Identity & KYC Consultancy 2026 – Europe” στα Management Consulting Awards 2026",
-   "link": "https://www.ictplus.gr/i-intelli-anadeichthike-best-digital-identity-kyc-consultancy-2026-europe-sta-management-consulting-awards-2026/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Intelli Solutions Α.Ε. (Intelli) ανακοινώνει με ιδιαίτερη χαρά τη νέα διεθνή της διάκριση στα Management Consulting Awards 2026 της Wealth & Finance International, όπου αναδείχθηκε “Best Digital Identity & KYC Consultancy 2026 – Europe”. Η διάκριση αποτελεί σημαντική αναγνώριση της τεχνογνωσίας, της εξειδίκευσης και της καινοτομίας της Intelli Solutions στον χώρο του Digital Identity […] Το άρθρο Η Intelli αναδείχθηκε “Best Digital Identity & KYC Consultancy 2026 – Europe” στα Management Consulting Awards 2026 εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-08T09:37:05+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/marko-roumpio-apo-tin-pnika-to-xreos-tis-amerikis-stin-ellada-pou-den-svinei",
@@ -443,32 +508,6 @@
    "location": "",
    "summary": "Σύνοψη Ερευνητές του Stanford Medicine παρουσίασαν ένα καινοτόμο τεστ ούρων (uRARE-seq) που ανιχνεύει τον καρκίνο της ουροδόχου κύστης αναλύοντας ...",
    "first_seen": "2026-10-07T06:43:00+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/apo-to-american-idol-sta-isovia-skotose-ti-sizigo-tou-kai-skinothetise-diarrixi",
-   "title": "Από το «American Idol» στα ισόβια: Σκότωσε τη σύζυγό του και σκηνοθέτησε διάρρηξη",
-   "link": "https://www.fortunegreece.com/article/apo-to-american-idol-sta-isovia-skotose-ti-sizigo-tou-kai-skinothetise-diarrixi/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο Κέιλεμπ Φλιν καταδικάστηκε σε ισόβια χωρίς δυνατότητα αποφυλάκισης – Στη δίκη παρουσιάστηκαν περίπου 100.000 μηνύματα με την πρώην ερωμένη του και ψηφιακά στοιχεία που κατέρριψαν την εκδοχή περί εισβολέα",
-   "first_seen": "2026-10-06T16:45:06+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/siemens-tech-summit-athens-2026-i-nea-epoxi-tis-ai-perna-apo-tis-othones-ston-pragmatiko-kosmo",
-   "title": "Siemens Tech Summit Athens 2026: Η νέα εποχή του AI περνά στον πραγματικό κόσμο",
-   "link": "https://www.fortunegreece.com/article/siemens-tech-summit-athens-2026-i-nea-epoxi-tis-ai-perna-apo-tis-othones-ston-pragmatiko-kosmo/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Περισσότεροι από 500 εκπρόσωποι της βιομηχανίας, της ενέργειας, των υποδομών και της τεχνολογίας συζήτησαν στο Siemens Tech Summit Athens 2026 πώς η ψηφιοποίηση μπορεί να μετατραπεί σε πραγματική επιχειρηματική αξία.",
-   "first_seen": "2026-10-06T15:00:19+00:00"
   },
   {
    "key": "url:https://startup.gr/vraveia-neanikis-epicheirimatikotitas-stelios-chatziioannou-2026",
