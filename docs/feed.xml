@@ -6,16 +6,16 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sat, 10 Oct 2026 00:56:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 09:56:17 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>Ανοδικά έκλεισαν και οι τρεις βασικοί δείκτες στη Wall Street</title>
-<link>https://www.naftemporiki.gr/finance/world/2173144/anodika-ekleisan-kai-oi-treis-vasikoi-deiktes-sti-wall-street/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=anodika-ekleisan-kai-oi-treis-vasikoi-deiktes-sti-wall-street</link>
-<guid isPermaLink="false">url:https://naftemporiki.gr/finance/world/2173144/anodika-ekleisan-kai-oi-treis-vasikoi-deiktes-sti-wall-street</guid>
-<pubDate>Fri, 09 Oct 2026 20:52:18 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Με άνοδο έκλεισαν και οι τρεις βασικοί δείκτες τη σημερινή συνεδρίαση στη Wall Street, με τη στήριξη του τεχνολογικού κλάδου, καθώς οι επενδυτές επιδιώκουν να ανακάμψουν από μια εβδομάδα έντονης… Ανοδικά έκλεισαν και οι τρεις βασικοί δείκτες στη Wall Street - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+<title>[10 Oct] Azure AI Foundry: From AI Experiments to Enterprise-Grade AI Agents</title>
+<link>https://www.meetup.com/malta-microsoft-ai-user-group/events/315242038/</link>
+<guid isPermaLink="false">url:https://meetup.com/malta-microsoft-ai-user-group/events/315242038</guid>
+<pubDate>Sat, 10 Oct 2026 09:56:17 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 10 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Enterprises are moving beyond AI pilots toward governed, production-ready AI agents—but fragmented tools and operational complexity often slow progress. In this session, we explore Azure AI Foundry, Microsoft’s unified platform for building, deploying, and operating enterprise-scale AI applications and agents. Learn how Foundry brings models, data, orchestration, security, and observability together to help organizations move from copilots to real, business-impacting AI systems&lt;/p&gt;</description>
 </item>
 <item>
 <title>[08 Nov] [AI Practitioner] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026</title>
@@ -34,15 +34,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο πρόεδρος Πάρααγκ Μαράτε εξετάζει δυναμική τιμολόγηση με βάση τη ζήτηση και τη συμπεριφορά των φιλάθλων, με στόχο υψηλότερα έσοδα αλλά και φθηνότερες επιλογές για τους πιο πιστούς οπαδούς&lt;/p&gt;</description>
-</item>
-<item>
-<title>Δύο σημαντικές διακρίσεις για την Eurolife FFH στα Bite Awards 2026 για έργα τεχνολογίας και ψηφιακού μετασχηματισμού</title>
-<link>https://businessvoice.gr/epicheiriseis/991142/dyo-simantikes-diakriseis-gia-tin-eurolife-ffh-sta-bite-awards-2026-gia-erga-technologias-kai-psifiakou-metaschimatismou/</link>
-<guid isPermaLink="false">url:https://businessvoice.gr/epicheiriseis/991142/dyo-simantikes-diakriseis-gia-tin-eurolife-ffh-sta-bite-awards-2026-gia-erga-technologias-kai-psifiakou-metaschimatismou</guid>
-<pubDate>Fri, 09 Oct 2026 15:50:26 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.emea.gr/feed/">EMEA.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; EMEA.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η εταιρεία απέσπασε Gold και Silver βραβείο για έργα που αξιοποιούν την Τεχνητή Νοημοσύνη και τον ψηφιακό μετασχηματισμό για τη βελτίωση της εμπειρίας του πελάτη, σε συνεργασία με την IBM&lt;/p&gt;</description>
 </item>
 <item>
 <title>ΟΗΕ: Πώς η Τεχνητή Νοημοσύνη και η Μέση Ανατολή απειλούν με παγκόσμιο οικονομικό σοκ</title>
@@ -106,15 +97,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 23 October 2026, 19:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Prompt It. Ship It. Track It. Apps on Microsoft Fabric** Description: What if building a business app was as easy as describing it? In this fast-paced 1-hour session, we'll show how Fabric Apps lets you go from idea to a running app directly inside Microsoft Fabric. You'll see how to prompt an AI assistant to create the app, ship it to Fabric in minutes without managing any infrastructure, and track what matters, with your app's data instantly ready for dashboards, AI and automation. Through a live demo, you'll see how apps, data and AI finally come together in one place, and you'll leave with practical ideas to start building your own. Whether you work in data, development or business, th…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[30 Oct] /human-review - Tools &amp; Guardrails for Agentic Engineers</title>
-<link>https://www.meetup.com/european-software-crafters/events/316894439/</link>
-<guid isPermaLink="false">url:https://meetup.com/european-software-crafters/events/316894439</guid>
-<pubDate>Fri, 09 Oct 2026 10:40:19 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 30 October 2026, 12:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a "Frustrated / Creative Users Follow-up Meeting" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…&lt;/p&gt;</description>
 </item>
 <item>
 <title>Σήμερα το πρώτο Fortune Greece &amp; Cyprus Roundtable στη Λευκωσία</title>
@@ -216,15 +198,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[20 Oct] Fabric FinOps - Cost Optimization for Fabric</title>
-<link>https://www.meetup.com/microsoft-fabric-dublin/events/315946929/</link>
-<guid isPermaLink="false">url:https://meetup.com/microsoft-fabric-dublin/events/315946929</guid>
-<pubDate>Fri, 09 Oct 2026 01:15:22 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 20 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Important Details** This event will be ONLINE using Teams. not in person! **Topic Summary** A software-as-a-service offering such as Microsoft Fabric offers a fixed cost per month, making budgeting much easier. That should be the end of the conversation, but it's actually only the beginning - how do you make the most of the capacity units you get with the fixed price? How can you ensure that you are getting the most out of your monthly investment? The different Fabric workloads all have different ways of using capacity units - some are cost CUs per minute of runtime, some cost per query, some are straight forward to calculate, some are not. Take dataflows gen 2 an an example - it used to b…&lt;/p&gt;</description>
-</item>
-<item>
 <title>OpenAI: 20 δισ. δολάρια χαμηλότερα οι εκτιμήσεις για τα έσοδα</title>
 <link>https://www.fortunegreece.com/article/openai-20-dis-dolaria-xamilotera-oi-ektimiseis-gia-ta-esoda/</link>
 <guid isPermaLink="false">url:https://fortunegreece.com/article/openai-20-dis-dolaria-xamilotera-oi-ektimiseis-gia-ta-esoda</guid>
@@ -288,15 +261,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 03 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Impact Hub Athens, Karaiskaki 28 10554, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Join us for the **32nd edition** of the Angular Athens Meetup! Mark your calendars for **Tuesday, November 03th**. More details will be announced soon. 📅 **Date:** Tuesday, November 03, 2026 🕖 **Time:** 7:00 PM - 9:00 PM EET 📍 **Venue:** Impact Hub Athens, Karaiskaki 28, 10554 Athens&lt;/p&gt;</description>
 </item>
 <item>
-<title>[10 Oct] Saturday Social at Mint Bar – Meet, Talk &amp; See Where the Night Goes</title>
-<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316640296/</link>
-<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316640296</guid>
-<pubDate>Thu, 08 Oct 2026 10:58:00 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 10 October 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
-</item>
-<item>
 <title>[11 Oct] Hack The Box Meetup Bypassing UAC with Fodhelper</title>
 <link>https://www.meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316570872/</link>
 <guid isPermaLink="false">url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316570872</guid>
@@ -304,6 +268,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 11 October 2026, 23:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Join us for the next session of HTB Meetup Beni Mellal, Morocco, where we take a hands-on look at bypassing Windows User Account Control (UAC) using the Fodhelper technique — a classic and still widely relevant privilege escalation method used in real-world red team engagements. We'll walk through how the technique works under the hood, why it bypasses UAC's default consent flow, and how to apply it in practice. **Speaker:** Amine Ziani — Senior Penetration Tester &amp;amp; Red Teamer at Exploit Flux LTD, specializing in offensive security, penetration testing, and adversary simulation. Certifications: CRTO, CRTE, CRTP, CRTA, CAPE, CPTS, eWPTXv3, eCPPTv3 — 14+ Pro Labs completed. HTB Machine Creator…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[10 Oct] Saturday Social at Mint Bar – Meet, Talk &amp; See Where the Night Goes</title>
+<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316640296/</link>
+<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316640296</guid>
+<pubDate>Thu, 08 Oct 2026 10:58:00 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 10 October 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[13 Oct] MCPs, Skills and Plugins | Cristi Prifti</title>
@@ -376,42 +349,6 @@
 <category>Aggregator</category>
 <source url="https://www.stayhappening.com/athens">Stayhappening — Athens</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 05 December 2026, 00:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Telekom Center Athens, Λεωφόρος Ολυμπιονίκη Σπύρου Λούη, κλειστό γήπεδο μπάσκετ "Telekom Center Athens", Amaroúsion, Greece, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Stayhappening — Athens · Aggregator&lt;/p&gt;</description>
-</item>
-<item>
-<title>Μάρκο Ρούμπιο από την Πνύκα: Το χρέος της Αμερικής στην Ελλάδα που «δεν σβήνει»</title>
-<link>https://www.fortunegreece.com/article/marko-roumpio-apo-tin-pnika-to-xreos-tis-amerikis-stin-ellada-pou-den-svinei/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/marko-roumpio-apo-tin-pnika-to-xreos-tis-amerikis-stin-ellada-pou-den-svinei</guid>
-<pubDate>Wed, 07 Oct 2026 19:14:45 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η αρχαία Αθήνα, ο Παρθενώνας, ο Πλούταρχος και οι ιδρυτές των ΗΠΑ στο επίκεντρο της ομιλίας του Αμερικανού υπουργού Εξωτερικών με φόντο την Ακρόπολη&lt;/p&gt;</description>
-</item>
-<item>
-<title>Google Nano Banana 2.1: Διαθέσιμο το αναβαθμισμένο μοντέλο AI για την επεξεργασία εικόνας</title>
-<link>https://www.techgear.gr/google-nano-banana-2-1-diathesimo-to-anavathmismeno-montelo-ai-gia-tin-epexergasia-eikonas-50824</link>
-<guid isPermaLink="false">url:https://techgear.gr/google-nano-banana-2-1-diathesimo-to-anavathmismeno-montelo-ai-gia-tin-epexergasia-eikonas-50824</guid>
-<pubDate>Wed, 07 Oct 2026 08:07:00 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://www.techgear.gr/">Techgear</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Η Google παρουσίασε επίσημα το Nano Banana 2.1, το οποίο αποτελεί την πιο πρόσφατη αναβάθμιση στο μοντέλο δημιουργίας και επεξεργασίας εικόνας...&lt;/p&gt;</description>
-</item>
-<item>
-<title>Αυτό το ρομποτικό χέρι μαθαίνει παραδοσιακό κέντημα μεταξιού με ακρίβεια κλάσματος του χιλιοστού!</title>
-<link>https://www.techgear.gr/ayto-to-rompotiko-cheri-mathainei-paradosiako-kentima-metaxioy-me-akriveia-klasmatos-toy-chiliostoy-50822</link>
-<guid isPermaLink="false">url:https://techgear.gr/ayto-to-rompotiko-cheri-mathainei-paradosiako-kentima-metaxioy-me-akriveia-klasmatos-toy-chiliostoy-50822</guid>
-<pubDate>Wed, 07 Oct 2026 07:53:00 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://www.techgear.gr/">Techgear</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Η κινεζική εταιρεία AGILINK παρουσίασε το OmniHand 3 Ultra, ένα ρομποτικό χέρι που εκπαιδεύτηκε από την τεχνίτρια Fu Xianghong στο απαιτητικό ...&lt;/p&gt;</description>
-</item>
-<item>
-<title>Νέο τεστ ούρων εντοπίζει τον καρκίνο της ουροδόχου κύστης μέσω ανάλυσης RNA με ακρίβεια 95%</title>
-<link>https://www.techgear.gr/neo-test-oyron-entopizei-ton-karkino-tis-oyrodochoy-kystis-meso-analysis-rna-me-akriveia-95-50820</link>
-<guid isPermaLink="false">url:https://techgear.gr/neo-test-oyron-entopizei-ton-karkino-tis-oyrodochoy-kystis-meso-analysis-rna-me-akriveia-95-50820</guid>
-<pubDate>Wed, 07 Oct 2026 06:43:00 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://www.techgear.gr/">Techgear</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Ερευνητές του Stanford Medicine παρουσίασαν ένα καινοτόμο τεστ ούρων (uRARE-seq) που ανιχνεύει τον καρκίνο της ουροδόχου κύστης αναλύοντας ...&lt;/p&gt;</description>
 </item>
 <item>
 <title>Βραβεία Νεανικής Επιχειρηματικότητας Στέλιος Χατζηιωάννου 2026</title>
