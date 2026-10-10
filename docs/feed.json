@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-09T18:23:50.119653+00:00",
+ "built": "2026-10-10T00:56:36.545135+00:00",
  "items": [
+  {
+   "key": "url:https://naftemporiki.gr/finance/world/2173144/anodika-ekleisan-kai-oi-treis-vasikoi-deiktes-sti-wall-street",
+   "title": "Ανοδικά έκλεισαν και οι τρεις βασικοί δείκτες στη Wall Street",
+   "link": "https://www.naftemporiki.gr/finance/world/2173144/anodika-ekleisan-kai-oi-treis-vasikoi-deiktes-sti-wall-street/?utm_source=rss&utm_medium=rss&utm_campaign=anodika-ekleisan-kai-oi-treis-vasikoi-deiktes-sti-wall-street",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Με άνοδο έκλεισαν και οι τρεις βασικοί δείκτες τη σημερινή συνεδρίαση στη Wall Street, με τη στήριξη του τεχνολογικού κλάδου, καθώς οι επενδυτές επιδιώκουν να ανακάμψουν από μια εβδομάδα έντονης… Ανοδικά έκλεισαν και οι τρεις βασικοί δείκτες στη Wall Street - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-10-09T20:52:18+00:00"
+  },
   {
    "key": "url:https://meetup.com/aws-user-group-athens/events/316227206",
    "title": "[AI Practitioner] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
@@ -289,6 +302,19 @@
    "first_seen": "2026-10-09T01:15:22.264976+00:00"
   },
   {
+   "key": "url:https://meetup.com/microsoft-fabric-dublin/events/315946929",
+   "title": "Fabric FinOps - Cost Optimization for Fabric",
+   "link": "https://www.meetup.com/microsoft-fabric-dublin/events/315946929/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-20T20:00:00+03:00",
+   "location": "Online",
+   "summary": "**Important Details** This event will be ONLINE using Teams. not in person! **Topic Summary** A software-as-a-service offering such as Microsoft Fabric offers a fixed cost per month, making budgeting much easier. That should be the end of the conversation, but it's actually only the beginning - how do you make the most of the capacity units you get with the fixed price? How can you ensure that you are getting the most out of your monthly investment? The different Fabric workloads all have different ways of using capacity units - some are cost CUs per minute of runtime, some cost per query, some are straight forward to calculate, some are not. Take dataflows gen 2 an an example - it used to b…",
+   "first_seen": "2026-10-09T01:15:22.264976+00:00"
+  },
+  {
    "key": "url:https://fortunegreece.com/article/openai-20-dis-dolaria-xamilotera-oi-ektimiseis-gia-ta-esoda",
    "title": "OpenAI: 20 δισ. δολάρια χαμηλότερα οι εκτιμήσεις για τα έσοδα",
    "link": "https://www.fortunegreece.com/article/openai-20-dis-dolaria-xamilotera-oi-ektimiseis-gia-ta-esoda/",
@@ -393,19 +419,6 @@
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
-   "key": "url:https://meetup.com/d-c_powerbi/events/315871528",
-   "title": "MCPs, Skills and Plugins | Cristi Prifti",
-   "link": "https://www.meetup.com/d-c_powerbi/events/315871528/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-13T20:00:00+03:00",
-   "location": "Online",
-   "summary": "**MCPS, Skills and Plugins** ... what are these? and why do they matter? AI assistants can already write DAX and explain your model, but the real shift is when they can act inside your Power BI work. Three building blocks make that possible, and most of us have only just met them: **MCP servers** that hand the model live access to your tenant and files, **Skills** that teach it how your team actually does things, and **Plugins** that bundle it all into something repeatable. MCP Servers, Skills and Plugins are reshaping how AI assists Power BI development. Learn what each one is, where they fit, and how to turn AI from a chatbot into a co-worker. With over 6 years of experience as a Power BI …",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
    "key": "url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316570872",
    "title": "Hack The Box Meetup Bypassing UAC with Fodhelper",
    "link": "https://www.meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316570872/",
@@ -416,6 +429,19 @@
    "starts": "2026-10-11T23:00:00+03:00",
    "location": "Online",
    "summary": "Join us for the next session of HTB Meetup Beni Mellal, Morocco, where we take a hands-on look at bypassing Windows User Account Control (UAC) using the Fodhelper technique — a classic and still widely relevant privilege escalation method used in real-world red team engagements. We'll walk through how the technique works under the hood, why it bypasses UAC's default consent flow, and how to apply it in practice. **Speaker:** Amine Ziani — Senior Penetration Tester & Red Teamer at Exploit Flux LTD, specializing in offensive security, penetration testing, and adversary simulation. Certifications: CRTO, CRTE, CRTP, CRTA, CAPE, CPTS, eWPTXv3, eCPPTv3 — 14+ Pro Labs completed. HTB Machine Creator…",
+   "first_seen": "2026-10-08T10:58:00.575311+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/d-c_powerbi/events/315871528",
+   "title": "MCPs, Skills and Plugins | Cristi Prifti",
+   "link": "https://www.meetup.com/d-c_powerbi/events/315871528/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-10-13T20:00:00+03:00",
+   "location": "Online",
+   "summary": "**MCPS, Skills and Plugins** ... what are these? and why do they matter? AI assistants can already write DAX and explain your model, but the real shift is when they can act inside your Power BI work. Three building blocks make that possible, and most of us have only just met them: **MCP servers** that hand the model live access to your tenant and files, **Skills** that teach it how your team actually does things, and **Plugins** that bundle it all into something repeatable. MCP Servers, Skills and Plugins are reshaping how AI assists Power BI development. Learn what each one is, where they fit, and how to turn AI from a chatbot into a co-worker. With over 6 years of experience as a Power BI …",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
