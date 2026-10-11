@@ -1,11 +1,11 @@
 {
-  "built": "2026-10-11T12:58:37.193363+00:00",
+  "built": "2026-10-11T19:35:25.872566+00:00",
   "items": 40,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 144,
+      "fetched": 152,
       "kept": 4,
       "error": ""
     },
@@ -107,7 +107,7 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
