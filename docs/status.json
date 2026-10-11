@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-11T05:54:47.075887+00:00",
-  "items": 39,
+  "built": "2026-10-11T12:58:37.193363+00:00",
+  "items": 40,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -10,8 +10,8 @@
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
@@ -71,7 +71,7 @@
     {
       "name": "EMEA.gr",
       "fetched": 15,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
@@ -83,12 +83,12 @@
     {
       "name": "Insider.gr",
       "fetched": 60,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Fortune Greece",
-      "fetched": 212,
+      "fetched": 144,
       "kept": 4,
       "error": ""
     },

@@ -6,8 +6,26 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sun, 11 Oct 2026 05:54:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 12:58:37 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>Nvidia: Σε συνομιλίες για νέα επένδυση στη Reflection AI ή για την εξαγορά της</title>
+<link>https://businessvoice.gr/digital/991328/nvidia-se-synomilies-gia-nea-ependysi-sti-reflection-ai-i-gia-tin-exagora-tis/</link>
+<guid isPermaLink="false">url:https://businessvoice.gr/digital/991328/nvidia-se-synomilies-gia-nea-ependysi-sti-reflection-ai-i-gia-tin-exagora-tis</guid>
+<pubDate>Sun, 11 Oct 2026 12:00:49 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.emea.gr/feed/">EMEA.gr</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; EMEA.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η Nvidia αποτελεί ήδη σημαντικό χρηματοδότη και στρατηγικό επενδυτή της Reflection AI, έχοντας επενδύσει 800 εκατ. δολάρια στη νεοφυή εταιρεία&lt;/p&gt;</description>
+</item>
+<item>
+<title>Σεισμικές έρευνες για υδρογονάνθρακες σε Ιόνιο, Νότια Κρήτη – Ενδιαφέρον από ενεργειακούς κολοσσούς</title>
+<link>https://www.fortunegreece.com/article/seismikes-erevnes-gia-idrogonanthrakes-se-ionio-notia-kriti-endiaferon-apo-energeiakous-kolossous/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/seismikes-erevnes-gia-idrogonanthrakes-se-ionio-notia-kriti-endiaferon-apo-energeiakous-kolossous</guid>
+<pubDate>Sun, 11 Oct 2026 09:33:28 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Στις 9 Νοεμβρίου λήγει η προθεσμία για τον διαγωνισμό του ΥΠΕΝ για σεισμικές έρευνες σε θαλάσσιες περιοχές της Δυτικής και Νότιας Ελλάδας. Στόχος ο εντοπισμός νέων κοιτασμάτων υδρογονανθράκων και η ενίσχυση του επενδυτικού ενδιαφέροντος.&lt;/p&gt;</description>
+</item>
 <item>
 <title>Μια επιλογή στο BIOS ξεκλειδώνει την ταχύτητα της RAM σου στο PC</title>
 <link>https://techblog.gr/computers/mia-epilogi-sto-bios-xekleidonei-tin-tachytita-tis-ram-sou-sto-pc/</link>
@@ -115,15 +133,6 @@
 <category>Enterprise IT</category>
 <source url="https://www.ictplus.gr/">ICT Plus</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Η Intelli Solutions αναδείχθηκε «Best Digital Identity &amp;amp; KYC Consultancy 2026 – Europe» στα Management Consulting Awards 2026 του διεθνούς οργανισμού Wealth &amp;amp; Finance International, λαμβάνοντας διάκριση για την εξειδίκευσή της στις ψηφιακές ταυτότητες, την ταυτοποίηση πελατών και την κανονιστική συμμόρφωση. Η βράβευση αναδεικνύει τη δραστηριότητα της εταιρείας στην ανάπτυξη τεχνολογικών λύσεων που συνδυάζουν την […] Το άρθρο Διεθνής διάκριση για την Intelli Solutions στον τομέα Digital Identity &amp;amp; KYC εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>OpenAI: 20 δισ. δολάρια χαμηλότερα οι εκτιμήσεις για τα έσοδα</title>
-<link>https://www.fortunegreece.com/article/openai-20-dis-dolaria-xamilotera-oi-ektimiseis-gia-ta-esoda/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/openai-20-dis-dolaria-xamilotera-oi-ektimiseis-gia-ta-esoda</guid>
-<pubDate>Thu, 08 Oct 2026 18:53:14 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Τα νέα στοιχεία που παρουσιάστηκαν σε επενδυτές απέχουν σημαντικά από την προηγούμενη εκτίμηση των 70 δισ. δολαρίων, με διαφορετική μεθοδολογία υπολογισμού να εξηγεί μέρος της απόκλισης.&lt;/p&gt;</description>
 </item>
 <item>
 <title>Google AI Edge Foresight: Το νέο εργαλείο σημειώσεων από τηλεδιασκέψεις που λειτουργεί 100% offline!</title>
