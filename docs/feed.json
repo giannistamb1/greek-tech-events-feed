@@ -1,6 +1,6 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-11T19:35:25.872566+00:00",
+ "built": "2026-10-12T00:36:36.005143+00:00",
  "items": [
   {
    "key": "url:https://meetup.com/aws-user-group-athens/events/316227214",
@@ -198,6 +198,19 @@
    "first_seen": "2026-10-09T10:40:19.336259+00:00"
   },
   {
+   "key": "url:https://meetup.com/european-software-crafters/events/316894439",
+   "title": "/human-review - Tools & Guardrails for Agentic Engineers",
+   "link": "https://www.meetup.com/european-software-crafters/events/316894439/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-30T12:30:00+02:00",
+   "location": "Online",
+   "summary": "At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a \"Frustrated / Creative Users Follow-up Meeting\" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…",
+   "first_seen": "2026-10-09T10:40:19.336259+00:00"
+  },
+  {
    "key": "url:https://fortunegreece.com/article/stis-9-oktovriou-to-proto-fortune-greece-cyprus-roundtable-sti-lefkosia",
    "title": "Σήμερα το πρώτο Fortune Greece & Cyprus Roundtable στη Λευκωσία",
    "link": "https://www.fortunegreece.com/article/stis-9-oktovriou-to-proto-fortune-greece-cyprus-roundtable-sti-lefkosia/",
@@ -276,6 +289,19 @@
    "first_seen": "2026-10-09T07:39:20+00:00"
   },
   {
+   "key": "url:https://meetup.com/london-women-on-the-rise-meetup-group/events/316054729",
+   "title": "Women On the RISE Speed Networking",
+   "link": "https://www.meetup.com/london-women-on-the-rise-meetup-group/events/316054729/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-10-12T20:00:00+03:00",
+   "location": "Online",
+   "summary": "Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!",
+   "first_seen": "2026-10-09T01:15:22.264976+00:00"
+  },
+  {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316712915",
    "title": "🌙 Thursday Social Night | Meet New People in Athens@Mint bar",
    "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316712915/",
@@ -289,19 +315,6 @@
    "first_seen": "2026-10-09T01:15:22.264976+00:00"
   },
   {
-   "key": "url:https://meetup.com/london-women-on-the-rise-meetup-group/events/316054729",
-   "title": "Women On the RISE Speed Networking",
-   "link": "https://www.meetup.com/london-women-on-the-rise-meetup-group/events/316054729/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-12T20:00:00+03:00",
-   "location": "Online",
-   "summary": "Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!",
-   "first_seen": "2026-10-09T01:15:22.264976+00:00"
-  },
-  {
    "key": "url:https://meetup.com/meetup-group-judpeflp/events/316655050",
    "title": "On-prem full-stack AI and vibe-coding panel discussion",
    "link": "https://www.meetup.com/meetup-group-judpeflp/events/316655050/",
@@ -312,6 +325,19 @@
    "starts": "2026-10-27T19:00:00+02:00",
    "location": "Online",
    "summary": "## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…",
+   "first_seen": "2026-10-09T01:15:22.264976+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/microsoft-fabric-dublin/events/315946929",
+   "title": "Fabric FinOps - Cost Optimization for Fabric",
+   "link": "https://www.meetup.com/microsoft-fabric-dublin/events/315946929/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-20T20:00:00+03:00",
+   "location": "Online",
+   "summary": "**Important Details** This event will be ONLINE using Teams. not in person! **Topic Summary** A software-as-a-service offering such as Microsoft Fabric offers a fixed cost per month, making budgeting much easier. That should be the end of the conversation, but it's actually only the beginning - how do you make the most of the capacity units you get with the fixed price? How can you ensure that you are getting the most out of your monthly investment? The different Fabric workloads all have different ways of using capacity units - some are cost CUs per minute of runtime, some cost per query, some are straight forward to calculate, some are not. Take dataflows gen 2 an an example - it used to b…",
    "first_seen": "2026-10-09T01:15:22.264976+00:00"
   },
   {
@@ -468,19 +494,6 @@
    "starts": "2026-10-27T20:00:00+02:00",
    "location": "Online",
    "summary": "Hey Everyone! 👋 **Location:** \\- On\\-site: Faktion\\, Oudeleeuwenrui 39\\, 2000 Antwerpen \\- Online: TBA **Practicalities for the evening on Tuesday, October 27th:** \\- 18:00: Doors Open\\, snacks & drinks \\- 19:00: Speaker Talks \\- 20:30: Networking & Drinks **Transport:** * Arriving by car: Parking is available at **Q-Park Godefriduskaai**, just around the corner from Faktion. Please note that Faktion is located in **Antwerp’s Low Emission Zone (LEZ)**. * Arriving by train: From **Antwerp-Central Station, take bus 17 to Felixpakhuis**. The bus stops right in front of the Faktion offices. * Arriving by bike: Faktion is easily accessible by bike. **Note:** As this is an invite‑only event, you m…",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/techexcellence/events/316851439",
-   "title": "Spec-Driven Development with ATDD & AI (Valentina Jemuović)",
-   "link": "https://www.meetup.com/techexcellence/events/316851439/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-14T18:30:00+03:00",
-   "location": "Online",
-   "summary": "You write a spec, hand it to AI, and it gives you back a PR that looks right. But the implementation can be wrong! In the current tools (Kiro, spec-kit, Tessl), the spec is a Markdown file AI is supposed to follow. But AI can ignore the spec or misread it. So you end up testing everything by hand, and QA keeps sending the PR back because it doesn't work. In this session, you'll see how to use ATDD to practice spec-driven development with executable specs. Starting from the acceptance criteria, AI writes failing acceptance tests (RED), and you review and approve them. Then AI implements the system code until the acceptance tests pass (GREEN), which shows that the acceptance criteria are met. …",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
