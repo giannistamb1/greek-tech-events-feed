@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-13T16:59:07.932367+00:00",
-  "items": 43,
+  "built": "2026-10-13T22:51:00.006789+00:00",
+  "items": 44,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -71,13 +71,13 @@
     {
       "name": "EMEA.gr",
       "fetched": 15,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 179,
+      "fetched": 188,
       "kept": 3,
       "error": ""
     },
@@ -107,7 +107,7 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 0,
+      "kept": 2,
       "error": ""
     },
     {
