@@ -1,17 +1,17 @@
 {
-  "built": "2026-10-14T17:17:21.627666+00:00",
-  "items": 47,
+  "built": "2026-10-14T21:45:40.482365+00:00",
+  "items": 52,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 11,
-      "kept": 11,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 10,
-      "kept": 10,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
@@ -59,7 +59,7 @@
     {
       "name": "Techgear",
       "fetched": 50,
-      "kept": 3,
+      "kept": 5,
       "error": ""
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
@@ -88,14 +88,14 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 233,
+      "fetched": 240,
       "kept": 5,
       "error": ""
     },
     {
       "name": "Business Daily",
       "fetched": 40,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
@@ -107,7 +107,7 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
