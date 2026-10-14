@@ -6,7 +6,7 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Wed, 14 Oct 2026 12:00:28 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 17:17:21 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>[30 Oct] Φορολογία Κρυπτονομισμάτων στην Ελλάδα</title>
@@ -25,15 +25,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 19 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Flutter has quietly become one of the best frameworks to build with an AI agent. Google now ships official Agent Skills that teach it Flutter conventions, a Dart MCP server for the analyzer, tests and hot reload, and MCP tools that let it launch the app, tap through screens and take screenshots. Together, apart from writing code, the Agent runs the app, checks its own work and fixes what's wrong. We'll go through each piece, which skills, plugins and MCP servers are worth installing, and how they fit together. Then the demo: from an empty project, an agent builds an app with navigation, state and a backend call, drives it on an emulator to verify every screen, and ships feature end-to-end. W…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[14 Oct] Stop Prompting, Start Engineering: How to Get Reliable Models Out of AI</title>
-<link>https://www.meetup.com/oose-events/events/316748823/</link>
-<guid isPermaLink="false">url:https://meetup.com/oose-events/events/316748823</guid>
-<pubDate>Wed, 14 Oct 2026 12:00:28 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 14 October 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Ask an AI for a **SysML v2 model** and you get something that looks right. That is the problem. It parses, it reads well, and it quietly decomposes the system wrong, drops a requirement, or points a flow the wrong way. The fix is not a better prompt. It is everything you put around the model: a validator that runs on every write, project rules the AI must follow, concept documents it loads before it writes, a semantic check that catches what the syntax check cannot, and a human gate at the end of each step. That assembly is called a **harness**. Research on agent harnesses reports up to tenfold reliability gains from changes to the setup alone, without touching the model, and **MBSE** is an …&lt;/p&gt;</description>
 </item>
 <item>
 <title>[14 Oct] Using AI to Build Income Without Selling, Coding, or Quitting</title>
@@ -160,15 +151,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 03 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Impact Hub Athens, Karaiskaki 28 10554, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Join us for the **32nd edition** of the Angular Athens Meetup! Mark your calendars for **Tuesday, November 03th**. More details will be announced soon. 📅 **Date:** Tuesday, November 03, 2026 🕖 **Time:** 7:00 PM - 9:00 PM EET 📍 **Venue:** Impact Hub Athens, Karaiskaki 28, 10554 Athens&lt;/p&gt;</description>
-</item>
-<item>
-<title>[14 Oct] Spec-Driven Development with ATDD &amp; AI (Valentina Jemuović)</title>
-<link>https://www.meetup.com/techexcellence/events/316851439/</link>
-<guid isPermaLink="false">url:https://meetup.com/techexcellence/events/316851439</guid>
-<pubDate>Thu, 08 Oct 2026 10:58:00 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 14 October 2026, 18:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;You write a spec, hand it to AI, and it gives you back a PR that looks right. But the implementation can be wrong! In the current tools (Kiro, spec-kit, Tessl), the spec is a Markdown file AI is supposed to follow. But AI can ignore the spec or misread it. So you end up testing everything by hand, and QA keeps sending the PR back because it doesn't work. In this session, you'll see how to use ATDD to practice spec-driven development with executable specs. Starting from the acceptance criteria, AI writes failing acceptance tests (RED), and you review and approve them. Then AI implements the system code until the acceptance tests pass (GREEN), which shows that the acceptance criteria are met. …&lt;/p&gt;</description>
 </item>
 <item>
 <title>[17 Oct] Meetup #6 - Tame Your Coding Agents - Part of Hacktoberfest 2026</title>
