@@ -6,7 +6,7 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 11:37:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 17:06:39 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>[13 Nov] MoT Athens #19: Chaos Testing, Contract Testing &amp; AI Agents</title>
@@ -27,42 +27,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 21 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; OK!Thess, Κομοτηνής 2, 54655, Thessaloníki, Thessaloníki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Hello Everyone! 👋 After a great start to the new season, we are back with our next SKG Java Meetup! 🚀 This time, we are going to check the "behind the scenes" of one of the largest **multitenant** software platforms in the world! **Topic** How do you run one codebase and one database schema for hundreds of thousands of companies, while allowing each of them to add their own tables, columns and code, **without taking a maintenance window**? This talk explores Salesforce **as an engineering product** rather than a CRM. We'll open up the published design of its multitenant, metadata-driven architecture: virtual schemas stored as metadata, "flex columns", pivot-table indexing, and a query optimi…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[15 Oct] IBM Bob Coding Watch Party in Frankfurt</title>
-<link>https://www.meetup.com/ibm-developers/events/316114421/</link>
-<guid isPermaLink="false">url:https://meetup.com/ibm-developers/events/316114421</guid>
-<pubDate>Thu, 15 Oct 2026 11:37:16 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 15 October 2026, 17:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Developers, Ops, domain experts - let's get your hands dirty! We are rolling out a hybrid series of hands-on practitioner events around IBM Bob, the new **AI**-powered development partner designed to help you ideate, build, modernize and ship better code, faster. 👉 **Agenda** for 15th October: 16:00 Open Doors &amp;amp; Local Networking (*for onsite attendees*) 17.00 Official Welcome &amp;amp; Agenda of the Evening / **Online livestream starts***, **Sebastian Grodzietzki** (in Berlin)* 17:10 Big on Brains - An introduction to IBM Bob*, **Francis Powesland** (in München)* 17:30 **Guided **Bob Feature Update - “How to get hooked on IBM Bob”, ***Francis Powlesland*** *(in München)* 18:10 Break + time for insta…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[15 Oct] IBM Bob Coding Watch Party in Cologne</title>
-<link>https://www.meetup.com/ibm-developers/events/316253861/</link>
-<guid isPermaLink="false">url:https://meetup.com/ibm-developers/events/316253861</guid>
-<pubDate>Thu, 15 Oct 2026 11:37:16 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 15 October 2026, 17:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Developers, Ops, domain experts - let's get your hands dirty! We are rolling out a hybrid series of hands-on practitioner events around IBM Bob, the new **AI**-powered development partner designed to help you ideate, build, modernize and ship better code, faster. 👉 **Agenda** for 15th October: 16:00 Open Doors &amp;amp; Local Networking (*for onsite attendees*) 17.00 Official Welcome &amp;amp; Agenda of the Evening / **Online livestream starts***, **Sebastian Grodzietzki** (in Berlin)* 17:10 Big on Brains - An introduction to IBM Bob*, **Francis Powesland** (in München)* 17:30 **Guided **Bob Feature Update - “How to get hooked on IBM Bob”, ***Francis Powlesland*** *(in München)* 18:10 Break + time for insta…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[15 Oct] 🗂️🧬Build a Second Brain with AI (and a Bit of Kotlin) at Home</title>
-<link>https://www.meetup.com/andersen-it-community-warsaw/events/316853540/</link>
-<guid isPermaLink="false">url:https://meetup.com/andersen-it-community-warsaw/events/316853540</guid>
-<pubDate>Thu, 15 Oct 2026 11:37:16 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 15 October 2026, 17:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**🧠 AI + Kotlin = Your Own “Second Brain”** **Join us on October 15** to explore how to build your own tool for capturing ideas, notes, and thoughts – and then using AI to quickly find whatever you need. Your data stays with you, without unnecessary subscriptions, SaaS lock-in, or reliance on third-party services. 🚀 **We’ll cover how to:** 📱 Turn Android into a convenient tool for capturing ideas 🤖 Use AI to search and organize your knowledge ⚡ Run your product on Android, Desktop, CLI, and more 🛠️ Build a working version in just one weekend **🎤 Yury Vashchylau – Lead Product Engineer** **[👉 Join the meetup](https://people-andersenlab.com/events/build-a-second-brain-with-ai-kotlin-2026-octob…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[15 Oct] AI Signals #35: Evals, Guardrails and Human Behaviour</title>
-<link>https://www.meetup.com/ai-signals-community/events/316648793/</link>
-<guid isPermaLink="false">url:https://meetup.com/ai-signals-community/events/316648793</guid>
-<pubDate>Wed, 14 Oct 2026 21:45:40 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 15 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Hosted by [Zoopla](https://www.zoopla.co.uk/) and sponsored by [GlassFlow](https://www.glassflow.dev/) **Signups via Meetup are now strictly capped as we migrate off the platform, [if you can please signup via our website instead.](https://aisignals.org.uk/events/ai-signals-34-6z4m8)** Hosted by [Zoopla](https://www.zoopla.co.uk/) and sponsored by [glassflow.ai](https://www.glassflow.ai/rius?utm_source=event&amp;amp;utm_medium=event&amp;amp;utm_campaign=signals_ai_uk_151026) **Agenda** 06:00pm – Doors open 06:30pm – Welcome 06:35pm – [Amy Kuner](https://www.linkedin.com/in/amy-kuner-6713a5208/), [Zoopla](https://www.zoopla.co.uk/), "House-training an agent: evals and guardrails for prod" 07:05pm – Break 07:…&lt;/p&gt;</description>
-</item>
-<item>
 <title>[30 Oct] Φορολογία Κρυπτονομισμάτων στην Ελλάδα</title>
 <link>https://www.meetup.com/blockchaingreece-0/events/316958855/</link>
 <guid isPermaLink="false">url:https://meetup.com/blockchaingreece-0/events/316958855</guid>
@@ -79,6 +43,33 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 19 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Flutter has quietly become one of the best frameworks to build with an AI agent. Google now ships official Agent Skills that teach it Flutter conventions, a Dart MCP server for the analyzer, tests and hot reload, and MCP tools that let it launch the app, tap through screens and take screenshots. Together, apart from writing code, the Agent runs the app, checks its own work and fixes what's wrong. We'll go through each piece, which skills, plugins and MCP servers are worth installing, and how they fit together. Then the demo: from an empty project, an agent builds an app with navigation, state and a backend call, drives it on an emulator to verify every screen, and ships feature end-to-end. W…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[18 Oct] AI with Ahmed Nagdy</title>
+<link>https://www.meetup.com/cloudkode/events/316915585/</link>
+<guid isPermaLink="false">url:https://meetup.com/cloudkode/events/316915585</guid>
+<pubDate>Tue, 13 Oct 2026 22:51:00 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 18 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;A practical discussion about the future of coding in the AI era, the latest AI tools, and how developers can build their skills and stay relevant. We’ll also explore AI agents, career opportunities, and the changing role of programmers.&lt;/p&gt;</description>
+</item>
+<item>
+<title>[29 Oct] Build with OpenAI Codex</title>
+<link>https://www.meetup.com/agent-builders/events/315958151/</link>
+<guid isPermaLink="false">url:https://meetup.com/agent-builders/events/315958151</guid>
+<pubDate>Tue, 13 Oct 2026 16:59:07 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works, what it gets right, where it needs steering, and what it's actually like to work alongside an AI agent rather than just chat with one. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do, beyond the headli…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[19 Oct] Successful Product Management in the Age of AI - with Roman Pichler</title>
+<link>https://www.meetup.com/sooner-safer-happier-emea-bvssh/events/316601299/</link>
+<guid isPermaLink="false">url:https://meetup.com/sooner-safer-happier-emea-bvssh/events/316601299</guid>
+<pubDate>Tue, 13 Oct 2026 06:51:25 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 19 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Many organizations have invested in product transformation to become more customer-focused, accelerate innovation, improve financial performance, and build more engaged teams. Yet the reality has often fallen short of expectations. Instead of acting as intrapreneurs and value creators, product managers often become trapped in coordinating stakeholder requests, managing feature backlogs, and firefighting delivery issues. Why does this happen? Is modern product management flawed? How does AI change the picture? And what has to be done to apply product management effectively in the age of AI? In Roman’s talk, he’ll share practical lessons from more than 15 years of helping organizations adopt a…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[27 Oct] Working with AI to Build Dashboards People Understand | Marjolein Opsteegh</title>
@@ -124,6 +115,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 23 October 2026, 19:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Prompt It. Ship It. Track It. Apps on Microsoft Fabric** Description: What if building a business app was as easy as describing it? In this fast-paced 1-hour session, we'll show how Fabric Apps lets you go from idea to a running app directly inside Microsoft Fabric. You'll see how to prompt an AI assistant to create the app, ship it to Fabric in minutes without managing any infrastructure, and track what matters, with your app's data instantly ready for dashboards, AI and automation. Through a live demo, you'll see how apps, data and AI finally come together in one place, and you'll leave with practical ideas to start building your own. Whether you work in data, development or business, th…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[30 Oct] /human-review - Tools &amp; Guardrails for Agentic Engineers</title>
+<link>https://www.meetup.com/european-software-crafters/events/316894439/</link>
+<guid isPermaLink="false">url:https://meetup.com/european-software-crafters/events/316894439</guid>
+<pubDate>Fri, 09 Oct 2026 10:40:19 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 30 October 2026, 12:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a "Frustrated / Creative Users Follow-up Meeting" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[15 Oct] 🌙 Thursday Social Night | Meet New People in Athens@Mint bar</title>
@@ -207,15 +207,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 17 October 2026, 11:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; fromScratch Studio, Themistokli Sofouli 70Α, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Welp, it is finally time! After the summer break, we're back, and we're teaming up with the **Hacktoberfest** event hosted by **fromScratch Studio** at their HQ in Thessaloniki (**Themistokli Sofouli 70Α**). For those who may not know already, **Hacktoberfest** is a month-long celebration of open source throughout October. This year, it’s all about building with **open-weight models** and **open-source AI**. The Practical AI will kick off the event with a dedicated presentation by our co-organizer, **George Kamtziridis**, on how **coding agents** are affecting **production environments** and what we've learned from their use so far. Coding agents have changed the way we write software. They …&lt;/p&gt;</description>
 </item>
 <item>
-<title>[15 Oct] AI Builders SKG - Meetup #1</title>
-<link>https://www.meetup.com/ai-builders-skg/events/316886042/</link>
-<guid isPermaLink="false">url:https://meetup.com/ai-builders-skg/events/316886042</guid>
-<pubDate>Thu, 08 Oct 2026 10:58:00 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 15 October 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;We’re kicking things off. This is our first meetup of AI Builders SKG, a new community in Thessaloniki for people building, experimenting with, researching, or simply getting their hands dirty with AI. Our home will be [OK!Thess](https://okthess.gr/), powered by [Municipality of Thessaloniki](https://thessaloniki.gr/), and for our first event we’re starting with two very different stories from the builder side of AI. **Jev: Hype or the real thing?** Jev has been getting quite a bit of attention lately. We’ll take a closer look at what it actually is, walk through the results of our evaluations and POCs, talk about where it performs well and where it doesn’t, and try to answer the obvious que…&lt;/p&gt;</description>
-</item>
-<item>
 <title>[17 Oct] 44th Thessaloniki UX Meetup - Part of Hacktoberfest 2026</title>
 <link>https://www.meetup.com/thessaloniki-ux-meetup/events/316870000/</link>
 <guid isPermaLink="false">url:https://meetup.com/thessaloniki-ux-meetup/events/316870000</guid>
@@ -223,6 +214,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 17 October 2026, 11:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; fromScratch Design Studio, Themistokli Sofouli 70Α, Thessaloniki, Thessaloniki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;(This event will be held in Greek only.) Για 5η χρονιά, το Thessaloniki UX Meetup συμμετέχει στο [Hacktoberfest](https://hacktoberfest.com/) με ένα ολοήμερο event στη Θεσσαλονίκη, για designers και engineers, juniors και seniors. Φέτος, το επίκεντρο είναι η δημιουργία εργαλείων και λύσεων με open-weight models και open source AI. Το Σάββατο 17 Οκτωβρίου, σε μια μέρα γεμάτη συζητήσεις και hands-on sessions, σχηματίζουμε ομάδες και δουλεύουμε μαζί, σε ένα co-design και co-development hackathon από το [fromScratch Studio](https://www.fromscratch.io/). Ξεκινάμε με μια παρουσίαση από τον Γιώργο Καμτζηρίδη, Lead AI/Software Engineer από το fromScratch Studio, για το πώς οι coding agents επηρεάζουν…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[27 Oct] Generative AI - Cost Of Being Wrong</title>
+<link>https://www.meetup.com/generative-ai-belgium/events/316287359/</link>
+<guid isPermaLink="false">url:https://meetup.com/generative-ai-belgium/events/316287359</guid>
+<pubDate>Thu, 08 Oct 2026 10:58:00 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Hey Everyone! 👋 **Location:** \- On\-site: Faktion\, Oudeleeuwenrui 39\, 2000 Antwerpen \- Online: TBA **Practicalities for the evening on Tuesday, October 27th:** \- 18:00: Doors Open\, snacks &amp;amp; drinks \- 19:00: Speaker Talks \- 20:30: Networking &amp;amp; Drinks **Transport:** * Arriving by car: Parking is available at **Q-Park Godefriduskaai**, just around the corner from Faktion. Please note that Faktion is located in **Antwerp’s Low Emission Zone (LEZ)**. * Arriving by train: From **Antwerp-Central Station, take bus 17 to Felixpakhuis**. The bus stops right in front of the Faktion offices. * Arriving by bike: Faktion is easily accessible by bike. **Note:** As this is an invite‑only event, you m…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[05 Dec] TECHNIQUES 2026: CHARLOTTE DE WITTE IN ATHENS</title>
