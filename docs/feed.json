@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-14T21:45:40.482365+00:00",
+ "built": "2026-10-15T04:48:14.323074+00:00",
  "items": [
+  {
+   "key": "url:https://businessdaily.gr/agores/238069_pos-i-paraitisi-tis-kimberly-guilfoyle-piese-ti-metohi-tis-aktor",
+   "title": "O Kάθετος Διάδρομος και πως η παραίτηση Γκίλφοιλ πίεσε τη μετοχή της Aktor",
+   "link": "https://www.businessdaily.gr/agores/238069_pos-i-paraitisi-tis-kimberly-guilfoyle-piese-ti-metohi-tis-aktor",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Η παραίτηση της Κίμπελρι Γκίλφοιλ προκάλεσε ανησυχίες στους επενδυτές για το μέλλον του Κάθετου Διαδρόμου, ενώ οι εκτιμήσεις για την κερδοφορία της...",
+   "first_seen": "2026-10-15T03:25:04+00:00"
+  },
   {
    "key": "url:https://meetup.com/the-ai-business-society/events/316751063",
    "title": "Startup or Small Business: Know Which One You're Really Building [ONLINE]",

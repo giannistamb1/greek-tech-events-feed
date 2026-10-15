@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-14T21:45:40.482365+00:00",
-  "items": 52,
+  "built": "2026-10-15T04:48:14.323074+00:00",
+  "items": 53,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -95,7 +95,7 @@
     {
       "name": "Business Daily",
       "fetched": 40,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
