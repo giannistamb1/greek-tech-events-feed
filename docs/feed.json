@@ -1,7 +1,33 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-15T17:06:39.450845+00:00",
+ "built": "2026-10-15T21:28:42.209686+00:00",
  "items": [
+  {
+   "key": "url:https://insider.gr/agores/428948/wall-street-anatropi-me-thetiko-kleisimo-para-sell-stin-tehnologia",
+   "title": "Wall Street: Ανατροπή με θετικό κλείσιμο παρά το sell off στην τεχνολογία",
+   "link": "https://www.insider.gr/agores/428948/wall-street-anatropi-me-thetiko-kleisimo-para-sell-stin-tehnologia",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Ανέτρεψαν τις αρχικές απώλειες οι βασικοί δείκτες της Wall Street, ολοκλήρωνοντας τη συνεδρίαση της ...",
+   "first_seen": "2026-10-15T20:34:22+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/auto/2175606/hyundai-diethneis-premieres-kai-rompotikes-technologies",
+   "title": "Hyundai: Διεθνείς πρεμιέρες και ρομποτικές τεχνολογίες",
+   "link": "https://www.naftemporiki.gr/auto/2175606/hyundai-diethneis-premieres-kai-rompotikes-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-diethneis-premieres-kai-rompotikes-technologies",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Τρεις σημαντικές παγκόσμιες πρεμιέρες παρουσίασε η Hyundai Motor Company στο Σαλόνι Αυτοκινήτου του Παρισιού, με κορυφαία στιγμή την παγκόσμια παρουσίαση του ολοκαίνουργιου BAYON. Παράλληλα με το νέο B-SUV, η Hyundai… Hyundai: Διεθνείς πρεμιέρες και ρομποτικές τεχνολογίες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-10-15T17:40:59+00:00"
+  },
   {
    "key": "url:https://techmaniacs.gr/dnt-proeidopoiisi-kras-metoches-ai-pagkosmies-agores",
    "title": "ΔΝΤ: Ένα κραχ στην AI θα φέρει παγκόσμια χρηματοπιστωτική αστάθεια",
@@ -263,32 +289,6 @@
    "first_seen": "2026-10-15T06:36:42+00:00"
   },
   {
-   "key": "url:https://techmaniacs.gr/kataskopeia-stin-openai-entopistike-systima-katagrafis",
-   "title": "Κατασκοπεία στην OpenAI: Εντοπίστηκε σύστημα καταγραφής",
-   "link": "https://techmaniacs.gr/kataskopeia-stin-openai-entopistike-systima-katagrafis/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Θυμίζει σενάριο κατασκοπευτικής ταινίας, εκτυλίχθηκε όμως στην καρδιά της Silicon Valley. Ένας 35χρονος μηχανικός της OpenAI συνελήφθη στις ΗΠΑ με την κατηγορία ότι παγίδευσε με κρυφό μικρόφωνο την αίθουσα όπου συνεδρίαζαν τα κορυφαία στελέχη της εταιρείας, υποκλέπτοντας άκρως απόρρητες συνομιλίες για το μέλλον της τεχνητής νοημοσύνης. Πρόκειται για τον Abdulrahman Alfozan, υπήκοο Σαουδικής Αραβίας, ο […] The post Κατασκοπεία στην OpenAI: Εντοπίστηκε σύστημα καταγραφής appeared first on Techmaniacs .",
-   "first_seen": "2026-10-14T20:13:14+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/tcl-5g-ai-cpe-x5-to-router-me-agentic-ai-poy-diacheirizetai-to-exypno-spiti",
-   "title": "TCL 5G AI CPE X5: Το router με Agentic AI που διαχειρίζεται το έξυπνο σπίτι",
-   "link": "https://techmaniacs.gr/tcl-5g-ai-cpe-x5-to-router-me-agentic-ai-poy-diacheirizetai-to-exypno-spiti/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η TCL παρουσίασε το νέο 5G AI CPE X5 στο Network X 2026, φέρνοντας την τεχνητή νοημοσύνη στην οικιακή σύνδεση στο Internet. Η συσκευή υπόσχεται αυτόματη βελτιστοποίηση του δικτύου, προτεραιότητα στις εφαρμογές που χρειάζονται χαμηλή καθυστέρηση (latency) και ευκολότερη αντιμετώπιση προβλημάτων, ενώ η εταιρεία σχεδιάζει να επεκτείνει τον ρόλο της και στη διαχείριση του έξυπνου […] The post TCL 5G AI CPE X5: Το router με Agentic AI που διαχειρίζεται το έξυπνο σπίτι appeared first on Techmaniacs .",
-   "first_seen": "2026-10-14T19:20:30+00:00"
-  },
-  {
    "key": "url:https://techgear.gr/rompotiko-cheri-ektelei-tachydaktyloyrgika-kolpa-me-apisteyti-epidexiotita-video-50936",
    "title": "Ρομποτικό χέρι εκτελεί ταχυδακτυλουργικά κόλπα με απίστευτη επιδεξιότητα [Video]",
    "link": "https://www.techgear.gr/rompotiko-cheri-ektelei-tachydaktyloyrgika-kolpa-me-apisteyti-epidexiotita-video-50936",
@@ -355,7 +355,7 @@
   },
   {
    "key": "url:https://meetup.com/gdg-cloud-thessaloniki/events/316964531",
-   "title": "Flutter on Autopilot: Agent Skills, MCP and an AI That Runs Your App",
+   "title": "Beyond the Terminal. Vibe Coding, Antigravity & the AI-First Developer",
    "link": "https://www.meetup.com/gdg-cloud-thessaloniki/events/316964531/",
    "kind": "events",
    "category": "Meetup",
@@ -363,7 +363,7 @@
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
    "starts": "2026-10-19T19:00:00+03:00",
    "location": "OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki",
-   "summary": "Flutter has quietly become one of the best frameworks to build with an AI agent. Google now ships official Agent Skills that teach it Flutter conventions, a Dart MCP server for the analyzer, tests and hot reload, and MCP tools that let it launch the app, tap through screens and take screenshots. Together, apart from writing code, the Agent runs the app, checks its own work and fixes what's wrong. We'll go through each piece, which skills, plugins and MCP servers are worth installing, and how they fit together. Then the demo: from an empty project, an agent builds an app with navigation, state and a backend call, drives it on an emulator to verify every screen, and ships feature end-to-end. W…",
+   "summary": "Are you still writing boilerplate by hand, or have you transitioned to orchestrating intelligence? The era of software development is undergoing a fundamental phase shift. With modern AI models, agentic IDEs, and code synthesizers handling complex context windows, the industry is moving rapidly toward **\"vibe coding\"**—a state of development where natural language, architecture design, and strategic iteration supersede tedious syntax management. Join **GDG Cloud Thessaloniki** for an evening focused on shedding development friction and unlocking **Antigravity**: the ability to launch ideas into production at unprecedented velocity without losing control over code quality, system design, or s…",
    "first_seen": "2026-10-14T12:00:28.322994+00:00"
   },
   {
@@ -463,8 +463,8 @@
    "link": "https://www.meetup.com/sooner-safer-happier-emea-bvssh/events/316601299/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-10-19T19:00:00+03:00",
    "location": "Online",
    "summary": "Many organizations have invested in product transformation to become more customer-focused, accelerate innovation, improve financial performance, and build more engaged teams. Yet the reality has often fallen short of expectations. Instead of acting as intrapreneurs and value creators, product managers often become trapped in coordinating stakeholder requests, managing feature backlogs, and firefighting delivery issues. Why does this happen? Is modern product management flawed? How does AI change the picture? And what has to be done to apply product management effectively in the age of AI? In Roman’s talk, he’ll share practical lessons from more than 15 years of helping organizations adopt a…",
@@ -489,25 +489,12 @@
    "link": "https://www.meetup.com/d-c_powerbi/events/316496738/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-10-27T20:00:00+02:00",
    "location": "Online",
    "summary": "AI can help us build dashboards faster than ever before. But faster does not automatically mean better. In this session, Marjolein Opsteegh shares practical examples of how she works together with AI while designing Power BI dashboards. You'll see where AI can save time, generate ideas, and challenge your thinking, but also where human judgment remains essential. The focus is not on writing DAX or creating visuals more quickly. It is about building dashboards that people can actually understand, interpret, and use to make decisions. Through real-world examples, you'll learn how AI can help improve report structure, navigation, storytelling, accessibility, and overall user experience. Whether…",
    "first_seen": "2026-10-12T10:59:02.244997+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/aws-user-group-athens/events/316227214",
-   "title": "[Professional] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
-   "link": "https://www.meetup.com/aws-user-group-athens/events/316227214/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-10T17:00:00+02:00",
-   "location": "",
-   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
-   "first_seen": "2026-10-11T19:35:25.872566+00:00"
   },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316649642",
@@ -562,39 +549,13 @@
    "first_seen": "2026-10-09T10:40:19.336259+00:00"
   },
   {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316712915",
-   "title": "🌙 Thursday Social Night | Meet New People in Athens@Mint bar",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316712915/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-15T20:30:00+03:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) 🤍 A new season of meeting people starts here. Coming alone? New in Athens? Shy or a little introverted? You’re exactly who we want to welcome. ✨ Every Thursday, we meet at Mint Bar for a relaxed social night where you can come alone, meet new people, and feel comfortable from the moment you arrive. No need to bring friends. No need to be super outgoing. Just come as you are. 🫶 🌍 Locals • Travellers • Expats • Couples • Friends • Solo people Everyone is welcome. Come for good conversati…",
-   "first_seen": "2026-10-09T01:15:22.264976+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316712897",
-   "title": "🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316712897/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-15T20:30:00+03:00",
-   "location": "Mint Music bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) 🤍 A new season of meeting people starts here. Coming alone? New in Athens? Shy or a little introverted? You’re exactly who we want to welcome. ✨ Every Thursday, we meet at Mint Bar for a relaxed social night where you can come alone, meet new people, and feel comfortable from the moment you arrive. No need to bring friends. No need to be super outgoing. Just come as you are. 🫶 🌍 Locals • Travellers • Expats • Couples • Friends • Solo people Everyone is welcome. Come for good conversati…",
-   "first_seen": "2026-10-09T01:15:22.264976+00:00"
-  },
-  {
    "key": "url:https://meetup.com/meetup-group-judpeflp/events/316655050",
    "title": "On-prem full-stack AI and vibe-coding panel discussion",
    "link": "https://www.meetup.com/meetup-group-judpeflp/events/316655050/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-10-27T19:00:00+02:00",
    "location": "Online",
    "summary": "## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…",

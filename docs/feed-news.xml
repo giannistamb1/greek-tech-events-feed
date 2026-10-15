@@ -6,8 +6,26 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Thu, 15 Oct 2026 17:06:39 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 21:28:42 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>Wall Street: Ανατροπή με θετικό κλείσιμο παρά το sell off στην τεχνολογία</title>
+<link>https://www.insider.gr/agores/428948/wall-street-anatropi-me-thetiko-kleisimo-para-sell-stin-tehnologia</link>
+<guid isPermaLink="false">url:https://insider.gr/agores/428948/wall-street-anatropi-me-thetiko-kleisimo-para-sell-stin-tehnologia</guid>
+<pubDate>Thu, 15 Oct 2026 20:34:22 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ανέτρεψαν τις αρχικές απώλειες οι βασικοί δείκτες της Wall Street, ολοκλήρωνοντας τη συνεδρίαση της ...&lt;/p&gt;</description>
+</item>
+<item>
+<title>Hyundai: Διεθνείς πρεμιέρες και ρομποτικές τεχνολογίες</title>
+<link>https://www.naftemporiki.gr/auto/2175606/hyundai-diethneis-premieres-kai-rompotikes-technologies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hyundai-diethneis-premieres-kai-rompotikes-technologies</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/auto/2175606/hyundai-diethneis-premieres-kai-rompotikes-technologies</guid>
+<pubDate>Thu, 15 Oct 2026 17:40:59 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Τρεις σημαντικές παγκόσμιες πρεμιέρες παρουσίασε η Hyundai Motor Company στο Σαλόνι Αυτοκινήτου του Παρισιού, με κορυφαία στιγμή την παγκόσμια παρουσίαση του ολοκαίνουργιου BAYON. Παράλληλα με το νέο B-SUV, η Hyundai… Hyundai: Διεθνείς πρεμιέρες και ρομποτικές τεχνολογίες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+</item>
 <item>
 <title>ΔΝΤ: Ένα κραχ στην AI θα φέρει παγκόσμια χρηματοπιστωτική αστάθεια</title>
 <link>https://techmaniacs.gr/dnt-proeidopoiisi-kras-metoches-ai-pagkosmies-agores/</link>
@@ -169,24 +187,6 @@
 <category>Enterprise IT</category>
 <source url="https://www.netweek.gr/feed/">Netweek</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Netweek · Enterprise IT&lt;/p&gt;&lt;p&gt;Η κβαντική απειλή αφορά ολόκληρη την αλυσίδα εμπιστοσύνης. Ηλεκτρονικές υπογραφές, σφραγίδες και χρονοσφραγίδες βασίζονται σε κλειδιά και αλγορίθμους που σύντομα θα θεωρούνται ευάλωτοι. Η προστασία των σημερινών εγγράφων πρέπει επομένως να αρχίσει πριν αυτοί πάψουν να θεωρούνται ασφαλείς.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Κατασκοπεία στην OpenAI: Εντοπίστηκε σύστημα καταγραφής</title>
-<link>https://techmaniacs.gr/kataskopeia-stin-openai-entopistike-systima-katagrafis/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/kataskopeia-stin-openai-entopistike-systima-katagrafis</guid>
-<pubDate>Wed, 14 Oct 2026 20:13:14 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Θυμίζει σενάριο κατασκοπευτικής ταινίας, εκτυλίχθηκε όμως στην καρδιά της Silicon Valley. Ένας 35χρονος μηχανικός της OpenAI συνελήφθη στις ΗΠΑ με την κατηγορία ότι παγίδευσε με κρυφό μικρόφωνο την αίθουσα όπου συνεδρίαζαν τα κορυφαία στελέχη της εταιρείας, υποκλέπτοντας άκρως απόρρητες συνομιλίες για το μέλλον της τεχνητής νοημοσύνης. Πρόκειται για τον Abdulrahman Alfozan, υπήκοο Σαουδικής Αραβίας, ο […] The post Κατασκοπεία στην OpenAI: Εντοπίστηκε σύστημα καταγραφής appeared first on Techmaniacs .&lt;/p&gt;</description>
-</item>
-<item>
-<title>TCL 5G AI CPE X5: Το router με Agentic AI που διαχειρίζεται το έξυπνο σπίτι</title>
-<link>https://techmaniacs.gr/tcl-5g-ai-cpe-x5-to-router-me-agentic-ai-poy-diacheirizetai-to-exypno-spiti/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/tcl-5g-ai-cpe-x5-to-router-me-agentic-ai-poy-diacheirizetai-to-exypno-spiti</guid>
-<pubDate>Wed, 14 Oct 2026 19:20:30 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Η TCL παρουσίασε το νέο 5G AI CPE X5 στο Network X 2026, φέρνοντας την τεχνητή νοημοσύνη στην οικιακή σύνδεση στο Internet. Η συσκευή υπόσχεται αυτόματη βελτιστοποίηση του δικτύου, προτεραιότητα στις εφαρμογές που χρειάζονται χαμηλή καθυστέρηση (latency) και ευκολότερη αντιμετώπιση προβλημάτων, ενώ η εταιρεία σχεδιάζει να επεκτείνει τον ρόλο της και στη διαχείριση του έξυπνου […] The post TCL 5G AI CPE X5: Το router με Agentic AI που διαχειρίζεται το έξυπνο σπίτι appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
 <title>Ρομποτικό χέρι εκτελεί ταχυδακτυλουργικά κόλπα με απίστευτη επιδεξιότητα [Video]</title>
