@@ -6,16 +6,25 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Fri, 16 Oct 2026 16:43:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 21:16:58 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>Marathon VC: Το στοίχημα των 75 εκατ. με νέες επενδύσεις σε AI και ρομποτική</title>
-<link>https://www.businessdaily.gr/oikonomia/238301_marathon-vc-me-75-ekat-sto-kynigi-ton-neon-eykairion-toy-ai</link>
-<guid isPermaLink="false">url:https://businessdaily.gr/oikonomia/238301_marathon-vc-me-75-ekat-sto-kynigi-ton-neon-eykairion-toy-ai</guid>
-<pubDate>Fri, 16 Oct 2026 14:58:58 +0000</pubDate>
+<title>Wall Street: Ισχυρές απώλειες με «βουτιά» στις τεχνολογικές μετοχές – Πάνω από 22 μονάδες ο VIX</title>
+<link>https://www.naftemporiki.gr/finance/markets/2176174/wall-street-ischyres-apoleies-me-voytia-stis-technologikes-metoches-pano-apo-22-monades-o-vix/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wall-street-ischyres-apoleies-me-voytia-stis-technologikes-metoches-pano-apo-22-monades-o-vix</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/finance/markets/2176174/wall-street-ischyres-apoleies-me-voytia-stis-technologikes-metoches-pano-apo-22-monades-o-vix</guid>
+<pubDate>Fri, 16 Oct 2026 21:00:29 +0000</pubDate>
 <category>Business &amp; tech media</category>
-<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Με έξι νέες επενδύσεις από το Marathon III των 75 εκατ. ευρώ, η Marathon VC στρέφεται σε AI και ρομποτική, πενταπλασιάζει τα αρχικά tickets και...&lt;/p&gt;</description>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Με πτώση έκλεισε τη σημερινή συνεδρίαση η Wall Street, καθώς οι επενδυτές ολοκλήρωσαν μια εβδομάδα με κυρίως απώλειες, απομακρυνόμενοι από τις τεχνολογικές μετοχές και τις εταιρείες που συνδέονται με την… Wall Street: Ισχυρές απώλειες με «βουτιά» στις τεχνολογικές μετοχές – Πάνω από 22 μονάδες ο VIX - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+</item>
+<item>
+<title>Μπορεί μια τεχνητή νοημοσύνη να έχει τη δική της αυθόρμητη «παιδική ηλικία»; Τι έδειξε το πείραμα του MIT</title>
+<link>https://www.techgear.gr/mporei-mia-techniti-noimosyni-na-echei-ti-diki-tis-aythormiti-paidiki-ilikia-ti-edeixe-to-peirama-toy-mit-50968</link>
+<guid isPermaLink="false">url:https://techgear.gr/mporei-mia-techniti-noimosyni-na-echei-ti-diki-tis-aythormiti-paidiki-ilikia-ti-edeixe-to-peirama-toy-mit-50968</guid>
+<pubDate>Fri, 16 Oct 2026 16:50:00 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://www.techgear.gr/">Techgear</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Μια νέα έρευνα του MIT (έγγραφο arXiv 2610.07130) εξέτασε τι συμβαίνει όταν 13 αυτόνομοι AI agents, βασισμένοι σε ένα μοντέλο υποβοήθησης ...&lt;/p&gt;</description>
 </item>
 <item>
 <title>Τesla: Αποκαλύφθηκε το νέο Roadster που… «πετάει» – Η φαντασμαγορική παρουσίαση στο Τέξας (vids)</title>
@@ -25,6 +34,15 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η Tesla αποκάλυψε το νέο Roadster με τεχνολογία της SpaceX. Δείτε πώς το ηλεκτρικό supercar εκτέλεσε άλματα στον αέρα και επιτάχυνση 0-97 χλμ/ώρα σε υπό 1''.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Μπορεί το κράτος να είναι ταυτόχρονα πελάτης και ανταγωνιστής στην αμυντική καινοτομία;</title>
+<link>https://startupper.gr/gnomes/281084/borei-to-kratos-na-einai-taftochrona-pelatis-kai-antagonistis-stin-amyntiki-kainotomia/</link>
+<guid isPermaLink="false">url:https://startupper.gr/gnomes/281084/borei-to-kratos-na-einai-taftochrona-pelatis-kai-antagonistis-stin-amyntiki-kainotomia</guid>
+<pubDate>Fri, 16 Oct 2026 10:52:03 +0000</pubDate>
+<category>Startups</category>
+<source url="https://startupper.gr/">Startupper</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Startupper · Startups&lt;/p&gt;&lt;p&gt;Η πρόσφατη παρουσίαση των νέων μη επανδρωμένων σκαφών επιφανείας του Πολεμικού Ναυτικού στον Σκαραμαγκά άνοιξε μια ουσιαστική συζήτηση στο εγχώριο οικοσύστημα τεχνολογίας και άμυνας. Στο επίκεντρο βρέθηκαν το σκάφος καμικάζι Πυρπολητής, το οποίο σχεδιάστηκε και κατασκευάστηκε εσωτερικά από το Πολεμικό Ναυτικό, καθώς και το αυτόνομο σκάφος Corsair της αμερικανικής εταιρείας Saronic, που έχει ιδρυτή τον […] The post Μπορεί το κράτος να είναι ταυτόχρονα πελάτης και ανταγωνιστής στην αμυντική καινοτομία; appeared first on STARTUPPER .&lt;/p&gt;</description>
 </item>
 <item>
 <title>Ανακοινώθηκε το Tesla Roadster που κυριολεκτικά πετάει!</title>
@@ -81,24 +99,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Παρουσιάστηκε η τελική, ανασχεδιασμένη έκδοση του Tesla Roadster με έντονες αισθητικές επιρροές από το Cybertruck και αυστηρά ...&lt;/p&gt;</description>
 </item>
 <item>
-<title>Apple: Εκδήλωση στις 28 Οκτωβρίου για MacBook Pro OLED με οθόνη αφής</title>
-<link>https://techblog.gr/computers/apple-ekdilosi-stis-28-oktovriou-gia-macbook-pro-oled-me-othoni-afis/</link>
-<guid isPermaLink="false">url:https://techblog.gr/computers/apple-ekdilosi-stis-28-oktovriou-gia-macbook-pro-oled-me-othoni-afis</guid>
-<pubDate>Thu, 15 Oct 2026 13:45:32 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techblog.gr/feed/">Techblog</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techblog · Tech media&lt;/p&gt;&lt;p&gt;Η Apple καλεί δημοσιογράφους σε εκδήλωση παρουσίασης για MacBook Pro με οθόνη αφής στο Λος Άντζελες στις 28 Οκτωβρίου 2026, σύμφωνα με τον Mark Gurman του Bloomberg. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Apple: Εκδήλωση στις 28 Οκτωβρίου για MacBook Pro OLED με οθόνη αφής )&lt;/p&gt;</description>
-</item>
-<item>
-<title>AI agent φέρεται να έσβησε ολόκληρη σεζόν ριάλιτι πριν την πρεμιέρα</title>
-<link>https://techblog.gr/software/ai-agent-feretai-na-esvise-olokliri-sezon-rialiti-prin-tin-premiera/</link>
-<guid isPermaLink="false">url:https://techblog.gr/software/ai-agent-feretai-na-esvise-olokliri-sezon-rialiti-prin-tin-premiera</guid>
-<pubDate>Thu, 15 Oct 2026 13:04:29 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techblog.gr/feed/">Techblog</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techblog · Tech media&lt;/p&gt;&lt;p&gt;Ένας AI agent φέρεται να έσβησε ολόκληρη τη νέα σεζόν του σουηδικού ριάλιτι «The Challenge Sverige», σύμφωνα με την εφημερίδα Aftonbladet. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( AI agent φέρεται να έσβησε ολόκληρη σεζόν ριάλιτι πριν την πρεμιέρα )&lt;/p&gt;</description>
-</item>
-<item>
 <title>Διέρρευσαν δεδομένα 8,8 εκατ. πολιτών στη Δανία - Ο κωδικός ασφαλείας ήταν το... 123456</title>
 <link>https://www.techgear.gr/dierreysan-dedomena-8-8-ekat-politon-sti-dania-o-kodikos-asfaleias-itan-to-123456-50946</link>
 <guid isPermaLink="false">url:https://techgear.gr/dierreysan-dedomena-8-8-ekat-politon-sti-dania-o-kodikos-asfaleias-itan-to-123456-50946</guid>
@@ -115,15 +115,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο Δήμος Αθηναίων ενεργοποίησε τη νέα ψηφιακή υπηρεσία, μέσω της οποίας οι δικαιούχοι υποβάλλουν αιτήσεις και δικαιολογητικά online. Ποιοι μπορούν να αποκτήσουν την κάρτα και τι ισχύει για τις μετακινήσεις τους εντός του Δακτυλίου.&lt;/p&gt;</description>
-</item>
-<item>
-<title>22 ερωτήσεις για 10 εβδομάδες: Τα AI chatbots έκαναν λάθη με σιγουριά</title>
-<link>https://techblog.gr/software/22-erotiseis-gia-10-evdomades-ta-ai-chatbots-ekanan-lathi-me-sigouria/</link>
-<guid isPermaLink="false">url:https://techblog.gr/software/22-erotiseis-gia-10-evdomades-ta-ai-chatbots-ekanan-lathi-me-sigouria</guid>
-<pubDate>Thu, 15 Oct 2026 09:45:18 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techblog.gr/feed/">Techblog</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techblog · Tech media&lt;/p&gt;&lt;p&gt;Η έκθεση της Full Fact για τα ChatGPT, Gemini, Claude, Grok και DeepSeek, που δημοσιεύτηκε στις 15 Οκτωβρίου 2026, βρήκε ότι τα AI chatbots δίνουν συχνά ξεπερασμένα ή… Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( 22 ερωτήσεις για 10 εβδομάδες: Τα AI chatbots έκαναν λάθη με σιγουριά )&lt;/p&gt;</description>
 </item>
 <item>
 <title>Ρομποτικό χέρι εκτελεί ταχυδακτυλουργικά κόλπα με απίστευτη επιδεξιότητα [Video]</title>
