@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-15T21:28:42.209686+00:00",
+ "built": "2026-10-16T04:38:33.417856+00:00",
  "items": [
+  {
+   "key": "url:https://techgear.gr/tesla-roadster-2026-paroysiastike-i-nea-ekdosi-kai-petaei-50956",
+   "title": "Tesla Roadster 2026: Παρουσιάστηκε η νέα έκδοση και... πετάει!",
+   "link": "https://www.techgear.gr/tesla-roadster-2026-paroysiastike-i-nea-ekdosi-kai-petaei-50956",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techgear",
+   "source_url": "https://www.techgear.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Σύνοψη Παρουσιάστηκε η τελική, ανασχεδιασμένη έκδοση του Tesla Roadster με έντονες αισθητικές επιρροές από το Cybertruck και αυστηρά ...",
+   "first_seen": "2026-10-16T04:20:00+00:00"
+  },
   {
    "key": "url:https://insider.gr/agores/428948/wall-street-anatropi-me-thetiko-kleisimo-para-sell-stin-tehnologia",
    "title": "Wall Street: Ανατροπή με θετικό κλείσιμο παρά το sell off στην τεχνολογία",
@@ -14,19 +27,6 @@
    "location": "",
    "summary": "Ανέτρεψαν τις αρχικές απώλειες οι βασικοί δείκτες της Wall Street, ολοκλήρωνοντας τη συνεδρίαση της ...",
    "first_seen": "2026-10-15T20:34:22+00:00"
-  },
-  {
-   "key": "url:https://naftemporiki.gr/auto/2175606/hyundai-diethneis-premieres-kai-rompotikes-technologies",
-   "title": "Hyundai: Διεθνείς πρεμιέρες και ρομποτικές τεχνολογίες",
-   "link": "https://www.naftemporiki.gr/auto/2175606/hyundai-diethneis-premieres-kai-rompotikes-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-diethneis-premieres-kai-rompotikes-technologies",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Τρεις σημαντικές παγκόσμιες πρεμιέρες παρουσίασε η Hyundai Motor Company στο Σαλόνι Αυτοκινήτου του Παρισιού, με κορυφαία στιγμή την παγκόσμια παρουσίαση του ολοκαίνουργιου BAYON. Παράλληλα με το νέο B-SUV, η Hyundai… Hyundai: Διεθνείς πρεμιέρες και ρομποτικές τεχνολογίες - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-10-15T17:40:59+00:00"
   },
   {
    "key": "url:https://techmaniacs.gr/dnt-proeidopoiisi-kras-metoches-ai-pagkosmies-agores",
