@@ -1,32 +1,19 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-16T11:31:42.028806+00:00",
+ "built": "2026-10-16T16:43:54.580642+00:00",
  "items": [
   {
-   "key": "url:https://meetup.com/stockholm-design-studio/events/316212048",
-   "title": "Designers Friday Fika",
-   "link": "https://www.meetup.com/stockholm-design-studio/events/316212048/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-16T15:00:00+03:00",
-   "location": "Online",
-   "summary": "*A weekly coffee, conversation, and creative exchange for UI/UX designers.* **Designers Friday Fika** is a weekly online meetup for UI/UX designers to step away from solo work, join a virtual space, and have real conversations about design. Every Friday, we gather on a video call and explore one design topic, question, trend, or problem together. No long presentations. No pressure to be an expert. Just designers sharing what they know, what they’ve learned, what they disagree with, and what they are currently figuring out. You can join from anywhere in the world. Turn your camera on or off, bring your coffee, and show up as you are. We might talk about why some beautiful interfaces are terri…",
-   "first_seen": "2026-10-16T11:31:42.028806+00:00"
-  },
-  {
-   "key": "url:https://naftemporiki.gr/kosmos/2175899/i-germania-tha-paroysiasei-ti-symfonia-me-ti-nvidia-ston-tomea-tis-ai-tin-epomeni-evdomada",
-   "title": "Η Γερμανία θα παρουσιάσει τη συμφωνία με τη Nvidia στον τομέα της AI την επόμενη εβδομάδα",
-   "link": "https://www.naftemporiki.gr/kosmos/2175899/i-germania-tha-paroysiasei-ti-symfonia-me-ti-nvidia-ston-tomea-tis-ai-tin-epomeni-evdomada/?utm_source=rss&utm_medium=rss&utm_campaign=i-germania-tha-paroysiasei-ti-symfonia-me-ti-nvidia-ston-tomea-tis-ai-tin-epomeni-evdomada",
+   "key": "url:https://businessdaily.gr/oikonomia/238301_marathon-vc-me-75-ekat-sto-kynigi-ton-neon-eykairion-toy-ai",
+   "title": "Marathon VC: Το στοίχημα των 75 εκατ. με νέες επενδύσεις σε AI και ρομποτική",
+   "link": "https://www.businessdaily.gr/oikonomia/238301_marathon-vc-me-75-ekat-sto-kynigi-ton-neon-eykairion-toy-ai",
    "kind": "news",
    "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
    "starts": null,
    "location": "",
-   "summary": "Η Γερμανία πρόκειται να ανακοινώσει την επόμενη εβδομάδα τη συμφωνία συνεργασίας με την αμερικανική εταιρεία κατασκευής τσιπ Nvidia, με στόχο την επέκταση της χρήσης της τεχνητής νοημοσύνης στη γερμανική βιομηχανία,… Η Γερμανία θα παρουσιάσει τη συμφωνία με τη Nvidia στον τομέα της AI την επόμενη εβδομάδα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-10-16T11:21:22+00:00"
+   "summary": "Με έξι νέες επενδύσεις από το Marathon III των 75 εκατ. ευρώ, η Marathon VC στρέφεται σε AI και ρομποτική, πενταπλασιάζει τα αρχικά tickets και...",
+   "first_seen": "2026-10-16T14:58:58+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/tesla-apokalifthike-to-neo-roadster-pou-petaei-i-fantasmagoriki-parousiasi-sto-texas",
@@ -40,32 +27,6 @@
    "location": "",
    "summary": "Η Tesla αποκάλυψε το νέο Roadster με τεχνολογία της SpaceX. Δείτε πώς το ηλεκτρικό supercar εκτέλεσε άλματα στον αέρα και επιτάχυνση 0-97 χλμ/ώρα σε υπό 1''.",
    "first_seen": "2026-10-16T11:00:09+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/gnomes/281084/borei-to-kratos-na-einai-taftochrona-pelatis-kai-antagonistis-stin-amyntiki-kainotomia",
-   "title": "Μπορεί το κράτος να είναι ταυτόχρονα πελάτης και ανταγωνιστής στην αμυντική καινοτομία;",
-   "link": "https://startupper.gr/gnomes/281084/borei-to-kratos-na-einai-taftochrona-pelatis-kai-antagonistis-stin-amyntiki-kainotomia/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η πρόσφατη παρουσίαση των νέων μη επανδρωμένων σκαφών επιφανείας του Πολεμικού Ναυτικού στον Σκαραμαγκά άνοιξε μια ουσιαστική συζήτηση στο εγχώριο οικοσύστημα τεχνολογίας και άμυνας. Στο επίκεντρο βρέθηκαν το σκάφος καμικάζι Πυρπολητής, το οποίο σχεδιάστηκε και κατασκευάστηκε εσωτερικά από το Πολεμικό Ναυτικό, καθώς και το αυτόνομο σκάφος Corsair της αμερικανικής εταιρείας Saronic, που έχει ιδρυτή τον […] The post Μπορεί το κράτος να είναι ταυτόχρονα πελάτης και ανταγωνιστής στην αμυντική καινοτομία; appeared first on STARTUPPER .",
-   "first_seen": "2026-10-16T10:52:03+00:00"
-  },
-  {
-   "key": "url:https://naftemporiki.gr/english/2175874/piraeus-container-terminal-wins-two-gold-awards-at-environmental-awards-2026",
-   "title": "Piraeus Container Terminal wins two gold awards at Environmental Awards 2026",
-   "link": "https://www.naftemporiki.gr/english/2175874/piraeus-container-terminal-wins-two-gold-awards-at-environmental-awards-2026/?utm_source=rss&utm_medium=rss&utm_campaign=piraeus-container-terminal-wins-two-gold-awards-at-environmental-awards-2026",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Piraeus Container Terminal (PCT), a subsidiary of COSCO SHIPPING Ports, has won two gold awards at the Environmental Awards 2026 for implementing innovative technologies that have helped reduce CO₂ emissions… Piraeus Container Terminal wins two gold awards at Environmental Awards 2026 - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-10-16T10:47:45+00:00"
   },
   {
    "key": "url:https://techmaniacs.gr/anakoinothike-to-tesla-roadster-poy-xeperna-ta-oria-tis-fysikis",
@@ -133,19 +94,6 @@
    "first_seen": "2026-10-16T07:29:30+00:00"
   },
   {
-   "key": "url:https://startupper.gr/news/281007/to-neo-tesla-roadster-eftase-proothitires-spacex-0-100-se-19-defterolepta-kai-9-chronia-kathysterisis",
-   "title": "Το νέο Tesla Roadster έφτασε και πετάει!",
-   "link": "https://startupper.gr/news/281007/to-neo-tesla-roadster-eftase-proothitires-spacex-0-100-se-19-defterolepta-kai-9-chronia-kathysterisis/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η φαντασμαγορική παρουσίαση του ηλεκτρικού supercar στις εγκαταστάσεις της SpaceX The post Το νέο Tesla Roadster έφτασε και πετάει! appeared first on STARTUPPER .",
-   "first_seen": "2026-10-16T06:03:08+00:00"
-  },
-  {
    "key": "url:https://techgear.gr/tesla-roadster-2026-paroysiastike-i-nea-ekdosi-kai-petaei-50956",
    "title": "Tesla Roadster 2026: Παρουσιάστηκε η νέα έκδοση και... πετάει!",
    "link": "https://www.techgear.gr/tesla-roadster-2026-paroysiastike-i-nea-ekdosi-kai-petaei-50956",
@@ -157,19 +105,6 @@
    "location": "",
    "summary": "Σύνοψη Παρουσιάστηκε η τελική, ανασχεδιασμένη έκδοση του Tesla Roadster με έντονες αισθητικές επιρροές από το Cybertruck και αυστηρά ...",
    "first_seen": "2026-10-16T04:20:00+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/all-connected/280957/panasonic-fernei-stin-evropi-ta-elafria-kai-anthektika-lets-note-me-to-fc7",
-   "title": "Η Panasonic φέρνει στην Ευρώπη τα ελαφριά και ανθεκτικά Let’s note με το FC7",
-   "link": "https://startupper.gr/all-connected/280957/panasonic-fernei-stin-evropi-ta-elafria-kai-anthektika-lets-note-me-to-fc7/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Panasonic λανσάρει στην Ευρώπη το Let’s note CF-FC7, το πρώτο επαγγελματικό laptop της σειράς Let’s note που διατίθεται στην ευρωπαϊκή αγορά. Το μοντέλο στοχεύει σε επαγγελματίες που μετακινούνται συχνά και αναζητούν ελαφρύ μηχάνημα με μεγάλη αυτονομία και αυξημένη αντοχή. Η Panasonic παρουσίασε το FC7 από το Βισμπάντεν της Γερμανίας και αναφέρει ότι η διαθεσιμότητά […] The post Η Panasonic φέρνει στην Ευρώπη τα ελαφριά και ανθεκτικά Let’s note με το FC7 appeared first on STARTUPPER .",
-   "first_seen": "2026-10-15T15:08:57+00:00"
   },
   {
    "key": "url:https://techblog.gr/computers/apple-ekdilosi-stis-28-oktovriou-gia-macbook-pro-oled-me-othoni-afis",
@@ -248,19 +183,6 @@
    "location": "",
    "summary": "Ο Δήμος Αθηναίων ενεργοποίησε τη νέα ψηφιακή υπηρεσία, μέσω της οποίας οι δικαιούχοι υποβάλλουν αιτήσεις και δικαιολογητικά online. Ποιοι μπορούν να αποκτήσουν την κάρτα και τι ισχύει για τις μετακινήσεις τους εντός του Δακτυλίου.",
    "first_seen": "2026-10-15T11:37:16.134001+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/dikaiosyni-techniti-noimosyni-se-728-dikastikes-aithouses-me-ergo-30-ekat-evro",
-   "title": "Δικαιοσύνη: Τεχνητή Νοημοσύνη σε 728 δικαστικές αίθουσες με έργο 30 εκατ. ευρώ",
-   "link": "https://www.ictplus.gr/dikaiosyni-techniti-noimosyni-se-728-dikastikes-aithouses-me-ergo-30-ekat-evro/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η αναβάθμιση της τεχνολογικής υποδομής των δικαστηρίων και η αξιοποίηση της τεχνητής νοημοσύνης για την παραγωγή δικαστικών πρακτικών περνούν σε νέα φάση, με το Υπουργείο Δικαιοσύνης να προωθεί έργο που αφορά 728 δικαστικές αίθουσες σε όλη τη χώρα. Η παρέμβαση συνδυάζει αναβάθμιση εξοπλισμού, λογισμικό αυτόματης αναγνώρισης ομιλίας και υπηρεσίες μετατροπής ηχητικών καταγραφών σε επεξεργασμένα κείμενα. […] Το άρθρο Δικαιοσύνη: Τεχνητή Νοημοσύνη σε 728 δικαστικές αίθουσες με έργο 30 εκατ. ευρώ εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-15T11:28:54+00:00"
   },
   {
    "key": "url:https://techblog.gr/software/22-erotiseis-gia-10-evdomades-ta-ai-chatbots-ekanan-lathi-me-sigouria",
@@ -411,8 +333,8 @@
    "link": "https://www.meetup.com/sooner-safer-happier-emea-bvssh/events/316601299/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
    "starts": "2026-10-19T19:00:00+03:00",
    "location": "Online",
    "summary": "Many organizations have invested in product transformation to become more customer-focused, accelerate innovation, improve financial performance, and build more engaged teams. Yet the reality has often fallen short of expectations. Instead of acting as intrapreneurs and value creators, product managers often become trapped in coordinating stakeholder requests, managing feature backlogs, and firefighting delivery issues. Why does this happen? Is modern product management flawed? How does AI change the picture? And what has to be done to apply product management effectively in the age of AI? In Roman’s talk, he’ll share practical lessons from more than 15 years of helping organizations adopt a…",
@@ -458,6 +380,19 @@
    "first_seen": "2026-10-10T21:49:18.278285+00:00"
   },
   {
+   "key": "url:https://meetup.com/aws-user-group-athens/events/316227211",
+   "title": "[ML Associate] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
+   "link": "https://www.meetup.com/aws-user-group-athens/events/316227211/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-09T17:00:00+02:00",
+   "location": "",
+   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
+   "first_seen": "2026-10-10T17:22:19.663455+00:00"
+  },
+  {
    "key": "url:https://meetup.com/aws-user-group-athens/events/316227206",
    "title": "[AI Practitioner] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
    "link": "https://www.meetup.com/aws-user-group-athens/events/316227206/",
@@ -481,6 +416,19 @@
    "starts": "2026-10-23T19:00:00+03:00",
    "location": "",
    "summary": "**Prompt It. Ship It. Track It. Apps on Microsoft Fabric** Description: What if building a business app was as easy as describing it? In this fast-paced 1-hour session, we'll show how Fabric Apps lets you go from idea to a running app directly inside Microsoft Fabric. You'll see how to prompt an AI assistant to create the app, ship it to Fabric in minutes without managing any infrastructure, and track what matters, with your app's data instantly ready for dashboards, AI and automation. Through a live demo, you'll see how apps, data and AI finally come together in one place, and you'll leave with practical ideas to start building your own. Whether you work in data, development or business, th…",
+   "first_seen": "2026-10-09T10:40:19.336259+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/european-software-crafters/events/316894439",
+   "title": "/human-review - Tools & Guardrails for Agentic Engineers",
+   "link": "https://www.meetup.com/european-software-crafters/events/316894439/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-30T12:30:00+02:00",
+   "location": "Online",
+   "summary": "At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a \"Frustrated / Creative Users Follow-up Meeting\" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…",
    "first_seen": "2026-10-09T10:40:19.336259+00:00"
   },
   {
@@ -569,7 +517,7 @@
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-17T11:00:00+03:00",
+   "starts": "2026-10-17T10:30:00+03:00",
    "location": "fromScratch Studio, Themistokli Sofouli 70Α, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki",
    "summary": "Welp, it is finally time! After the summer break, we're back, and we're teaming up with the **Hacktoberfest** event hosted by **fromScratch Studio** at their HQ in Thessaloniki (**Themistokli Sofouli 70Α**). For those who may not know already, **Hacktoberfest** is a month-long celebration of open source throughout October. This year, it’s all about building with **open-weight models** and **open-source AI**. The Practical AI will kick off the event with a dedicated presentation by our co-organizer, **George Kamtziridis**, on how **coding agents** are affecting **production environments** and what we've learned from their use so far. Coding agents have changed the way we write software. They …",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"

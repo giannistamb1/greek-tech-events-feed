@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-16T11:31:42.028806+00:00",
-  "items": 49,
+  "built": "2026-10-16T16:43:54.580642+00:00",
+  "items": 45,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -46,14 +46,14 @@
     },
     {
       "name": "Startupper",
-      "fetched": 10,
-      "kept": 3,
-      "error": ""
+      "fetched": 0,
+      "kept": 0,
+      "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "name": "ICT Plus",
       "fetched": 21,
-      "kept": 5,
+      "kept": 4,
       "error": ""
     },
     {
@@ -77,7 +77,7 @@
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 2,
+      "kept": 0,
       "error": ""
     },
     {
@@ -88,14 +88,14 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 201,
+      "fetched": 227,
       "kept": 5,
       "error": ""
     },
     {
       "name": "Business Daily",
       "fetched": 40,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
