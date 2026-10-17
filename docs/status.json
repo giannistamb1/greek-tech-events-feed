@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-17T20:40:44.599335+00:00",
-  "items": 46,
+  "built": "2026-10-17T23:10:10.192214+00:00",
+  "items": 45,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -35,7 +35,7 @@
     {
       "name": "Stayhappening — Athens",
       "fetched": 100,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {

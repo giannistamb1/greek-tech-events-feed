@@ -1,6 +1,6 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-17T20:40:44.599335+00:00",
+ "built": "2026-10-17T23:10:10.192214+00:00",
  "items": [
   {
    "key": "url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838",
@@ -571,19 +571,6 @@
    "source_url": "https://www.stayhappening.com/athens",
    "starts": "2026-12-05T00:00:00+02:00",
    "location": "Telekom Center Athens, Λεωφόρος Ολυμπιονίκη Σπύρου Λούη, κλειστό γήπεδο μπάσκετ \"Telekom Center Athens\", Amaroúsion, Greece, Athens",
-   "summary": "",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
-   "key": "url:https://stayhappening.com/e/hotel-experience-vol3-E2ISYWL7WHB",
-   "title": "Hotel Experience Vol.3",
-   "link": "https://stayhappening.com/e/hotel-experience-vol3-E2ISYWL7WHB",
-   "kind": "events",
-   "category": "Aggregator",
-   "source": "Stayhappening — Athens",
-   "source_url": "https://www.stayhappening.com/athens",
-   "starts": "2026-10-17T00:00:00+03:00",
-   "location": "Τεχνόπολη Δήμου Αθηναίων - Technopolis City of Athens (Athens, Greece), Πειραιώς 100,Athens, Greece, Athens",
    "summary": "",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
