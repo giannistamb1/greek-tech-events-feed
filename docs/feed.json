@@ -1,19 +1,32 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-17T15:40:47.276415+00:00",
+ "built": "2026-10-17T20:40:44.599335+00:00",
  "items": [
   {
-   "key": "url:https://meetup.com/london-business-analytics-group/events/316775954",
-   "title": "How to Tell a Clear Story with Data",
-   "link": "https://www.meetup.com/london-business-analytics-group/events/316775954/",
+   "key": "url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838",
+   "title": "Hack The Box Meetup #10 Sudo Make Me a Sandwich: Jailbreaking LLMs",
+   "link": "https://www.meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-28T20:00:00+02:00",
+   "starts": "2026-10-24T19:00:00+03:00",
    "location": "Online",
-   "summary": "Tom provides a framework that analysts can use to help structure their analytical findings into more of a story/coherent format so that it has a bigger impact. He will then also talk through a real-life example for each pillar of the framework. This is a short 20 minute talk followed by 5-10 minutes of Q&A. Tom is a Senior Commercial Analytics Manager with a background in turning data into commercially useful insight. He also speaks regularly through Toastmasters and is particularly interested in helping analysts communicate complex ideas more simply and effectively.",
-   "first_seen": "2026-10-17T15:40:47.276415+00:00"
+   "summary": "AI is showing up in every app we use, and it brings new attack surfaces with it. In this beginner-friendly, hands-on session, we'll break down how AI-powered applications can be attacked and defended, starting with prompt injection and jailbreaking. Using live Hack The Box challenges, we'll see how these attacks work in practice and what developers can do to mitigate them. No prior AI knowledge needed, just curiosity and a laptop. Speaker: Lentine Khakai (Kai) Cybersecurity professional, CTF player, and challenge creator at p3rf3ctr00t. Ambassador for HTB Kenya, part of one of Nairobi’s most active security communities. Date: Saturday, October 24, 2026 Time: 4:00PM GMT (4:00 PM Morocco / 7:0…",
+   "first_seen": "2026-10-17T20:40:44.599335+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/politiki/238641_i-thessaloniki-exelissetai-se-diethni-kombo-kainotomias-kai-tehnologias",
+   "title": "Στ. Καλαφάτης: Η Θεσσαλονίκη γίνεται Πρωτεύουσα Καινοτομίας με υποδομές",
+   "link": "https://www.businessdaily.gr/politiki/238641_i-thessaloniki-exelissetai-se-diethni-kombo-kainotomias-kai-tehnologias?utm_source=Feedelio&utm_medium=News&utm_campaign=APE-MPE&utm_content=auto",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Ο υφυπουργός Σταύρος Καλαφάτης τόνισε σε εκδήλωση στο ΝΟΗΣΙΣ ότι η Θεσσαλονίκη και η Βόρεια Ελλάδα μετατρέπονται σε διεθνή κόμβο τεχνολογίας και...",
+   "first_seen": "2026-10-17T16:24:59+00:00"
   },
   {
    "key": "url:https://techblog.gr/cars/tesla-roadster-me-proothitires-spacex-aftokinito-i-diastimoploio",
@@ -105,19 +118,6 @@
    "location": "",
    "summary": "Από 16 Νοεμβρίου 2026 οι πάροχοι πρέπει να διαθέτουν κινητά έως 70 ευρώ σε άτομα με αναπηρία 67%+. Ποιοι τα δικαιούνται και πώς γίνεται η αίτηση. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Κινητά έως 70€ για άτομα με αναπηρία: Τι ισχύει από τις 16 Νοεμβρίου 2026 )",
    "first_seen": "2026-10-17T08:00:42+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/telekom-prosfores-foritotitas-retention-tilefonia-eett",
-   "title": "Telekom: Νέα αγγελία εργασίας επιβεβαιώνει την απόλυτη δύναμη της φορητότητας",
-   "link": "https://techmaniacs.gr/telekom-prosfores-foritotitas-retention-tilefonia-eett/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η διατήρηση των υφιστάμενων συνδρομητών αποτελεί προτεραιότητα για όλες τις εταιρείες κινητής και σταθερής τηλεφωνίας στην Ελλάδα. Μια πρόσφατη αγγελία εργασίας που δημοσιεύτηκε στην πλατφόρμα kariera.gr στις 13 Οκτωβρίου 2026 υπενθυμίζει με τον πιο χαρακτηριστικό τρόπο τον βασικό άτυπο κανόνα της τηλεπικοινωνιακής αγοράς: τη δύναμη της διαπραγμάτευσης. Στην πράξη, η υποβολή μιας αίτησης φορητότητας προς […] The post Telekom: Νέα αγγελία εργασίας επιβεβαιώνει την απόλυτη δύναμη της φορητότητας appeared first on Techmaniacs .",
-   "first_seen": "2026-10-17T07:43:48+00:00"
   },
   {
    "key": "url:https://techgear.gr/mporei-mia-techniti-noimosyni-na-echei-ti-diki-tis-aythormiti-paidiki-ilikia-ti-edeixe-to-peirama-toy-mit-50968",
@@ -359,8 +359,8 @@
    "link": "https://www.meetup.com/sooner-safer-happier-emea-bvssh/events/316601299/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
    "starts": "2026-10-19T19:00:00+03:00",
    "location": "Online",
    "summary": "Many organizations have invested in product transformation to become more customer-focused, accelerate innovation, improve financial performance, and build more engaged teams. Yet the reality has often fallen short of expectations. Instead of acting as intrapreneurs and value creators, product managers often become trapped in coordinating stakeholder requests, managing feature backlogs, and firefighting delivery issues. Why does this happen? Is modern product management flawed? How does AI change the picture? And what has to be done to apply product management effectively in the age of AI? In Roman’s talk, he’ll share practical lessons from more than 15 years of helping organizations adopt a…",
@@ -406,30 +406,43 @@
    "first_seen": "2026-10-12T10:59:02.244997+00:00"
   },
   {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316739130",
-   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316739130/",
+   "key": "url:https://meetup.com/aws-user-group-athens/events/316227214",
+   "title": "[Professional] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
+   "link": "https://www.meetup.com/aws-user-group-athens/events/316227214/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Athens tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-17T21:30:00+03:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-10-11T12:58:37.193363+00:00"
+   "starts": "2026-11-10T17:00:00+02:00",
+   "location": "",
+   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
+   "first_seen": "2026-10-11T19:35:25.872566+00:00"
   },
   {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316649642",
-   "title": "Saturday Social at Mint Bar – International Mingle event",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316649642/",
+   "key": "url:https://meetup.com/aws-user-group-athens/events/316227211",
+   "title": "[ML Associate] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
+   "link": "https://www.meetup.com/aws-user-group-athens/events/316227211/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Athens tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-17T21:30:00+03:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-10-10T21:49:18.278285+00:00"
+   "starts": "2026-11-09T17:00:00+02:00",
+   "location": "",
+   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
+   "first_seen": "2026-10-10T17:22:19.663455+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/aws-user-group-athens/events/316227206",
+   "title": "[AI Practitioner] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
+   "link": "https://www.meetup.com/aws-user-group-athens/events/316227206/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-08T17:00:00+02:00",
+   "location": "",
+   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
+   "first_seen": "2026-10-09T18:23:50.119653+00:00"
   },
   {
    "key": "url:https://meetup.com/thessaloniki-net-meetup/events/316894632",
@@ -484,19 +497,6 @@
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
-   "key": "url:https://meetup.com/react-athens-meetup/events/316857007",
-   "title": "CityJS Athens - Pre Conference Meetup",
-   "link": "https://www.meetup.com/react-athens-meetup/events/316857007/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-22T19:00:00+03:00",
-   "location": "Agiou Markou 22, Agiou Markou 22, Athina 105 60, Greece, Athina, Athina",
-   "summary": "Dear all we are pleased to add one more meetup for our attendees the day before the conference. We will have at the moment two talks and the meetup will last from 7-9pm. Free Pizza and Food from our sponsors Devin and hosted by SuiHub Athens - [Agiou Markou 22, Athina 105 60](https://www.google.com/maps/place//data=!4m2!3m1!1s0x14a1bd0054faba93:0x87c73948f1e3d0e4?sa=X&ved=1t:8290&ictx=111) **7:00 -** Doors Open - Networking Pizza and Drinks served **7:00 - 7:30** Manifesting a brighter future by cutting out the middlemen // David Mark Clements Tether **7:30 - 8:00** Build Faster with Devin: AI-Powered Software Development // Erasmo Hernández - Devin **8:00 - 8:30 - TBC** **9:00** \\- Late Dri…",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
    "key": "url:https://meetup.com/mindstone-athens-practicalai-meetup/events/316745991",
    "title": "Mindstone Athens October AI Meetup",
    "link": "https://www.meetup.com/mindstone-athens-practicalai-meetup/events/316745991/",
@@ -507,6 +507,19 @@
    "starts": "2026-10-19T18:30:00+03:00",
    "location": "Epignosis HQ, Likourgou 1, Athina 105 51, Greece, Athens, Athens",
    "summary": "Welcome to the most electrifying and ground-breaking AI Meetup in Athens! Join us once a month as we delve into the world of artificial intelligence, explore its cutting-edge practical applications, and marvel at the astonishing projects that are shaping our future. Why should you attend? • Get up close and personal with the AI projects that are redefining the boundaries of technology and human potential. • Learn from the brightest minds in the field and gain valuable insights into the ever-evolving AI landscape. • Unleash your curiosity, fuel your creativity, and expand your network as you connect with fellow AI aficionados and pioneers. What you can expect? Mindstone events consist of thre…",
+   "first_seen": "2026-10-08T10:58:00.575311+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/react-athens-meetup/events/316857007",
+   "title": "CityJS Athens - Pre Conference Meetup",
+   "link": "https://www.meetup.com/react-athens-meetup/events/316857007/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-10-22T19:00:00+03:00",
+   "location": "Agiou Markou 22, Agiou Markou 22, Athina 105 60, Greece, Athina, Athina",
+   "summary": "Dear all we are pleased to add one more meetup for our attendees the day before the conference. We will have at the moment two talks and the meetup will last from 7-9pm. Free Pizza and Food from our sponsors Devin and hosted by SuiHub Athens - [Agiou Markou 22, Athina 105 60](https://www.google.com/maps/place//data=!4m2!3m1!1s0x14a1bd0054faba93:0x87c73948f1e3d0e4?sa=X&ved=1t:8290&ictx=111) **7:00 -** Doors Open - Networking Pizza and Drinks served **7:00 - 7:30** Manifesting a brighter future by cutting out the middlemen // David Mark Clements Tether **7:30 - 8:00** Build Faster with Devin: AI-Powered Software Development // Erasmo Hernández - Devin **8:00 - 8:30 - TBC** **9:00** \\- Late Dri…",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {

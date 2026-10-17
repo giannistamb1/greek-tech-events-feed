@@ -6,16 +6,16 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 15:40:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 20:40:44 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>[28 Oct] How to Tell a Clear Story with Data</title>
-<link>https://www.meetup.com/london-business-analytics-group/events/316775954/</link>
-<guid isPermaLink="false">url:https://meetup.com/london-business-analytics-group/events/316775954</guid>
-<pubDate>Sat, 17 Oct 2026 15:40:47 +0000</pubDate>
+<title>[24 Oct] Hack The Box Meetup #10 Sudo Make Me a Sandwich: Jailbreaking LLMs</title>
+<link>https://www.meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838/</link>
+<guid isPermaLink="false">url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838</guid>
+<pubDate>Sat, 17 Oct 2026 20:40:44 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 28 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Tom provides a framework that analysts can use to help structure their analytical findings into more of a story/coherent format so that it has a bigger impact. He will then also talk through a real-life example for each pillar of the framework. This is a short 20 minute talk followed by 5-10 minutes of Q&amp;amp;A. Tom is a Senior Commercial Analytics Manager with a background in turning data into commercially useful insight. He also speaks regularly through Toastmasters and is particularly interested in helping analysts communicate complex ideas more simply and effectively.&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 24 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;AI is showing up in every app we use, and it brings new attack surfaces with it. In this beginner-friendly, hands-on session, we'll break down how AI-powered applications can be attacked and defended, starting with prompt injection and jailbreaking. Using live Hack The Box challenges, we'll see how these attacks work in practice and what developers can do to mitigate them. No prior AI knowledge needed, just curiosity and a laptop. Speaker: Lentine Khakai (Kai) Cybersecurity professional, CTF player, and challenge creator at p3rf3ctr00t. Ambassador for HTB Kenya, part of one of Nairobi’s most active security communities. Date: Saturday, October 24, 2026 Time: 4:00PM GMT (4:00 PM Morocco / 7:0…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[13 Nov] MoT Athens #19: Chaos Testing, Contract Testing &amp; AI Agents</title>
@@ -77,8 +77,8 @@
 <guid isPermaLink="false">url:https://meetup.com/sooner-safer-happier-emea-bvssh/events/316601299</guid>
 <pubDate>Tue, 13 Oct 2026 06:51:25 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 19 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Many organizations have invested in product transformation to become more customer-focused, accelerate innovation, improve financial performance, and build more engaged teams. Yet the reality has often fallen short of expectations. Instead of acting as intrapreneurs and value creators, product managers often become trapped in coordinating stakeholder requests, managing feature backlogs, and firefighting delivery issues. Why does this happen? Is modern product management flawed? How does AI change the picture? And what has to be done to apply product management effectively in the age of AI? In Roman’s talk, he’ll share practical lessons from more than 15 years of helping organizations adopt a…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 19 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Many organizations have invested in product transformation to become more customer-focused, accelerate innovation, improve financial performance, and build more engaged teams. Yet the reality has often fallen short of expectations. Instead of acting as intrapreneurs and value creators, product managers often become trapped in coordinating stakeholder requests, managing feature backlogs, and firefighting delivery issues. Why does this happen? Is modern product management flawed? How does AI change the picture? And what has to be done to apply product management effectively in the age of AI? In Roman’s talk, he’ll share practical lessons from more than 15 years of helping organizations adopt a…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[27 Oct] Advanced Cloud Architecture &amp; DevOps CICD Pipeline Process</title>
@@ -99,22 +99,31 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;AI can help us build dashboards faster than ever before. But faster does not automatically mean better. In this session, Marjolein Opsteegh shares practical examples of how she works together with AI while designing Power BI dashboards. You'll see where AI can save time, generate ideas, and challenge your thinking, but also where human judgment remains essential. The focus is not on writing DAX or creating visuals more quickly. It is about building dashboards that people can actually understand, interpret, and use to make decisions. Through real-world examples, you'll learn how AI can help improve report structure, navigation, storytelling, accessibility, and overall user experience. Whether…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[17 Oct] Saturday Social at Mint Bar – Meet, Talk &amp; See Where the Night Goes</title>
-<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316739130/</link>
-<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316739130</guid>
-<pubDate>Sun, 11 Oct 2026 12:58:37 +0000</pubDate>
+<title>[10 Nov] [Professional] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026</title>
+<link>https://www.meetup.com/aws-user-group-athens/events/316227214/</link>
+<guid isPermaLink="false">url:https://meetup.com/aws-user-group-athens/events/316227214</guid>
+<pubDate>Sun, 11 Oct 2026 19:35:25 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 17 October 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 17:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[17 Oct] Saturday Social at Mint Bar – International Mingle event</title>
-<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316649642/</link>
-<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316649642</guid>
-<pubDate>Sat, 10 Oct 2026 21:49:18 +0000</pubDate>
+<title>[09 Nov] [ML Associate] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026</title>
+<link>https://www.meetup.com/aws-user-group-athens/events/316227211/</link>
+<guid isPermaLink="false">url:https://meetup.com/aws-user-group-athens/events/316227211</guid>
+<pubDate>Sat, 10 Oct 2026 17:22:19 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 17 October 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 17:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[08 Nov] [AI Practitioner] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026</title>
+<link>https://www.meetup.com/aws-user-group-athens/events/316227206/</link>
+<guid isPermaLink="false">url:https://meetup.com/aws-user-group-athens/events/316227206</guid>
+<pubDate>Fri, 09 Oct 2026 18:23:50 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 08 November 2026, 17:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[23 Oct] Prompt It. Ship It. Track It. Apps on Microsoft Fabric</title>
@@ -153,15 +162,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 21 October 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Epignosis, Likourgou 1, Athina 105 51, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;👋 Hello guys and gals, 👋 🎉🎉🎉 Summer is over — we already ready for our new season 🎉🎉🎉 Doors open at 18:00, and your **ID is required** for entrance. 18:00 - 19:00 - Gathering and welcome from the organizers. 19:00 - 19:30 -Cracking the Code: Salaries &amp;amp; the Gender Pay Gap in Greek Tech / Anastasia Karagkiozoglou 19:30 - 20:00 -Inside My Real Claude Code Workflow: Commands, Voice, Memory, and Building Your Own Agents // Yaroslav Matushevych 20:00 - 20:30 - AI Governance for Engineers: Mapping Real Risk Under the EU AI Act // Christos Makris, Konstantinos Anagnostopoulos 20:30 - 21:00 - To Infer or not to Infer - The Local LLM Dilemma // Athanasios Zografos This is an event prioritised for our …&lt;/p&gt;</description>
 </item>
 <item>
-<title>[22 Oct] CityJS Athens - Pre Conference Meetup</title>
-<link>https://www.meetup.com/react-athens-meetup/events/316857007/</link>
-<guid isPermaLink="false">url:https://meetup.com/react-athens-meetup/events/316857007</guid>
-<pubDate>Thu, 08 Oct 2026 10:58:00 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 22 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Agiou Markou 22, Agiou Markou 22, Athina 105 60, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Dear all we are pleased to add one more meetup for our attendees the day before the conference. We will have at the moment two talks and the meetup will last from 7-9pm. Free Pizza and Food from our sponsors Devin and hosted by SuiHub Athens - [Agiou Markou 22, Athina 105 60](https://www.google.com/maps/place//data=!4m2!3m1!1s0x14a1bd0054faba93:0x87c73948f1e3d0e4?sa=X&amp;amp;ved=1t:8290&amp;amp;ictx=111) **7:00 -** Doors Open - Networking Pizza and Drinks served **7:00 - 7:30** Manifesting a brighter future by cutting out the middlemen // David Mark Clements Tether **7:30 - 8:00** Build Faster with Devin: AI-Powered Software Development // Erasmo Hernández - Devin **8:00 - 8:30 - TBC** **9:00** \- Late Dri…&lt;/p&gt;</description>
-</item>
-<item>
 <title>[19 Oct] Mindstone Athens October AI Meetup</title>
 <link>https://www.meetup.com/mindstone-athens-practicalai-meetup/events/316745991/</link>
 <guid isPermaLink="false">url:https://meetup.com/mindstone-athens-practicalai-meetup/events/316745991</guid>
@@ -169,6 +169,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 19 October 2026, 18:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Epignosis HQ, Likourgou 1, Athina 105 51, Greece, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Welcome to the most electrifying and ground-breaking AI Meetup in Athens! Join us once a month as we delve into the world of artificial intelligence, explore its cutting-edge practical applications, and marvel at the astonishing projects that are shaping our future. Why should you attend? • Get up close and personal with the AI projects that are redefining the boundaries of technology and human potential. • Learn from the brightest minds in the field and gain valuable insights into the ever-evolving AI landscape. • Unleash your curiosity, fuel your creativity, and expand your network as you connect with fellow AI aficionados and pioneers. What you can expect? Mindstone events consist of thre…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[22 Oct] CityJS Athens - Pre Conference Meetup</title>
+<link>https://www.meetup.com/react-athens-meetup/events/316857007/</link>
+<guid isPermaLink="false">url:https://meetup.com/react-athens-meetup/events/316857007</guid>
+<pubDate>Thu, 08 Oct 2026 10:58:00 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 22 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Agiou Markou 22, Agiou Markou 22, Athina 105 60, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Dear all we are pleased to add one more meetup for our attendees the day before the conference. We will have at the moment two talks and the meetup will last from 7-9pm. Free Pizza and Food from our sponsors Devin and hosted by SuiHub Athens - [Agiou Markou 22, Athina 105 60](https://www.google.com/maps/place//data=!4m2!3m1!1s0x14a1bd0054faba93:0x87c73948f1e3d0e4?sa=X&amp;amp;ved=1t:8290&amp;amp;ictx=111) **7:00 -** Doors Open - Networking Pizza and Drinks served **7:00 - 7:30** Manifesting a brighter future by cutting out the middlemen // David Mark Clements Tether **7:30 - 8:00** Build Faster with Devin: AI-Powered Software Development // Erasmo Hernández - Devin **8:00 - 8:30 - TBC** **9:00** \- Late Dri…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[21 Oct] CityJS Athens 2026</title>
