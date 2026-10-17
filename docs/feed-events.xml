@@ -6,16 +6,16 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sat, 17 Oct 2026 10:51:31 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 15:40:47 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>[17 Oct] WhatsApp Application Software Architecture</title>
-<link>https://www.meetup.com/software-architecture-or-system-design-training/events/316821831/</link>
-<guid isPermaLink="false">url:https://meetup.com/software-architecture-or-system-design-training/events/316821831</guid>
-<pubDate>Sat, 17 Oct 2026 10:51:31 +0000</pubDate>
+<title>[28 Oct] How to Tell a Clear Story with Data</title>
+<link>https://www.meetup.com/london-business-analytics-group/events/316775954/</link>
+<guid isPermaLink="false">url:https://meetup.com/london-business-analytics-group/events/316775954</guid>
+<pubDate>Sat, 17 Oct 2026 15:40:47 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 17 October 2026, 18:15&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Join us for an in-depth discussion on how ,WhatsApp Application Architecture works. Please forward this event to your friends, colleagues, WhatsApp groups,facebook-groups,etc,etc. We will discuss how WhatsApp scales to millions of users across the globe, how its core Architecture/Functionality works, how its Architecture is so reliable, flexible,etc and several other points Come network with like-minded professionals, exchange ideas, and enhance your knowledge in software architecture and system design. Whether you are interested in open source projects, exploring new technologies, or simply looking to connect with fellow internet professionals, this event is a must-attend for anyone seeking…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 28 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Tom provides a framework that analysts can use to help structure their analytical findings into more of a story/coherent format so that it has a bigger impact. He will then also talk through a real-life example for each pillar of the framework. This is a short 20 minute talk followed by 5-10 minutes of Q&amp;amp;A. Tom is a Senior Commercial Analytics Manager with a background in turning data into commercially useful insight. He also speaks regularly through Toastmasters and is particularly interested in helping analysts communicate complex ideas more simply and effectively.&lt;/p&gt;</description>
 </item>
 <item>
 <title>[13 Nov] MoT Athens #19: Chaos Testing, Contract Testing &amp; AI Agents</title>
@@ -79,6 +79,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 19 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Many organizations have invested in product transformation to become more customer-focused, accelerate innovation, improve financial performance, and build more engaged teams. Yet the reality has often fallen short of expectations. Instead of acting as intrapreneurs and value creators, product managers often become trapped in coordinating stakeholder requests, managing feature backlogs, and firefighting delivery issues. Why does this happen? Is modern product management flawed? How does AI change the picture? And what has to be done to apply product management effectively in the age of AI? In Roman’s talk, he’ll share practical lessons from more than 15 years of helping organizations adopt a…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[27 Oct] Advanced Cloud Architecture &amp; DevOps CICD Pipeline Process</title>
+<link>https://www.meetup.com/malta-microsoft-ai-user-group/events/316863015/</link>
+<guid isPermaLink="false">url:https://meetup.com/malta-microsoft-ai-user-group/events/316863015</guid>
+<pubDate>Tue, 13 Oct 2026 06:51:25 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;This advanced session examines enterprise-grade AI architecture and how pipelines securely move applications from code commit to production, including automated testing, artefact management, containerisation, security scanning, Kubernetes deployment, workload identity, observability, rollback, performance optimisation, and troubleshooting. Speaker: Imoh Etuk Watch live: https://www.youtube.com/watch?v=_Xw7ia6Eyd4 View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-2a159350-2fbf-45f2-89e3-d0d9172bf520&lt;/p&gt;</description>
 </item>
 <item>
 <title>[27 Oct] Working with AI to Build Dashboards People Understand | Marjolein Opsteegh</title>
