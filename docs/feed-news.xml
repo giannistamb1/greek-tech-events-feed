@@ -6,8 +6,26 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sun, 18 Oct 2026 11:15:47 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 15:55:34 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>Μητσοτάκης: Θα παραβρεθεί στην εκδήλωση για τα εγκαίνια του Υπερυπολογιστή «Δαίδαλος»</title>
+<link>https://www.insider.gr/eidiseis/429214/mitsotakis-tha-parabrethei-stin-ekdilosi-gia-ta-egkainia-toy-yperypologisti</link>
+<guid isPermaLink="false">url:https://insider.gr/eidiseis/429214/mitsotakis-tha-parabrethei-stin-ekdilosi-gia-ta-egkainia-toy-yperypologisti</guid>
+<pubDate>Sun, 18 Oct 2026 13:47:28 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Τα εγκαίνια του Υπερυπολογιστή «Δαίδαλος», θα λάβουν τόπο στο Τεχνολογικό Πολιτιστικό Πάρκο Λαυρίου ...&lt;/p&gt;</description>
+</item>
+<item>
+<title>Ψηφιακή έκθεση ΣΒΕ: Ένα ταξίδι στη βιομηχανική ιστορία της Βόρειας Ελλάδας</title>
+<link>https://www.businessdaily.gr/eleytheros-hronos/238712_monimi-psifiaki-ekthesi-gia-ti-biomihaniki-istoria-tis-boreias-elladas-apo?utm_source=Feedelio&amp;utm_medium=News&amp;utm_campaign=APE-MPE&amp;utm_content=Sokratis%20Psaltis</link>
+<guid isPermaLink="false">url:https://businessdaily.gr/eleytheros-hronos/238712_monimi-psifiaki-ekthesi-gia-ti-biomihaniki-istoria-tis-boreias-elladas-apo</guid>
+<pubDate>Sun, 18 Oct 2026 11:52:27 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Από το 2027, στη Θεσσαλονίκη θα λειτουργεί μόνιμη ψηφιακή έκθεση για τη βιομηχανική ιστορία της Βόρειας Ελλάδας στα Παλαιά Σφαγεία, αναδεικνύοντας το...&lt;/p&gt;</description>
+</item>
 <item>
 <title>Opensignal: Σαρώνει η Telekom, ο καλύτερος συνολικά πάροχος στην Ελλάδα</title>
 <link>https://techmaniacs.gr/opensignal-saronei-i-telekom-o-kalyteros-synolika-parochos-stin-ellada/</link>
@@ -27,15 +45,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο Κυριάκος Μητσοτάκης θα μιλήσει με τον Τίμο Κουρεμένο τη Δευτέρα 19 Οκτωβρίου στις 10:30, στα εγκαίνια του υπερυπολογιστή «Δαίδαλος» στο Τεχνολογικό...&lt;/p&gt;</description>
 </item>
 <item>
-<title>Καλαφάτης: Τέσσερις πρωτοβουλίες για την ενίσχυση της καινοτομίας</title>
-<link>https://www.businessdaily.gr/politiki/238680_tesseris-protoboylies-gia-kainotomia-ston-klado-kosmimatos-paroysiase-o-kalafatis?utm_source=Feedelio&amp;utm_medium=News&amp;utm_campaign=APE-MPE&amp;utm_content=Sokratis%20Psaltis</link>
-<guid isPermaLink="false">url:https://businessdaily.gr/politiki/238680_tesseris-protoboylies-gia-kainotomia-ston-klado-kosmimatos-paroysiase-o-kalafatis</guid>
-<pubDate>Sun, 18 Oct 2026 07:49:30 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο υφυπουργός Ανάπτυξης, Σταύρος Καλαφάτης, παρουσίασε τέσσερις πρωτοβουλίες για την ενίσχυση της καινοτομίας στον κλάδο κοσμήματος, με επίκεντρο τη...&lt;/p&gt;</description>
-</item>
-<item>
 <title>Tesla Roadster με προωθητήρες SpaceX: Αυτοκίνητο ή διαστημόπλοιο;</title>
 <link>https://techblog.gr/cars/tesla-roadster-me-proothitires-spacex-aftokinito-i-diastimoploio/</link>
 <guid isPermaLink="false">url:https://techblog.gr/cars/tesla-roadster-me-proothitires-spacex-aftokinito-i-diastimoploio</guid>
@@ -43,15 +52,6 @@
 <category>Tech media</category>
 <source url="https://techblog.gr/feed/">Techblog</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techblog · Tech media&lt;/p&gt;&lt;p&gt;Το νέο Tesla Roadster δεύτερης γενιάς παρουσιάστηκε στις εγκαταστάσεις της SpaceX στο McGregor του Τέξας, όπου έμεινε ανάποδα σε ράμπα και προσγειώθηκε με προωθητήρες ψυχρού αερίου. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Tesla Roadster με προωθητήρες SpaceX: Αυτοκίνητο ή διαστημόπλοιο; )&lt;/p&gt;</description>
-</item>
-<item>
-<title>Όλα τα Galaxy S27 χωρίς Snapdragon; Η Samsung κοιτάζει τον Exynos 2700 λόγω υπερθέρμανσης!</title>
-<link>https://techmaniacs.gr/galaxy-s27-exynos-2700-snapdragon-8-elite-extreme-gen-6-overheating/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/galaxy-s27-exynos-2700-snapdragon-8-elite-extreme-gen-6-overheating</guid>
-<pubDate>Sat, 17 Oct 2026 13:48:20 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Σύμφωνα με νέα έκθεση από τη Νότια Κορέα, η Samsung ενδέχεται να μην εξοπλίσει κανένα μοντέλο της σειράς Galaxy S27 με τον επερχόμενο Snapdragon 8 Elite Extreme Gen 6, καθώς το νέο κορυφαίο chip της Qualcomm φαίνεται να αντιμετωπίζει σοβαρά ζητήματα υπερθέρμανσης. Το αιώνιο debate ανάμεσα σε Exynos και Snapdragon κρατάει εδώ και αρκετά χρόνια. […] The post Όλα τα Galaxy S27 χωρίς Snapdragon; Η Samsung κοιτάζει τον Exynos 2700 λόγω υπερθέρμανσης! appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
 <title>Ρομπότ γίγαντας 4 μέτρων για ορυχεία και βυθό: Τι είναι το Neo1;</title>
@@ -178,15 +178,6 @@
 <category>Startups</category>
 <source url="https://www.startup.gr/">Startup.gr</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Startup.gr · Startups&lt;/p&gt;&lt;p&gt;Νέο πρόγραμμα οικονομικής αρωγής έως €15.000 και δωρεάν υπηρεσιών επιχειρηματικής ανάπτυξης Υποβολή αιτήσεων: 1η Νοεμβρίου 2026 έως 31 Ιανουαρίου 2027&lt;/p&gt;</description>
-</item>
-<item>
-<title>Βραβεία Νεανικής Επιχειρηματικότητας Στέλιος Χατζηιωάννου 2026</title>
-<link>https://startup.gr/vraveia-neanikis-epicheirimatikotitas-stelios-chatziioannou-2026/</link>
-<guid isPermaLink="false">url:https://startup.gr/vraveia-neanikis-epicheirimatikotitas-stelios-chatziioannou-2026</guid>
-<pubDate>Thu, 03 Sep 2026 12:26:12 +0000</pubDate>
-<category>Startups</category>
-<source url="https://www.startup.gr/">Startup.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Startup.gr · Startups&lt;/p&gt;&lt;p&gt;€300.000 στους τρεις νικητές – Ρεκόρ συμμετοχών με 62 αιτήσεις Αθήνα, 3 Σεπτεμβρίου 2026. Με συνολικά χρηματικά έπαθλα ύψους €300.000 και ρεκόρ συμμετοχών ολοκληρώθηκαν τα 17α Βραβεία Νεανικής Επιχειρηματικότητας Στέλιος Χατζηιωάννου 2026, που διοργανώνονται από το Stelios Philanthropic Foundation (Φιλανθρωπικό Ίδρυμα Στέλιος Χατζηιωάννου). Νικήτριες εταιρείες της φετινής διοργάνωσης αναδείχθηκαν οι Loopcv, iSPACE και Vivestia Booking […]&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

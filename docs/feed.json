@@ -1,7 +1,33 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-18T11:15:47.828352+00:00",
+ "built": "2026-10-18T15:55:34.825933+00:00",
  "items": [
+  {
+   "key": "url:https://insider.gr/eidiseis/429214/mitsotakis-tha-parabrethei-stin-ekdilosi-gia-ta-egkainia-toy-yperypologisti",
+   "title": "Μητσοτάκης: Θα παραβρεθεί στην εκδήλωση για τα εγκαίνια του Υπερυπολογιστή «Δαίδαλος»",
+   "link": "https://www.insider.gr/eidiseis/429214/mitsotakis-tha-parabrethei-stin-ekdilosi-gia-ta-egkainia-toy-yperypologisti",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Τα εγκαίνια του Υπερυπολογιστή «Δαίδαλος», θα λάβουν τόπο στο Τεχνολογικό Πολιτιστικό Πάρκο Λαυρίου ...",
+   "first_seen": "2026-10-18T13:47:28+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/eleytheros-hronos/238712_monimi-psifiaki-ekthesi-gia-ti-biomihaniki-istoria-tis-boreias-elladas-apo",
+   "title": "Ψηφιακή έκθεση ΣΒΕ: Ένα ταξίδι στη βιομηχανική ιστορία της Βόρειας Ελλάδας",
+   "link": "https://www.businessdaily.gr/eleytheros-hronos/238712_monimi-psifiaki-ekthesi-gia-ti-biomihaniki-istoria-tis-boreias-elladas-apo?utm_source=Feedelio&utm_medium=News&utm_campaign=APE-MPE&utm_content=Sokratis%20Psaltis",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Από το 2027, στη Θεσσαλονίκη θα λειτουργεί μόνιμη ψηφιακή έκθεση για τη βιομηχανική ιστορία της Βόρειας Ελλάδας στα Παλαιά Σφαγεία, αναδεικνύοντας το...",
+   "first_seen": "2026-10-18T11:52:27+00:00"
+  },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316816854",
    "title": "🌙 Thursday Social Night | Meet New People in Athens@Mint bar",
@@ -42,19 +68,6 @@
    "first_seen": "2026-10-18T10:29:30+00:00"
   },
   {
-   "key": "url:https://businessdaily.gr/politiki/238680_tesseris-protoboylies-gia-kainotomia-ston-klado-kosmimatos-paroysiase-o-kalafatis",
-   "title": "Καλαφάτης: Τέσσερις πρωτοβουλίες για την ενίσχυση της καινοτομίας",
-   "link": "https://www.businessdaily.gr/politiki/238680_tesseris-protoboylies-gia-kainotomia-ston-klado-kosmimatos-paroysiase-o-kalafatis?utm_source=Feedelio&utm_medium=News&utm_campaign=APE-MPE&utm_content=Sokratis%20Psaltis",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Ο υφυπουργός Ανάπτυξης, Σταύρος Καλαφάτης, παρουσίασε τέσσερις πρωτοβουλίες για την ενίσχυση της καινοτομίας στον κλάδο κοσμήματος, με επίκεντρο τη...",
-   "first_seen": "2026-10-18T07:49:30+00:00"
-  },
-  {
    "key": "url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838",
    "title": "Hack The Box Meetup #10 Sudo Make Me a Sandwich: Jailbreaking LLMs",
    "link": "https://www.meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838/",
@@ -79,19 +92,6 @@
    "location": "",
    "summary": "Το νέο Tesla Roadster δεύτερης γενιάς παρουσιάστηκε στις εγκαταστάσεις της SpaceX στο McGregor του Τέξας, όπου έμεινε ανάποδα σε ράμπα και προσγειώθηκε με προωθητήρες ψυχρού αερίου. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Tesla Roadster με προωθητήρες SpaceX: Αυτοκίνητο ή διαστημόπλοιο; )",
    "first_seen": "2026-10-17T14:30:38+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/galaxy-s27-exynos-2700-snapdragon-8-elite-extreme-gen-6-overheating",
-   "title": "Όλα τα Galaxy S27 χωρίς Snapdragon; Η Samsung κοιτάζει τον Exynos 2700 λόγω υπερθέρμανσης!",
-   "link": "https://techmaniacs.gr/galaxy-s27-exynos-2700-snapdragon-8-elite-extreme-gen-6-overheating/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Σύμφωνα με νέα έκθεση από τη Νότια Κορέα, η Samsung ενδέχεται να μην εξοπλίσει κανένα μοντέλο της σειράς Galaxy S27 με τον επερχόμενο Snapdragon 8 Elite Extreme Gen 6, καθώς το νέο κορυφαίο chip της Qualcomm φαίνεται να αντιμετωπίζει σοβαρά ζητήματα υπερθέρμανσης. Το αιώνιο debate ανάμεσα σε Exynos και Snapdragon κρατάει εδώ και αρκετά χρόνια. […] The post Όλα τα Galaxy S27 χωρίς Snapdragon; Η Samsung κοιτάζει τον Exynos 2700 λόγω υπερθέρμανσης! appeared first on Techmaniacs .",
-   "first_seen": "2026-10-17T13:48:20+00:00"
   },
   {
    "key": "url:https://techblog.gr/gadgets/robot-gigantas-4-metron-gia-orycheia-kai-vytho-ti-einai-to-neo1",
@@ -547,19 +547,6 @@
    "location": "Telekom Center Athens, Λεωφόρος Ολυμπιονίκη Σπύρου Λούη, κλειστό γήπεδο μπάσκετ \"Telekom Center Athens\", Amaroúsion, Greece, Athens",
    "summary": "",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
-   "key": "url:https://startup.gr/vraveia-neanikis-epicheirimatikotitas-stelios-chatziioannou-2026",
-   "title": "Βραβεία Νεανικής Επιχειρηματικότητας Στέλιος Χατζηιωάννου 2026",
-   "link": "https://startup.gr/vraveia-neanikis-epicheirimatikotitas-stelios-chatziioannou-2026/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startup.gr",
-   "source_url": "https://www.startup.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "€300.000 στους τρεις νικητές – Ρεκόρ συμμετοχών με 62 αιτήσεις Αθήνα, 3 Σεπτεμβρίου 2026. Με συνολικά χρηματικά έπαθλα ύψους €300.000 και ρεκόρ συμμετοχών ολοκληρώθηκαν τα 17α Βραβεία Νεανικής Επιχειρηματικότητας Στέλιος Χατζηιωάννου 2026, που διοργανώνονται από το Stelios Philanthropic Foundation (Φιλανθρωπικό Ίδρυμα Στέλιος Χατζηιωάννου). Νικήτριες εταιρείες της φετινής διοργάνωσης αναδείχθηκαν οι Loopcv, iSPACE και Vivestia Booking […]",
-   "first_seen": "2026-09-03T12:26:12+00:00"
   }
  ]
 }
