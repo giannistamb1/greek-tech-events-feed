@@ -1,6 +1,6 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-18T20:50:30.244941+00:00",
+ "built": "2026-10-18T23:18:24.742526+00:00",
  "items": [
   {
    "key": "url:https://techmaniacs.gr/myrantevou-gov-gr-ston-aera-i-nea-platforma-kai-ti-dokimasame",
@@ -40,19 +40,6 @@
    "location": "",
    "summary": "Τα εγκαίνια του Υπερυπολογιστή «Δαίδαλος», θα λάβουν τόπο στο Τεχνολογικό Πολιτιστικό Πάρκο Λαυρίου ...",
    "first_seen": "2026-10-18T13:47:28+00:00"
-  },
-  {
-   "key": "url:https://businessdaily.gr/eleytheros-hronos/238712_monimi-psifiaki-ekthesi-gia-ti-biomihaniki-istoria-tis-boreias-elladas-apo",
-   "title": "Ψηφιακή έκθεση ΣΒΕ: Ένα ταξίδι στη βιομηχανική ιστορία της Βόρειας Ελλάδας",
-   "link": "https://www.businessdaily.gr/eleytheros-hronos/238712_monimi-psifiaki-ekthesi-gia-ti-biomihaniki-istoria-tis-boreias-elladas-apo?utm_source=Feedelio&utm_medium=News&utm_campaign=APE-MPE&utm_content=Sokratis%20Psaltis",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Από το 2027, στη Θεσσαλονίκη θα λειτουργεί μόνιμη ψηφιακή έκθεση για τη βιομηχανική ιστορία της Βόρειας Ελλάδας στα Παλαιά Σφαγεία, αναδεικνύοντας το...",
-   "first_seen": "2026-10-18T11:52:27+00:00"
   },
   {
    "key": "url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838",
@@ -307,8 +294,8 @@
    "link": "https://www.meetup.com/agent-builders/events/315958151/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
    "starts": "2026-10-29T20:00:00+02:00",
    "location": "Online",
    "summary": "October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works, what it gets right, where it needs steering, and what it's actually like to work alongside an AI agent rather than just chat with one. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do, beyond the headli…",
@@ -391,6 +378,19 @@
    "location": "",
    "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
    "first_seen": "2026-10-10T17:22:19.663455+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/aws-user-group-athens/events/316227206",
+   "title": "[AI Practitioner] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
+   "link": "https://www.meetup.com/aws-user-group-athens/events/316227206/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-08T17:00:00+02:00",
+   "location": "",
+   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
+   "first_seen": "2026-10-09T18:23:50.119653+00:00"
   },
   {
    "key": "url:https://meetup.com/thessaloniki-net-meetup/events/316894632",
