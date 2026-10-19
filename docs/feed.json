@@ -1,7 +1,33 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-18T23:18:24.742526+00:00",
+ "built": "2026-10-19T04:48:57.669081+00:00",
  "items": [
+  {
+   "key": "url:https://naftemporiki.gr/society/2176729/protoselida-efimeridon-to-kyma-diadiloseon-tis-eyropis-sto-epikentro-toy-simerinoy-typoy",
+   "title": "Πρωτοσέλιδα εφημερίδων: Το κύμα διαδηλώσεων της Ευρώπης στο επίκεντρο του σημερινού Τύπου",
+   "link": "https://www.naftemporiki.gr/society/2176729/protoselida-efimeridon-to-kyma-diadiloseon-tis-eyropis-sto-epikentro-toy-simerinoy-typoy/?utm_source=rss&utm_medium=rss&utm_campaign=protoselida-efimeridon-to-kyma-diadiloseon-tis-eyropis-sto-epikentro-toy-simerinoy-typoy",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Τα πρωτοσέλιδα των εφημερίδων σήμερα Δευτέρα, 19 Οκτωβρίου 2026. Δείτε τα αναλυτικά εδώ. Η ΝΑΥΤΕΜΠΟΡΙΚΗ: “Τα 4 προφίλ του επενδυτικού κουμπαρά” ΑΠΟΓΕΥΜΑΤΙΝΗ: “Ποιοι επιδιώκουν να γίνει Παρίσι η Αθήνα” ΔΗΜΟΚΡΑΤΙΑ:… Πρωτοσέλιδα εφημερίδων: Το κύμα διαδηλώσεων της Ευρώπης στο επίκεντρο του σημερινού Τύπου - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-10-19T04:38:38+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/market-maker/238494_timing-stin-admie-poioi-agorazoyn-jumbo-ti-tha-pei-i-fourlis-kai-oi-ektheseis",
+   "title": "Το timing σε ΑΔΜΗΕ, ποιοι αγοράζουν Jumbo, η Fourlis και οι εκθέσεις για Aktor",
+   "link": "https://www.businessdaily.gr/market-maker/238494_timing-stin-admie-poioi-agorazoyn-jumbo-ti-tha-pei-i-fourlis-kai-oi-ektheseis",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Ανοδική η εβδομάδα, αλλά πτωτικός ο μήνας στο Χ.Α., σε λίγες μετοχές εστιάζουν οι επενδυτές και η Fidelity στη Jumbo. Οι εκθέσεις για Aktor, τι θα...",
+   "first_seen": "2026-10-19T03:07:04+00:00"
+  },
   {
    "key": "url:https://techmaniacs.gr/myrantevou-gov-gr-ston-aera-i-nea-platforma-kai-ti-dokimasame",
    "title": "myrantevou.gov.gr: Στον αέρα η νέα πλατφόρμα και τη δοκιμάσαμε",
@@ -250,19 +276,6 @@
    "first_seen": "2026-10-15T11:37:16.134001+00:00"
   },
   {
-   "key": "url:https://techgear.gr/rompotiko-cheri-ektelei-tachydaktyloyrgika-kolpa-me-apisteyti-epidexiotita-video-50936",
-   "title": "Ρομποτικό χέρι εκτελεί ταχυδακτυλουργικά κόλπα με απίστευτη επιδεξιότητα [Video]",
-   "link": "https://www.techgear.gr/rompotiko-cheri-ektelei-tachydaktyloyrgika-kolpa-me-apisteyti-epidexiotita-video-50936",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techgear",
-   "source_url": "https://www.techgear.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Σύνοψη Η κινεζική startup LinkerBot παρουσίασε το ρομποτικό χέρι LinkerHand O30, το οποίο μπορεί να εκτελέσει περίπλοκα ταχυδακτυλουργικά κόλπα χάρη ...",
-   "first_seen": "2026-10-14T18:41:00+00:00"
-  },
-  {
    "key": "url:https://meetup.com/blockchaingreece-0/events/316958855",
    "title": "Φορολογία Κρυπτονομισμάτων στην Ελλάδα",
    "link": "https://www.meetup.com/blockchaingreece-0/events/316958855/",
@@ -294,8 +307,8 @@
    "link": "https://www.meetup.com/agent-builders/events/315958151/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-10-29T20:00:00+02:00",
    "location": "Online",
    "summary": "October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works, what it gets right, where it needs steering, and what it's actually like to work alongside an AI agent rather than just chat with one. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do, beyond the headli…",
@@ -378,19 +391,6 @@
    "location": "",
    "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
    "first_seen": "2026-10-10T17:22:19.663455+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/aws-user-group-athens/events/316227206",
-   "title": "[AI Practitioner] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
-   "link": "https://www.meetup.com/aws-user-group-athens/events/316227206/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-08T17:00:00+02:00",
-   "location": "",
-   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
-   "first_seen": "2026-10-09T18:23:50.119653+00:00"
   },
   {
    "key": "url:https://meetup.com/thessaloniki-net-meetup/events/316894632",
