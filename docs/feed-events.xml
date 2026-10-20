@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 08:38:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 14:21:08 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[20 Oct] Beyond Self-Doubt: Overcoming Imposter Syndrome &amp; Owning Your Career</title>
+<link>https://www.meetup.com/shesharp/events/316809810/</link>
+<guid isPermaLink="false">url:https://meetup.com/shesharp/events/316809810</guid>
+<pubDate>Tue, 20 Oct 2026 14:21:08 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 20 October 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;### **Beyond Self-Doubt: Overcoming Imposter Syndrome and Owning Your Career** Why do capable professionals question their achievements, hesitate to pursue new opportunities, or feel they constantly need to prove themselves? Join SheSharp × Miranna for an interactive workshop with Sanna Välttilä-Wit, exploring how imposter syndrome can affect confidence, career growth, and the decisions we make about our careers. Drawing on Positive Psychology, Sanna will share practical, evidence-based tools to help you recognize patterns of self-doubt, challenge limiting thoughts, and build confidence in your abilities and achievements. **What you'll learn** • Recognize your imposter patterns - identify ho…&lt;/p&gt;</description>
+</item>
 <item>
 <title>[20 Oct] Agentic Azure Insights Day 2</title>
 <link>https://www.meetup.com/microsoft-azure-community/events/316954978/</link>
@@ -25,15 +34,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 20 October 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;# AI &amp;amp; Automation for Small Businesses: Where to Start &amp;amp; How to Make It Work **Discover how AI and automation can help your business save time, reduce repetitive work, and operate more efficiently — without needing a technical background.** AI is everywhere, but for many small and medium-sized businesses, the real question isn't whether to use AI. It's **where to start, which tools to choose, and how to turn ideas into working solutions.** Whether you run a real estate agency, hotel, marketing agency, consulting business, e-commerce store, or any other small business, this free online event is designed to help you understand the practical possibilities of AI and automation. No complicated te…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[26 Oct] EduQAte: How to Write and Refresh Your CV workshop</title>
-<link>https://www.meetup.com/future-skills-community/events/316567887/</link>
-<guid isPermaLink="false">url:https://meetup.com/future-skills-community/events/316567887</guid>
-<pubDate>Mon, 19 Oct 2026 20:37:15 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 26 October 2026, 13:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** Whether you're just starting out, returning to work, or looking to make a stronger impression with your CV, this practical and interactive workshop will help you confidently showcase your skills, experience, and potential. Learn how to present yourself professionally and tailor your CV to stand out, even if you have limited experience or are changing career paths. **In this workshop, you'll learn how to:** Format your CV using a professional layout Write a personal profile that tells the hiring manager about yourself and what you can bring to the organisation Align your CV to the job requirements, showcasing your transferable skills **Who should attend:** * Anyone cu…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[20 Oct] End-to-end CI/CD for Microsoft Fabric with Azure DevOps | Kevin Chant</title>
@@ -96,7 +96,7 @@
 <pubDate>Tue, 13 Oct 2026 16:59:07 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works, what it gets right, where it needs steering, and what it's actually like to work alongside an AI agent rather than just chat with one. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do, beyond the headli…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works along with guidance in prompting and getting the result you want without having to burn loads of tokens. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do * A sample project to build, so you leave with so…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[27 Oct] Working with AI to Build Dashboards People Understand | Marjolein Opsteegh</title>
@@ -144,15 +144,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 23 October 2026, 19:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Prompt It. Ship It. Track It. Apps on Microsoft Fabric** Description: What if building a business app was as easy as describing it? In this fast-paced 1-hour session, we'll show how Fabric Apps lets you go from idea to a running app directly inside Microsoft Fabric. You'll see how to prompt an AI assistant to create the app, ship it to Fabric in minutes without managing any infrastructure, and track what matters, with your app's data instantly ready for dashboards, AI and automation. Through a live demo, you'll see how apps, data and AI finally come together in one place, and you'll leave with practical ideas to start building your own. Whether you work in data, development or business, th…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[30 Oct] /human-review - Tools &amp; Guardrails for Agentic Engineers</title>
-<link>https://www.meetup.com/european-software-crafters/events/316894439/</link>
-<guid isPermaLink="false">url:https://meetup.com/european-software-crafters/events/316894439</guid>
-<pubDate>Fri, 09 Oct 2026 10:40:19 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 30 October 2026, 12:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a "Frustrated / Creative Users Follow-up Meeting" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…&lt;/p&gt;</description>
-</item>
-<item>
 <title>[27 Oct] On-prem full-stack AI and vibe-coding panel discussion</title>
 <link>https://www.meetup.com/meetup-group-judpeflp/events/316655050/</link>
 <guid isPermaLink="false">url:https://meetup.com/meetup-group-judpeflp/events/316655050</guid>
@@ -160,6 +151,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[20 Oct] Fabric FinOps - Cost Optimization for Fabric</title>
+<link>https://www.meetup.com/microsoft-fabric-dublin/events/315946929/</link>
+<guid isPermaLink="false">url:https://meetup.com/microsoft-fabric-dublin/events/315946929</guid>
+<pubDate>Fri, 09 Oct 2026 01:15:22 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 20 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Important Details** This event will be ONLINE using Teams. not in person! **Topic Summary** A software-as-a-service offering such as Microsoft Fabric offers a fixed cost per month, making budgeting much easier. That should be the end of the conversation, but it's actually only the beginning - how do you make the most of the capacity units you get with the fixed price? How can you ensure that you are getting the most out of your monthly investment? The different Fabric workloads all have different ways of using capacity units - some are cost CUs per minute of runtime, some cost per query, some are straight forward to calculate, some are not. Take dataflows gen 2 an an example - it used to b…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[22 Oct] CityJS Athens - Pre Conference Meetup</title>
