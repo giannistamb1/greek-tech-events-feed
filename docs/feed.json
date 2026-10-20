@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-20T19:20:05.592173+00:00",
+ "built": "2026-10-20T23:56:26.135135+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/cloud-native-muc/events/316851781",
+   "title": "Platform Engineering in the Age of AI",
+   "link": "https://www.meetup.com/cloud-native-muc/events/316851781/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-05T19:30:00+02:00",
+   "location": "Online",
+   "summary": "AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …",
+   "first_seen": "2026-10-20T23:56:26.135135+00:00"
+  },
   {
    "key": "url:https://businessdaily.gr/diethni/239150_nato-enishyei-tin-paroysia-toy-sti-mayri-thalassa-me-aeroskafi-kai-drone",
    "title": "ΝΑΤΟ: Αεροσκάφη και drones στη Μαύρη Θάλασσα μετά τις επιθέσεις",
@@ -172,6 +185,19 @@
    "first_seen": "2026-10-20T04:26:38+00:00"
   },
   {
+   "key": "url:https://meetup.com/future-skills-community/events/316567887",
+   "title": "EduQAte: How to Write and Refresh Your CV workshop",
+   "link": "https://www.meetup.com/future-skills-community/events/316567887/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-26T13:00:00+02:00",
+   "location": "Online",
+   "summary": "**About this workshop:** Whether you're just starting out, returning to work, or looking to make a stronger impression with your CV, this practical and interactive workshop will help you confidently showcase your skills, experience, and potential. Learn how to present yourself professionally and tailor your CV to stand out, even if you have limited experience or are changing career paths. **In this workshop, you'll learn how to:** Format your CV using a professional layout Write a personal profile that tells the hiring manager about yourself and what you can bring to the organisation Align your CV to the job requirements, showcasing your transferable skills **Who should attend:** * Anyone cu…",
+   "first_seen": "2026-10-19T20:37:15.755701+00:00"
+  },
+  {
    "key": "url:https://fortunegreece.com/article/dimitris-papastergiou-sto-poi-2026-i-simasia-tou-daidalou-kai-to-mellon-tis-elladas-ston-kosmo-tou-ai",
    "title": "Δημήτρης Παπαστεργίου στο POI 2026: Η σημασία του «Δαίδαλου» και το μέλλον της Ελλάδας στον κόσμο του ΑΙ",
    "link": "https://www.fortunegreece.com/article/dimitris-papastergiou-sto-poi-2026-i-simasia-tou-daidalou-kai-to-mellon-tis-elladas-ston-kosmo-tou-ai/",
@@ -235,6 +261,19 @@
    "location": "Online",
    "summary": "AI is showing up in every app we use, and it brings new attack surfaces with it. In this beginner-friendly, hands-on session, we'll break down how AI-powered applications can be attacked and defended, starting with prompt injection and jailbreaking. Using live Hack The Box challenges, we'll see how these attacks work in practice and what developers can do to mitigate them. No prior AI knowledge needed, just curiosity and a laptop. Speaker: Lentine Khakai (Kai) Cybersecurity professional, CTF player, and challenge creator at p3rf3ctr00t. Ambassador for HTB Kenya, part of one of Nairobi’s most active security communities. Date: Saturday, October 24, 2026 Time: 4:00PM GMT (4:00 PM Morocco / 7:0…",
    "first_seen": "2026-10-17T20:40:44.599335+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/london-business-analytics-group/events/316775954",
+   "title": "How to Tell a Clear Story with Data",
+   "link": "https://www.meetup.com/london-business-analytics-group/events/316775954/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-28T20:00:00+02:00",
+   "location": "Online",
+   "summary": "Tom provides a framework that analysts can use to help structure their analytical findings into more of a story/coherent format so that it has a bigger impact. He will then also talk through a real-life example for each pillar of the framework. This is a short 20 minute talk followed by 5-10 minutes of Q&A. Tom is a Senior Commercial Analytics Manager with a background in turning data into commercially useful insight. He also speaks regularly through Toastmasters and is particularly interested in helping analysts communicate complex ideas more simply and effectively.",
+   "first_seen": "2026-10-17T15:40:47.276415+00:00"
   },
   {
    "key": "url:https://techgear.gr/mporei-mia-techniti-noimosyni-na-echei-ti-diki-tis-aythormiti-paidiki-ilikia-ti-edeixe-to-peirama-toy-mit-50968",
@@ -313,6 +352,19 @@
    "location": "Online",
    "summary": "October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works along with guidance in prompting and getting the result you want without having to burn loads of tokens. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do * A sample project to build, so you leave with so…",
    "first_seen": "2026-10-13T16:59:07.932367+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863015",
+   "title": "Advanced Cloud Architecture & DevOps CICD Pipeline Process",
+   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863015/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-27T19:00:00+02:00",
+   "location": "Online",
+   "summary": "This advanced session examines enterprise-grade AI architecture and how pipelines securely move applications from code commit to production, including automated testing, artefact management, containerisation, security scanning, Kubernetes deployment, workload identity, observability, rollback, performance optimisation, and troubleshooting. Speaker: Imoh Etuk Watch live: https://www.youtube.com/watch?v=_Xw7ia6Eyd4 View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-2a159350-2fbf-45f2-89e3-d0d9172bf520",
+   "first_seen": "2026-10-13T06:51:25.576001+00:00"
   },
   {
    "key": "url:https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia",

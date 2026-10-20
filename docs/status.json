@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-20T19:20:05.592173+00:00",
-  "items": 37,
+  "built": "2026-10-20T23:56:26.135135+00:00",
+  "items": 41,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -10,8 +10,8 @@
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 8,
-      "kept": 8,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
