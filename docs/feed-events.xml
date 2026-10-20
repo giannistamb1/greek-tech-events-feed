@@ -6,44 +6,8 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 14:21:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 19:20:05 +0000</lastBuildDate>
 <ttl>180</ttl>
-<item>
-<title>[20 Oct] Beyond Self-Doubt: Overcoming Imposter Syndrome &amp; Owning Your Career</title>
-<link>https://www.meetup.com/shesharp/events/316809810/</link>
-<guid isPermaLink="false">url:https://meetup.com/shesharp/events/316809810</guid>
-<pubDate>Tue, 20 Oct 2026 14:21:08 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 20 October 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;### **Beyond Self-Doubt: Overcoming Imposter Syndrome and Owning Your Career** Why do capable professionals question their achievements, hesitate to pursue new opportunities, or feel they constantly need to prove themselves? Join SheSharp × Miranna for an interactive workshop with Sanna Välttilä-Wit, exploring how imposter syndrome can affect confidence, career growth, and the decisions we make about our careers. Drawing on Positive Psychology, Sanna will share practical, evidence-based tools to help you recognize patterns of self-doubt, challenge limiting thoughts, and build confidence in your abilities and achievements. **What you'll learn** • Recognize your imposter patterns - identify ho…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[20 Oct] Agentic Azure Insights Day 2</title>
-<link>https://www.meetup.com/microsoft-azure-community/events/316954978/</link>
-<guid isPermaLink="false">url:https://meetup.com/microsoft-azure-community/events/316954978</guid>
-<pubDate>Tue, 20 Oct 2026 08:38:28 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 20 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Join Agentic Azure Insights, a community-driven event focused on sharing knowledge, insights, and practical experiences with Agentic AI throughout the week of 19 October. Explore the agenda at https://agenticazureinsights.com/&lt;/p&gt;</description>
-</item>
-<item>
-<title>[20 Oct] AI &amp; Automation for Small-Medium Businesses: Where to Start and How to Make it</title>
-<link>https://www.meetup.com/ai-automation-in-action/events/316908298/</link>
-<guid isPermaLink="false">url:https://meetup.com/ai-automation-in-action/events/316908298</guid>
-<pubDate>Mon, 19 Oct 2026 20:37:15 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 20 October 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;# AI &amp;amp; Automation for Small Businesses: Where to Start &amp;amp; How to Make It Work **Discover how AI and automation can help your business save time, reduce repetitive work, and operate more efficiently — without needing a technical background.** AI is everywhere, but for many small and medium-sized businesses, the real question isn't whether to use AI. It's **where to start, which tools to choose, and how to turn ideas into working solutions.** Whether you run a real estate agency, hotel, marketing agency, consulting business, e-commerce store, or any other small business, this free online event is designed to help you understand the practical possibilities of AI and automation. No complicated te…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[20 Oct] End-to-end CI/CD for Microsoft Fabric with Azure DevOps | Kevin Chant</title>
-<link>https://www.meetup.com/d-c_powerbi/events/316924706/</link>
-<guid isPermaLink="false">url:https://meetup.com/d-c_powerbi/events/316924706</guid>
-<pubDate>Mon, 19 Oct 2026 13:27:55 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 20 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;When it comes to end-to-end CI/CD for Microsoft Fabric there are various options to choose from. Including how to branch out to new workspaces and perform automated tests with various Microsoft Fabric items. I intend to cover a variety of CI/CD routes within Microsoft Fabric. So that you can decide what is the best fit for you. Including various testing options. Topics covered include: \- Microsoft Fabric Git integration \- Microsoft Fabric deployment plans \- Orchestrating deployments with Fabric deployment pipelines and Azure DevOps\. \- Performing automated tests for various Fabric items\. Including Power BI Reports and Data Pipelines\. All the demos performed will be based on Azure DevOp…&lt;/p&gt;</description>
-</item>
 <item>
 <title>[22 Oct] 🌙 Thursday Social Night | Meet New People in Athens@Mint bar</title>
 <link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316816854/</link>
@@ -144,6 +108,15 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 23 October 2026, 19:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Prompt It. Ship It. Track It. Apps on Microsoft Fabric** Description: What if building a business app was as easy as describing it? In this fast-paced 1-hour session, we'll show how Fabric Apps lets you go from idea to a running app directly inside Microsoft Fabric. You'll see how to prompt an AI assistant to create the app, ship it to Fabric in minutes without managing any infrastructure, and track what matters, with your app's data instantly ready for dashboards, AI and automation. Through a live demo, you'll see how apps, data and AI finally come together in one place, and you'll leave with practical ideas to start building your own. Whether you work in data, development or business, th…&lt;/p&gt;</description>
 </item>
 <item>
+<title>[30 Oct] /human-review - Tools &amp; Guardrails for Agentic Engineers</title>
+<link>https://www.meetup.com/european-software-crafters/events/316894439/</link>
+<guid isPermaLink="false">url:https://meetup.com/european-software-crafters/events/316894439</guid>
+<pubDate>Fri, 09 Oct 2026 10:40:19 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 30 October 2026, 12:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a "Frustrated / Creative Users Follow-up Meeting" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…&lt;/p&gt;</description>
+</item>
+<item>
 <title>[27 Oct] On-prem full-stack AI and vibe-coding panel discussion</title>
 <link>https://www.meetup.com/meetup-group-judpeflp/events/316655050/</link>
 <guid isPermaLink="false">url:https://meetup.com/meetup-group-judpeflp/events/316655050</guid>
@@ -151,15 +124,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[20 Oct] Fabric FinOps - Cost Optimization for Fabric</title>
-<link>https://www.meetup.com/microsoft-fabric-dublin/events/315946929/</link>
-<guid isPermaLink="false">url:https://meetup.com/microsoft-fabric-dublin/events/315946929</guid>
-<pubDate>Fri, 09 Oct 2026 01:15:22 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 20 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Important Details** This event will be ONLINE using Teams. not in person! **Topic Summary** A software-as-a-service offering such as Microsoft Fabric offers a fixed cost per month, making budgeting much easier. That should be the end of the conversation, but it's actually only the beginning - how do you make the most of the capacity units you get with the fixed price? How can you ensure that you are getting the most out of your monthly investment? The different Fabric workloads all have different ways of using capacity units - some are cost CUs per minute of runtime, some cost per query, some are straight forward to calculate, some are not. Take dataflows gen 2 an an example - it used to b…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[22 Oct] CityJS Athens - Pre Conference Meetup</title>
