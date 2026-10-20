@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 00:24:37 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 08:38:28 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[20 Oct] Agentic Azure Insights Day 2</title>
+<link>https://www.meetup.com/microsoft-azure-community/events/316954978/</link>
+<guid isPermaLink="false">url:https://meetup.com/microsoft-azure-community/events/316954978</guid>
+<pubDate>Tue, 20 Oct 2026 08:38:28 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 20 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Join Agentic Azure Insights, a community-driven event focused on sharing knowledge, insights, and practical experiences with Agentic AI throughout the week of 19 October. Explore the agenda at https://agenticazureinsights.com/&lt;/p&gt;</description>
+</item>
 <item>
 <title>[20 Oct] AI &amp; Automation for Small-Medium Businesses: Where to Start and How to Make it</title>
 <link>https://www.meetup.com/ai-automation-in-action/events/316908298/</link>
@@ -86,17 +95,8 @@
 <guid isPermaLink="false">url:https://meetup.com/agent-builders/events/315958151</guid>
 <pubDate>Tue, 13 Oct 2026 16:59:07 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works, what it gets right, where it needs steering, and what it's actually like to work alongside an AI agent rather than just chat with one. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do, beyond the headli…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[27 Oct] Advanced Cloud Architecture &amp; DevOps CICD Pipeline Process</title>
-<link>https://www.meetup.com/malta-microsoft-ai-user-group/events/316863015/</link>
-<guid isPermaLink="false">url:https://meetup.com/malta-microsoft-ai-user-group/events/316863015</guid>
-<pubDate>Tue, 13 Oct 2026 06:51:25 +0000</pubDate>
-<category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;This advanced session examines enterprise-grade AI architecture and how pipelines securely move applications from code commit to production, including automated testing, artefact management, containerisation, security scanning, Kubernetes deployment, workload identity, observability, rollback, performance optimisation, and troubleshooting. Speaker: Imoh Etuk Watch live: https://www.youtube.com/watch?v=_Xw7ia6Eyd4 View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-2a159350-2fbf-45f2-89e3-d0d9172bf520&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works, what it gets right, where it needs steering, and what it's actually like to work alongside an AI agent rather than just chat with one. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do, beyond the headli…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[27 Oct] Working with AI to Build Dashboards People Understand | Marjolein Opsteegh</title>
@@ -158,17 +158,8 @@
 <guid isPermaLink="false">url:https://meetup.com/meetup-group-judpeflp/events/316655050</guid>
 <pubDate>Fri, 09 Oct 2026 01:15:22 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[21 Oct] CityJS Athens Warmup-Meetup</title>
-<link>https://www.meetup.com/react-athens-meetup/events/316480561/</link>
-<guid isPermaLink="false">url:https://meetup.com/react-athens-meetup/events/316480561</guid>
-<pubDate>Thu, 08 Oct 2026 10:58:00 +0000</pubDate>
-<category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 21 October 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Epignosis, Likourgou 1, Athina 105 51, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;👋 Hello guys and gals, 👋 🎉🎉🎉 Summer is over — we already ready for our new season 🎉🎉🎉 Doors open at 18:00, and your **ID is required** for entrance. 18:00 - 19:00 - Gathering and welcome from the organizers. 19:00 - 19:30 -Cracking the Code: Salaries &amp;amp; the Gender Pay Gap in Greek Tech / Anastasia Karagkiozoglou 19:30 - 20:00 -Inside My Real Claude Code Workflow: Commands, Voice, Memory, and Building Your Own Agents // Yaroslav Matushevych 20:00 - 20:30 - AI Governance for Engineers: Mapping Real Risk Under the EU AI Act // Christos Makris, Konstantinos Anagnostopoulos 20:30 - 21:00 - To Infer or not to Infer - The Local LLM Dilemma // Athanasios Zografos This is an event prioritised for our …&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[22 Oct] CityJS Athens - Pre Conference Meetup</title>

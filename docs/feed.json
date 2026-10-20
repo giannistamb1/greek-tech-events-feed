@@ -1,7 +1,124 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-20T00:24:37.088395+00:00",
+ "built": "2026-10-20T08:38:28.773898+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/microsoft-azure-community/events/316954978",
+   "title": "Agentic Azure Insights Day 2",
+   "link": "https://www.meetup.com/microsoft-azure-community/events/316954978/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-20T20:00:00+03:00",
+   "location": "Online",
+   "summary": "Join Agentic Azure Insights, a community-driven event focused on sharing knowledge, insights, and practical experiences with Agentic AI throughout the week of 19 October. Explore the agenda at https://agenticazureinsights.com/",
+   "first_seen": "2026-10-20T08:38:28.773898+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/stavros-kalafatis-i-thessaloniki-diekdikei-protagonistiko-rolo-stin-kainotomia-sto-epikentro-ai-kai-yperypologistes",
+   "title": "Σταύρος Καλαφάτης: Η Θεσσαλονίκη διεκδικεί πρωταγωνιστικό ρόλο στην καινοτομία – Στο επίκεντρο AI και υπερυπολογιστές",
+   "link": "https://www.ictplus.gr/stavros-kalafatis-i-thessaloniki-diekdikei-protagonistiko-rolo-stin-kainotomia-sto-epikentro-ai-kai-yperypologistes/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Τον σχεδιασμό για την ανάδειξη της Θεσσαλονίκης σε τεχνολογικό και ερευνητικό κόμβο διεθνούς εμβέλειας παρουσίασε ο υφυπουργός Ανάπτυξης, αρμόδιος για την Έρευνα και την Καινοτομία, Σταύρος Καλαφάτης, κατά τη συμμετοχή του στην ημερίδα «SYNERGIE 2026», που πραγματοποιήθηκε στο ΝΟΗΣΙΣ με διοργανωτή τον Σύλλογο Αποφοίτων και Φίλων του Κολεγίου «ΔΕΛΑΣΑΛ». Στο επίκεντρο της παρέμβασής του βρέθηκε […] Το άρθρο Σταύρος Καλαφάτης: Η Θεσσαλονίκη διεκδικεί πρωταγωνιστικό ρόλο στην καινοτομία – Στο επίκεντρο AI και υπερυπολογιστές εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-20T08:31:35+00:00"
+  },
+  {
+   "key": "url:https://businessvoice.gr/epicheiriseis/993190/mia-stis-dyo-mikromesaies-epicheiriseis-echei-prochorisei-se-epicheirimatiki-chrisi-tou-ai",
+   "title": "Μία στις δύο μικρομεσαίες επιχειρήσεις έχει προχωρήσει σε χρήση του AI",
+   "link": "https://businessvoice.gr/epicheiriseis/993190/mia-stis-dyo-mikromesaies-epicheiriseis-echei-prochorisei-se-epicheirimatiki-chrisi-tou-ai/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "EMEA.gr",
+   "source_url": "https://www.emea.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η δεύτερη ετήσια πανελλαδική έρευνα της ENTERSOFTONE και του εργαστηρίου ELTRUN καταγράφει αξιοσημείωτη άνοδο στον δείκτη ετοιμότηταςAI, αλλά και σημαντικό χάσμα μεταξύ ανάγκης και πραγματικής υιοθέτησης",
+   "first_seen": "2026-10-20T08:31:01+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/epiheiriseis/429420/alma-33-stin-ai-etoimotita-ton-ellinikon-mme-ti-deihnei-ai-readiness-index-2026",
+   "title": "Άλμα 33% στην AI ετοιμότητα των ελληνικών ΜμΕ - Τι δείχνει το AI Readiness Index 2026",
+   "link": "https://www.insider.gr/epiheiriseis/429420/alma-33-stin-ai-etoimotita-ton-ellinikon-mme-ti-deihnei-ai-readiness-index-2026",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Η δεύτερη ετήσια πανελλαδική έρευνα της ENTERSOFTONE και του εργαστηρίου ELTRUN καταγράφει αξιοσημεί...",
+   "first_seen": "2026-10-20T08:31:01+00:00"
+  },
+  {
+   "key": "url:https://netweek.gr/g-cloud-microsoft-data-center-kai-dora-sto-cyber-security-forum-2026",
+   "title": "G-Cloud, Microsoft Data Center και DORA στο Cyber Security Forum 2026",
+   "link": "https://netweek.gr/g-cloud-microsoft-data-center-kai-dora-sto-cyber-security-forum-2026/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "Netweek",
+   "source_url": "https://www.netweek.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "",
+   "first_seen": "2026-10-20T07:40:05+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/ethniko-symfono-psifiakis-aftodioikisis-2027-2030-apo-tin-kede-gia-olous-tous-dimous",
+   "title": "Εθνικό Σύμφωνο Ψηφιακής Αυτοδιοίκησης 2027–2030 από την ΚΕΔΕ για όλους τους δήμους",
+   "link": "https://www.ictplus.gr/ethniko-symfono-psifiakis-aftodioikisis-2027-2030-apo-tin-kede-gia-olous-tous-dimous/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Την ανάγκη για μια ολοκληρωμένη και σταθερά χρηματοδοτούμενη στρατηγική ψηφιακού μετασχηματισμού της Αυτοδιοίκησης υπογράμμισε ο Γενικός Γραμματέας της ΚΕΔΕ, Δημήτρης Καφαντάρης, στον χαιρετισμό του στην ημερίδα της Επιτροπής Ψηφιακής Διακυβέρνησης με θέμα «Ψηφιακά Αυτόνομοι Δήμοι – Ασφαλείς Υπηρεσίες – Έξυπνες Τοπικές Κοινωνίες». Ο Δημήτρης Καφαντάρης τόνισε ότι η αξιοποίηση των νέων τεχνολογιών αποτελεί βασική προϋπόθεση […] Το άρθρο Εθνικό Σύμφωνο Ψηφιακής Αυτοδιοίκησης 2027–2030 από την ΚΕΔΕ για όλους τους δήμους εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-20T07:24:02+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/ert-diagonismos-450-chil-evro-gia-ypiresies-kyvernoasfaleias-me-orizonta-trietias",
+   "title": "ΕΡΤ: Διαγωνισμός 450 χιλ. ευρώ για υπηρεσίες κυβερνοασφάλειας με ορίζοντα τριετίας",
+   "link": "https://www.ictplus.gr/ert-diagonismos-450-chil-evro-gia-ypiresies-kyvernoasfaleias-me-orizonta-trietias/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Στην επιλογή αναδόχου για τη λειτουργία υπηρεσιών Security Operations Center (SOC) προχωρά η Ελληνική Ραδιοφωνία Τηλεόραση, με αντικείμενο την παρακολούθηση και τη διαχείριση της ασφάλειας των πληροφοριακών της συστημάτων. Στις 20 Οκτωβρίου λήγει η προθεσμία υποβολής προσφορών Το άρθρο ΕΡΤ: Διαγωνισμός 450 χιλ. ευρώ για υπηρεσίες κυβερνοασφάλειας με ορίζοντα τριετίας εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-20T07:10:19+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/idryma-meizonos-ellinismou-ena-taxidi-sto-mellon-mesa-apo-tin-technologia-kai-tis-trisdiastates-periigiseis-me-ton-ioulios-vern",
+   "title": "Ιδρυμα Μείζονος Ελληνισμού: Ένα ταξίδι στο μέλλον μέσα από την τεχνολογία και τις τρισδιάστατες περιηγήσεις με τον Ιούλιος Βερν",
+   "link": "https://www.ictplus.gr/idryma-meizonos-ellinismou-ena-taxidi-sto-mellon-mesa-apo-tin-technologia-kai-tis-trisdiastates-periigiseis-me-ton-ioulios-vern/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Μια διαφορετική εμπειρία γνωριμίας με τον κόσμο της επιστημονικής φαντασίας, της τεχνολογίας και των μεγάλων εξερευνήσεων προσφέρει η έκθεση «Ιούλιος Βερν 200: Η «Συναρπαστική Εμπειρία του Ιουλίου Βερν», στο Κέντρο Πολιτισμού «Ελληνικός Κόσμος» του Ιδρύματος Μείζονος Ελληνισμού, στον Ταύρο. Η έκθεση αξιοποιεί σύγχρονα ψηφιακά μέσα, εντυπωσιακές προβολές και διαδραστικές εγκαταστάσεις, μετατρέποντας το έργο του μεγάλου […] Το άρθρο Ιδρυμα Μείζονος Ελληνισμού: Ένα ταξίδι στο μέλλον μέσα από την τεχνολογία και τις τρισδιάστατες περιηγήσεις με τον Ιούλιος Βερν εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-20T07:01:30+00:00"
+  },
+  {
+   "key": "url:https://techblog.gr/internet/pseftiko-app-tis-openai-sto-testflight-tazei-eos-300-dolaria",
+   "title": "Ψεύτικο app της «OpenAI» στο TestFlight τάζει έως 300 δολάρια",
+   "link": "https://techblog.gr/internet/pseftiko-app-tis-openai-sto-testflight-tazei-eos-300-dolaria/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Λάβαμε στις 19 Οκτωβρίου 2026 ψεύτικη πρόσκληση TestFlight για την εφαρμογή «OpenAI OpenAds Analytics». Πώς δουλεύει η απάτη και τι κάνεις αν τη λάβεις. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Ψεύτικο app της «OpenAI» στο TestFlight τάζει έως 300 δολάρια )",
+   "first_seen": "2026-10-20T04:26:38+00:00"
+  },
   {
    "key": "url:https://meetup.com/ai-automation-in-action/events/316908298",
    "title": "AI & Automation for Small-Medium Businesses: Where to Start and How to Make it",
@@ -55,58 +172,6 @@
    "first_seen": "2026-10-19T20:30:38+00:00"
   },
   {
-   "key": "url:https://insider.gr/oikonomia/429333/ypaat-horis-ypohreotiki-eggrafi-sto-maae-i-ypoboli-ton-diloseon-osde",
-   "title": "ΥΠΑΑΤ: Χωρίς υποχρεωτική εγγραφή στο ΜΑΑΕ η υποβολή των δηλώσεων ΟΣΔΕ",
-   "link": "https://www.insider.gr/oikonomia/429333/ypaat-horis-ypohreotiki-eggrafi-sto-maae-i-ypoboli-ton-diloseon-osde",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Συνεχίζεται η συνεργασία του ΥΠΑΑΤ με την ΑΑΔΕ για την ολοκλήρωση της ψηφιακής διασύνδεσης των πληρο...",
-   "first_seen": "2026-10-19T14:18:31+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/dotsoft-me-nea-erga-psifiakou-metaschimatismou-se-dimous-kai-foreis-dievrynei-tin-parousia-tis-stous-ota",
-   "title": "DOTSOFT: Με νέα έργα ψηφιακού μετασχηματισμού σε δήμους και φορείς, διευρύνει την παρουσία της στους ΟΤΑ",
-   "link": "https://www.ictplus.gr/dotsoft-me-nea-erga-psifiakou-metaschimatismou-se-dimous-kai-foreis-dievrynei-tin-parousia-tis-stous-ota/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η ενίσχυση της παρουσίας της στον δημόσιο τομέα, με επίκεντρο την Τοπική Αυτοδιοίκηση, τις έξυπνες πόλεις και τις ψηφιακές υπηρεσίες, αποτυπώνεται στη σειρά έργων που έχει αναλάβει πρόσφατα η DOTSOFT Το άρθρο DOTSOFT: Με νέα έργα ψηφιακού μετασχηματισμού σε δήμους και φορείς, διευρύνει την παρουσία της στους ΟΤΑ εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-19T13:45:15+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/i-profile-anoigei-neous-dromous-stis-diethneis-agores-apostoli-ypsilovathmon-stelechon-sti-florinta",
-   "title": "Η Profile ανοίγει νέους δρόμους στις διεθνείς αγορές. Αποστολή υψηλόβαθμων στελεχών στη Φλόριντα",
-   "link": "https://www.ictplus.gr/i-profile-anoigei-neous-dromous-stis-diethneis-agores-apostoli-ypsilovathmon-stelechon-sti-florinta/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο ιδρυτής και βασικός μέτοχος Χαράλαμπος Στασινόπουλος και ο CEO του Profile Group, Ευάγγελος Αγγελίδης, στο επίκεντρο των διεθνών επαφών της ελληνικής εταιρείας τεχνολογίας. Η διεθνής εξωστρέφεια της Profile και η ενίσχυση των επιχειρηματικών συνεργασιών της βρέθηκαν στο επίκεντρο της μετάβασης υψηλόβαθμου κλιμακίου της εταιρείας στη Φλόριντα των ΗΠΑ ΣΤΟ Συνέδριο Sibos 2026 της Swift, […] Το άρθρο Η Profile ανοίγει νέους δρόμους στις διεθνείς αγορές. Αποστολή υψηλόβαθμων στελεχών στη Φλόριντα εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-19T13:32:06+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/sta-216-ekat-evro-o-diagonismos-gia-ton-yperypologisti-tis-kozanis-i-agora-etoimazei-tis-technikes-paratiriseis",
-   "title": "Στα 21,6 εκατ. ευρώ ο διαγωνισμός για τον υπερυπολογιστή της Κοζάνης. Η αγορά ετοιμάζει τις τεχνικές παρατηρήσεις",
-   "link": "https://www.ictplus.gr/sta-216-ekat-evro-o-diagonismos-gia-ton-yperypologisti-tis-kozanis-i-agora-etoimazei-tis-technikes-paratiriseis/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Στις 31 Οκτωβρίου ολοκληρώνεται η δημόσια διαβούλευση για την προμήθεια του νέου υπερυπολογιστή της Δυτικής Μακεδονίας, με προϋπολογισμό 21,57 εκατ. ευρώ και αντικείμενο που συνδυάζει υπολογιστική ισχύ, αποθήκευση δεδομένων και λογισμικό. Η διαδικασία αποτελεί το πρώτο ουσιαστικό βήμα πριν από την προκήρυξη του διαγωνισμού και δίνει στις ενδιαφερόμενες επιχειρήσεις τη δυνατότητα να τοποθετηθούν επί των […] Το άρθρο Στα 21,6 εκατ. ευρώ ο διαγωνισμός για τον υπερυπολογιστή της Κοζάνης. Η αγορά ετοιμάζει τις τεχνικές παρατηρήσεις εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-19T13:29:04+00:00"
-  },
-  {
    "key": "url:https://meetup.com/d-c_powerbi/events/316924706",
    "title": "End-to-end CI/CD for Microsoft Fabric with Azure DevOps | Kevin Chant",
    "link": "https://www.meetup.com/d-c_powerbi/events/316924706/",
@@ -118,32 +183,6 @@
    "location": "Online",
    "summary": "When it comes to end-to-end CI/CD for Microsoft Fabric there are various options to choose from. Including how to branch out to new workspaces and perform automated tests with various Microsoft Fabric items. I intend to cover a variety of CI/CD routes within Microsoft Fabric. So that you can decide what is the best fit for you. Including various testing options. Topics covered include: \\- Microsoft Fabric Git integration \\- Microsoft Fabric deployment plans \\- Orchestrating deployments with Fabric deployment pipelines and Azure DevOps\\. \\- Performing automated tests for various Fabric items\\. Including Power BI Reports and Data Pipelines\\. All the demos performed will be based on Azure DevOp…",
    "first_seen": "2026-10-19T13:27:55.086581+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/generation-next-deka-chronia-kainotomias-me-ti-nea-genia-na-schediazei-to-mellon",
-   "title": "Generation Next: Δέκα χρόνια καινοτομίας, με τη νέα γενιά να σχεδιάζει το μέλλον",
-   "link": "https://www.ictplus.gr/generation-next-deka-chronia-kainotomias-me-ti-nea-genia-na-schediazei-to-mellon/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Το πρόγραμμα Generation Next μετρά περισσότερους από 148.000 συμμετέχοντες και 1.042 καινοτόμα μαθητικά projects που έχουν δημιουργηθεί στο πλαίσιο του διαγωνισμού Το άρθρο Generation Next: Δέκα χρόνια καινοτομίας, με τη νέα γενιά να σχεδιάζει το μέλλον εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-19T12:14:07+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/banktech-conference-2026-techniti-noimosyni-epicheirisiaki-anthektikotita-kai-nees-technologies-apodochis-pliromon-stin-atzenta-tou-trapezikou-kladou",
-   "title": "Banktech Conference 2026: Τεχνητή Νοημοσύνη, επιχειρησιακή ανθεκτικότητα και νέες τεχνολογίες αποδοχής πληρωμών στην ατζέντα του τραπεζικού κλάδου",
-   "link": "https://www.ictplus.gr/banktech-conference-2026-techniti-noimosyni-epicheirisiaki-anthektikotita-kai-nees-technologies-apodochis-pliromon-stin-atzenta-tou-trapezikou-kladou/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η μετάβαση από τις πιλοτικές εφαρμογές Τεχνητής Νοημοσύνης στην επιχειρησιακή αξιοποίησή της, η ενίσχυση της ανθεκτικότητας των τραπεζικών υποδομών και η εξέλιξη της αποδοχής πληρωμών βρέθηκαν στο επίκεντρο του Banktech Conference 2026, που διοργανώθηκε από τη Mellon Technologies στις 8 και 9 Οκτωβρίου 2026. Η 9η διοργάνωση, αποτέλεσε για μία ακόμη χρονιά το σημείο συνάντησης […] Το άρθρο Banktech Conference 2026: Τεχνητή Νοημοσύνη, επιχειρησιακή ανθεκτικότητα και νέες τεχνολογίες αποδοχής πληρωμών στην ατζέντα του τραπεζικού κλάδου εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-19T12:04:36+00:00"
   },
   {
    "key": "url:https://startupper.gr/ai/281436/i-intel-parousiase-ti-nea-karta-grafikon-d270-me-mnimi-eos-480gb-gia-efarmoges-technitis-noimosynis-ti-gnorizoume-gia-tin-timi-kai-ti-diathesimotita",
@@ -159,19 +198,6 @@
    "first_seen": "2026-10-19T11:48:53+00:00"
   },
   {
-   "key": "url:https://techblog.gr/mobile/posi-bataria-echei-to-iphone-duo-ta-mah-kai-i-sygkrisi-me-ta-alla",
-   "title": "Πόση μπαταρία έχει το iPhone Duo; Τα mAh και η σύγκριση με τα άλλα",
-   "link": "https://techblog.gr/mobile/posi-bataria-echei-to-iphone-duo-ta-mah-kai-i-sygkrisi-me-ta-alla/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techblog",
-   "source_url": "https://techblog.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το iPhone Duo έχει μπαταρία 4.883mAh σε δύο κελιά, σύμφωνα με έγγραφο της Apple στην ΕΕ. Σύγκριση με iPhone 18 Pro, 18 Pro Max και 17. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Πόση μπαταρία έχει το iPhone Duo; Τα mAh και η σύγκριση με τα άλλα )",
-   "first_seen": "2026-10-19T11:00:20+00:00"
-  },
-  {
    "key": "url:https://fortunegreece.com/article/power-of-innovation-2026-epistrefei-i-megali-giorti-tis-kainotomias-kai-tis-texnologias",
    "title": "The Power of Innovation Summit 2026: Δείτε την ατζέντα και τους ομιλητές!",
    "link": "https://www.fortunegreece.com/article/power-of-innovation-2026-epistrefei-i-megali-giorti-tis-kainotomias-kai-tis-texnologias/",
@@ -183,19 +209,6 @@
    "location": "",
    "summary": "From Innovation to Growth Innovation creates possibilities. Execution turns them into growth.",
    "first_seen": "2026-10-19T09:29:09+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/news/281376/netcompany-hackathon-athens-diagonismos-kainotomias-gia-foitites-kai-foititries-panepistimion-tis-athinas",
-   "title": "Netcompany Hackathon Athens: Διαγωνισμός καινοτομίας για φοιτητές και φοιτήτριες πανεπιστημίων της Αθήνας",
-   "link": "https://startupper.gr/news/281376/netcompany-hackathon-athens-diagonismos-kainotomias-gia-foitites-kai-foititries-panepistimion-tis-athinas/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι ομάδες που θα διακριθούν θα λάβουν χρηματικά έπαθλα ύψους 3.000 ευρώ για την πρώτη θέση, 2.000 ευρώ για τη δεύτερη και 1.000 ευρώ για την τρίτη The post Netcompany Hackathon Athens: Διαγωνισμός καινοτομίας για φοιτητές και φοιτήτριες πανεπιστημίων της Αθήνας appeared first on STARTUPPER .",
-   "first_seen": "2026-10-19T07:58:48+00:00"
   },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316816854",
@@ -224,19 +237,6 @@
    "first_seen": "2026-10-17T20:40:44.599335+00:00"
   },
   {
-   "key": "url:https://fortunegreece.com/article/we-r-to-krifo-keno-pou-apeilei-ta-sxedia-anaptixis-ton-epixeiriseon",
-   "title": "We R: Το κρυφό κενό που απειλεί τα σχέδια ανάπτυξης των επιχειρήσεων",
-   "link": "https://www.fortunegreece.com/article/we-r-to-krifo-keno-pou-apeilei-ta-sxedia-anaptixis-ton-epixeiriseon/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η ιδρύτρια και CEO του ομίλου, Ρεβέκκα Πιτσίκα παρουσίασε τη στρατηγική για τη στελέχωση, την ηγεσία και την εργασιακή ευεξία. Τι αποκαλύπτει έρευνα σε 270 CEOs και ανώτατα στελέχη για την ετοιμότητα των διαδόχων και την εξάρτηση από ανθρώπους-κλειδιά.",
-   "first_seen": "2026-10-17T09:03:11+00:00"
-  },
-  {
    "key": "url:https://techgear.gr/mporei-mia-techniti-noimosyni-na-echei-ti-diki-tis-aythormiti-paidiki-ilikia-ti-edeixe-to-peirama-toy-mit-50968",
    "title": "Μπορεί μια τεχνητή νοημοσύνη να έχει τη δική της αυθόρμητη «παιδική ηλικία»; Τι έδειξε το πείραμα του MIT",
    "link": "https://www.techgear.gr/mporei-mia-techniti-noimosyni-na-echei-ti-diki-tis-aythormiti-paidiki-ilikia-ti-edeixe-to-peirama-toy-mit-50968",
@@ -261,19 +261,6 @@
    "location": "",
    "summary": "Σύνοψη Παρουσιάστηκε η τελική, ανασχεδιασμένη έκδοση του Tesla Roadster με έντονες αισθητικές επιρροές από το Cybertruck και αυστηρά ...",
    "first_seen": "2026-10-16T04:20:00+00:00"
-  },
-  {
-   "key": "url:https://techgear.gr/dierreysan-dedomena-8-8-ekat-politon-sti-dania-o-kodikos-asfaleias-itan-to-123456-50946",
-   "title": "Διέρρευσαν δεδομένα 8,8 εκατ. πολιτών στη Δανία - Ο κωδικός ασφαλείας ήταν το... 123456",
-   "link": "https://www.techgear.gr/dierreysan-dedomena-8-8-ekat-politon-sti-dania-o-kodikos-asfaleias-itan-to-123456-50946",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techgear",
-   "source_url": "https://www.techgear.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Σύνοψη Τεράστια διαρροή δεδομένων: Το εθνικό μητρώο πληθυσμού της Δανίας (CPR) παραβιάστηκε, με αποτέλεσμα την έκθεση προσωπικών δεδομένων για ...",
-   "first_seen": "2026-10-15T11:40:00+00:00"
   },
   {
    "key": "url:https://meetup.com/ministry-of-testing-athens/events/316944513",
@@ -320,25 +307,12 @@
    "link": "https://www.meetup.com/agent-builders/events/315958151/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
    "starts": "2026-10-29T20:00:00+02:00",
    "location": "Online",
    "summary": "October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works, what it gets right, where it needs steering, and what it's actually like to work alongside an AI agent rather than just chat with one. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do, beyond the headli…",
    "first_seen": "2026-10-13T16:59:07.932367+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863015",
-   "title": "Advanced Cloud Architecture & DevOps CICD Pipeline Process",
-   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863015/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-27T19:00:00+02:00",
-   "location": "Online",
-   "summary": "This advanced session examines enterprise-grade AI architecture and how pipelines securely move applications from code commit to production, including automated testing, artefact management, containerisation, security scanning, Kubernetes deployment, workload identity, observability, rollback, performance optimisation, and troubleshooting. Speaker: Imoh Etuk Watch live: https://www.youtube.com/watch?v=_Xw7ia6Eyd4 View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-2a159350-2fbf-45f2-89e3-d0d9172bf520",
-   "first_seen": "2026-10-13T06:51:25.576001+00:00"
   },
   {
    "key": "url:https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia",
@@ -437,25 +411,12 @@
    "link": "https://www.meetup.com/meetup-group-judpeflp/events/316655050/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-10-27T19:00:00+02:00",
    "location": "Online",
    "summary": "## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…",
    "first_seen": "2026-10-09T01:15:22.264976+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/react-athens-meetup/events/316480561",
-   "title": "CityJS Athens Warmup-Meetup",
-   "link": "https://www.meetup.com/react-athens-meetup/events/316480561/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-21T18:00:00+03:00",
-   "location": "Epignosis, Likourgou 1, Athina 105 51, Greece, Athina, Athina",
-   "summary": "👋 Hello guys and gals, 👋 🎉🎉🎉 Summer is over — we already ready for our new season 🎉🎉🎉 Doors open at 18:00, and your **ID is required** for entrance. 18:00 - 19:00 - Gathering and welcome from the organizers. 19:00 - 19:30 -Cracking the Code: Salaries & the Gender Pay Gap in Greek Tech / Anastasia Karagkiozoglou 19:30 - 20:00 -Inside My Real Claude Code Workflow: Commands, Voice, Memory, and Building Your Own Agents // Yaroslav Matushevych 20:00 - 20:30 - AI Governance for Engineers: Mapping Real Risk Under the EU AI Act // Christos Makris, Konstantinos Anagnostopoulos 20:30 - 21:00 - To Infer or not to Infer - The Local LLM Dilemma // Athanasios Zografos This is an event prioritised for our …",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
    "key": "url:https://meetup.com/react-athens-meetup/events/316857007",
