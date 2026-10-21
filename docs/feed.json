@@ -1,7 +1,111 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-21T04:56:49.451195+00:00",
+ "built": "2026-10-21T11:57:49.025366+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/cloudkode/events/317047871",
+   "title": "AWS Agentcore with Zaky",
+   "link": "https://www.meetup.com/cloudkode/events/317047871/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-21T19:00:00+03:00",
+   "location": "Online",
+   "summary": "Agentic Brews Where complex workflows meet the perfect cup",
+   "first_seen": "2026-10-21T11:57:49.025366+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863053",
+   "title": "Capstone Project: MMAUG High School Secure Login Portal",
+   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863053/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-29T19:00:00+02:00",
+   "location": "Online",
+   "summary": "Create a secure school portal with strong authentication, server-side role-based access, protected APIs, account administration, audit history and repeatable DevSecOps delivery. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-high-school-secure-login-portal",
+   "first_seen": "2026-10-21T11:57:49.025366+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/d-markopoulos-91-meioseis-foron-kai-eisforon-apo-to-2019-oi-ependytikes-efkairies-stin-ellada",
+   "title": "Δ. Μαρκόπουλος: 91 μειώσεις φόρων και εισφορών από το 2019 – Οι επενδυτικές ευκαιρίες στην Ελλάδα",
+   "link": "https://www.ictplus.gr/d-markopoulos-91-meioseis-foron-kai-eisforon-apo-to-2019-oi-ependytikes-efkairies-stin-ellada/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Τη βελτιωμένη εικόνα της ελληνικής οικονομίας και τις δυνατότητες ενίσχυσης των επενδυτικών σχέσεων Ελλάδας και Καναδά παρουσίασε ο υφυπουργός Εθνικής Οικονομίας και Οικονομικών, Δημήτρης Μαρκόπουλος, κατά τη συμμετοχή του στο Delphi Economic Forum Toronto. Στην παρέμβασή του αναφέρθηκε στη δημοσιονομική πορεία της χώρας, στις προβλέψεις για την ανάπτυξη το 2027, αλλά και στις 91 μειώσεις […] Το άρθρο Δ. Μαρκόπουλος: 91 μειώσεις φόρων και εισφορών από το 2019 – Οι επενδυτικές ευκαιρίες στην Ελλάδα εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-21T08:53:14+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/cisco-connect-2026-greece-oi-krisimes-technologikes-ypodomes-i-asfaleia-kai-i-ergasia-stin-epochi-tou-ai",
+   "title": "Cisco Connect 2026 Greece: Οι κρίσιμες τεχνολογικές υποδομές, η ασφάλεια και η εργασία στην εποχή του AI",
+   "link": "https://www.ictplus.gr/cisco-connect-2026-greece-oi-krisimes-technologikes-ypodomes-i-asfaleia-kai-i-ergasia-stin-epochi-tou-ai/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Στις 12 Νοεμβρίου, στο InterContinental Athenaeum Athens, η κορυφαία ετήσια διοργάνωση της Cisco στην Ελλάδα φέρνει στο επίκεντρο τις τεχνολογίες που επιταχύνουν το μέλλον της τεχνητής νοημοσύνης. Η συμμετοχή είναι δωρεάν, με προηγούμενη εγγραφή. Η Cisco παρουσιάζει το πρόγραμμα του Cisco Connect 2026 Greece, που θα πραγματοποιηθεί την Πέμπτη 12 Νοεμβρίου, στο InterContinental Athenaeum Athens, […] Το άρθρο Cisco Connect 2026 Greece: Οι κρίσιμες τεχνολογικές υποδομές, η ασφάλεια και η εργασία στην εποχή του AI εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-21T07:49:41+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/aperiorista-dedomena-eett-koftes-taxytitas-fwa",
+   "title": "EETT: Απεριόριστα δεδομένα για όλους, με κόφτες ανά πάσα στιγμή",
+   "link": "https://techmaniacs.gr/aperiorista-dedomena-eett-koftes-taxytitas-fwa/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Στη ελληνική αγορά τηλεπικοινωνιών, ο όρος «απεριόριστα» χρησιμοποιείται κατά κόρον στις διαφημιστικές καμπάνιες των παρόχων. Ωστόσο, στην πράξη τα απεριόριστα δεδομένα δεν συνεπάγονται απαραίτητα και απεριόριστη ταχύτητα πρόσβασης. Αυτή ακριβώς τη διάσταση επιβεβαιώνει η επίσημη Έκθεση Ανοικτού Διαδικτύου 2025-2026 της Εθνικής Επιτροπής Τηλεπικοινωνιών και Ταχυδρομείων (ΕΕΤΤ), αποτυπώνοντας την πραγματική εικόνα και τους περιορισμούς που αντιμετωπίζουν […] The post EETT: Απεριόριστα δεδομένα για όλους, με κόφτες ανά πάσα στιγμή appeared first on Techmaniacs .",
+   "first_seen": "2026-10-21T07:48:27+00:00"
+  },
+  {
+   "key": "url:https://techblog.gr/howto/chatgpt-pos-kleidoneis-tis-prosopikes-synomilies-sou-me-pin",
+   "title": "ChatGPT: Πώς κλειδώνεις τις προσωπικές συνομιλίες σου με PIN",
+   "link": "https://techblog.gr/howto/chatgpt-pos-kleidoneis-tis-prosopikes-synomilies-sou-me-pin/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Οδηγός για το κλείδωμα συνομιλιών ChatGPT: τα Locked Chats κρύβουν chats πίσω από τετραψήφιο PIN ή Face ID, χωρίς κρυπτογράφηση. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( ChatGPT: Πώς κλειδώνεις τις προσωπικές συνομιλίες σου με PIN )",
+   "first_seen": "2026-10-21T07:45:20+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/wordcamp-athens-2026-dyo-imeres-technologias-networking-kai-epangelmatikon-efkairion",
+   "title": "WordCamp Athens 2026: Δύο ημέρες τεχνολογίας, networking και επαγγελματικών ευκαιριών",
+   "link": "https://www.ictplus.gr/wordcamp-athens-2026-dyo-imeres-technologias-networking-kai-epangelmatikon-efkairion/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Το δημοφιλές τεχνολογικό συνέδριο WordCamp Athens γιορτάζει τα 10 του χρόνια και ετοιμάζει τη μεγαλύτερη διοργάνωση στην ιστορία του, στις 11 και 12 Δεκεμβρίου, στο Πολεμικό Μουσείο. Για πρώτη φορά με διήμερη διάρκεια, το WordCamp Athens 2026 έρχεται διευρυμένο, με περισσότερες ώρες ομιλιών και δικτύωσης, Career Day, νέο track και πολλές άλλες εκπλήξεις. Η προπώληση […] Το άρθρο WordCamp Athens 2026: Δύο ημέρες τεχνολογίας, networking και επαγγελματικών ευκαιριών εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-21T06:55:07+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/joist-apo-to-ergastirio-stis-monades-ygeias-i-kainotomia-stin-ygeia-perna-stin-praxi",
+   "title": "JOIST: Από το εργαστήριο στις Μονάδες Υγείας – Η καινοτομία στην Υγεία περνά στην πράξη",
+   "link": "https://www.ictplus.gr/joist-apo-to-ergastirio-stis-monades-ygeias-i-kainotomia-stin-ygeia-perna-stin-praxi/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Το Πάρκο Καινοτομίας JOIST χτίζει από τη Λάρισα τη γέφυρα ανάμεσα στην έρευνα, τις startups και τις πραγματικές ανάγκες του Συστήματος Υγείας - ΑΙ, Health Hub, Innovation Challenges: Ένα οικοσύστημα που συνδέει τεχνολογία και αγορά. Το άρθρο JOIST: Από το εργαστήριο στις Μονάδες Υγείας – Η καινοτομία στην Υγεία περνά στην πράξη εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-21T06:30:28+00:00"
+  },
   {
    "key": "url:https://meetup.com/cloud-native-muc/events/316851781",
    "title": "Platform Engineering in the Age of AI",
@@ -16,32 +120,6 @@
    "first_seen": "2026-10-20T23:56:26.135135+00:00"
   },
   {
-   "key": "url:https://businessvoice.gr/news/993416/etad-pilotiko-programma-ekmisthosis-agrotikon-akiniton-se-11-perifereiakes-enotites",
-   "title": "ΕΤΑΔ: Πιλοτικό πρόγραμμα εκμίσθωσης αγροτικών ακινήτων σε 11 Περιφερειακές Ενότητες",
-   "link": "https://businessvoice.gr/news/993416/etad-pilotiko-programma-ekmisthosis-agrotikon-akiniton-se-11-perifereiakes-enotites/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "99 ακίνητα, συνολικής έκτασης 2,26 εκατ. τ.μ. – Νέα ψηφιακή υπηρεσία για την υποβολή αιτήσεων",
-   "first_seen": "2026-10-20T16:33:48+00:00"
-  },
-  {
-   "key": "url:https://businessvoice.gr/top-stories/993407/joist-apo-to-ergastirio-stis-monades-ygeias-i-kainotomia-stin-y-geia-perna-stin-praxi",
-   "title": "JOIST: Από το εργαστήριο στις Μονάδες Υγείας – Η καινοτομία στην Υ-γεία περνά στην πράξη",
-   "link": "https://businessvoice.gr/top-stories/993407/joist-apo-to-ergastirio-stis-monades-ygeias-i-kainotomia-stin-y-geia-perna-stin-praxi/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το Πάρκο Καινοτομίας JOIST χτίζει από τη Λάρισα τη γέφυρα ανάμεσα στην έρευ-να, τις startups και τις πραγματικές ανάγκες του Συστήματος Υγείας - ΑΙ, Health Hub, Innovation Challenges: Ένα οικοσύστημα που συνδέει τεχνολογία και αγορά.",
-   "first_seen": "2026-10-20T16:00:30+00:00"
-  },
-  {
    "key": "url:https://techmaniacs.gr/eggrafo-anaferei-oti-i-ai-den-einai-ayto-poy-fantazomaste",
    "title": "Έγγραφο αναφέρει ότι η AI δεν είναι αυτό που φανταζόμαστε",
    "link": "https://techmaniacs.gr/eggrafo-anaferei-oti-i-ai-den-einai-ayto-poy-fantazomaste/",
@@ -53,19 +131,6 @@
    "location": "",
    "summary": "Η επικρατούσα άποψη σήμερα είναι ότι τα μεγάλα συστήματα τεχνητής νοημοσύνης, με τις δεκάδες δισεκατομμύρια παραμέτρους, αποτελούν ένα αχαρτογράφητο «μαύρο κουτί». Η κατανόηση των ακριβών μηχανισμών και του τρόπου συμπεριφοράς των νευρωνικών τους δικτύων αποτελεί ένα δυσεπίλυτο πρόβλημα, ακόμη και για τους ίδιους τους δημιουργούς τους. Ωστόσο, μια πολύ ενδιαφέρουσα ανατροπή φέρνει στο προσκήνιο ο […] The post Έγγραφο αναφέρει ότι η AI δεν είναι αυτό που φανταζόμαστε appeared first on Techmaniacs .",
    "first_seen": "2026-10-20T15:54:51+00:00"
-  },
-  {
-   "key": "url:https://insider.gr/epiheiriseis/429517/game-money-forum-2027-i-oikonomiki-paideia-synanta-tin-epiheirimatikotita-kai",
-   "title": "Game of Money Forum 2027: Η οικονομική παιδεία συναντά την επιχειρηματικότητα και την καινοτομία",
-   "link": "https://www.insider.gr/epiheiriseis/429517/game-money-forum-2027-i-oikonomiki-paideia-synanta-tin-epiheirimatikotita-kai",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Αλέξιος Βανδώρος (Game Of Money) και Μιχάλης Στάγκος (IDGC) παρουσίασαν τη νέα εποχή της διοργάνωσης...",
-   "first_seen": "2026-10-20T15:53:50+00:00"
   },
   {
    "key": "url:https://startupper.gr/news/281747/parko-kainotomias-joist-pos-i-larisa-metatrepetai-se-ethniko-komvo-healthtech-kai-technitis-noimosynis",
@@ -94,58 +159,6 @@
    "first_seen": "2026-10-20T14:15:25+00:00"
   },
   {
-   "key": "url:https://startupper.gr/international/281709/ekthesi-coface-to-rali-tou-petrelaiou-kai-i-geopolitiki-anaflexi-apeiloun-tin-anaptyxi-anachoma-oi-ependyseis-sto-ai",
-   "title": "Έκθεση Coface: Το ράλι του πετρελαίου και η γεωπολιτική ανάφλεξη απειλούν την ανάπτυξη – Ανάχωμα οι επενδύσεις στο AI",
-   "link": "https://startupper.gr/international/281709/ekthesi-coface-to-rali-tou-petrelaiou-kai-i-geopolitiki-anaflexi-apeiloun-tin-anaptyxi-anachoma-oi-ependyseis-sto-ai/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Αντί η γεωπολιτική κατάσταση να βελτιωθεί, επιδεινώθηκε για άλλη μια φορά, ασκώντας αυξανόμενες πιέσεις στις τιμές των εμπορευμάτων και στις χρηματοοικονομικές συνθήκες The post Έκθεση Coface: Το ράλι του πετρελαίου και η γεωπολιτική ανάφλεξη απειλούν την ανάπτυξη – Ανάχωμα οι επενδύσεις στο AI appeared first on STARTUPPER .",
-   "first_seen": "2026-10-20T13:54:18+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/to-elliniko-kosmima-perna-stin-epochi-tis-technologias-oi-4-protovoulies-gia-3d-printing-rd-kai-startups",
-   "title": "Το ελληνικό κόσμημα περνά στην εποχή της τεχνολογίας – Οι 4 πρωτοβουλίες για 3D printing, R&D και startups",
-   "link": "https://www.ictplus.gr/to-elliniko-kosmima-perna-stin-epochi-tis-technologias-oi-4-protovoulies-gia-3d-printing-rd-kai-startups/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Τη σύνδεση της ελληνικής αργυροχρυσοχοΐας με τις σύγχρονες τεχνολογίες και την ερευνητική δραστηριότητα επιχειρεί να ενισχύσει ένα νέο πλαίσιο πρωτοβουλιών που παρουσίασε ο υφυπουργός Ανάπτυξης, αρμόδιος για την Έρευνα και την Καινοτομία, Σταύρος Καλαφάτης, κατά τα εγκαίνια της 40ής Διεθνούς Έκθεσης Κοσμήματος, Ωρολογίων και Εξοπλισμού KOSMIMA, στη Θεσσαλονίκη. Η πρόταση περιλαμβάνει τέσσερις παρεμβάσεις, με επίκεντρο […] Το άρθρο Το ελληνικό κόσμημα περνά στην εποχή της τεχνολογίας – Οι 4 πρωτοβουλίες για 3D printing, R&D και startups εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-20T09:22:33+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/o-omilos-meidani-ependyei-stin-ekpaidefsi-ton-ilektrologon-me-exeidikevmena-smart-home-workshops",
-   "title": "Ο Όμιλος Μεϊδάνη επενδύει στην εκπαίδευση των ηλεκτρολόγων με εξειδικευμένα Smart Home workshops",
-   "link": "https://www.ictplus.gr/o-omilos-meidani-ependyei-stin-ekpaidefsi-ton-ilektrologon-me-exeidikevmena-smart-home-workshops/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Με στόχο την ενίσχυση της τεχνικής κατάρτισης και τη διαρκή αναβάθμιση των δεξιοτήτων των επαγγελματιών του ηλεκτρολογικού κλάδου, η Μεϊδάνης, σε συνεργασία με τη Shelly, ολοκλήρωσε έναν κύκλο εξειδικευμένων εκπαιδευτικών σεμιναρίων με αντικείμενο τις τεχνολογίες Smart Home και Home Assistant Automation. Η πρωτοβουλία, που ολοκληρώθηκε τον προηγούμενο μήνα, περιλάμβανε πρακτικά workshops σε Αθήνα, Θεσσαλονίκη, Πάτρα […] Το άρθρο Ο Όμιλος Μεϊδάνη επενδύει στην εκπαίδευση των ηλεκτρολόγων με εξειδικευμένα Smart Home workshops εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-20T09:15:33+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/stavros-kalafatis-i-thessaloniki-diekdikei-protagonistiko-rolo-stin-kainotomia-sto-epikentro-ai-kai-yperypologistes",
-   "title": "Σταύρος Καλαφάτης: Η Θεσσαλονίκη διεκδικεί πρωταγωνιστικό ρόλο στην καινοτομία – Στο επίκεντρο AI και υπερυπολογιστές",
-   "link": "https://www.ictplus.gr/stavros-kalafatis-i-thessaloniki-diekdikei-protagonistiko-rolo-stin-kainotomia-sto-epikentro-ai-kai-yperypologistes/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Τον σχεδιασμό για την ανάδειξη της Θεσσαλονίκης σε τεχνολογικό και ερευνητικό κόμβο διεθνούς εμβέλειας παρουσίασε ο υφυπουργός Ανάπτυξης, αρμόδιος για την Έρευνα και την Καινοτομία, Σταύρος Καλαφάτης, κατά τη συμμετοχή του στην ημερίδα «SYNERGIE 2026», που πραγματοποιήθηκε στο ΝΟΗΣΙΣ με διοργανωτή τον Σύλλογο Αποφοίτων και Φίλων του Κολεγίου «ΔΕΛΑΣΑΛ». Στο επίκεντρο της παρέμβασής του βρέθηκε […] Το άρθρο Σταύρος Καλαφάτης: Η Θεσσαλονίκη διεκδικεί πρωταγωνιστικό ρόλο στην καινοτομία – Στο επίκεντρο AI και υπερυπολογιστές εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-20T08:31:35+00:00"
-  },
-  {
    "key": "url:https://netweek.gr/g-cloud-microsoft-data-center-kai-dora-sto-cyber-security-forum-2026",
    "title": "G-Cloud, Microsoft Data Center και DORA στο Cyber Security Forum 2026",
    "link": "https://netweek.gr/g-cloud-microsoft-data-center-kai-dora-sto-cyber-security-forum-2026/",
@@ -157,32 +170,6 @@
    "location": "",
    "summary": "",
    "first_seen": "2026-10-20T07:40:05+00:00"
-  },
-  {
-   "key": "url:https://techblog.gr/internet/pseftiko-app-tis-openai-sto-testflight-tazei-eos-300-dolaria",
-   "title": "Ψεύτικο app της «OpenAI» στο TestFlight τάζει έως 300 δολάρια",
-   "link": "https://techblog.gr/internet/pseftiko-app-tis-openai-sto-testflight-tazei-eos-300-dolaria/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techblog",
-   "source_url": "https://techblog.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Λάβαμε στις 19 Οκτωβρίου 2026 ψεύτικη πρόσκληση TestFlight για την εφαρμογή «OpenAI OpenAds Analytics». Πώς δουλεύει η απάτη και τι κάνεις αν τη λάβεις. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Ψεύτικο app της «OpenAI» στο TestFlight τάζει έως 300 δολάρια )",
-   "first_seen": "2026-10-20T04:26:38+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/future-skills-community/events/316567887",
-   "title": "EduQAte: How to Write and Refresh Your CV workshop",
-   "link": "https://www.meetup.com/future-skills-community/events/316567887/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-26T13:00:00+02:00",
-   "location": "Online",
-   "summary": "**About this workshop:** Whether you're just starting out, returning to work, or looking to make a stronger impression with your CV, this practical and interactive workshop will help you confidently showcase your skills, experience, and potential. Learn how to present yourself professionally and tailor your CV to stand out, even if you have limited experience or are changing career paths. **In this workshop, you'll learn how to:** Format your CV using a professional layout Write a personal profile that tells the hiring manager about yourself and what you can bring to the organisation Align your CV to the job requirements, showcasing your transferable skills **Who should attend:** * Anyone cu…",
-   "first_seen": "2026-10-19T20:37:15.755701+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/dimitris-papastergiou-sto-poi-2026-i-simasia-tou-daidalou-kai-to-mellon-tis-elladas-ston-kosmo-tou-ai",
@@ -255,8 +242,8 @@
    "link": "https://www.meetup.com/london-business-analytics-group/events/316775954/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-10-28T20:00:00+02:00",
    "location": "Online",
    "summary": "Tom provides a framework that analysts can use to help structure their analytical findings into more of a story/coherent format so that it has a bigger impact. He will then also talk through a real-life example for each pillar of the framework. This is a short 20 minute talk followed by 5-10 minutes of Q&A. Tom is a Senior Commercial Analytics Manager with a background in turning data into commercially useful insight. He also speaks regularly through Toastmasters and is particularly interested in helping analysts communicate complex ideas more simply and effectively.",
@@ -274,19 +261,6 @@
    "location": "",
    "summary": "Σύνοψη Μια νέα έρευνα του MIT (έγγραφο arXiv 2610.07130) εξέτασε τι συμβαίνει όταν 13 αυτόνομοι AI agents, βασισμένοι σε ένα μοντέλο υποβοήθησης ...",
    "first_seen": "2026-10-16T16:50:00+00:00"
-  },
-  {
-   "key": "url:https://techgear.gr/tesla-roadster-2026-paroysiastike-i-nea-ekdosi-kai-petaei-50956",
-   "title": "Tesla Roadster 2026: Παρουσιάστηκε η νέα έκδοση και... πετάει!",
-   "link": "https://www.techgear.gr/tesla-roadster-2026-paroysiastike-i-nea-ekdosi-kai-petaei-50956",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techgear",
-   "source_url": "https://www.techgear.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Σύνοψη Παρουσιάστηκε η τελική, ανασχεδιασμένη έκδοση του Tesla Roadster με έντονες αισθητικές επιρροές από το Cybertruck και αυστηρά ...",
-   "first_seen": "2026-10-16T04:20:00+00:00"
   },
   {
    "key": "url:https://meetup.com/ministry-of-testing-athens/events/316944513",
@@ -393,19 +367,6 @@
    "first_seen": "2026-10-11T19:35:25.872566+00:00"
   },
   {
-   "key": "url:https://meetup.com/aws-user-group-athens/events/316227211",
-   "title": "[ML Associate] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
-   "link": "https://www.meetup.com/aws-user-group-athens/events/316227211/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-09T17:00:00+02:00",
-   "location": "",
-   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
-   "first_seen": "2026-10-10T17:22:19.663455+00:00"
-  },
-  {
    "key": "url:https://meetup.com/aws-user-group-athens/events/316227206",
    "title": "[AI Practitioner] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
    "link": "https://www.meetup.com/aws-user-group-athens/events/316227206/",
@@ -458,19 +419,6 @@
    "first_seen": "2026-10-09T01:15:22.264976+00:00"
   },
   {
-   "key": "url:https://meetup.com/react-athens-meetup/events/316857007",
-   "title": "CityJS Athens - Pre Conference Meetup",
-   "link": "https://www.meetup.com/react-athens-meetup/events/316857007/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-22T19:00:00+03:00",
-   "location": "Agiou Markou 22, Agiou Markou 22, Athina 105 60, Greece, Athina, Athina",
-   "summary": "Dear all we are pleased to add one more meetup for our attendees the day before the conference. We will have at the moment two talks and the meetup will last from 7-9pm. Free Pizza and Food from our sponsors Devin and hosted by SuiHub Athens - [Agiou Markou 22, Athina 105 60](https://www.google.com/maps/place//data=!4m2!3m1!1s0x14a1bd0054faba93:0x87c73948f1e3d0e4?sa=X&ved=1t:8290&ictx=111) **7:00 -** Doors Open - Networking Pizza and Drinks served **7:00 - 7:30** Manifesting a brighter future by cutting out the middlemen // David Mark Clements Tether **7:30 - 8:00** Build Faster with Devin: AI-Powered Software Development // Erasmo Hernández - Devin **8:00 - 8:30 - TBC** **9:00** \\- Late Dri…",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
    "key": "url:https://meetup.com/react-athens-meetup/events/315268633",
    "title": "CityJS Athens 2026",
    "link": "https://www.meetup.com/react-athens-meetup/events/315268633/",
@@ -484,6 +432,19 @@
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
+   "key": "url:https://meetup.com/react-athens-meetup/events/316857007",
+   "title": "CityJS Athens - Pre Conference Meetup",
+   "link": "https://www.meetup.com/react-athens-meetup/events/316857007/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-10-22T19:00:00+03:00",
+   "location": "Agiou Markou 22, Agiou Markou 22, Athina 105 60, Greece, Athina, Athina",
+   "summary": "Dear all we are pleased to add one more meetup for our attendees the day before the conference. We will have at the moment two talks and the meetup will last from 7-9pm. Free Pizza and Food from our sponsors Devin and hosted by SuiHub Athens - [Agiou Markou 22, Athina 105 60](https://www.google.com/maps/place//data=!4m2!3m1!1s0x14a1bd0054faba93:0x87c73948f1e3d0e4?sa=X&ved=1t:8290&ictx=111) **7:00 -** Doors Open - Networking Pizza and Drinks served **7:00 - 7:30** Manifesting a brighter future by cutting out the middlemen // David Mark Clements Tether **7:30 - 8:00** Build Faster with Devin: AI-Powered Software Development // Erasmo Hernández - Devin **8:00 - 8:30 - TBC** **9:00** \\- Late Dri…",
+   "first_seen": "2026-10-08T10:58:00.575311+00:00"
+  },
+  {
    "key": "url:https://meetup.com/angular-athens/events/312910489",
    "title": "Angular Athens 32nd Meetup",
    "link": "https://www.meetup.com/angular-athens/events/312910489/",
@@ -494,19 +455,6 @@
    "starts": "2026-11-03T19:00:00+02:00",
    "location": "Impact Hub Athens, Karaiskaki 28 10554, Athens, Athens",
    "summary": "Join us for the **32nd edition** of the Angular Athens Meetup! Mark your calendars for **Tuesday, November 03th**. More details will be announced soon. 📅 **Date:** Tuesday, November 03, 2026 🕖 **Time:** 7:00 PM - 9:00 PM EET 📍 **Venue:** Impact Hub Athens, Karaiskaki 28, 10554 Athens",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/generative-ai-belgium/events/316287359",
-   "title": "Generative AI - Cost Of Being Wrong",
-   "link": "https://www.meetup.com/generative-ai-belgium/events/316287359/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-27T20:00:00+02:00",
-   "location": "Online",
-   "summary": "Hey Everyone! 👋 **Location:** \\- On\\-site: Faktion\\, Oudeleeuwenrui 39\\, 2000 Antwerpen \\- Online: TBA **Practicalities for the evening on Tuesday, October 27th:** \\- 18:00: Doors Open\\, snacks & drinks \\- 19:00: Speaker Talks \\- 20:30: Networking & Drinks **Transport:** * Arriving by car: Parking is available at **Q-Park Godefriduskaai**, just around the corner from Faktion. Please note that Faktion is located in **Antwerp’s Low Emission Zone (LEZ)**. * Arriving by train: From **Antwerp-Central Station, take bus 17 to Felixpakhuis**. The bus stops right in front of the Faktion offices. * Arriving by bike: Faktion is easily accessible by bike. **Note:** As this is an invite‑only event, you m…",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
