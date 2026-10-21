@@ -6,7 +6,7 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Tue, 20 Oct 2026 23:56:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 04:56:49 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>[05 Nov] Platform Engineering in the Age of AI</title>
@@ -16,15 +16,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …&lt;/p&gt;</description>
-</item>
-<item>
-<title>ΝΑΤΟ: Αεροσκάφη και drones στη Μαύρη Θάλασσα μετά τις επιθέσεις</title>
-<link>https://www.businessdaily.gr/diethni/239150_nato-enishyei-tin-paroysia-toy-sti-mayri-thalassa-me-aeroskafi-kai-drone?utm_source=Feedelio&amp;utm_medium=News&amp;utm_campaign=APE-MPE&amp;utm_content=auto</link>
-<guid isPermaLink="false">url:https://businessdaily.gr/diethni/239150_nato-enishyei-tin-paroysia-toy-sti-mayri-thalassa-me-aeroskafi-kai-drone</guid>
-<pubDate>Tue, 20 Oct 2026 17:02:24 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Το ΝΑΤΟ ανακοίνωσε ενίσχυση της παρουσίας του στη Μαύρη Θάλασσα με επιπλέον αεροσκάφη, drones και ραντάρ, μετά τις πρόσφατες επιθέσεις κατά πλοίων....&lt;/p&gt;</description>
 </item>
 <item>
 <title>ΕΤΑΔ: Πιλοτικό πρόγραμμα εκμίσθωσης αγροτικών ακινήτων σε 11 Περιφερειακές Ενότητες</title>

@@ -1,6 +1,6 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-20T23:56:26.135135+00:00",
+ "built": "2026-10-21T04:56:49.451195+00:00",
  "items": [
   {
    "key": "url:https://meetup.com/cloud-native-muc/events/316851781",
@@ -14,19 +14,6 @@
    "location": "Online",
    "summary": "AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …",
    "first_seen": "2026-10-20T23:56:26.135135+00:00"
-  },
-  {
-   "key": "url:https://businessdaily.gr/diethni/239150_nato-enishyei-tin-paroysia-toy-sti-mayri-thalassa-me-aeroskafi-kai-drone",
-   "title": "ΝΑΤΟ: Αεροσκάφη και drones στη Μαύρη Θάλασσα μετά τις επιθέσεις",
-   "link": "https://www.businessdaily.gr/diethni/239150_nato-enishyei-tin-paroysia-toy-sti-mayri-thalassa-me-aeroskafi-kai-drone?utm_source=Feedelio&utm_medium=News&utm_campaign=APE-MPE&utm_content=auto",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Το ΝΑΤΟ ανακοίνωσε ενίσχυση της παρουσίας του στη Μαύρη Θάλασσα με επιπλέον αεροσκάφη, drones και ραντάρ, μετά τις πρόσφατες επιθέσεις κατά πλοίων....",
-   "first_seen": "2026-10-20T17:02:24+00:00"
   },
   {
    "key": "url:https://businessvoice.gr/news/993416/etad-pilotiko-programma-ekmisthosis-agrotikon-akiniton-se-11-perifereiakes-enotites",
