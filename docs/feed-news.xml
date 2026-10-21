@@ -6,8 +6,35 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 17:17:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:47:04 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>Ο Google Chrome θα ελέγχει πλέον τι κάνετε Copy-Paste (για το καλό σας)</title>
+<link>https://techmaniacs.gr/google-chrome-tha-elegchei-ti-kanete-copy-paste-clickfix-apati/</link>
+<guid isPermaLink="false">url:https://techmaniacs.gr/google-chrome-tha-elegchei-ti-kanete-copy-paste-clickfix-apati</guid>
+<pubDate>Wed, 21 Oct 2026 19:39:07 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Η Google ανακοίνωσε ένα νέο πακέτο μέτρων ασφαλείας για τον Chrome, υποστηρίζοντας πως όσοι χρήστες έχουν ενεργοποιημένη την «Ενισχυμένη προστασία» (Enhanced Protection) στο Safe Browsing είναι πλέον δέκα φορές πιο ασφαλείς απέναντι στο phishing και τις διαδικτυακές απάτες. Πίσω όμως από τις νέες λειτουργίες που παρουσίασε η εταιρεία, κρύβεται μια αλλαγή που σηκώνει αρκετή συζήτηση, […] The post Ο Google Chrome θα ελέγχει πλέον τι κάνετε Copy-Paste (για το καλό σας) appeared first on Techmaniacs .&lt;/p&gt;</description>
+</item>
+<item>
+<title>Κρίσιμο κενό ασφαλείας απειλεί εκατομμύρια routers παγκοσμίως</title>
+<link>https://techmaniacs.gr/broadcom-wpsplinter-keno-asfaleias-routers/</link>
+<guid isPermaLink="false">url:https://techmaniacs.gr/broadcom-wpsplinter-keno-asfaleias-routers</guid>
+<pubDate>Wed, 21 Oct 2026 18:23:55 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Ο ερευνητής κυβερνοασφάλειας Quentin Kaiser, κατά τη διάρκεια της ομιλίας του στο συνέδριο Hexacon στο Παρίσι στις 16 Οκτωβρίου 2026, παρουσίασε ένα ιδιαίτερα σοβαρό κενό ασφαλείας με την ονομασία WPSplinter. Παρά τη σοβαρότητα της κατάστασης, η Broadcom αρνήθηκε να εκδώσει επίσημο αναγνωριστικό CVE. Η στάση αυτή είχε ως άμεση συνέπεια η συγκεκριμένη ευπάθεια να παραμείνει […] The post Κρίσιμο κενό ασφαλείας απειλεί εκατομμύρια routers παγκοσμίως appeared first on Techmaniacs .&lt;/p&gt;</description>
+</item>
+<item>
+<title>Ξεκίνησαν οι αιτήσεις πληρωμής για έργα και επενδύσεις πρωτογενούς τομέα</title>
+<link>https://www.businessdaily.gr/oikonomia/239387_enarxi-psifiakis-ypobolis-aitimaton-pliromis-gia-erga-ston-protogeni-tomea?utm_source=Feedelio&amp;utm_medium=News&amp;utm_campaign=APE-MPE&amp;utm_content=auto</link>
+<guid isPermaLink="false">url:https://businessdaily.gr/oikonomia/239387_enarxi-psifiakis-ypobolis-aitimaton-pliromis-gia-erga-ston-protogeni-tomea</guid>
+<pubDate>Wed, 21 Oct 2026 17:38:19 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Διαθέσιμη είναι η ψηφιακή υποβολή αιτημάτων πληρωμής για τέσσερις παρεμβάσεις της ΚΑΠ 2023-2027 μέσω του ΟΠΣΚΑΠ, για έργα εγγείων βελτιώσεων,...&lt;/p&gt;</description>
+</item>
 <item>
 <title>Συνάντηση Μητσοτάκη με τον πρίγκιπα διάδοχο του Άμπου Ντάμπι την Πέμπτη</title>
 <link>https://www.insider.gr/politiki/429658/synantisi-mitsotaki-me-ton-prigkipa-diadoho-toy-ampoy-ntampi-tin-pempti</link>
@@ -54,15 +81,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Η Natech κάνει το πρώτο της βήμα στην αμερικανική αγορά με προηγμένες λύσεις ειδικά προσαρμοσμένες στις τοπικές κανονιστικές απαιτήσεις, ξεκινώντας από τις λύσεις Anti-Money Laundering (AML) Το άρθρο Η Natech Banking Solutions εισέρχεται στην αγορά των ΗΠΑ εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
 </item>
 <item>
-<title>Πιτσιλής σε διεθνές εργαστήριο ΔΝΤ: Ο ψηφιακός μετασχηματισμός αφορά τον τρόπο λειτουργίας της Φορολογικής Διοίκησης</title>
-<link>https://www.insider.gr/tax-labour/429627/pitsilis-se-diethnes-ergastirio-dnt-o-psifiakos-metashimatismos-afora-ton-tropo</link>
-<guid isPermaLink="false">url:https://insider.gr/tax-labour/429627/pitsilis-se-diethnes-ergastirio-dnt-o-psifiakos-metashimatismos-afora-ton-tropo</guid>
-<pubDate>Wed, 21 Oct 2026 12:20:56 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο Διοικητής της ΑΑΔΕ συμμετείχε διαδικτυακά στο διεθνές εργαστήριο «Reforms for a Modern and Growth-...&lt;/p&gt;</description>
-</item>
-<item>
 <title>Η Θεσσαλονίκη στο επίκεντρο του εθνικού διαλόγου για την καινοτομία και την Τεχνητή Νοημοσύνη</title>
 <link>https://www.ictplus.gr/i-thessaloniki-sto-epikentro-tou-ethnikou-dialogou-gia-tin-kainotomia-kai-tin-techniti-noimosyni/</link>
 <guid isPermaLink="false">url:https://ictplus.gr/i-thessaloniki-sto-epikentro-tou-ethnikou-dialogou-gia-tin-kainotomia-kai-tin-techniti-noimosyni</guid>
@@ -88,15 +106,6 @@
 <category>Enterprise IT</category>
 <source url="https://www.ictplus.gr/">ICT Plus</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Στις 12 Νοεμβρίου, στο InterContinental Athenaeum Athens, η κορυφαία ετήσια διοργάνωση της Cisco στην Ελλάδα φέρνει στο επίκεντρο τις τεχνολογίες που επιταχύνουν το μέλλον της τεχνητής νοημοσύνης. Η συμμετοχή είναι δωρεάν, με προηγούμενη εγγραφή. Η Cisco παρουσιάζει το πρόγραμμα του Cisco Connect 2026 Greece, που θα πραγματοποιηθεί την Πέμπτη 12 Νοεμβρίου, στο InterContinental Athenaeum Athens, […] Το άρθρο Cisco Connect 2026 Greece: Οι κρίσιμες τεχνολογικές υποδομές, η ασφάλεια και η εργασία στην εποχή του AI εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>EETT: Απεριόριστα δεδομένα για όλους, με κόφτες ανά πάσα στιγμή</title>
-<link>https://techmaniacs.gr/aperiorista-dedomena-eett-koftes-taxytitas-fwa/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/aperiorista-dedomena-eett-koftes-taxytitas-fwa</guid>
-<pubDate>Wed, 21 Oct 2026 07:48:27 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Στη ελληνική αγορά τηλεπικοινωνιών, ο όρος «απεριόριστα» χρησιμοποιείται κατά κόρον στις διαφημιστικές καμπάνιες των παρόχων. Ωστόσο, στην πράξη τα απεριόριστα δεδομένα δεν συνεπάγονται απαραίτητα και απεριόριστη ταχύτητα πρόσβασης. Αυτή ακριβώς τη διάσταση επιβεβαιώνει η επίσημη Έκθεση Ανοικτού Διαδικτύου 2025-2026 της Εθνικής Επιτροπής Τηλεπικοινωνιών και Ταχυδρομείων (ΕΕΤΤ), αποτυπώνοντας την πραγματική εικόνα και τους περιορισμούς που αντιμετωπίζουν […] The post EETT: Απεριόριστα δεδομένα για όλους, με κόφτες ανά πάσα στιγμή appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
 <title>ChatGPT: Πώς κλειδώνεις τις προσωπικές συνομιλίες σου με PIN</title>
@@ -151,15 +160,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;From Innovation to Growth Innovation creates possibilities. Execution turns them into growth.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Μπορεί μια τεχνητή νοημοσύνη να έχει τη δική της αυθόρμητη «παιδική ηλικία»; Τι έδειξε το πείραμα του MIT</title>
-<link>https://www.techgear.gr/mporei-mia-techniti-noimosyni-na-echei-ti-diki-tis-aythormiti-paidiki-ilikia-ti-edeixe-to-peirama-toy-mit-50968</link>
-<guid isPermaLink="false">url:https://techgear.gr/mporei-mia-techniti-noimosyni-na-echei-ti-diki-tis-aythormiti-paidiki-ilikia-ti-edeixe-to-peirama-toy-mit-50968</guid>
-<pubDate>Fri, 16 Oct 2026 16:50:00 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://www.techgear.gr/">Techgear</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Μια νέα έρευνα του MIT (έγγραφο arXiv 2610.07130) εξέτασε τι συμβαίνει όταν 13 αυτόνομοι AI agents, βασισμένοι σε ένα μοντέλο υποβοήθησης ...&lt;/p&gt;</description>
 </item>
 <item>
 <title>Το The People’s Trust στηρίζει την επιχειρηματικότητα στη Δυτική Μακεδονία</title>

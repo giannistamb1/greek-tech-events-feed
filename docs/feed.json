@@ -1,7 +1,59 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-21T17:17:46.481543+00:00",
+ "built": "2026-10-21T21:47:04.719778+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/sgi-superwomen-in-tech/events/316665463",
+   "title": "The Human Skills That Matter in an AI-Driven World",
+   "link": "https://www.meetup.com/sgi-superwomen-in-tech/events/316665463/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-28T14:00:00+02:00",
+   "location": "Online",
+   "summary": "*Welcome back to another session with SuperWomen in Tech! We're excited to be joined by* ***[Deborah Bennun](https://www.linkedin.com/in/deborahbennun/)*** *to discuss the topic on everyone's minds: AI.* AI is changing work at extraordinary speed. We are constantly being told which jobs will disappear, which new technologies we need to master and which “future skills” everyone supposedly needs to acquire. But there is a more useful question: **As AI becomes capable of doing more of the work, what will continue to make you valuable?** In this interactive session, Deborah will explore how AI is changing the balance between **execution and human judgement** and introduce a practical method for …",
+   "first_seen": "2026-10-21T21:47:04.719778+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/google-chrome-tha-elegchei-ti-kanete-copy-paste-clickfix-apati",
+   "title": "Ο Google Chrome θα ελέγχει πλέον τι κάνετε Copy-Paste (για το καλό σας)",
+   "link": "https://techmaniacs.gr/google-chrome-tha-elegchei-ti-kanete-copy-paste-clickfix-apati/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Google ανακοίνωσε ένα νέο πακέτο μέτρων ασφαλείας για τον Chrome, υποστηρίζοντας πως όσοι χρήστες έχουν ενεργοποιημένη την «Ενισχυμένη προστασία» (Enhanced Protection) στο Safe Browsing είναι πλέον δέκα φορές πιο ασφαλείς απέναντι στο phishing και τις διαδικτυακές απάτες. Πίσω όμως από τις νέες λειτουργίες που παρουσίασε η εταιρεία, κρύβεται μια αλλαγή που σηκώνει αρκετή συζήτηση, […] The post Ο Google Chrome θα ελέγχει πλέον τι κάνετε Copy-Paste (για το καλό σας) appeared first on Techmaniacs .",
+   "first_seen": "2026-10-21T19:39:07+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/broadcom-wpsplinter-keno-asfaleias-routers",
+   "title": "Κρίσιμο κενό ασφαλείας απειλεί εκατομμύρια routers παγκοσμίως",
+   "link": "https://techmaniacs.gr/broadcom-wpsplinter-keno-asfaleias-routers/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Ο ερευνητής κυβερνοασφάλειας Quentin Kaiser, κατά τη διάρκεια της ομιλίας του στο συνέδριο Hexacon στο Παρίσι στις 16 Οκτωβρίου 2026, παρουσίασε ένα ιδιαίτερα σοβαρό κενό ασφαλείας με την ονομασία WPSplinter. Παρά τη σοβαρότητα της κατάστασης, η Broadcom αρνήθηκε να εκδώσει επίσημο αναγνωριστικό CVE. Η στάση αυτή είχε ως άμεση συνέπεια η συγκεκριμένη ευπάθεια να παραμείνει […] The post Κρίσιμο κενό ασφαλείας απειλεί εκατομμύρια routers παγκοσμίως appeared first on Techmaniacs .",
+   "first_seen": "2026-10-21T18:23:55+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/oikonomia/239387_enarxi-psifiakis-ypobolis-aitimaton-pliromis-gia-erga-ston-protogeni-tomea",
+   "title": "Ξεκίνησαν οι αιτήσεις πληρωμής για έργα και επενδύσεις πρωτογενούς τομέα",
+   "link": "https://www.businessdaily.gr/oikonomia/239387_enarxi-psifiakis-ypobolis-aitimaton-pliromis-gia-erga-ston-protogeni-tomea?utm_source=Feedelio&utm_medium=News&utm_campaign=APE-MPE&utm_content=auto",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Διαθέσιμη είναι η ψηφιακή υποβολή αιτημάτων πληρωμής για τέσσερις παρεμβάσεις της ΚΑΠ 2023-2027 μέσω του ΟΠΣΚΑΠ, για έργα εγγείων βελτιώσεων,...",
+   "first_seen": "2026-10-21T17:38:19+00:00"
+  },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316816855",
    "title": "🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥",
@@ -26,19 +78,6 @@
    "starts": "2026-10-24T21:30:00+03:00",
    "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
    "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-10-21T17:17:46.481543+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/the-future-of-work-in-scotland/events/316404731",
-   "title": "Cutting through complexity with the OOPSI framework - Jenny Martin",
-   "link": "https://www.meetup.com/the-future-of-work-in-scotland/events/316404731/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-21T21:00:00+03:00",
-   "location": "Online",
-   "summary": "The Future of Work Scotland team are delighted to welcome Jenny Martin, creator of the OOPSI framework. OOPSI stands for outcomes, outputs, process, scenarios, inputs. It’s a flexible, easy-to-use collaboration framework that helps agile and product development teams cut through complexity and focus on value. OOPSI is timely because it maximises the intrinsically human aspects of effective delivery, helping teams understand how and when to collaborate, while producing lean, example-driven artefacts that clarify scope and intent so both people and automation can work more effectively. In this session, you’ll learn how to apply OOPSI to strengthen shared understanding, clarify assumptions, and…",
    "first_seen": "2026-10-21T17:17:46.481543+00:00"
   },
   {
@@ -107,17 +146,17 @@
    "first_seen": "2026-10-21T14:03:59+00:00"
   },
   {
-   "key": "url:https://insider.gr/tax-labour/429627/pitsilis-se-diethnes-ergastirio-dnt-o-psifiakos-metashimatismos-afora-ton-tropo",
-   "title": "Πιτσιλής σε διεθνές εργαστήριο ΔΝΤ: Ο ψηφιακός μετασχηματισμός αφορά τον τρόπο λειτουργίας της Φορολογικής Διοίκησης",
-   "link": "https://www.insider.gr/tax-labour/429627/pitsilis-se-diethnes-ergastirio-dnt-o-psifiakos-metashimatismos-afora-ton-tropo",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Ο Διοικητής της ΑΑΔΕ συμμετείχε διαδικτυακά στο διεθνές εργαστήριο «Reforms for a Modern and Growth-...",
-   "first_seen": "2026-10-21T12:20:56+00:00"
+   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863053",
+   "title": "Capstone Project: MMAUG High School Secure Login Portal",
+   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863053/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-29T19:00:00+02:00",
+   "location": "Online",
+   "summary": "Create a secure school portal with strong authentication, server-side role-based access, protected APIs, account administration, audit history and repeatable DevSecOps delivery. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-high-school-secure-login-portal",
+   "first_seen": "2026-10-21T11:57:49.025366+00:00"
   },
   {
    "key": "url:https://ictplus.gr/i-thessaloniki-sto-epikentro-tou-ethnikou-dialogou-gia-tin-kainotomia-kai-tin-techniti-noimosyni",
@@ -157,19 +196,6 @@
    "location": "",
    "summary": "Στις 12 Νοεμβρίου, στο InterContinental Athenaeum Athens, η κορυφαία ετήσια διοργάνωση της Cisco στην Ελλάδα φέρνει στο επίκεντρο τις τεχνολογίες που επιταχύνουν το μέλλον της τεχνητής νοημοσύνης. Η συμμετοχή είναι δωρεάν, με προηγούμενη εγγραφή. Η Cisco παρουσιάζει το πρόγραμμα του Cisco Connect 2026 Greece, που θα πραγματοποιηθεί την Πέμπτη 12 Νοεμβρίου, στο InterContinental Athenaeum Athens, […] Το άρθρο Cisco Connect 2026 Greece: Οι κρίσιμες τεχνολογικές υποδομές, η ασφάλεια και η εργασία στην εποχή του AI εμφανίστηκε πρώτα στο ICTPLUS .",
    "first_seen": "2026-10-21T07:49:41+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/aperiorista-dedomena-eett-koftes-taxytitas-fwa",
-   "title": "EETT: Απεριόριστα δεδομένα για όλους, με κόφτες ανά πάσα στιγμή",
-   "link": "https://techmaniacs.gr/aperiorista-dedomena-eett-koftes-taxytitas-fwa/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Στη ελληνική αγορά τηλεπικοινωνιών, ο όρος «απεριόριστα» χρησιμοποιείται κατά κόρον στις διαφημιστικές καμπάνιες των παρόχων. Ωστόσο, στην πράξη τα απεριόριστα δεδομένα δεν συνεπάγονται απαραίτητα και απεριόριστη ταχύτητα πρόσβασης. Αυτή ακριβώς τη διάσταση επιβεβαιώνει η επίσημη Έκθεση Ανοικτού Διαδικτύου 2025-2026 της Εθνικής Επιτροπής Τηλεπικοινωνιών και Ταχυδρομείων (ΕΕΤΤ), αποτυπώνοντας την πραγματική εικόνα και τους περιορισμούς που αντιμετωπίζουν […] The post EETT: Απεριόριστα δεδομένα για όλους, με κόφτες ανά πάσα στιγμή appeared first on Techmaniacs .",
-   "first_seen": "2026-10-21T07:48:27+00:00"
   },
   {
    "key": "url:https://techblog.gr/howto/chatgpt-pos-kleidoneis-tis-prosopikes-synomilies-sou-me-pin",
@@ -222,6 +248,19 @@
    "location": "",
    "summary": "",
    "first_seen": "2026-10-20T07:40:05+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/future-skills-community/events/316567887",
+   "title": "EduQAte: How to Write and Refresh Your CV workshop",
+   "link": "https://www.meetup.com/future-skills-community/events/316567887/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-26T13:00:00+02:00",
+   "location": "Online",
+   "summary": "**About this workshop:** Whether you're just starting out, returning to work, or looking to make a stronger impression with your CV, this practical and interactive workshop will help you confidently showcase your skills, experience, and potential. Learn how to present yourself professionally and tailor your CV to stand out, even if you have limited experience or are changing career paths. **In this workshop, you'll learn how to:** Format your CV using a professional layout Write a personal profile that tells the hiring manager about yourself and what you can bring to the organisation Align your CV to the job requirements, showcasing your transferable skills **Who should attend:** * Anyone cu…",
+   "first_seen": "2026-10-19T20:37:15.755701+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/dimitris-papastergiou-sto-poi-2026-i-simasia-tou-daidalou-kai-to-mellon-tis-elladas-ston-kosmo-tou-ai",
@@ -302,19 +341,6 @@
    "first_seen": "2026-10-17T15:40:47.276415+00:00"
   },
   {
-   "key": "url:https://techgear.gr/mporei-mia-techniti-noimosyni-na-echei-ti-diki-tis-aythormiti-paidiki-ilikia-ti-edeixe-to-peirama-toy-mit-50968",
-   "title": "Μπορεί μια τεχνητή νοημοσύνη να έχει τη δική της αυθόρμητη «παιδική ηλικία»; Τι έδειξε το πείραμα του MIT",
-   "link": "https://www.techgear.gr/mporei-mia-techniti-noimosyni-na-echei-ti-diki-tis-aythormiti-paidiki-ilikia-ti-edeixe-to-peirama-toy-mit-50968",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techgear",
-   "source_url": "https://www.techgear.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Σύνοψη Μια νέα έρευνα του MIT (έγγραφο arXiv 2610.07130) εξέτασε τι συμβαίνει όταν 13 αυτόνομοι AI agents, βασισμένοι σε ένα μοντέλο υποβοήθησης ...",
-   "first_seen": "2026-10-16T16:50:00+00:00"
-  },
-  {
    "key": "url:https://meetup.com/ministry-of-testing-athens/events/316944513",
    "title": "MoT Athens #19: Chaos Testing, Contract Testing & AI Agents",
    "link": "https://www.meetup.com/ministry-of-testing-athens/events/316944513/",
@@ -352,6 +378,19 @@
    "location": "Online",
    "summary": "October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works along with guidance in prompting and getting the result you want without having to burn loads of tokens. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do * A sample project to build, so you leave with so…",
    "first_seen": "2026-10-13T16:59:07.932367+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863015",
+   "title": "Advanced Cloud Architecture & DevOps CICD Pipeline Process",
+   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863015/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-27T19:00:00+02:00",
+   "location": "Online",
+   "summary": "This advanced session examines enterprise-grade AI architecture and how pipelines securely move applications from code commit to production, including automated testing, artefact management, containerisation, security scanning, Kubernetes deployment, workload identity, observability, rollback, performance optimisation, and troubleshooting. Speaker: Imoh Etuk Watch live: https://www.youtube.com/watch?v=_Xw7ia6Eyd4 View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-2a159350-2fbf-45f2-89e3-d0d9172bf520",
+   "first_seen": "2026-10-13T06:51:25.576001+00:00"
   },
   {
    "key": "url:https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia",

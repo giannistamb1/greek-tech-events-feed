@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Wed, 21 Oct 2026 17:17:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:47:04 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[28 Oct] The Human Skills That Matter in an AI-Driven World</title>
+<link>https://www.meetup.com/sgi-superwomen-in-tech/events/316665463/</link>
+<guid isPermaLink="false">url:https://meetup.com/sgi-superwomen-in-tech/events/316665463</guid>
+<pubDate>Wed, 21 Oct 2026 21:47:04 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 28 October 2026, 14:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;*Welcome back to another session with SuperWomen in Tech! We're excited to be joined by* ***[Deborah Bennun](https://www.linkedin.com/in/deborahbennun/)*** *to discuss the topic on everyone's minds: AI.* AI is changing work at extraordinary speed. We are constantly being told which jobs will disappear, which new technologies we need to master and which “future skills” everyone supposedly needs to acquire. But there is a more useful question: **As AI becomes capable of doing more of the work, what will continue to make you valuable?** In this interactive session, Deborah will explore how AI is changing the balance between **execution and human judgement** and introduce a practical method for …&lt;/p&gt;</description>
+</item>
 <item>
 <title>[22 Oct] 🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥</title>
 <link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316816855/</link>
@@ -27,13 +36,13 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 24 October 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[21 Oct] Cutting through complexity with the OOPSI framework - Jenny Martin</title>
-<link>https://www.meetup.com/the-future-of-work-in-scotland/events/316404731/</link>
-<guid isPermaLink="false">url:https://meetup.com/the-future-of-work-in-scotland/events/316404731</guid>
-<pubDate>Wed, 21 Oct 2026 17:17:46 +0000</pubDate>
+<title>[29 Oct] Capstone Project: MMAUG High School Secure Login Portal</title>
+<link>https://www.meetup.com/malta-microsoft-ai-user-group/events/316863053/</link>
+<guid isPermaLink="false">url:https://meetup.com/malta-microsoft-ai-user-group/events/316863053</guid>
+<pubDate>Wed, 21 Oct 2026 11:57:49 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 21 October 2026, 21:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;The Future of Work Scotland team are delighted to welcome Jenny Martin, creator of the OOPSI framework. OOPSI stands for outcomes, outputs, process, scenarios, inputs. It’s a flexible, easy-to-use collaboration framework that helps agile and product development teams cut through complexity and focus on value. OOPSI is timely because it maximises the intrinsically human aspects of effective delivery, helping teams understand how and when to collaborate, while producing lean, example-driven artefacts that clarify scope and intent so both people and automation can work more effectively. In this session, you’ll learn how to apply OOPSI to strengthen shared understanding, clarify assumptions, and…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Create a secure school portal with strong authentication, server-side role-based access, protected APIs, account administration, audit history and repeatable DevSecOps delivery. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-high-school-secure-login-portal&lt;/p&gt;</description>
 </item>
 <item>
 <title>[05 Nov] Platform Engineering in the Age of AI</title>
@@ -43,6 +52,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …&lt;/p&gt;</description>
+</item>
+<item>
+<title>[26 Oct] EduQAte: How to Write and Refresh Your CV workshop</title>
+<link>https://www.meetup.com/future-skills-community/events/316567887/</link>
+<guid isPermaLink="false">url:https://meetup.com/future-skills-community/events/316567887</guid>
+<pubDate>Mon, 19 Oct 2026 20:37:15 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 26 October 2026, 13:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** Whether you're just starting out, returning to work, or looking to make a stronger impression with your CV, this practical and interactive workshop will help you confidently showcase your skills, experience, and potential. Learn how to present yourself professionally and tailor your CV to stand out, even if you have limited experience or are changing career paths. **In this workshop, you'll learn how to:** Format your CV using a professional layout Write a personal profile that tells the hiring manager about yourself and what you can bring to the organisation Align your CV to the job requirements, showcasing your transferable skills **Who should attend:** * Anyone cu…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[22 Oct] 🌙 Thursday Social Night | Meet New People in Athens@Mint bar</title>
@@ -97,6 +115,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works along with guidance in prompting and getting the result you want without having to burn loads of tokens. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do * A sample project to build, so you leave with so…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[27 Oct] Advanced Cloud Architecture &amp; DevOps CICD Pipeline Process</title>
+<link>https://www.meetup.com/malta-microsoft-ai-user-group/events/316863015/</link>
+<guid isPermaLink="false">url:https://meetup.com/malta-microsoft-ai-user-group/events/316863015</guid>
+<pubDate>Tue, 13 Oct 2026 06:51:25 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;This advanced session examines enterprise-grade AI architecture and how pipelines securely move applications from code commit to production, including automated testing, artefact management, containerisation, security scanning, Kubernetes deployment, workload identity, observability, rollback, performance optimisation, and troubleshooting. Speaker: Imoh Etuk Watch live: https://www.youtube.com/watch?v=_Xw7ia6Eyd4 View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-2a159350-2fbf-45f2-89e3-d0d9172bf520&lt;/p&gt;</description>
 </item>
 <item>
 <title>[27 Oct] Working with AI to Build Dashboards People Understand | Marjolein Opsteegh</title>
