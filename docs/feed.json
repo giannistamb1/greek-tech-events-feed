@@ -1,7 +1,111 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-22T11:59:59.473868+00:00",
+ "built": "2026-10-22T17:15:47.155658+00:00",
  "items": [
+  {
+   "key": "url:https://businessvoice.gr/epicheiriseis/994055/giotis-a-e-dimosiefse-tin-ekthesi-viosimis-anaptyxis-2025",
+   "title": "ΓΙΩΤΗΣ Α.Ε.: Δημοσίευσε την Έκθεση Βιώσιμης Ανάπτυξης 2025",
+   "link": "https://businessvoice.gr/epicheiriseis/994055/giotis-a-e-dimosiefse-tin-ekthesi-viosimis-anaptyxis-2025/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "EMEA.gr",
+   "source_url": "https://www.emea.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η έρευνα, η ανάπτυξη και η καινοτομία αποτελούν διαχρονικά θεμελιώδεις άξονες της στρατηγικής της ΓΙΩΤΗΣ",
+   "first_seen": "2026-10-22T16:40:34+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/i-google-thelei-rcs-pantoy-kai-allazei-ton-tropo-epikoinonias-me-tis-epafes",
+   "title": "Η Google θέλει RCS παντού και αλλάζει τον τρόπο επικοινωνίας με τις επαφές",
+   "link": "https://techmaniacs.gr/i-google-thelei-rcs-pantoy-kai-allazei-ton-tropo-epikoinonias-me-tis-epafes/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Όπως έχουμε επισημάνει σε προηγούμενο άρθρο μας στο Techmaniacs.gr, το Google Messages ετοιμάζεται, όπως όλα δείχνουν να αφαιρέσει τη δυνατότητα αποστολής μηνύματος αποκλειστικά ως SMS μέσα από την προεπιλεγμένη εφαρμογή μηνυμάτων του Android. Αυτή τη στιγμή στην Ελλάδα, όλοι όσοι χρησιμοποιούμε την εφαρμογή έχουμε την ευχέρεια να απενεργοποιούμε το RCS ανά μεμονωμένη συνομιλία και να εξαναγκάζουμε […] The post Η Google θέλει RCS παντού και αλλάζει τον τρόπο επικοινωνίας με τις επαφές appeared first on Techmaniacs .",
+   "first_seen": "2026-10-22T14:20:53+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/koinonia/239538_diethnes-diktyo-gia-syndesi-athlitismoy-ekpaideysis-kai-kainotomias-sti",
+   "title": "Έναρξη ICSE 2026 με διεθνείς συνεργασίες για αθλητισμό - εκπαίδευση",
+   "link": "https://www.businessdaily.gr/koinonia/239538_diethnes-diktyo-gia-syndesi-athlitismoy-ekpaideysis-kai-kainotomias-sti?utm_source=Feedelio&utm_medium=News&utm_campaign=APE-MPE&utm_content=auto",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Ο αθλητισμός αναδεικνύεται ως μοχλός μάθησης και καινοτομίας με καθοριστικό ρόλο της Τεχνητής Νοημοσύνης, όπως τονίστηκε στο 5ο Διεθνές Συνέδριο...",
+   "first_seen": "2026-10-22T14:01:53+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/slider/282178/i-openai-leei-oti-to-montelo-tis-voithise-na-entopistoun-krisimes-efpatheies-stin-php-kai-proteinei-neo-systima-apokalypsis-efpatheion",
+   "title": "Η OpenAI λέει ότι το μοντέλο της βοήθησε να εντοπιστούν κρίσιμες ευπάθειες στην PHP και προτείνει νέο σύστημα αποκάλυψης ευπαθειών",
+   "link": "https://startupper.gr/slider/282178/i-openai-leei-oti-to-montelo-tis-voithise-na-entopistoun-krisimes-efpatheies-stin-php-kai-proteinei-neo-systima-apokalypsis-efpatheion/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Η OpenAI ανακοίνωσε ότι το μοντέλο GPT-5.6 Sol βοήθησε στην ανίχνευση μιας από τις δύο κρίσιμες ευπάθειες της PHP, της γλώσσας προγραμματισμού που χρησιμοποιείται ευρέως για την ανάπτυξη ιστοσελίδων. Η εταιρεία παρουσίασε παράλληλα μια πρόταση για πέντε στάδια συντονισμένης διαχείρισης και αποκάλυψης ευπαθειών που θα εντοπίζονται με τη βοήθεια τεχνητής νοημοσύνης. Οι δύο ευπάθειες, με […] The post Η OpenAI λέει ότι το μοντέλο της βοήθησε να εντοπιστούν κρίσιμες ευπάθειες στην PHP και προτείνει νέο σύστημα αποκάλυψης ευπαθειών appeared first on STARTUPPER .",
+   "first_seen": "2026-10-22T13:04:41+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/oppo-find-x10-pro-max-times-dora-kykloforia-stin-ellada",
+   "title": "OPPO Find X10 και Find X10 Pro Max: Πότε έρχονται στην Ελλάδα και πόσο κοστίζουν",
+   "link": "https://techmaniacs.gr/oppo-find-x10-pro-max-times-dora-kykloforia-stin-ellada/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Τα νέα κορυφαία smartphones της OPPO έκαναν επίσημα το ντεμπούτο τους στην ευρωπαϊκή αγορά, με τη χώρα μας να παίρνει σειρά στις αρχές Νοεμβρίου. Τα Find X10 και Find X10 Pro Max παρουσιάστηκαν παγκοσμίως στις 21 Οκτωβρίου, φέρνοντας κάμερες 200MP σε συνεργασία με τη Hasselblad, τους νέους επεξεργαστές της MediaTek στα 2nm και τεράστιες μπαταρίες. […] The post OPPO Find X10 και Find X10 Pro Max: Πότε έρχονται στην Ελλάδα και πόσο κοστίζουν appeared first on Techmaniacs .",
+   "first_seen": "2026-10-22T12:30:14+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/epiheiriseis/429783/ebea-se-dimosia-diaboyleysi-shedio-diagonismoy-gia-nees-psifiakes-ypiresies",
+   "title": "ΕΒΕΑ: Σε δημόσια διαβούλευση το σχέδιο διαγωνισμού για νέες ψηφιακές υπηρεσίες στις επιχειρήσεις της Αττικής",
+   "link": "https://www.insider.gr/epiheiriseis/429783/ebea-se-dimosia-diaboyleysi-shedio-diagonismoy-gia-nees-psifiakes-ypiresies",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Σε δημόσια προκαταρκτική διαβούλευση έθεσε το Εμπορικό και Βιομηχανικό Επιμελητήριο Αθηνών (ΕΒΕΑ) το...",
+   "first_seen": "2026-10-22T12:26:14+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/mastercard-innovation-forum-2026-oi-allages-pou-erchontai-se-pliromes-kai-trapezikes-ypiresies",
+   "title": "Mastercard Innovation Forum 2026: Οι αλλαγές που έρχονται σε πληρωμές και τραπεζικές υπηρεσίες",
+   "link": "https://www.ictplus.gr/mastercard-innovation-forum-2026-oi-allages-pou-erchontai-se-pliromes-kai-trapezikes-ypiresies/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Με επίκεντρο τις εξελίξεις που μεταμορφώνουν το οικοσύστημα πληρωμών και τις νέες προοπτικές ανάπτυξης για την ελληνική αγορά, πραγματοποιείται σήμερα το Athens Mastercard Innovation Forum 2026, συγκεντρώνοντας για ακόμη μία χρονιά κορυφαία στελέχη του τραπεζικού και επιχειρηματικού κόσμου. Στην εναρκτήρια ομιλία του, ο Παναγιώτης Πολύδωρος, Country Manager της Mastercard για Ελλάδα, Κύπρο και Μάλτα, αναφέρθηκε […] Το άρθρο Mastercard Innovation Forum 2026: Οι αλλαγές που έρχονται σε πληρωμές και τραπεζικές υπηρεσίες εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-22T12:11:20+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/fintech/282129/6-vasika-syberasmata-apo-to-mastercard-athens-innovation-forum-2026",
+   "title": "6 βασικά συμπεράσματα από το Mastercard Athens Innovation Forum 2026",
+   "link": "https://startupper.gr/fintech/282129/6-vasika-syberasmata-apo-to-mastercard-athens-innovation-forum-2026/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Παρά την αλματώδη πρόοδο στις καθημερινές συναλλαγές λιανικής, η ακτινογραφία των πληρωμών στην Ελλάδα αποκαλύπτει τεράστιες ευκαιρίες που παραμένουν ανεκμετάλλευτες στους τομείς των επιχειρηματικών πληρωμών (B2B) και των υποχρεώσεων προς το Δημόσιο The post 6 βασικά συμπεράσματα από το Mastercard Athens Innovation Forum 2026 appeared first on STARTUPPER .",
+   "first_seen": "2026-10-22T12:06:41+00:00"
+  },
   {
    "key": "url:https://meetup.com/hellenicbitcoin/events/317075546",
    "title": "Hellenic Bitcoin: social meetup",
@@ -13,19 +117,6 @@
    "starts": "2026-11-10T20:30:00+02:00",
    "location": "Anglais Athens, Kirikeioi 6, Athina 105 55, Greece, Athina, Athina",
    "summary": "Bull market incoming, are you stacked and ready ? Join the community for a couple of drinks with a nice view on the acropolis! We meet in a public bar in the center of the city, at the beautiful rooftop bar Anglais Athens. True names not required. Hardware purchase possible (Bitbox02, Trezor 5, originated straight from manufacturer). Details and questions in the [Telegram group](https://t.me/hellenicbitcoin), don't hesitate to say hello and ask for the hardware or anything else.",
-   "first_seen": "2026-10-22T11:59:59.473868+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/microsoft-power-bi-uk/events/316957493",
-   "title": "What’s Next for Semantic Models in Fabric Data Agent",
-   "link": "https://www.meetup.com/microsoft-power-bi-uk/events/316957493/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-22T20:00:00+03:00",
-   "location": "Online",
-   "summary": "Join our Microsoft Fabric - UK User Group for our latest webinar. This session we are excited to announce our host Microsoft MVP Leon Gordon and co-host Microsoft MVP Pragati Jain will be introducing Microsoft Principal Program Manager Sandeep Pawar and Product Manager Virginia Roman. Join the Microsoft Fabric UK - User Group on - Microsoft Community - https://community.powerbi.com/t5/Power-BI-UK-User-Group/gh-p/pbi_UK_usergroup LinkedIn - https://www.linkedin.com/groups/8909321/ MeetUp - https://www.meetup.com/microsoft-power-bi-uk/ **Session Abstract -** Get a preview of what’s coming for Power BI semantic models in Fabric Data Agents. We’ll walk through improvements to configuration capab…",
    "first_seen": "2026-10-22T11:59:59.473868+00:00"
   },
   {
@@ -55,30 +146,17 @@
    "first_seen": "2026-10-22T11:59:59.473868+00:00"
   },
   {
-   "key": "url:https://businessvoice.gr/news/993973/chatzidakis-synergasia-me-ta-iae-stin-energeia-to-eborio-kai-tin-techniti-noimosyni",
-   "title": "Χατζηδάκης: Συνεργασία με τα ΗΑΕ στην ενέργεια, το εμπόριο και την τεχνητή νοημοσύνη",
-   "link": "https://businessvoice.gr/news/993973/chatzidakis-synergasia-me-ta-iae-stin-energeia-to-eborio-kai-tin-techniti-noimosyni/",
+   "key": "url:https://startupper.gr/news/282134/foodtech-hackathon-2026-anoichtes-oi-aitiseis-eos-1i-noemvriou-gia-startups-tis-agrodiatrofis",
+   "title": "FoodTech Hackathon 2026: Ανοιχτές οι αιτήσεις έως 1η Νοεμβρίου για startups της αγροδιατροφής",
+   "link": "https://startupper.gr/news/282134/foodtech-hackathon-2026-anoichtes-oi-aitiseis-eos-1i-noemvriou-gia-startups-tis-agrodiatrofis/",
    "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
    "starts": null,
    "location": "",
-   "summary": "Ο αντιπρόεδρος της κυβέρνησης Κωστής Χατζηδάκης προσδιόρισε την ενέργεια, το εμπόριο και την τεχνητή νοημοσύνη ως τομείς προτεραιότητας για τη συνεργασία Ελλάδας-ΗΑΕ, στο Συνέδριο Investopia Mediterranean - Athens. Με στόχο την Ελλάδα ως περιφερειακό ενεργειακό κόμβο και κέντρο εμπορίου, οι δύο χώρες ετοιμάζουν νέες επενδύσεις και συνεργασίες.",
-   "first_seen": "2026-10-22T11:53:34+00:00"
-  },
-  {
-   "key": "url:https://insider.gr/epiheiriseis/429773/mastercard-innovation-forum-2026-oi-allages-poy-erhontai-se-pliromes-kai",
-   "title": "Mastercard Innovation Forum 2026: Οι αλλαγές που έρχονται σε πληρωμές και τραπεζικές υπηρεσίες",
-   "link": "https://www.insider.gr/epiheiriseis/429773/mastercard-innovation-forum-2026-oi-allages-poy-erhontai-se-pliromes-kai",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "O Παναγιώτης Πολύδωρος, Country Manager της Mastercard για Ελλάδα, Κύπρο και Μάλτα, αναφέρθηκε στις ...",
-   "first_seen": "2026-10-22T11:47:08+00:00"
+   "summary": "Μια ισχυρή σύμπραξη τραπεζικού τομέα, αυτοδιοίκησης, ακαδημαϊκής κοινότητας και τεχνολογικών κολοσσών καλεί νέους ιδρυτές και ερευνητικές ομάδες να αναπτύξουν λύσεις αιχμής για την αγροδιατροφή, τα fintech εργαλεία και την κυκλική οικονομία The post FoodTech Hackathon 2026: Ανοιχτές οι αιτήσεις έως 1η Νοεμβρίου για startups της αγροδιατροφής appeared first on STARTUPPER .",
+   "first_seen": "2026-10-22T11:54:16+00:00"
   },
   {
    "key": "url:https://startupper.gr/ai/282106/sta-646-dis-dolaria-ta-esoda-tis-meta-to-trito-trimino-me-10-ekatommyria-christes-sti-nea-efarmogi-muse",
@@ -92,19 +170,6 @@
    "location": "",
    "summary": "Η Meta Platforms ανακοίνωσε τα οικονομικά της αποτελέσματα για το τρίτο τρίμηνο του 2026, καταγράφοντας έσοδα 64,60 δισεκατομμυρίων δολαρίων, αυξημένα κατά 26% σε ετήσια βάση, με τα καθαρά κέρδη να διαμορφώνονται στα 9,86 δισεκατομμύρια δολάρια, σημειώνοντας αύξηση 264%. Στο επίκεντρο της παρουσίασης των αποτελεσμάτων βρέθηκε η νέα εφαρμογή προσωπικού βοηθού τεχνητής νοημοσύνης της εταιρείας, το […] The post Στα 64,6 δισ. δολάρια τα έσοδα της Meta το τρίτο τρίμηνο με 10 εκατομμύρια χρήστες στη νέα εφαρμογή Muse appeared first on STARTUPPER .",
    "first_seen": "2026-10-22T10:37:25+00:00"
-  },
-  {
-   "key": "url:https://businessvoice.gr/epicheiriseis/993910/anagki-ethnikis-stratigikis-gia-ta-data-centers-stin-ellada",
-   "title": "Ανάγκη εθνικής στρατηγικής για τα Data Centers στην Ελλάδα",
-   "link": "https://businessvoice.gr/epicheiriseis/993910/anagki-ethnikis-stratigikis-gia-ta-data-centers-stin-ellada/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η ενεργειακή τεχνική εταιρεία RESINVEST υποστήριξε την εκδήλωση και τον διάλογο για τις προοπτικές ανάπτυξης ενός κλάδου που συνδέει άμεσα την ψηφιακή οικονομία με τον ενεργειακό τομέα",
-   "first_seen": "2026-10-22T10:10:56+00:00"
   },
   {
    "key": "url:https://techgear.gr/statistika-phishing-2026-i-ai-kai-oi-etairikes-eidopoiiseis-apoteloyn-ta-pio-apotelesmatika-dolomata-51033",
@@ -133,45 +198,6 @@
    "first_seen": "2026-10-22T10:05:25+00:00"
   },
   {
-   "key": "url:https://startupper.gr/news/281744/i-yodeck-kerdise-to-vraveio-best-workplaces-in-technology-2026",
-   "title": "Η Yodeck κέρδισε το βραβείο «Best Workplaces in Technology 2026»",
-   "link": "https://startupper.gr/news/281744/i-yodeck-kerdise-to-vraveio-best-workplaces-in-technology-2026/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η ελληνική εταιρεία ψηφιακής σήμανσης με παγκόσμιο αποτύπωμα ξεχώρισε στην κλαδική έρευνα του Great Place To Work® Hellas The post Η Yodeck κέρδισε το βραβείο «Best Workplaces in Technology 2026» appeared first on STARTUPPER .",
-   "first_seen": "2026-10-22T09:06:05+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/lancom-kai-gnm-ix-enischyoun-tin-prosvasi-tis-ellinikis-agoras-se-diethni-diktya",
-   "title": "Lancom και GNM-IX ενισχύουν την πρόσβαση της ελληνικής αγοράς σε διεθνή δίκτυα",
-   "link": "https://www.ictplus.gr/lancom-kai-gnm-ix-enischyoun-tin-prosvasi-tis-ellinikis-agoras-se-diethni-diktya/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Lancom διευρύνει το χαρτοφυλάκιο τηλεπικοινωνιακών υπηρεσιών της με την προσθήκη του GNM-IX, διεθνούς Internet Exchange που διασυνδέει παρόχους υπηρεσιών, δίκτυα περιεχομένου και ψηφιακές πλατφόρμες σε πολλαπλά σημεία παρουσίας, μέσα από ένα ευρύτερο οικοσύστημα peering. Με την ένταξη του GNM-IX στο χαρτοφυλάκιό της, η Lancom δίνει τη δυνατότητα σε πελάτες στην Ελλάδα να αποκτούν πρόσβαση […] Το άρθρο Lancom και GNM-IX ενισχύουν την πρόσβαση της ελληνικής αγοράς σε διεθνή δίκτυα εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-22T08:35:58+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/ai/282083/tzefri-chinton-i-techniti-noimosyni-echei-syneidisi-an-den-ti-mathoume-na-noiazetai-gia-emas-eimaste-chamenoi",
-   "title": "Τζέφρι Χίντον: «Η τεχνητή νοημοσύνη έχει συνείδηση – Αν δεν τη μάθουμε να νοιάζεται για εμάς, είμαστε χαμένοι»",
-   "link": "https://startupper.gr/ai/282083/tzefri-chinton-i-techniti-noimosyni-echei-syneidisi-an-den-ti-mathoume-na-noiazetai-gia-emas-eimaste-chamenoi/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Σε μια δραματική προειδοποίηση από το φεστιβάλ Starmus, ο νομπελίστας «νονός της Τεχνητής Νοημοσύνης» υποστηρίζει ότι τα προηγμένα μοντέλα έχουν ήδη επίγνωση πότε αξιολογούνται και αλλάζουν συμπεριφορά The post Τζέφρι Χίντον: «Η τεχνητή νοημοσύνη έχει συνείδηση – Αν δεν τη μάθουμε να νοιάζεται για εμάς, είμαστε χαμένοι» appeared first on STARTUPPER .",
-   "first_seen": "2026-10-22T08:34:32+00:00"
-  },
-  {
    "key": "url:https://netweek.gr/diagonismos-e635-ekat-apo-ti-mod-gia-adeies-logismikou",
    "title": "Διαγωνισμός €6,35 εκατ. από τη ΜΟΔ για αδειές λογισμικού",
    "link": "https://netweek.gr/diagonismos-e635-ekat-apo-ti-mod-gia-adeies-logismikou/",
@@ -183,19 +209,6 @@
    "location": "",
    "summary": "",
    "first_seen": "2026-10-22T08:21:33+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/i-psifiaki-kyriarchia-tis-evropis-sto-epikentro-ekdilosis-tou-digital-world-summit-greece-sto-snappi-hub",
-   "title": "Η ψηφιακή κυριαρχία της Ευρώπης στο επίκεντρο εκδήλωσης του Digital World Summit Greece στο Snappi Hub",
-   "link": "https://www.ictplus.gr/i-psifiaki-kyriarchia-tis-evropis-sto-epikentro-ekdilosis-tou-digital-world-summit-greece-sto-snappi-hub/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι ψηφιακές πληρωμές, η εμπιστοσύνη και η ψηφιακή ταυτότητα στο επίκεντρο της συζήτησης για το μέλλον των ευρωπαϊκών ψηφιακών υπηρεσιών Το άρθρο Η ψηφιακή κυριαρχία της Ευρώπης στο επίκεντρο εκδήλωσης του Digital World Summit Greece στο Snappi Hub εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-22T08:11:45+00:00"
   },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316843108",
@@ -222,45 +235,6 @@
    "location": "",
    "summary": "Σύνοψη Η Anthropic παρουσίασε επίσημα το Claude Duet, έναν νέο ψηφιακό βοηθό τεχνητής νοημοσύνης που σχεδιάστηκε αποκλειστικά για την εξυπηρέτηση ...",
    "first_seen": "2026-10-22T04:38:00+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/sgi-superwomen-in-tech/events/316665463",
-   "title": "The Human Skills That Matter in an AI-Driven World",
-   "link": "https://www.meetup.com/sgi-superwomen-in-tech/events/316665463/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-28T14:00:00+02:00",
-   "location": "Online",
-   "summary": "*Welcome back to another session with SuperWomen in Tech! We're excited to be joined by* ***[Deborah Bennun](https://www.linkedin.com/in/deborahbennun/)*** *to discuss the topic on everyone's minds: AI.* AI is changing work at extraordinary speed. We are constantly being told which jobs will disappear, which new technologies we need to master and which “future skills” everyone supposedly needs to acquire. But there is a more useful question: **As AI becomes capable of doing more of the work, what will continue to make you valuable?** In this interactive session, Deborah will explore how AI is changing the balance between **execution and human judgement** and introduce a practical method for …",
-   "first_seen": "2026-10-21T21:47:04.719778+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/google-chrome-tha-elegchei-ti-kanete-copy-paste-clickfix-apati",
-   "title": "Ο Google Chrome θα ελέγχει πλέον τι κάνετε Copy-Paste (για το καλό σας)",
-   "link": "https://techmaniacs.gr/google-chrome-tha-elegchei-ti-kanete-copy-paste-clickfix-apati/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Google ανακοίνωσε ένα νέο πακέτο μέτρων ασφαλείας για τον Chrome, υποστηρίζοντας πως όσοι χρήστες έχουν ενεργοποιημένη την «Ενισχυμένη προστασία» (Enhanced Protection) στο Safe Browsing είναι πλέον δέκα φορές πιο ασφαλείς απέναντι στο phishing και τις διαδικτυακές απάτες. Πίσω όμως από τις νέες λειτουργίες που παρουσίασε η εταιρεία, κρύβεται μια αλλαγή που σηκώνει αρκετή συζήτηση, […] The post Ο Google Chrome θα ελέγχει πλέον τι κάνετε Copy-Paste (για το καλό σας) appeared first on Techmaniacs .",
-   "first_seen": "2026-10-21T19:39:07+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/broadcom-wpsplinter-keno-asfaleias-routers",
-   "title": "Κρίσιμο κενό ασφαλείας απειλεί εκατομμύρια routers παγκοσμίως",
-   "link": "https://techmaniacs.gr/broadcom-wpsplinter-keno-asfaleias-routers/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο ερευνητής κυβερνοασφάλειας Quentin Kaiser, κατά τη διάρκεια της ομιλίας του στο συνέδριο Hexacon στο Παρίσι στις 16 Οκτωβρίου 2026, παρουσίασε ένα ιδιαίτερα σοβαρό κενό ασφαλείας με την ονομασία WPSplinter. Παρά τη σοβαρότητα της κατάστασης, η Broadcom αρνήθηκε να εκδώσει επίσημο αναγνωριστικό CVE. Η στάση αυτή είχε ως άμεση συνέπεια η συγκεκριμένη ευπάθεια να παραμείνει […] The post Κρίσιμο κενό ασφαλείας απειλεί εκατομμύρια routers παγκοσμίως appeared first on Techmaniacs .",
-   "first_seen": "2026-10-21T18:23:55+00:00"
   },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316816855",
@@ -300,19 +274,6 @@
    "location": "",
    "summary": "Η OPPO παρουσίασε το OPPO Find X10 Pro Max και το Find X10, με το Pro Max να έχει τρεις πίσω κάμερες των 200MP. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( OPPO Find X10 Pro Max: Επίσημα με 3 κάμερες 200MP και μπαταρία 7.150 mAh )",
    "first_seen": "2026-10-21T14:25:03+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863053",
-   "title": "Capstone Project: MMAUG High School Secure Login Portal",
-   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863053/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-29T19:00:00+02:00",
-   "location": "Online",
-   "summary": "Create a secure school portal with strong authentication, server-side role-based access, protected APIs, account administration, audit history and repeatable DevSecOps delivery. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-high-school-secure-login-portal",
-   "first_seen": "2026-10-21T11:57:49.025366+00:00"
   },
   {
    "key": "url:https://meetup.com/cloud-native-muc/events/316851781",
@@ -508,19 +469,6 @@
    "location": "Online",
    "summary": "## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…",
    "first_seen": "2026-10-09T01:15:22.264976+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/react-athens-meetup/events/316857007",
-   "title": "CityJS Athens - Pre Conference Meetup",
-   "link": "https://www.meetup.com/react-athens-meetup/events/316857007/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-22T19:00:00+03:00",
-   "location": "Agiou Markou 22, Agiou Markou 22, Athina 105 60, Greece, Athina, Athina",
-   "summary": "Dear all we are pleased to add one more meetup for our attendees the day before the conference. We will have at the moment two talks and the meetup will last from 7-9pm. Free Pizza and Food from our sponsors Devin and hosted by SuiHub Athens - [Agiou Markou 22, Athina 105 60](https://www.google.com/maps/place//data=!4m2!3m1!1s0x14a1bd0054faba93:0x87c73948f1e3d0e4?sa=X&ved=1t:8290&ictx=111) **7:00 -** Doors Open - Networking Pizza and Drinks served **7:00 - 7:30** Manifesting a brighter future by cutting out the middlemen // David Mark Clements Tether **7:30 - 8:00** Build Faster with Devin: AI-Powered Software Development // Erasmo Hernández - Devin **8:00 - 8:30 - TBC** **9:00** \\- Late Dri…",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
    "key": "url:https://meetup.com/angular-athens/events/312910489",
