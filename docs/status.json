@@ -1,17 +1,17 @@
 {
-  "built": "2026-10-22T17:15:47.155658+00:00",
-  "items": 38,
+  "built": "2026-10-22T21:41:42.723510+00:00",
+  "items": 41,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 11,
-      "kept": 11,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 9,
-      "kept": 9,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
@@ -77,25 +77,25 @@
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Insider.gr",
       "fetched": 60,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Fortune Greece",
-      "fetched": 215,
+      "fetched": 224,
       "kept": 4,
       "error": ""
     },
     {
       "name": "Business Daily",
       "fetched": 40,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
@@ -124,9 +124,9 @@
     },
     {
       "name": "Tech.eu",
-      "fetched": 20,
+      "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tech.eu/feed/"
     },
     {
       "name": "Silicon Canals",
