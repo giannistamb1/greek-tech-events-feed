@@ -1,7 +1,85 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-23T11:46:07.963908+00:00",
+ "built": "2026-10-23T17:13:39.074642+00:00",
  "items": [
+  {
+   "key": "url:https://fortunegreece.com/article/hotel-experience-2026-idees-kai-simperasmata-apo-to-korifaio-event-tou-tourismou-kai-tis-arxitektonikis",
+   "title": "Hotel Experience 2026: Ιδέες και συμπεράσματα από το κορυφαίο event του τουρισμού και της αρχιτεκτονικής",
+   "link": "https://www.fortunegreece.com/article/hotel-experience-2026-idees-kai-simperasmata-apo-to-korifaio-event-tou-tourismou-kai-tis-arxitektonikis/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Αρχιτέκτονες, ξενοδόχοι και επενδυτές έθεσαν στο επίκεντρο τη σχέση ξενοδοχείου, κοινότητας και επισκέπτη.",
+   "first_seen": "2026-10-23T17:13:39.074642+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/texnologiko-sell-off-giati-etaireies-texnitis-noimosinis-pagonoun-ta-sxedia-gia-ipo",
+   "title": "Τεχνολογικό sell-off: Γιατί εταιρείες τεχνητής νοημοσύνης παγώνουν τα σχέδια για IPO",
+   "link": "https://www.fortunegreece.com/article/texnologiko-sell-off-giati-etaireies-texnitis-noimosinis-pagonoun-ta-sxedia-gia-ipo/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η αναταραχή στις τεχνολογικές μετοχές επεκτείνεται και στην αγορά των δημόσιων εγγραφών, αναγκάζοντας εταιρείες που επωφελήθηκαν από την άνθηση της τεχνητής νοημοσύνης να επανεξετάσουν τα σχέδιά τους για άντληση κεφαλαίων.",
+   "first_seen": "2026-10-23T17:13:39.074642+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/ai-agents-apoktoyn-prosvasi-se-trapezikoys-logariasmoys-kai-ayto-tromazei",
+   "title": "AI Agents αποκτούν πρόσβαση σε τραπεζικούς λογαριασμούς και αυτό τρομάζει",
+   "link": "https://techmaniacs.gr/ai-agents-apoktoyn-prosvasi-se-trapezikoys-logariasmoys-kai-ayto-tromazei/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Οι αυτόνομοι AI agents μαθαίνουν πλέον να ψάχνουν πληροφορίες, να κλείνουν εισιτήρια και να κάνουν εργασίες αντί για εμάς. Άλλο πράγμα όμως είναι να βάζεις ένα bot να σου βρει φθηνά αεροπορικά και άλλο να του δίνεις τα «κλειδιά» του τραπεζικού σου λογαριασμού. Εκεί ένα μικρό λάθος ή μια παραίσθηση του συστήματος μπορεί να σου […] The post AI Agents αποκτούν πρόσβαση σε τραπεζικούς λογαριασμούς και αυτό τρομάζει appeared first on Techmaniacs .",
+   "first_seen": "2026-10-23T16:54:00+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-pos-oi-ai-agents-allazoun-ton-tropo-leitourgias-ton-epixeiriseon",
+   "title": "Power of Innovation Summit 2026: Πώς οι AI agents αλλάζουν τον τρόπο λειτουργίας των επιχειρήσεων",
+   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-pos-oi-ai-agents-allazoun-ton-tropo-leitourgias-ton-epixeiriseon/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Από την αυτοματοποίηση επαναλαμβανόμενων εργασιών έως την ανάληψη πιο σύνθετων στόχων, οι ψηφιακοί πράκτορες αλλάζουν τις δυνατότητες των επιχειρήσεων. Πώς μπορούν να αξιοποιηθούν στην πράξη, ποια είναι τα όρια της αυτονομίας τους και πώς αλλάζει ο ρόλος των εργαζομένων;",
+   "first_seen": "2026-10-23T15:00:25+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/epiheiriseis/429934/mastercard-innovation-forum-2026-i-empistosyni-sto-epikentro-tis-epohis-toy",
+   "title": "Mastercard Innovation Forum 2026: Η εμπιστοσύνη στο επίκεντρο της εποχής του Agentic AI και του «αόρατου» εμπορίου",
+   "link": "https://www.insider.gr/epiheiriseis/429934/mastercard-innovation-forum-2026-i-empistosyni-sto-epikentro-tis-epohis-toy",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Η τεχνητή νοημοσύνη εισέρχεται σε μια νέα εποχή, περνώντας από την παροχή πληροφοριών στην ανάληψη δ...",
+   "first_seen": "2026-10-23T14:16:11+00:00"
+  },
+  {
+   "key": "url:https://businessvoice.gr/epicheiriseis/toyrismos/994320/to-thavma-kai-ta-agkathia-tou-tourismou-rekor-esodon-me-oriakes-ypodomes",
+   "title": "Το «θαύμα» και τα αγκάθια του τουρισμού: Ρεκόρ εσόδων με οριακές υποδομές",
+   "link": "https://businessvoice.gr/epicheiriseis/toyrismos/994320/to-thavma-kai-ta-agkathia-tou-tourismou-rekor-esodon-me-oriakes-ypodomes/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "EMEA.gr",
+   "source_url": "https://www.emea.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Έκθεση ΙΝΣΕΤΕ: Πού κερδίζεται η παγκόσμια μάχη και ποια είναι τα καυτά μέτωπα σε χωροταξία, φορολογία και τεχνολογία",
+   "first_seen": "2026-10-23T13:48:31+00:00"
+  },
   {
    "key": "url:https://meetup.com/thessaloniki-software-testing-and-qa/events/317089296",
    "title": "Pre-Voxxed Community Meetup: όλες οι κοινότητες μαζί σε ένα διαφορετικό meetup",
@@ -42,19 +120,6 @@
    "first_seen": "2026-10-23T11:46:07.963908+00:00"
   },
   {
-   "key": "url:https://meetup.com/future-skills-community/events/316567427",
-   "title": "TTN: AI Fundamentals",
-   "link": "https://www.meetup.com/future-skills-community/events/316567427/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-06T12:00:00+02:00",
-   "location": "Online",
-   "summary": "**About this workshop:** This 4-hour beginner-friendly workshop will introduce you to the fundamentals of AI, including how AI systems work, how machine learning models are created, and how AI is being used across industries today. Through interactive learning and practical examples, you'll explore the latest AI developments, discover how to choose the right AI tools for different tasks, and learn how to use AI responsibly. **Participants who attend the full session will receive a certificate of completion.** **What You'll Learn** * Latest AI developments and trends * How AI systems and machine learning models work * Choosing the right AI tools and models * Responsible and ethical use of AI …",
-   "first_seen": "2026-10-23T11:46:07.963908+00:00"
-  },
-  {
    "key": "url:https://startupper.gr/all-connected/282292/voxel-to-oikiako-robot-tis-tuesday-labs-pou-schediastike-gia-na-min-moiazei-me-anthropo",
    "title": "Voxel, το οικιακό ρομπότ της Tuesday Labs που σχεδιάστηκε για να μην μοιάζει με άνθρωπο",
    "link": "https://startupper.gr/all-connected/282292/voxel-to-oikiako-robot-tis-tuesday-labs-pou-schediastike-gia-na-min-moiazei-me-anthropo/",
@@ -68,84 +133,6 @@
    "first_seen": "2026-10-23T09:14:49+00:00"
   },
   {
-   "key": "url:https://ictplus.gr/g-pitsilis-i-psifiopoiisi-allazei-ti-leitourgia-tis-forologikis-dioikisis-sto-epikentro-mydata-pos-kai-aftomatopoiimenoi-elegchoi",
-   "title": "Γ. Πιτσιλής: Ομιλία σε Διεθνές Εργαστήριο του Διεθνούς Νομισματικού Ταμείου (ΔΝΤ) στο Πακιστάν για τις αλλαγές στην Φορολογική Διοίκηση από την ψηφιοποίηση",
-   "link": "https://www.ictplus.gr/g-pitsilis-i-psifiopoiisi-allazei-ti-leitourgia-tis-forologikis-dioikisis-sto-epikentro-mydata-pos-kai-aftomatopoiimenoi-elegchoi/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Την ελληνική εμπειρία από τον ψηφιακό μετασχηματισμό της φορολογικής διοίκησης παρουσίασε ο διοικητής της ΑΑΔΕ, Γιώργος Πιτσιλής, σε διεθνές εργαστήριο του Διεθνούς Νομισματικού Ταμείου (ΔΝΤ) στο Πακιστάν, αναδεικνύοντας τη σημασία της θεσμικής ανεξαρτησίας, της αξιοποίησης των δεδομένων και της εμπιστοσύνης των φορολογουμένων. Η παρέμβαση του επικεφαλής της Ανεξάρτητης Αρχής Δημοσίων Εσόδων (ΑΑΔΕ) πραγματοποιήθηκε διαδικτυακά στο […] Το άρθρο Γ. Πιτσιλής: Ομιλία σε Διεθνές Εργαστήριο του Διεθνούς Νομισματικού Ταμείου (ΔΝΤ) στο Πακιστάν για τις αλλαγές στην Φορολογική Διοίκηση από την ψηφιοποίηση εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-23T08:19:49+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/sto-mikroskopio-tis-epitropis-antagonismou-diagonismoi-gia-erga-ypodomon",
-   "title": "Στο μικροσκόπιο της Επιτροπής Ανταγωνισμού διαγωνισμοί για έργα υποδομών",
-   "link": "https://www.ictplus.gr/sto-mikroskopio-tis-epitropis-antagonismou-diagonismoi-gia-erga-ypodomon/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι αιφνιδιαστικοί έλεγχοι της Επιτροπής Ανταγωνισμού για πιθανή νόθευση δημόσιων διαγωνισμών σε έργα ύδρευσης και αποχέτευσης αναδεικνύουν ένα ζήτημα που αφορά πλέον και την αγορά Τεχνολογιών Πληροφορικής και Επικοινωνιών (ΤΠΕ). Καθώς οι ψηφιακές υπηρεσίες, τα πληροφοριακά συστήματα και οι εφαρμογές τεχνολογίας ενσωματώνονται σε όλο και περισσότερα έργα βασικών υποδομών, οι εταιρείες πληροφορικής αποκτούν αυξανόμενη παρουσία […] Το άρθρο Στο μικροσκόπιο της Επιτροπής Ανταγωνισμού διαγωνισμοί για έργα υποδομών εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-23T07:40:21+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/deloitte-pos-i-techniti-noimosyni-allazei-ti-machi-kata-tou-oikonomikou-egklimatos-oi-nees-apaitiseis-gia-tis-trapezes",
-   "title": "Deloitte: Πώς η τεχνητή νοημοσύνη αλλάζει τη μάχη κατά του οικονομικού εγκλήματος. Οι νέες απαιτήσεις για τις τράπεζες",
-   "link": "https://www.ictplus.gr/deloitte-pos-i-techniti-noimosyni-allazei-ti-machi-kata-tou-oikonomikou-egklimatos-oi-nees-apaitiseis-gia-tis-trapezes/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Το νέο ευρωπαϊκό πλαίσιο, που εφαρμόζεται από το 2027, φέρνει αυστηρότερες απαιτήσεις για την πρόληψη του ξεπλύματος χρήματος. Τα δεδομένα, η τεχνητή νοημοσύνη και η αναβάθμιση των ελεγκτικών μηχανισμών βρέθηκαν στο επίκεντρο του 3ου Financial Crime Symposium της Deloitte, στο Ωδείο Αθηνών. Η Deloitte Ελλάδος ανέδειξε τις προκλήσεις που δημιουργεί το νέο ευρωπαϊκό κανονιστικό περιβάλλον […] Το άρθρο Deloitte: Πώς η τεχνητή νοημοσύνη αλλάζει τη μάχη κατά του οικονομικού εγκλήματος. Οι νέες απαιτήσεις για τις τράπεζες εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-23T07:33:27+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/intellisoft-i-elliniki-technognosia-gia-tis-exypnes-poleis-sti-varkeloni-psifiakes-lyseis-me-efarmogi-stous-ellinikous-dimous",
-   "title": "IntelliSoft: Η ελληνική τεχνογνωσία για τις έξυπνες πόλεις στη Βαρκελώνη. Ψηφιακές λύσεις με εφαρμογή στους ελληνικούς δήμους",
-   "link": "https://www.ictplus.gr/intellisoft-i-elliniki-technognosia-gia-tis-exypnes-poleis-sti-varkeloni-psifiakes-lyseis-me-efarmogi-stous-ellinikous-dimous/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η ελληνική τεχνογνωσία στον ψηφιακό μετασχηματισμό της Τοπικής Αυτοδιοίκησης και την αναβάθμιση των δημοτικών υπηρεσιών θα βρεθεί στο διεθνές προσκήνιο του Smart City Expo World Congress 2026, που θα πραγματοποιηθεί από τις 3 έως τις 5 Νοεμβρίου στη Βαρκελώνη. Η IntelliSoft, ως μέλος του Pleiades Innovation Ecosystem, συμμετέχει στην ελληνική αποστολή που διοργανώνει η Enterprise […] Το άρθρο IntelliSoft: Η ελληνική τεχνογνωσία για τις έξυπνες πόλεις στη Βαρκελώνη. Ψηφιακές λύσεις με εφαρμογή στους ελληνικούς δήμους εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-23T07:26:22+00:00"
-  },
-  {
-   "key": "url:https://insider.gr/oikonomia/429872/kaek-psifiakos-eleghos-analogikoi-titloi",
-   "title": "ΚΑΕΚ… Ψηφιακός έλεγχος, αναλογικοί τίτλοι",
-   "link": "https://www.insider.gr/oikonomia/429872/kaek-psifiakos-eleghos-analogikoi-titloi",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Βρισκόμαστε στις τελευταίες ημέρες του Οκτωβρίου και η παράταση για την Ενιαία Αίτηση Ενίσχυσης 2026...",
-   "first_seen": "2026-10-23T06:31:38+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/stavros-asthenidis-sto-cyber-security-forum-2026-erchetai-neos-diagonismos-gia-to-government-cloud",
-   "title": "Στ. Ασθενίδης: «Επί θύρας» ο διαγωνισμός για το Government Cloud. Στα 157 εκατ. ευρώ η βασική σύμβαση, έως 235,5 εκατ. ευρώ με προαιρέσεις",
-   "link": "https://www.ictplus.gr/stavros-asthenidis-sto-cyber-security-forum-2026-erchetai-neos-diagonismos-gia-to-government-cloud/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Νέος διαγωνισμός για τη συνέχεια των υπηρεσιών του Government Cloud προωθείται από το ελληνικό Δημόσιο, όπως ανακοίνωσε ο Διευθύνων Σύμβουλος της Κοινωνίας της Πληροφορίας Μ.Α.Ε., Σταύρος Ασθενίδης, στο Cyber Security Forum 2026, αναδεικνύοντας παράλληλα τη σημασία της κυβερνοασφάλειας, της επιχειρησιακής συνέχειας και της προστασίας των κρατικών δεδομένων. Η προαναγγελία έρχεται σε συνέχεια της διαβούλευσης που […] Το άρθρο Στ. Ασθενίδης: «Επί θύρας» ο διαγωνισμός για το Government Cloud. Στα 157 εκατ. ευρώ η βασική σύμβαση, έως 235,5 εκατ. ευρώ με προαιρέσεις εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-23T06:28:34+00:00"
-  },
-  {
    "key": "url:https://techblog.gr/internet/epireastikan-ellines-pelates-sti-megali-vlavi-tis-revolut",
    "title": "Επηρεάστηκαν Έλληνες πελάτες στη μεγάλη βλάβη της Revolut;",
    "link": "https://techblog.gr/internet/epireastikan-ellines-pelates-sti-megali-vlavi-tis-revolut/",
@@ -157,19 +144,6 @@
    "location": "",
    "summary": "Βλάβη Revolut: Κάρτες, ATM, μεταφορές και login έπεσαν στις 20 Οκτωβρίου 2026, λόγω power event σε data center του Google Cloud στο Λονδίνο. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Επηρεάστηκαν Έλληνες πελάτες στη μεγάλη βλάβη της Revolut; )",
    "first_seen": "2026-10-23T05:00:44+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317039933",
-   "title": "Latinos Night | Where Social Meets Latin Rhythm 🎶",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317039933/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-23T20:00:00+03:00",
-   "location": "Athens, 0, Athens, Athens",
-   "summary": "This is not just another Friday night — it is a real Latin social experience. 🇱🇦🔥 Location: https://maps.app.goo.gl/9cEtfXNj91suh7TM9?g_st=ac If you have been looking for a night where you can meet new people, talk, laugh, move around, dance a little, and feel the energy, this is the one. Latinos Night | Kallithea is back every second Friday at El Latino Café Bar — a cozy hidden Latin spot just a short walk from Kallithea Metro 🚇 The concept is simple: a social night with real connection, great music, and the freedom to do both — stand, sit, mingle, dance, and enjoy the vibe exactly how you like it. 🎧 Latin DJ all night 💃 Social atmosphere with movement and connection 🍹 Happy Hour 8:30–10:00…",
-   "first_seen": "2026-10-22T21:41:42.723510+00:00"
   },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316914314",
@@ -430,19 +404,6 @@
    "location": "",
    "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
    "first_seen": "2026-10-09T18:23:50.119653+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/thessaloniki-net-meetup/events/316894632",
-   "title": "Prompt It. Ship It. Track It. Apps on Microsoft Fabric",
-   "link": "https://www.meetup.com/thessaloniki-net-meetup/events/316894632/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-23T19:00:00+03:00",
-   "location": "",
-   "summary": "**Prompt It. Ship It. Track It. Apps on Microsoft Fabric** Description: What if building a business app was as easy as describing it? In this fast-paced 1-hour session, we'll show how Fabric Apps lets you go from idea to a running app directly inside Microsoft Fabric. You'll see how to prompt an AI assistant to create the app, ship it to Fabric in minutes without managing any infrastructure, and track what matters, with your app's data instantly ready for dashboards, AI and automation. Through a live demo, you'll see how apps, data and AI finally come together in one place, and you'll leave with practical ideas to start building your own. Whether you work in data, development or business, th…",
-   "first_seen": "2026-10-09T10:40:19.336259+00:00"
   },
   {
    "key": "url:https://meetup.com/meetup-group-judpeflp/events/316655050",

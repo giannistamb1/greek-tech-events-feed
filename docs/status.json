@@ -1,17 +1,17 @@
 {
-  "built": "2026-10-23T11:46:07.963908+00:00",
-  "items": 37,
+  "built": "2026-10-23T17:13:39.074642+00:00",
+  "items": 34,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 10,
+      "kept": 10,
       "error": ""
     },
     {
@@ -52,9 +52,9 @@
     },
     {
       "name": "ICT Plus",
-      "fetched": 21,
-      "kept": 5,
-      "error": ""
+      "fetched": 0,
+      "kept": 0,
+      "error": "ReadTimeout: HTTPSConnectionPool(host='www.ictplus.gr', port=443): Read timed out. (read timeout=30)"
     },
     {
       "name": "Techgear",
@@ -71,7 +71,7 @@
     {
       "name": "EMEA.gr",
       "fetched": 15,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 178,
-      "kept": 3,
+      "fetched": 213,
+      "kept": 7,
       "error": ""
     },
     {
@@ -107,7 +107,7 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
