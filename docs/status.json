@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-23T21:28:38.076007+00:00",
-  "items": 42,
+  "built": "2026-10-24T04:43:53.102040+00:00",
+  "items": 43,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -77,7 +77,7 @@
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 220,
+      "fetched": 155,
       "kept": 7,
       "error": ""
     },
