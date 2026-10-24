@@ -6,7 +6,7 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 11:10:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 16:01:11 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>[29 Oct] Meetup #7 - Part of Pre-Voxxed Cross-community Meetup</title>
@@ -115,15 +115,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 26 October 2026, 13:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** Whether you're just starting out, returning to work, or looking to make a stronger impression with your CV, this practical and interactive workshop will help you confidently showcase your skills, experience, and potential. Learn how to present yourself professionally and tailor your CV to stand out, even if you have limited experience or are changing career paths. **In this workshop, you'll learn how to:** Format your CV using a professional layout Write a personal profile that tells the hiring manager about yourself and what you can bring to the organisation Align your CV to the job requirements, showcasing your transferable skills **Who should attend:** * Anyone cu…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[24 Oct] Hack The Box Meetup #10 Sudo Make Me a Sandwich: Jailbreaking LLMs</title>
-<link>https://www.meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838/</link>
-<guid isPermaLink="false">url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838</guid>
-<pubDate>Sat, 17 Oct 2026 20:40:44 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 24 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;AI is showing up in every app we use, and it brings new attack surfaces with it. In this beginner-friendly, hands-on session, we'll break down how AI-powered applications can be attacked and defended, starting with prompt injection and jailbreaking. Using live Hack The Box challenges, we'll see how these attacks work in practice and what developers can do to mitigate them. No prior AI knowledge needed, just curiosity and a laptop. Speaker: Lentine Khakai (Kai) Cybersecurity professional, CTF player, and challenge creator at p3rf3ctr00t. Ambassador for HTB Kenya, part of one of Nairobi’s most active security communities. Date: Saturday, October 24, 2026 Time: 4:00PM GMT (4:00 PM Morocco / 7:0…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[28 Oct] How to Tell a Clear Story with Data</title>

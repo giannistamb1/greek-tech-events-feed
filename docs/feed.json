@@ -1,7 +1,46 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-24T11:10:03.657874+00:00",
+ "built": "2026-10-24T16:01:11.947308+00:00",
  "items": [
+  {
+   "key": "url:https://fortunegreece.com/article/fifa-o-infantino-gela-me-ta-senaria-paraitisis-to-deal-pou-prokalese-krisi-kai-i-maxi-gia-tin-proedria",
+   "title": "FIFA: Ο Ινφαντίνο γελά με τα σενάρια παραίτησης – Το deal που προκάλεσε κρίση και η μάχη για την προεδρία",
+   "link": "https://www.fortunegreece.com/article/fifa-o-infantino-gela-me-ta-senaria-paraitisis-to-deal-pou-prokalese-krisi-kai-i-maxi-gia-tin-proedria/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Ο Τζιάνι Ινφαντίνο απορρίπτει τα σενάρια αποχώρησης μετά το ναυάγιο του σχεδίου προσέλκυσης ιδιωτικών επενδυτών στα εμπορικά δικαιώματα της FIFA. Η στροφή της Ασιατικής Συνομοσπονδίας, οι αντιδράσεις της UEFA και οι ισορροπίες ενόψει των προεδρικών εκλογών του 2027.",
+   "first_seen": "2026-10-24T16:01:11.947308+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-apo-tin-idioktisia-stin-prosvasi-i-nea-oikonomia-ton-ipiresion",
+   "title": "Power of Innovation Summit 2026: Από την ιδιοκτησία στην πρόσβαση – Η νέα οικονομία των υπηρεσιών",
+   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-apo-tin-idioktisia-stin-prosvasi-i-nea-oikonomia-ton-ipiresion/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Από το leasing αυτοκινήτων έως το ηλεκτρονικό εμπόριο και τη διαχείριση ενέργειας, οι επιχειρήσεις αναζητούν νέα μοντέλα ανάπτυξης, με την τεχνολογία να αλλάζει τη σχέση τους με τους πελάτες.",
+   "first_seen": "2026-10-24T15:00:45+00:00"
+  },
+  {
+   "key": "url:https://techblog.gr/gadgets/to-neo-robot-tis-unitree-kanei-kung-fu-gia-na-ginei-somatofylakas-video",
+   "title": "Το νέο ρομπότ της Unitree κάνει kung fu για να γίνει σωματοφύλακας [video]",
+   "link": "https://techblog.gr/gadgets/to-neo-robot-tis-unitree-kanei-kung-fu-gia-na-ginei-somatofylakas-video/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Unitree παρουσίασε το H2-X, ρομπότ σωματοφύλακα ύψους 1,80 μ. με αυτονομία 8 ωρών, που σηκώνει αυτοκίνητα και κάνει kung fu στο βίντεό του. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Το νέο ρομπότ της Unitree κάνει kung fu για να γίνει σωματοφύλακας [video] )",
+   "first_seen": "2026-10-24T11:15:49+00:00"
+  },
   {
    "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-i-elliniki-efkairia-sti-diastimiki-oikonomia",
    "title": "Power of Innovation Summit 2026: Η ελληνική ευκαιρία στη διαστημική οικονομία",
@@ -417,19 +456,6 @@
    "location": "Online",
    "summary": "**About this workshop:** Whether you're just starting out, returning to work, or looking to make a stronger impression with your CV, this practical and interactive workshop will help you confidently showcase your skills, experience, and potential. Learn how to present yourself professionally and tailor your CV to stand out, even if you have limited experience or are changing career paths. **In this workshop, you'll learn how to:** Format your CV using a professional layout Write a personal profile that tells the hiring manager about yourself and what you can bring to the organisation Align your CV to the job requirements, showcasing your transferable skills **Who should attend:** * Anyone cu…",
    "first_seen": "2026-10-19T20:37:15.755701+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838",
-   "title": "Hack The Box Meetup #10 Sudo Make Me a Sandwich: Jailbreaking LLMs",
-   "link": "https://www.meetup.com/hack-the-box-meetup-beni-mallal-ma/events/316951838/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-24T19:00:00+03:00",
-   "location": "Online",
-   "summary": "AI is showing up in every app we use, and it brings new attack surfaces with it. In this beginner-friendly, hands-on session, we'll break down how AI-powered applications can be attacked and defended, starting with prompt injection and jailbreaking. Using live Hack The Box challenges, we'll see how these attacks work in practice and what developers can do to mitigate them. No prior AI knowledge needed, just curiosity and a laptop. Speaker: Lentine Khakai (Kai) Cybersecurity professional, CTF player, and challenge creator at p3rf3ctr00t. Ambassador for HTB Kenya, part of one of Nairobi’s most active security communities. Date: Saturday, October 24, 2026 Time: 4:00PM GMT (4:00 PM Morocco / 7:0…",
-   "first_seen": "2026-10-17T20:40:44.599335+00:00"
   },
   {
    "key": "url:https://meetup.com/london-business-analytics-group/events/316775954",
