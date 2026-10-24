@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sat, 24 Oct 2026 16:01:11 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 20:55:21 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>Power of Innovation Summit 2026: Ελλάδα και Κύπρος χτίζουν κοινή προοπτική στην Τεχνητή Νοημοσύνη</title>
+<link>https://www.fortunegreece.com/article/power-of-innovation-summit-2026-ellada-kai-kipros-xtizoun-koini-prooptiki-stin-ai/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/power-of-innovation-summit-2026-ellada-kai-kipros-xtizoun-koini-prooptiki-stin-ai</guid>
+<pubDate>Sat, 24 Oct 2026 19:00:50 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο Δημήτρης Σκουρίδης, Chief Scientist της Κυπριακής Δημοκρατίας, ανέδειξε πώς οι υπολογιστικές υποδομές, η τεχνογνωσία και η πρόσβαση σε διεθνείς αγορές μπορούν να μετατραπούν σε κοινά επιχειρηματικά εγχειρήματα.&lt;/p&gt;</description>
+</item>
 <item>
 <title>FIFA: Ο Ινφαντίνο γελά με τα σενάρια παραίτησης – Το deal που προκάλεσε κρίση και η μάχη για την προεδρία</title>
 <link>https://www.fortunegreece.com/article/fifa-o-infantino-gela-me-ta-senaria-paraitisis-to-deal-pou-prokalese-krisi-kai-i-maxi-gia-tin-proedria/</link>
@@ -63,15 +72,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η Ρούλα Μπαχταλιά της Eurobank και ο Χρήστος Νικολούδης της Mantis Beyond συζήτησαν με τον Τάσο Ζάχο για το μέλλον της ελληνικής νεοφυούς επιχειρηματικότητας, τις νέες δυνατότητες χρηματοδότησης και τις προκλήσεις της επόμενης πενταετίας.&lt;/p&gt;</description>
 </item>
 <item>
-<title>Από τον Δεκέμβριο η πρόσβαση στον υπερυπολογιστή ΔΑΙΔΑΛΟΣ tων 58,9 εκατ.</title>
-<link>https://www.businessdaily.gr/tehnologia/238886_daidalos-allazei-ta-dedomena-sti-mahi-tis-tn-brisketai-sti-pagkosmia-elit</link>
-<guid isPermaLink="false">url:https://businessdaily.gr/tehnologia/238886_daidalos-allazei-ta-dedomena-sti-mahi-tis-tn-brisketai-sti-pagkosmia-elit</guid>
-<pubDate>Sat, 24 Oct 2026 11:00:06 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Από τον Δεκέμβριο ανοίγει σταδιακά ο ΔΑΙΔΑΛΟΣ σε επιχειρήσεις, startups και ερευνητές, με την πρόσβαση να γίνεται μέσω προσκλήσεων και αξιολόγησης...&lt;/p&gt;</description>
-</item>
-<item>
 <title>Samsung W27: Πρώτη φωτογραφία του πολυτελούς Fold για την Κίνα</title>
 <link>https://techblog.gr/mobile/samsung-w27-proti-fotografia-tou-polytelous-fold-gia-tin-kina/</link>
 <guid isPermaLink="false">url:https://techblog.gr/mobile/samsung-w27-proti-fotografia-tou-polytelous-fold-gia-tin-kina</guid>
@@ -106,15 +106,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η αναταραχή στις τεχνολογικές μετοχές επεκτείνεται και στην αγορά των δημόσιων εγγραφών, αναγκάζοντας εταιρείες που επωφελήθηκαν από την άνθηση της τεχνητής νοημοσύνης να επανεξετάσουν τα σχέδιά τους για άντληση κεφαλαίων.&lt;/p&gt;</description>
-</item>
-<item>
-<title>AI Agents αποκτούν πρόσβαση σε τραπεζικούς λογαριασμούς και αυτό τρομάζει</title>
-<link>https://techmaniacs.gr/ai-agents-apoktoyn-prosvasi-se-trapezikoys-logariasmoys-kai-ayto-tromazei/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/ai-agents-apoktoyn-prosvasi-se-trapezikoys-logariasmoys-kai-ayto-tromazei</guid>
-<pubDate>Fri, 23 Oct 2026 16:54:00 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Οι αυτόνομοι AI agents μαθαίνουν πλέον να ψάχνουν πληροφορίες, να κλείνουν εισιτήρια και να κάνουν εργασίες αντί για εμάς. Άλλο πράγμα όμως είναι να βάζεις ένα bot να σου βρει φθηνά αεροπορικά και άλλο να του δίνεις τα «κλειδιά» του τραπεζικού σου λογαριασμού. Εκεί ένα μικρό λάθος ή μια παραίσθηση του συστήματος μπορεί να σου […] The post AI Agents αποκτούν πρόσβαση σε τραπεζικούς λογαριασμούς και αυτό τρομάζει appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
 <title>Power of Innovation Summit 2026: Πώς οι AI agents αλλάζουν τον τρόπο λειτουργίας των επιχειρήσεων</title>

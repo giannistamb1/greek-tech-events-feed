@@ -1,7 +1,46 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-24T16:01:11.947308+00:00",
+ "built": "2026-10-24T20:55:21.729262+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316939138",
+   "title": "Saturday Social at Mint Bar – International Mingle event",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316939138/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-10-31T21:30:00+02:00",
+   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
+   "first_seen": "2026-10-24T20:55:21.729262+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316939121",
+   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316939121/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-10-31T21:30:00+02:00",
+   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
+   "first_seen": "2026-10-24T20:55:21.729262+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-ellada-kai-kipros-xtizoun-koini-prooptiki-stin-ai",
+   "title": "Power of Innovation Summit 2026: Ελλάδα και Κύπρος χτίζουν κοινή προοπτική στην Τεχνητή Νοημοσύνη",
+   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-ellada-kai-kipros-xtizoun-koini-prooptiki-stin-ai/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Ο Δημήτρης Σκουρίδης, Chief Scientist της Κυπριακής Δημοκρατίας, ανέδειξε πώς οι υπολογιστικές υποδομές, η τεχνογνωσία και η πρόσβαση σε διεθνείς αγορές μπορούν να μετατραπούν σε κοινά επιχειρηματικά εγχειρήματα.",
+   "first_seen": "2026-10-24T19:00:50+00:00"
+  },
   {
    "key": "url:https://fortunegreece.com/article/fifa-o-infantino-gela-me-ta-senaria-paraitisis-to-deal-pou-prokalese-krisi-kai-i-maxi-gia-tin-proedria",
    "title": "FIFA: Ο Ινφαντίνο γελά με τα σενάρια παραίτησης – Το deal που προκάλεσε κρίση και η μάχη για την προεδρία",
@@ -81,19 +120,6 @@
    "first_seen": "2026-10-24T11:00:30+00:00"
   },
   {
-   "key": "url:https://businessdaily.gr/tehnologia/238886_daidalos-allazei-ta-dedomena-sti-mahi-tis-tn-brisketai-sti-pagkosmia-elit",
-   "title": "Από τον Δεκέμβριο η πρόσβαση στον υπερυπολογιστή ΔΑΙΔΑΛΟΣ tων 58,9 εκατ.",
-   "link": "https://www.businessdaily.gr/tehnologia/238886_daidalos-allazei-ta-dedomena-sti-mahi-tis-tn-brisketai-sti-pagkosmia-elit",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Από τον Δεκέμβριο ανοίγει σταδιακά ο ΔΑΙΔΑΛΟΣ σε επιχειρήσεις, startups και ερευνητές, με την πρόσβαση να γίνεται μέσω προσκλήσεων και αξιολόγησης...",
-   "first_seen": "2026-10-24T11:00:06+00:00"
-  },
-  {
    "key": "url:https://techblog.gr/mobile/samsung-w27-proti-fotografia-tou-polytelous-fold-gia-tin-kina",
    "title": "Samsung W27: Πρώτη φωτογραφία του πολυτελούς Fold για την Κίνα",
    "link": "https://techblog.gr/mobile/samsung-w27-proti-fotografia-tou-polytelous-fold-gia-tin-kina/",
@@ -144,19 +170,6 @@
    "location": "",
    "summary": "Η αναταραχή στις τεχνολογικές μετοχές επεκτείνεται και στην αγορά των δημόσιων εγγραφών, αναγκάζοντας εταιρείες που επωφελήθηκαν από την άνθηση της τεχνητής νοημοσύνης να επανεξετάσουν τα σχέδιά τους για άντληση κεφαλαίων.",
    "first_seen": "2026-10-23T17:13:39.074642+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/ai-agents-apoktoyn-prosvasi-se-trapezikoys-logariasmoys-kai-ayto-tromazei",
-   "title": "AI Agents αποκτούν πρόσβαση σε τραπεζικούς λογαριασμούς και αυτό τρομάζει",
-   "link": "https://techmaniacs.gr/ai-agents-apoktoyn-prosvasi-se-trapezikoys-logariasmoys-kai-ayto-tromazei/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι αυτόνομοι AI agents μαθαίνουν πλέον να ψάχνουν πληροφορίες, να κλείνουν εισιτήρια και να κάνουν εργασίες αντί για εμάς. Άλλο πράγμα όμως είναι να βάζεις ένα bot να σου βρει φθηνά αεροπορικά και άλλο να του δίνεις τα «κλειδιά» του τραπεζικού σου λογαριασμού. Εκεί ένα μικρό λάθος ή μια παραίσθηση του συστήματος μπορεί να σου […] The post AI Agents αποκτούν πρόσβαση σε τραπεζικούς λογαριασμούς και αυτό τρομάζει appeared first on Techmaniacs .",
-   "first_seen": "2026-10-23T16:54:00+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-pos-oi-ai-agents-allazoun-ton-tropo-leitourgias-ton-epixeiriseon",
@@ -380,19 +393,6 @@
    "first_seen": "2026-10-22T08:21:33+00:00"
   },
   {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316843108",
-   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316843108/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-24T21:30:00+03:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-10-22T04:57:07.926787+00:00"
-  },
-  {
    "key": "url:https://techgear.gr/claude-duet-o-neos-ai-agent-gia-aytomatopoiimenes-epaggelmatikes-ergasies-51021",
    "title": "Claude Duet: Ο νέος AI agent για αυτοματοποιημένες επαγγελματικές εργασίες",
    "link": "https://www.techgear.gr/claude-duet-o-neos-ai-agent-gia-aytomatopoiimenes-epaggelmatikes-ergasies-51021",
@@ -417,19 +417,6 @@
    "location": "Online",
    "summary": "*Welcome back to another session with SuperWomen in Tech! We're excited to be joined by* ***[Deborah Bennun](https://www.linkedin.com/in/deborahbennun/)*** *to discuss the topic on everyone's minds: AI.* AI is changing work at extraordinary speed. We are constantly being told which jobs will disappear, which new technologies we need to master and which “future skills” everyone supposedly needs to acquire. But there is a more useful question: **As AI becomes capable of doing more of the work, what will continue to make you valuable?** In this interactive session, Deborah will explore how AI is changing the balance between **execution and human judgement** and introduce a practical method for …",
    "first_seen": "2026-10-21T21:47:04.719778+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316649648",
-   "title": "Saturday Social at Mint Bar – International Mingle event",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316649648/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-24T21:30:00+03:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-10-21T17:17:46.481543+00:00"
   },
   {
    "key": "url:https://meetup.com/cloud-native-muc/events/316851781",
@@ -510,6 +497,19 @@
    "first_seen": "2026-10-13T16:59:07.932367+00:00"
   },
   {
+   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863015",
+   "title": "Advanced Cloud Architecture & DevOps CICD Pipeline Process",
+   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863015/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-27T19:00:00+02:00",
+   "location": "Online",
+   "summary": "This advanced session examines enterprise-grade AI architecture and how pipelines securely move applications from code commit to production, including automated testing, artefact management, containerisation, security scanning, Kubernetes deployment, workload identity, observability, rollback, performance optimisation, and troubleshooting. Speaker: Imoh Etuk Watch live: https://www.youtube.com/watch?v=_Xw7ia6Eyd4 View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-2a159350-2fbf-45f2-89e3-d0d9172bf520",
+   "first_seen": "2026-10-13T06:51:25.576001+00:00"
+  },
+  {
    "key": "url:https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia",
    "title": "Το The People’s Trust στηρίζει την επιχειρηματικότητα στη Δυτική Μακεδονία",
    "link": "https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia/",
@@ -554,8 +554,8 @@
    "link": "https://www.meetup.com/meetup-group-judpeflp/events/316655050/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-10-27T19:00:00+02:00",
    "location": "Online",
    "summary": "## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…",
