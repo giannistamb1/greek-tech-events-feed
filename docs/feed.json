@@ -1,6 +1,6 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-24T23:19:44.176395+00:00",
+ "built": "2026-10-25T04:50:02.356831+00:00",
  "items": [
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316939138",
@@ -185,19 +185,6 @@
    "first_seen": "2026-10-23T15:00:25+00:00"
   },
   {
-   "key": "url:https://ictplus.gr/serdal-holding-kai-awg-meta-synergasia-se-psifiako-metaschimatismo-stratigiki-epikoinonia-kai-exypnes-ypodomes",
-   "title": "Serdal Holding και AWG META: Συνεργασία σε ψηφιακό μετασχηματισμό, στρατηγική επικοινωνία και έξυπνες υποδομές",
-   "link": "https://www.ictplus.gr/serdal-holding-kai-awg-meta-synergasia-se-psifiako-metaschimatismo-stratigiki-epikoinonia-kai-exypnes-ypodomes/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Συμφωνία για την ανάπτυξη κοινών τεχνολογικών έργων στα Ηνωμένα Αραβικά Εμιράτα και στην ευρύτερη περιοχή του Κόλπου υπέγραψαν στις 22 Οκτωβρίου 2026 η Serdal Holding, επιχειρηματικός όμιλος με έδρα το Άμπου Ντάμπι, και η ελληνική AWG META / AWG Group, στο πλαίσιο του UAE–Greece Strategic Forum. Το Μνημόνιο Κατανόησης (MoU) υπέγραψαν ο Ali Abdulla Al […] Το άρθρο Serdal Holding και AWG META: Συνεργασία σε ψηφιακό μετασχηματισμό, στρατηγική επικοινωνία και έξυπνες υποδομές εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-23T13:28:38+00:00"
-  },
-  {
    "key": "url:https://meetup.com/practical-ai-thessaloniki-meetup-group/events/317091917",
    "title": "Meetup #7 - Part of Pre-Voxxed Cross-community Meetup",
    "link": "https://www.meetup.com/practical-ai-thessaloniki-meetup-group/events/317091917/",
@@ -250,45 +237,6 @@
    "first_seen": "2026-10-23T11:46:07.963908+00:00"
   },
   {
-   "key": "url:https://ictplus.gr/g-pitsilis-i-psifiopoiisi-allazei-ti-leitourgia-tis-forologikis-dioikisis-sto-epikentro-mydata-pos-kai-aftomatopoiimenoi-elegchoi",
-   "title": "Γ. Πιτσιλής: Ομιλία σε Διεθνές Εργαστήριο του Διεθνούς Νομισματικού Ταμείου (ΔΝΤ) στο Πακιστάν για τις αλλαγές στην Φορολογική Διοίκηση από την ψηφιοποίηση",
-   "link": "https://www.ictplus.gr/g-pitsilis-i-psifiopoiisi-allazei-ti-leitourgia-tis-forologikis-dioikisis-sto-epikentro-mydata-pos-kai-aftomatopoiimenoi-elegchoi/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Την ελληνική εμπειρία από τον ψηφιακό μετασχηματισμό της φορολογικής διοίκησης παρουσίασε ο διοικητής της ΑΑΔΕ, Γιώργος Πιτσιλής, σε διεθνές εργαστήριο του Διεθνούς Νομισματικού Ταμείου (ΔΝΤ) στο Πακιστάν, αναδεικνύοντας τη σημασία της θεσμικής ανεξαρτησίας, της αξιοποίησης των δεδομένων και της εμπιστοσύνης των φορολογουμένων. Η παρέμβαση του επικεφαλής της Ανεξάρτητης Αρχής Δημοσίων Εσόδων (ΑΑΔΕ) πραγματοποιήθηκε διαδικτυακά στο […] Το άρθρο Γ. Πιτσιλής: Ομιλία σε Διεθνές Εργαστήριο του Διεθνούς Νομισματικού Ταμείου (ΔΝΤ) στο Πακιστάν για τις αλλαγές στην Φορολογική Διοίκηση από την ψηφιοποίηση εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-23T08:19:49+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/sto-mikroskopio-tis-epitropis-antagonismou-diagonismoi-gia-erga-ypodomon",
-   "title": "Στο μικροσκόπιο της Επιτροπής Ανταγωνισμού διαγωνισμοί για έργα υποδομών",
-   "link": "https://www.ictplus.gr/sto-mikroskopio-tis-epitropis-antagonismou-diagonismoi-gia-erga-ypodomon/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι αιφνιδιαστικοί έλεγχοι της Επιτροπής Ανταγωνισμού για πιθανή νόθευση δημόσιων διαγωνισμών σε έργα ύδρευσης και αποχέτευσης αναδεικνύουν ένα ζήτημα που αφορά πλέον και την αγορά Τεχνολογιών Πληροφορικής και Επικοινωνιών (ΤΠΕ). Καθώς οι ψηφιακές υπηρεσίες, τα πληροφοριακά συστήματα και οι εφαρμογές τεχνολογίας ενσωματώνονται σε όλο και περισσότερα έργα βασικών υποδομών, οι εταιρείες πληροφορικής αποκτούν αυξανόμενη παρουσία […] Το άρθρο Στο μικροσκόπιο της Επιτροπής Ανταγωνισμού διαγωνισμοί για έργα υποδομών εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-23T07:40:21+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/deloitte-pos-i-techniti-noimosyni-allazei-ti-machi-kata-tou-oikonomikou-egklimatos-oi-nees-apaitiseis-gia-tis-trapezes",
-   "title": "Deloitte: Πώς η τεχνητή νοημοσύνη αλλάζει τη μάχη κατά του οικονομικού εγκλήματος. Οι νέες απαιτήσεις για τις τράπεζες",
-   "link": "https://www.ictplus.gr/deloitte-pos-i-techniti-noimosyni-allazei-ti-machi-kata-tou-oikonomikou-egklimatos-oi-nees-apaitiseis-gia-tis-trapezes/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Το νέο ευρωπαϊκό πλαίσιο, που εφαρμόζεται από το 2027, φέρνει αυστηρότερες απαιτήσεις για την πρόληψη του ξεπλύματος χρήματος. Τα δεδομένα, η τεχνητή νοημοσύνη και η αναβάθμιση των ελεγκτικών μηχανισμών βρέθηκαν στο επίκεντρο του 3ου Financial Crime Symposium της Deloitte, στο Ωδείο Αθηνών. Η Deloitte Ελλάδος ανέδειξε τις προκλήσεις που δημιουργεί το νέο ευρωπαϊκό κανονιστικό περιβάλλον […] Το άρθρο Deloitte: Πώς η τεχνητή νοημοσύνη αλλάζει τη μάχη κατά του οικονομικού εγκλήματος. Οι νέες απαιτήσεις για τις τράπεζες εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-23T07:33:27+00:00"
-  },
-  {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316914315",
    "title": "🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥",
    "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316914315/",
@@ -315,19 +263,6 @@
    "first_seen": "2026-10-22T21:41:42.723510+00:00"
   },
   {
-   "key": "url:https://fortunegreece.com/article/mastercard-innovation-forum-2026-oi-allages-pou-erxontai-se-pliromes-kai-trapezikes-ipiresies",
-   "title": "Mastercard Innovation Forum 2026: Οι αλλαγές που έρχονται σε πληρωμές και τραπεζικές υπηρεσίες",
-   "link": "https://www.fortunegreece.com/article/mastercard-innovation-forum-2026-oi-allages-pou-erxontai-se-pliromes-kai-trapezikes-ipiresies/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "",
-   "first_seen": "2026-10-22T15:44:00+00:00"
-  },
-  {
    "key": "url:https://meetup.com/hellenicbitcoin/events/317075546",
    "title": "Hellenic Bitcoin: social meetup",
    "link": "https://www.meetup.com/hellenicbitcoin/events/317075546/",
@@ -338,32 +273,6 @@
    "starts": "2026-11-10T20:30:00+02:00",
    "location": "Anglais Athens, Kirikeioi 6, Athina 105 55, Greece, Athina, Athina",
    "summary": "Bull market incoming, are you stacked and ready ? Join the community for a couple of drinks with a nice view on the acropolis! We meet in a public bar in the center of the city, at the beautiful rooftop bar Anglais Athens. True names not required. Hardware purchase possible (Bitbox02, Trezor 5, originated straight from manufacturer). Details and questions in the [Telegram group](https://t.me/hellenicbitcoin), don't hesitate to say hello and ask for the hardware or anything else.",
-   "first_seen": "2026-10-22T11:59:59.473868+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-to-egxeiridio-gia-na-perasei-i-texnologia-sto-pedio-tis-praxis",
-   "title": "Power of Innovation Summit 2026: Το «εγχειρίδιο» για να περάσει η τεχνολογία στο πεδίο της πράξης",
-   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-to-egxeiridio-gia-na-perasei-i-texnologia-sto-pedio-tis-praxis/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Πώς οι επιχειρήσεις μπορούν να αξιοποιήσουν την ΑΙ, τις νέες υποδομές και τα χρηματοδοτικά εργαλεία για να αυξήσουν την παραγωγικότητά τους και να αναπτυχθούν. Τα βασικά συμπεράσματα της διοργάνωσης του Fortune Greece και η ανάδειξη της φετινής λίστας 40 UNDER 40.",
-   "first_seen": "2026-10-22T11:59:59.473868+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/tte-kerdi-26-dis-gia-tis-trapezes-oi-tesseris-kindinoi-pou-apeiloun-ti-xrimatopistotiki-statherotita",
-   "title": "ΤτΕ: Κέρδη 2,6 δισ. για τις τράπεζες – Οι τέσσερις κίνδυνοι που απειλούν τη χρηματοπιστωτική σταθερότητα",
-   "link": "https://www.fortunegreece.com/article/tte-kerdi-26-dis-gia-tis-trapezes-oi-tesseris-kindinoi-pou-apeiloun-ti-xrimatopistotiki-statherotita/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Γεωπολιτικές εντάσεις, ενεργειακή ακρίβεια, αναταράξεις στις αγορές και τεχνητή νοημοσύνη στο επίκεντρο της νέας έκθεσης της Τράπεζας της Ελλάδος. Ανθεκτικός παραμένει ο τραπεζικός τομέας, παρά τη μικρή αύξηση των «κόκκινων» δανείων.",
    "first_seen": "2026-10-22T11:59:59.473868+00:00"
   },
   {
