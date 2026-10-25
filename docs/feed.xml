@@ -6,7 +6,7 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 16:29:22 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 20:55:36 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>Power of Innovation Summit 2026: Οι δεξιότητες που θα κρίνουν το μέλλον της AI – Το μεγάλο στοίχημα για τις ελληνικές επιχειρήσεις</title>
@@ -81,22 +81,13 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Οι ψηφιακοί βοηθοί αρχίζουν να εκτελούν συναλλαγές και οι neobanks ανεβάζουν τον πήχη της εξυπηρέτησης. Πώς το ελληνικό τραπεζικό σύστημα επιχειρεί να μετατρέψει την τεχνολογική πρόοδο σε πιο απλή καθημερινότητα κερδίζοντας, παράλληλα, την εμπιστοσύνη του πελάτη.&lt;/p&gt;</description>
 </item>
 <item>
-<title>Χαρδαλιάς: «Η τεχνολογία να υπηρετεί τον άνθρωπο - Κάλεσμα με δράσεις ενημέρωσης για ΑΙ»</title>
-<link>https://www.insider.gr/politiki/430073/hardalias-i-tehnologia-na-ypiretei-ton-anthropo-kalesma-me-draseis-enimerosis-gia</link>
-<guid isPermaLink="false">url:https://insider.gr/politiki/430073/hardalias-i-tehnologia-na-ypiretei-ton-anthropo-kalesma-me-draseis-enimerosis-gia</guid>
+<title>Χαρδαλιάς: «Η τεχνολογία να υπηρετεί τον άνθρωπο» - Καλεί σε δράσεις ενημέρωσης για ΑΙ</title>
+<link>https://www.insider.gr/politiki/430073/hardalias-i-tehnologia-na-ypiretei-ton-anthropo-kalei-se-draseis-enimerosis-gia-ai</link>
+<guid isPermaLink="false">url:https://insider.gr/politiki/430073/hardalias-i-tehnologia-na-ypiretei-ton-anthropo-kalei-se-draseis-enimerosis-gia-ai</guid>
 <pubDate>Sun, 25 Oct 2026 11:28:53 +0000</pubDate>
 <category>Business &amp; tech media</category>
 <source url="https://www.insider.gr/rss.xml">Insider.gr</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;«Απευθύνω ανοιχτή πρόσκληση στους 66 αγαπητούς συναδέλφους - Δημάρχους της Αττικής για κοινές δράσει...&lt;/p&gt;</description>
-</item>
-<item>
-<title>Νίκος Χαρδαλιάς: Η Τεχνιτή Νοημοσύνη πρέπει να υπηρετεί τον άνθρωπο</title>
-<link>https://www.businessdaily.gr/politiki/239999_anoihti-prosklisi-hardalia-gia-koines-draseis-enimerosis-gia-tin-tehniti-noimosyni?utm_source=Feedelio&amp;utm_medium=news&amp;utm_campaign=ape&amp;utm_content=Sokratis%20Psaltis</link>
-<guid isPermaLink="false">url:https://businessdaily.gr/politiki/239999_anoihti-prosklisi-hardalia-gia-koines-draseis-enimerosis-gia-tin-tehniti-noimosyni</guid>
-<pubDate>Sun, 25 Oct 2026 11:08:19 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ανοιχτή πρόσκληση σε όλους τους δημάρχους Αττικής απηύθυνε ο Νίκος Χαρδαλιάς για κοινές εκδηλώσεις ενημέρωσης σχετικά με την τεχνητή νοημοσύνη, στο...&lt;/p&gt;</description>
 </item>
 <item>
 <title>Power of Innovation Summit 2026: Πώς η Τεχνητή Νοημοσύνη περνά από τα πιλοτικά προγράμματα στην καρδιά των επιχειρήσεων</title>
@@ -403,6 +394,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 26 October 2026, 13:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** Whether you're just starting out, returning to work, or looking to make a stronger impression with your CV, this practical and interactive workshop will help you confidently showcase your skills, experience, and potential. Learn how to present yourself professionally and tailor your CV to stand out, even if you have limited experience or are changing career paths. **In this workshop, you'll learn how to:** Format your CV using a professional layout Write a personal profile that tells the hiring manager about yourself and what you can bring to the organisation Align your CV to the job requirements, showcasing your transferable skills **Who should attend:** * Anyone cu…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[28 Oct] How to Tell a Clear Story with Data</title>
+<link>https://www.meetup.com/london-business-analytics-group/events/316775954/</link>
+<guid isPermaLink="false">url:https://meetup.com/london-business-analytics-group/events/316775954</guid>
+<pubDate>Sat, 17 Oct 2026 15:40:47 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 28 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Tom provides a framework that analysts can use to help structure their analytical findings into more of a story/coherent format so that it has a bigger impact. He will then also talk through a real-life example for each pillar of the framework. This is a short 20 minute talk followed by 5-10 minutes of Q&amp;amp;A. Tom is a Senior Commercial Analytics Manager with a background in turning data into commercially useful insight. He also speaks regularly through Toastmasters and is particularly interested in helping analysts communicate complex ideas more simply and effectively.&lt;/p&gt;</description>
 </item>
 <item>
 <title>[13 Nov] MoT Athens #19: Chaos Testing, Contract Testing &amp; AI Agents</title>
