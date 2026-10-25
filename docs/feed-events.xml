@@ -6,17 +6,8 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 11:39:40 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 16:29:22 +0000</lastBuildDate>
 <ttl>180</ttl>
-<item>
-<title>[25 Oct] Build a Reasoning Model (From Scratch)</title>
-<link>https://www.meetup.com/llm-reading-club/events/316895591/</link>
-<guid isPermaLink="false">url:https://meetup.com/llm-reading-club/events/316895591</guid>
-<pubDate>Sun, 25 Oct 2026 11:39:40 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 25 October 2026, 17:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;We are working through *Build a Reasoning Model (From Scratch)* by Sebastian Raschka. During each meetup, we will discuss the key concepts from the chapter or pages under review. In this session we'll discuss the **Chapter 5. Inference-time scaling** **via self-refinement.** Raschka provides a hands-on guide to understanding and building modern reasoning models. Starting with a conventional pretrained LLM, the book explores evaluation, inference-time reasoning techniques, reinforcement learning with verifiable rewards, and knowledge distillation. Please note that the session is not recorded, and participants are responsible for obtaining their own copy of the book. **Buy the book** (affiliat…&lt;/p&gt;</description>
-</item>
 <item>
 <title>[28 Oct] Tech4Futures: Software Development Workshop</title>
 <link>https://www.meetup.com/future-skills-community/events/316567753/</link>
