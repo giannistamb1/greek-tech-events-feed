@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-25T04:50:02.356831+00:00",
-  "items": 38,
+  "built": "2026-10-25T11:39:40.567624+00:00",
+  "items": 50,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -52,9 +52,9 @@
     },
     {
       "name": "ICT Plus",
-      "fetched": 0,
-      "kept": 0,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='www.ictplus.gr', port=443): Read timed out. (read timeout=30)"
+      "fetched": 21,
+      "kept": 4,
+      "error": ""
     },
     {
       "name": "Techgear",
@@ -77,37 +77,37 @@
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Insider.gr",
       "fetched": 60,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Fortune Greece",
-      "fetched": 120,
-      "kept": 10,
+      "fetched": 143,
+      "kept": 13,
       "error": ""
     },
     {
       "name": "Business Daily",
       "fetched": 40,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Techblog",
       "fetched": 20,
-      "kept": 2,
+      "kept": 3,
       "error": ""
     },
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
