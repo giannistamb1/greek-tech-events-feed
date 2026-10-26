@@ -6,16 +6,79 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Mon, 26 Oct 2026 13:12:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 20:33:37 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>[26 Oct] Git &amp; GitHub: From Zero to Contributor</title>
-<link>https://www.meetup.com/malta-microsoft-ai-user-group/events/316863012/</link>
-<guid isPermaLink="false">url:https://meetup.com/malta-microsoft-ai-user-group/events/316863012</guid>
-<pubDate>Mon, 26 Oct 2026 13:12:16 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 26 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;This hands-on session demystifies Git and GitHub, from understanding version control through practical analogies to using Git commands and completing the GitHub collaboration workflow. Attendees will make their first open-source contribution in real time. Speaker: Harshavardhan Bajoria Watch live: https://www.youtube.com/watch?v=hVO9GnykKWw View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference 1335522&lt;/p&gt;</description>
+<title>Pizza Fan: Έρευνα για πιθανή εμπλοκή υπαλλήλων της ΑΑΔΕ – Στο μικροσκόπιο το λογισμικό της απάτης</title>
+<link>https://www.fortunegreece.com/article/pizza-fan-erevna-gia-pithani-emploki-ipallilon-tis-aade-sto-mikroskopio-to-logismiko-tis-apatis/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/pizza-fan-erevna-gia-pithani-emploki-ipallilon-tis-aade-sto-mikroskopio-to-logismiko-tis-apatis</guid>
+<pubDate>Mon, 26 Oct 2026 20:33:37 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Στα εγκληματολογικά εργαστήρια το λογισμικό που φέρεται να έκρυβε συναλλαγές – Έρευνα για πιθανή διαρροή πληροφοριών από την ΑΑΔΕ και δέσμευση περιουσιακών στοιχείων των κατηγορουμένων&lt;/p&gt;</description>
+</item>
+<item>
+<title>Νέο hedge fund κοιτάζει την Ελλάδα – Η Capula εξετάζει γραφείο στην Αθήνα</title>
+<link>https://www.fortunegreece.com/article/neo-hedge-fund-koitazei-tin-ellada-i-capula-exetazei-grafeio-stin-athina/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/neo-hedge-fund-koitazei-tin-ellada-i-capula-exetazei-grafeio-stin-athina</guid>
+<pubDate>Mon, 26 Oct 2026 20:33:37 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η λονδρέζικη επενδυτική εταιρεία εξετάζει το άνοιγμα γραφείου στην ελληνική πρωτεύουσα, ενώ η Millennium Management προχωρά στη δημιουργία παρουσίας και η Verition διερευνά τις επιλογές της.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Υποχωρούν οι αποδόσεις των γαλλικών ομολόγων, με το βλέμμα στην ΕΚΤ</title>
+<link>https://www.fortunegreece.com/article/ipoxoroun-oi-apodoseis-ton-gallikon-omologon-me-to-vlemma-stin-ekt/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/ipoxoroun-oi-apodoseis-ton-gallikon-omologon-me-to-vlemma-stin-ekt</guid>
+<pubDate>Mon, 26 Oct 2026 20:13:52 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η απόδοση του γαλλικού 10ετούς τίτλου υποχώρησε στο 4,915%, μετά την απόφαση της Moody’s να διατηρήσει αμετάβλητη την πιστοληπτική αξιολόγηση της χώρας. Στο επίκεντρο των επενδυτών η συνεδρίαση της Ευρωπαϊκής Κεντρικής Τράπεζας και οι εξελίξεις στις τιμές της ενέργειας.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Anthropic: Προς ιστορική IPO στον Nasdaq – Ζημίες 81 δισ. δολαρίων και επενδύσεις 800 δισ. στην τεχνητή νοημοσύνη</title>
+<link>https://www.fortunegreece.com/article/anthropic-pros-istoriki-ipo-ston-nasdaq-zimies-81-dis-dolarion-kai-ependiseis-800-dis-stin-texniti-noimosini/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/anthropic-pros-istoriki-ipo-ston-nasdaq-zimies-81-dis-dolarion-kai-ependiseis-800-dis-stin-texniti-noimosini</guid>
+<pubDate>Mon, 26 Oct 2026 17:45:43 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η εταιρεία πίσω από το Claude κατέθεσε αίτηση εισαγωγής στο χρηματιστήριο, με αποτίμηση που είχε φτάσει τα 965 δισ. δολάρια τον Μάιο. Τα εκρηκτικά έσοδα, οι τεράστιες δαπάνες για υποδομές AI και οι κίνδυνοι που αποκαλύπτει το ενημερωτικό δελτίο.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Έλον Μασκ: Κυκλοφόρησε η πρώτη AI «Οδύσσεια» του Grok – Τα 7 λεπτά και η κόντρα με τον Νόλαν</title>
+<link>https://www.fortunegreece.com/article/elon-mask-kikloforise-i-proti-ai-odisseia-tou-grok-ta-7-lepta-kai-i-kontra-me-ton-nolan/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/elon-mask-kikloforise-i-proti-ai-odisseia-tou-grok-ta-7-lepta-kai-i-kontra-me-ton-nolan</guid>
+<pubDate>Mon, 26 Oct 2026 17:01:31 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Το Grok Imagine παρουσίασε το πρώτο επτάλεπτο επεισόδιο της AI «Οδύσσειας», σε συνεργασία με τη Wonder Studios και τον σκηνοθέτη Dev Walker. Η υπόσχεση του Έλον Μασκ για μια ολόκληρη ταινία, οι πρώτες αντιδράσεις και η αντιπαράθεση με τον Κρίστοφερ Νόλαν.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Νέο iPad mini: OLED 8,5 ιντσών, A20 Pro και IP67 σε πάχος 5,4 mm</title>
+<link>https://techblog.gr/gadgets/neo-ipad-mini-oled-85-intson-a20-pro-kai-ip67-se-pachos-54-mm/</link>
+<guid isPermaLink="false">url:https://techblog.gr/gadgets/neo-ipad-mini-oled-85-intson-a20-pro-kai-ip67-se-pachos-54-mm</guid>
+<pubDate>Mon, 26 Oct 2026 15:50:37 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techblog.gr/feed/">Techblog</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techblog · Tech media&lt;/p&gt;&lt;p&gt;Η Apple παρουσίασε το νέο iPad mini με OLED 8,5 ιντσών, A20 Pro και IP67. Προπαραγγελίες από 28 Οκτωβρίου, τιμή από 699 δολάρια στις ΗΠΑ. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Νέο iPad mini: OLED 8,5 ιντσών, A20 Pro και IP67 σε πάχος 5,4 mm )&lt;/p&gt;</description>
+</item>
+<item>
+<title>Η Apple ανακοινώνει τη μεγαλύτερη αναβάθμιση στο iPad Mini</title>
+<link>https://techmaniacs.gr/neo-ipad-mini-oled-a20-pro/</link>
+<guid isPermaLink="false">url:https://techmaniacs.gr/neo-ipad-mini-oled-a20-pro</guid>
+<pubDate>Mon, 26 Oct 2026 15:13:39 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Η Apple ανακοίνωσε επίσημα το νέο iPad mini, φέρνοντας τη μεγαλύτερη αναβάθμιση στην ιστορία της σειράς με οθόνη OLED 8,5 ιντσών, λίγα μόλις εικοσιτετράωρα πριν από το ειδικό event «Pro and Tell» της Apple που είναι προγραμματισμένο για την Τετάρτη. Η νέα συσκευή ξεκινά από τα 699 δολάρια για την έκδοση Wi-Fi, ενώ η έκδοση […] The post Η Apple ανακοινώνει τη μεγαλύτερη αναβάθμιση στο iPad Mini appeared first on Techmaniacs .&lt;/p&gt;</description>
+</item>
+<item>
+<title>Mastercard Innovation Forum 2026: Η εμπιστοσύνη στο επίκεντρο της εποχής του Agentic AI και του «αόρατου» εμπορίου</title>
+<link>https://www.ictplus.gr/mastercard-innovation-forum-2026-i-ebistosyni-sto-epikentro-tis-epochis-tou-agentic-ai-kai-tou-aoratou-eboriou/</link>
+<guid isPermaLink="false">url:https://ictplus.gr/mastercard-innovation-forum-2026-i-ebistosyni-sto-epikentro-tis-epochis-tou-agentic-ai-kai-tou-aoratou-eboriou</guid>
+<pubDate>Mon, 26 Oct 2026 13:31:13 +0000</pubDate>
+<category>Enterprise IT</category>
+<source url="https://www.ictplus.gr/">ICT Plus</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Η τεχνητή νοημοσύνη εισέρχεται σε μια νέα εποχή, περνώντας από την παροχή πληροφοριών στην ανάληψη δράσης για λογαριασμό καταναλωτών και επιχειρήσεων. Η εξέλιξη αυτή μετασχηματίζει τον τρόπο με τον οποίο οι άνθρωποι πραγματοποιούν αγορές και πληρωμές και αλληλεπιδρούν με την τεχνολογία, καθιστώντας την εμπιστοσύνη, την ασφάλεια και την υπεύθυνη καινοτομία βασικές προϋποθέσεις για την ουσιαστική […] Το άρθρο Mastercard Innovation Forum 2026: Η εμπιστοσύνη στο επίκεντρο της εποχής του Agentic AI και του «αόρατου» εμπορίου εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
 </item>
 <item>
 <title>Anthropic: «Φρένο» στις συνομιλίες με χρήστες που κακομεταχειρίζονται τα chatbots της</title>
@@ -27,15 +90,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Η εταιρεία πίσω από το Claude εξετάζει το ενδεχόμενο τα μοντέλα AI να έχουν κάποια μορφή συνείδησης και διαμορφώνει πολιτικές για την ευημερία τους. Η προσέγγιση προκαλεί διαφωνίες, με επικριτές να προειδοποιούν ότι μπορεί να δυσκολέψει τον έλεγχο της τεχνολογίας και να δημιουργήσει ζητήματα ευθύνης Το άρθρο Anthropic: «Φρένο» στις συνομιλίες με χρήστες που κακομεταχειρίζονται τα chatbots της εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
 </item>
 <item>
-<title>Hisense: Το AI δίνει νέα διάσταση στο έξυπνο σπίτι</title>
-<link>https://businessvoice.gr/epicheiriseis/994786/hisense-to-ai-dinei-nea-diastasi-sto-exypno-spiti/</link>
-<guid isPermaLink="false">url:https://businessvoice.gr/epicheiriseis/994786/hisense-to-ai-dinei-nea-diastasi-sto-exypno-spiti</guid>
-<pubDate>Mon, 26 Oct 2026 12:23:31 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.emea.gr/feed/">EMEA.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; EMEA.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Στην IFA 2026, η Hisense παρουσίασε το AI Companion Suite, αναδεικνύοντας το όραμά της για ένα σπίτι όπου οι έξυπνες συσκευές δεν λειτουργούν απλώς ανεξάρτητα, αλλά μπορούν να συνεργάζονται, δημιουργώντας μια πιο ολοκληρωμένη εμπειρία Smart Living&lt;/p&gt;</description>
-</item>
-<item>
 <title>Σταύρος Παπαγιαννόπουλος στο Cyber Security Forum: «Η κυβερνοασφάλεια δεν είναι τεχνική υπόθεση, αλλά υπόθεση ηγεσίας»</title>
 <link>https://www.fortunegreece.com/article/stavros-papagiannopoulos-sto-cyber-security-forum-i-kivernoasfaleia-den-einai-texniki-ipothesi-alla-ipothesi-igesias/</link>
 <guid isPermaLink="false">url:https://fortunegreece.com/article/stavros-papagiannopoulos-sto-cyber-security-forum-i-kivernoasfaleia-den-einai-texniki-ipothesi-alla-ipothesi-igesias</guid>
@@ -43,15 +97,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο CEO της EXL Consulting ανέδειξε τη σημασία της κυβερνοασφάλειας ως στρατηγικής προτεραιότητας για επιχειρήσεις και δημόσιους οργανισμούς, τονίζοντας τον ρόλο της εμπιστοσύνης, της συνεργασίας και τις νέες προκλήσεις που δημιουργεί η Τεχνητή Νοημοσύνη.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Η Meta αναζητά έως και 95 δισ. δολάρια για δαπάνες στην AI</title>
-<link>https://www.insider.gr/epiheiriseis/430193/i-meta-anazita-eos-kai-95-dis-dolaria-gia-dapanes-stin-ai</link>
-<guid isPermaLink="false">url:https://insider.gr/epiheiriseis/430193/i-meta-anazita-eos-kai-95-dis-dolaria-gia-dapanes-stin-ai</guid>
-<pubDate>Mon, 26 Oct 2026 11:36:47 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Από την αρχή του έτους έως το κλείσιμο της συνεδρίασης της Παρασκευής, ο τίτλος της έχει καταγράψει ...&lt;/p&gt;</description>
 </item>
 <item>
 <title>Bank of America: Στο επίκεντρο οι αποφάσεις των κεντρικών τραπεζών – Τα κρίσιμα στοιχεία για πληθωρισμό και ανάπτυξη</title>
@@ -70,24 +115,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;35 χρόνια πορείας που χτίστηκε πάνω στην εμπιστοσύνη, την τεχνογνωσία και τη διαρκή εξέλιξη, με το βλέμμα στραμμένο στο μέλλον&lt;/p&gt;</description>
-</item>
-<item>
-<title>Θεσσαλονίκη: Συναντήσεις ελληνικών και γερμανικών επιχειρήσεων για την κυβερνοασφάλεια</title>
-<link>https://www.ictplus.gr/thessaloniki-synantiseis-ellinikon-kai-germanikon-epicheiriseon-gia-tin-kyvernoasfaleia/</link>
-<guid isPermaLink="false">url:https://ictplus.gr/thessaloniki-synantiseis-ellinikon-kai-germanikon-epicheiriseon-gia-tin-kyvernoasfaleia</guid>
-<pubDate>Mon, 26 Oct 2026 09:32:49 +0000</pubDate>
-<category>Enterprise IT</category>
-<source url="https://www.ictplus.gr/">ICT Plus</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Στο επίκεντρο η προστασία κρίσιμων υποδομών και η ψηφιακή ασφάλεια – Δωρεάν η συμμετοχή στο επιχειρηματικό φόρουμ και στις συναντήσεις B2B Το άρθρο Θεσσαλονίκη: Συναντήσεις ελληνικών και γερμανικών επιχειρήσεων για την κυβερνοασφάλεια εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Ελλάδα – ΗΑΕ: Data centers, εφαρμογές AI στο Δημόσιο και 15 επιχειρηματικές συμφωνίες και MoU’s</title>
-<link>https://www.ictplus.gr/ellada-iae-data-centers-efarmoges-ai-sto-dimosio-kai-15-epicheirimatikes-symfonies-kai-mous/</link>
-<guid isPermaLink="false">url:https://ictplus.gr/ellada-iae-data-centers-efarmoges-ai-sto-dimosio-kai-15-epicheirimatikes-symfonies-kai-mous</guid>
-<pubDate>Mon, 26 Oct 2026 09:13:26 +0000</pubDate>
-<category>Enterprise IT</category>
-<source url="https://www.ictplus.gr/">ICT Plus</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Νέες συνεργασίες σε ψηφιακές υποδομές, Τεχνητή Νοημοσύνη, επενδύσεις και βιοτεχνολογία περιλαμβάνει το πακέτο των 15 μνημονίων που υπέγραψαν ελληνικές και εμιρατινές εταιρείες και οργανισμοί στις 22 Οκτωβρίου, στο πλαίσιο του 4ου Στρατηγικού Επιχειρηματικού Φόρουμ Ελλάδας – Ηνωμένων Αραβικών Εμιράτων (ΗΑΕ), στην Αθήνα. Οι συμφωνίες καλύπτουν από την ανάπτυξη υποδομών για εφαρμογές Τεχνητής Νοημοσύνης και τη […] Το άρθρο Ελλάδα – ΗΑΕ: Data centers, εφαρμογές AI στο Δημόσιο και 15 επιχειρηματικές συμφωνίες και MoU’s εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
 </item>
 <item>
 <title>Satori – From AI to ROI Summit ’26 – Αποκάλυψη, τώρα</title>
@@ -117,6 +144,15 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Από την επιλογή των κατάλληλων δεδομένων και την αξιολόγηση των εφαρμογών τεχνητής νοημοσύνης έως την αλλαγή του τρόπου λειτουργίας των επιχειρήσεων, το ζητούμενο είναι η τεχνολογία να οδηγεί σε μετρήσιμο αποτέλεσμα.&lt;/p&gt;</description>
 </item>
 <item>
+<title>[28 Oct] Tech4Futures: Software Development Workshop</title>
+<link>https://www.meetup.com/future-skills-community/events/316567753/</link>
+<guid isPermaLink="false">url:https://meetup.com/future-skills-community/events/316567753</guid>
+<pubDate>Sun, 25 Oct 2026 11:39:40 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 28 October 2026, 16:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** Ready to step into the exciting world of software development? Join our online workshop and get a sneak peek into the life of a software developer. Whether you're curious about the basics of web development, or interested in our software development apprenticeships, this session is crafted just for you! **During the workshop, you’ll:** * Dive into Software Development: Explore what it takes to be a software developer and understand the pivotal role they play in today's digital world. * Discover Our Software Development Apprenticeships: Learn about our apprenticeship programmes and how they can kickstart your career in tech. * Get Hands-On with HTML: Start your coding…&lt;/p&gt;</description>
+</item>
+<item>
 <title>Power of Innovation Summit 2026: Ο ρόλος της Τεχνητής Νοημοσύνης στη μάχη για την προσοχή του καταναλωτή</title>
 <link>https://www.fortunegreece.com/article/power-of-innovation-summit-2026-pos-i-ai-allazei-ti-maxi-gia-tin-prosoxi-tou-katanaloti/</link>
 <guid isPermaLink="false">url:https://fortunegreece.com/article/power-of-innovation-summit-2026-pos-i-ai-allazei-ti-maxi-gia-tin-prosoxi-tou-katanaloti</guid>
@@ -142,15 +178,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Στελέχη των Dell Technologies, Παπαστράτος και Eurobank ανέλυσαν στο The Power of Innovation 2026 τις προκλήσεις της υιοθέτησης της AI, τη σημασία της εταιρικής κουλτούρας και τον ρόλο των ανθρώπων στον ψηφιακό μετασχηματισμό.&lt;/p&gt;</description>
-</item>
-<item>
-<title>YouTube: Η μεγαλύτερη δωρεάν αναβάθμιση στην ποιότητα, έρχεται το AV2</title>
-<link>https://techmaniacs.gr/av2-codec-youtube-streaming-2027/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/av2-codec-youtube-streaming-2027</guid>
-<pubDate>Sun, 25 Oct 2026 07:32:01 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Νωρίτερα φέτος, η Alliance for Open Media παρουσίασε τις προδιαγραφές του codec AV2, ο οποίος αναμένεται να είναι κατά 25% έως και 32% πιο αποδοτικός σε σχέση με τον AV1, ενώ θα έλθει και στο Youtube από το 2027. Ουσιαστικά, αυτό σημαίνει ότι θα μπορούμε να έχουμε υψηλότερη ποιότητα streaming στο ίδιο bitrate ή αντίστοιχη […] The post YouTube: Η μεγαλύτερη δωρεάν αναβάθμιση στην ποιότητα, έρχεται το AV2 appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
 <title>XMP και EXPO: Ποιο προφίλ της RAM να διαλέξεις στο BIOS</title>
@@ -196,15 +223,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Από το leasing αυτοκινήτων έως το ηλεκτρονικό εμπόριο και τη διαχείριση ενέργειας, οι επιχειρήσεις αναζητούν νέα μοντέλα ανάπτυξης, με την τεχνολογία να αλλάζει τη σχέση τους με τους πελάτες.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Το νέο ρομπότ της Unitree κάνει kung fu για να γίνει σωματοφύλακας [video]</title>
-<link>https://techblog.gr/gadgets/to-neo-robot-tis-unitree-kanei-kung-fu-gia-na-ginei-somatofylakas-video/</link>
-<guid isPermaLink="false">url:https://techblog.gr/gadgets/to-neo-robot-tis-unitree-kanei-kung-fu-gia-na-ginei-somatofylakas-video</guid>
-<pubDate>Sat, 24 Oct 2026 11:15:49 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techblog.gr/feed/">Techblog</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techblog · Tech media&lt;/p&gt;&lt;p&gt;Η Unitree παρουσίασε το H2-X, ρομπότ σωματοφύλακα ύψους 1,80 μ. με αυτονομία 8 ωρών, που σηκώνει αυτοκίνητα και κάνει kung fu στο βίντεό του. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Το νέο ρομπότ της Unitree κάνει kung fu για να γίνει σωματοφύλακας [video] )&lt;/p&gt;</description>
 </item>
 <item>
 <title>Power of Innovation Summit 2026: Η ελληνική ευκαιρία στη διαστημική οικονομία</title>
@@ -306,15 +324,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Το phishing παραμένει το συχνότερο περιστατικό κυβερνοασφάλειας για τις επιχειρήσεις το 2026. Τα μηνύματα με θέμα εκθέσεις υγειονομικού ...&lt;/p&gt;</description>
 </item>
 <item>
-<title>Claude Duet: Ο νέος AI agent για αυτοματοποιημένες επαγγελματικές εργασίες</title>
-<link>https://www.techgear.gr/claude-duet-o-neos-ai-agent-gia-aytomatopoiimenes-epaggelmatikes-ergasies-51021</link>
-<guid isPermaLink="false">url:https://techgear.gr/claude-duet-o-neos-ai-agent-gia-aytomatopoiimenes-epaggelmatikes-ergasies-51021</guid>
-<pubDate>Thu, 22 Oct 2026 04:38:00 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://www.techgear.gr/">Techgear</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Η Anthropic παρουσίασε επίσημα το Claude Duet, έναν νέο ψηφιακό βοηθό τεχνητής νοημοσύνης που σχεδιάστηκε αποκλειστικά για την εξυπηρέτηση ...&lt;/p&gt;</description>
-</item>
-<item>
 <title>[28 Oct] The Human Skills That Matter in an AI-Driven World</title>
 <link>https://www.meetup.com/sgi-superwomen-in-tech/events/316665463/</link>
 <guid isPermaLink="false">url:https://meetup.com/sgi-superwomen-in-tech/events/316665463</guid>
@@ -331,6 +340,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …&lt;/p&gt;</description>
+</item>
+<item>
+<title>[28 Oct] How to Tell a Clear Story with Data</title>
+<link>https://www.meetup.com/london-business-analytics-group/events/316775954/</link>
+<guid isPermaLink="false">url:https://meetup.com/london-business-analytics-group/events/316775954</guid>
+<pubDate>Sat, 17 Oct 2026 15:40:47 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 28 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Tom provides a framework that analysts can use to help structure their analytical findings into more of a story/coherent format so that it has a bigger impact. He will then also talk through a real-life example for each pillar of the framework. This is a short 20 minute talk followed by 5-10 minutes of Q&amp;amp;A. Tom is a Senior Commercial Analytics Manager with a background in turning data into commercially useful insight. He also speaks regularly through Toastmasters and is particularly interested in helping analysts communicate complex ideas more simply and effectively.&lt;/p&gt;</description>
 </item>
 <item>
 <title>[13 Nov] MoT Athens #19: Chaos Testing, Contract Testing &amp; AI Agents</title>
@@ -356,8 +374,8 @@
 <guid isPermaLink="false">url:https://meetup.com/agent-builders/events/315958151</guid>
 <pubDate>Tue, 13 Oct 2026 16:59:07 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works along with guidance in prompting and getting the result you want without having to burn loads of tokens. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do * A sample project to build, so you leave with so…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works along with guidance in prompting and getting the result you want without having to burn loads of tokens. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do * A sample project to build, so you leave with so…&lt;/p&gt;</description>
 </item>
 <item>
 <title>Το The People’s Trust στηρίζει την επιχειρηματικότητα στη Δυτική Μακεδονία</title>
