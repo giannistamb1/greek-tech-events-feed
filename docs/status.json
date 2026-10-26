@@ -1,17 +1,17 @@
 {
-  "built": "2026-10-26T04:54:55.281674+00:00",
-  "items": 48,
+  "built": "2026-10-26T13:12:16.218419+00:00",
+  "items": 46,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "ICT Plus",
       "fetched": 21,
-      "kept": 4,
+      "kept": 3,
       "error": ""
     },
     {
@@ -71,7 +71,7 @@
     {
       "name": "EMEA.gr",
       "fetched": 15,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 79,
-      "kept": 11,
+      "fetched": 125,
+      "kept": 14,
       "error": ""
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Techblog",
       "fetched": 20,
-      "kept": 3,
+      "kept": 2,
       "error": ""
     },
     {
