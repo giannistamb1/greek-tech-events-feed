@@ -1,7 +1,59 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-27T00:30:57.654384+00:00",
+ "built": "2026-10-27T09:06:23.758582+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/epic-studios-tech-talks/events/317142578",
+   "title": "Epic Tech Talks #3: Coding with Angular",
+   "link": "https://www.meetup.com/epic-studios-tech-talks/events/317142578/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-13T19:00:00+02:00",
+   "location": "Epic Studios, Syntagmatarchou Davaki 4, 115 26, Athens, Athens",
+   "summary": "Epic's Tech Talk#3 is coming. On Friday, November 13th, we’re opening our doors and inviting you to our offices at 4 Syntagmatarchou Davaki Street, Athens 115 26, 1st floor, from 19:00 to 21:00. Our speakers for the evening will be: **Manos Kounelakis** – ''Angular - Moving towards Zoneless architecture and the Future'' **Matina Pantazidou** – \"It Works on My Laptop\" **Manos** is a Full Stack Software Engineer with a strong background in R&D and cyber security solutions for IoT devices . Specialized in building frontend applications using Angular Strong believer of Clean Code . Currently working with Angular / C# to deliver complex solutions for the Core Banking Domain **Matina** is a Front-…",
+   "first_seen": "2026-10-27T09:06:23.758582+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/tax-labour/430308/dypa-109-ergastiria-symboyleytikis-ton-noembrio-gia-anazitisi-ergasias-kai",
+   "title": "ΔΥΠΑ: 109 εργαστήρια συμβουλευτικής τον Νοέμβριο για αναζήτηση εργασίας και επιχειρηματικότητα",
+   "link": "https://www.insider.gr/tax-labour/430308/dypa-109-ergastiria-symboyleytikis-ton-noembrio-gia-anazitisi-ergasias-kai",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Η ΔΥΠΑ διοργανώνει τον Νοέμβριο 109 εργαστήρια ομαδικής συμβουλευτικής για πολίτες που αναζητούν εργ...",
+   "first_seen": "2026-10-27T08:09:46+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/paraskiniaka/2180649/100-dis-gia-na-sas-afanisoyme-kai-psithyroi-gia-nea-alysida-kafe-poy-kavoyrdizei-charmania-forodiafygis",
+   "title": "100 δισ. για… να σας αφανίσουμε και ψίθυροι για νέα αλυσίδα καφέ που καβουρδίζει «χαρμάνια φοροδιαφυγής»",
+   "link": "https://www.naftemporiki.gr/paraskiniaka/2180649/100-dis-gia-na-sas-afanisoyme-kai-psithyroi-gia-nea-alysida-kafe-poy-kavoyrdizei-charmania-forodiafygis/?utm_source=rss&utm_medium=rss&utm_campaign=100-dis-gia-na-sas-afanisoyme-kai-psithyroi-gia-nea-alysida-kafe-poy-kavoyrdizei-charmania-forodiafygis",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Anthropic, που λέτε, ετοιμάζεται για τη μεγαλύτερη αρχική δημόσια εγγραφή όλων των εποχών και φροντίζει να προσφέρει στους επενδυτές και σε εμάς τους δημοσιογράφους, όλο το απαραίτητο υλικό: ζημιές… 100 δισ. για… να σας αφανίσουμε και ψίθυροι για νέα αλυσίδα καφέ που καβουρδίζει «χαρμάνια φοροδιαφυγής» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-10-27T07:39:00+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/xristika/240298_ekpa-eos-30-noembrioy-oi-aitiseis-gia-programma-epiheirimatikotitas",
+   "title": "ΕΚΠΑ: Έως 30 Νοεμβρίου οι αιτήσεις για πρόγραμμα επιχειρηματικότητας",
+   "link": "https://www.businessdaily.gr/xristika/240298_ekpa-eos-30-noembrioy-oi-aitiseis-gia-programma-epiheirimatikotitas?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=V_lab",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Φοιτητές, ερευνητές και απόφοιτοι του ΕΚΠΑ μπορούν να μετατρέψουν καινοτόμες ιδέες σε επιχειρήσεις, με δωρεάν εκπαίδευση, mentoring και δικτύωση.",
+   "first_seen": "2026-10-27T06:20:51+00:00"
+  },
   {
    "key": "url:https://fortunegreece.com/article/pizza-fan-erevna-gia-pithani-emploki-ipallilon-tis-aade-sto-mikroskopio-to-logismiko-tis-apatis",
    "title": "Pizza Fan: Έρευνα για πιθανή εμπλοκή υπαλλήλων της ΑΑΔΕ – Στο μικροσκόπιο το λογισμικό της απάτης",
@@ -250,9 +302,9 @@
    "first_seen": "2026-10-25T11:00:07+00:00"
   },
   {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316939138",
-   "title": "Hallowen party,Mint bar 930 p.m",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316939138/",
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316939121",
+   "title": "Hallowen party, mint bar 930 p.m",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316939121/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Athens tech",
@@ -261,84 +313,6 @@
    "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
    "summary": "🎃👻 ATHENS HALLOWEEN PARTY – LET’S SEE WHO’S THE BEST! 🧛‍♂️🕸️ 🔥 Get your costumes ready because this Saturday, we're bringing Halloween vibes to Mint Bar, Monastiraki! 🧙‍♀️🧟 🏆 3 prizes for the 3 best costumes! Think you can win? Come and show us what you've got! 😈 🍻 Meet new people, make friends, enjoy great music, and spend a spooky night with an international crowd! 🌍🖤 📅 Saturday, 31 October ⏰ 9:30 PM 📍 Mint Bar, Monastiraki https://maps.app.goo.gl/u2JQdDjtT7oCNAtM9?g_st=ac 🎟️ FREE ENTRY! 👻 Come solo, bring your friends, or meet new ones here! No costume? No problem — just bring your good energy! 😉 🔥 Don't just watch the Halloween stories… BE PART OF THE NIGHT! See you there! 🥂🎃 Mamad Found…",
    "first_seen": "2026-10-24T20:55:21.729262+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-ellada-kai-kipros-xtizoun-koini-prooptiki-stin-ai",
-   "title": "Power of Innovation Summit 2026: Ελλάδα και Κύπρος χτίζουν κοινή προοπτική στην Τεχνητή Νοημοσύνη",
-   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-ellada-kai-kipros-xtizoun-koini-prooptiki-stin-ai/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο Δημήτρης Σκουρίδης, Chief Scientist της Κυπριακής Δημοκρατίας, ανέδειξε πώς οι υπολογιστικές υποδομές, η τεχνογνωσία και η πρόσβαση σε διεθνείς αγορές μπορούν να μετατραπούν σε κοινά επιχειρηματικά εγχειρήματα.",
-   "first_seen": "2026-10-24T19:00:50+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/fifa-o-infantino-gela-me-ta-senaria-paraitisis-to-deal-pou-prokalese-krisi-kai-i-maxi-gia-tin-proedria",
-   "title": "FIFA: Ο Ινφαντίνο γελά με τα σενάρια παραίτησης – Το deal που προκάλεσε κρίση και η μάχη για την προεδρία",
-   "link": "https://www.fortunegreece.com/article/fifa-o-infantino-gela-me-ta-senaria-paraitisis-to-deal-pou-prokalese-krisi-kai-i-maxi-gia-tin-proedria/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο Τζιάνι Ινφαντίνο απορρίπτει τα σενάρια αποχώρησης μετά το ναυάγιο του σχεδίου προσέλκυσης ιδιωτικών επενδυτών στα εμπορικά δικαιώματα της FIFA. Η στροφή της Ασιατικής Συνομοσπονδίας, οι αντιδράσεις της UEFA και οι ισορροπίες ενόψει των προεδρικών εκλογών του 2027.",
-   "first_seen": "2026-10-24T16:01:11.947308+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-apo-tin-idioktisia-stin-prosvasi-i-nea-oikonomia-ton-ipiresion",
-   "title": "Power of Innovation Summit 2026: Από την ιδιοκτησία στην πρόσβαση – Η νέα οικονομία των υπηρεσιών",
-   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-apo-tin-idioktisia-stin-prosvasi-i-nea-oikonomia-ton-ipiresion/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Από το leasing αυτοκινήτων έως το ηλεκτρονικό εμπόριο και τη διαχείριση ενέργειας, οι επιχειρήσεις αναζητούν νέα μοντέλα ανάπτυξης, με την τεχνολογία να αλλάζει τη σχέση τους με τους πελάτες.",
-   "first_seen": "2026-10-24T15:00:45+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-i-elliniki-efkairia-sti-diastimiki-oikonomia",
-   "title": "Power of Innovation Summit 2026: Η ελληνική ευκαιρία στη διαστημική οικονομία",
-   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-i-elliniki-efkairia-sti-diastimiki-oikonomia/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο Industrial AI Lead της Accenture συζήτησε με την Ιωάννα Θωμά, Senior Editor του Fortune Greece για τις εφαρμογές της δορυφορικής τεχνολογίας, τα όρια της πληροφορίας σε πραγματικό χρόνο και την ευκαιρία της Ελλάδας στη διαστημική οικονομία.",
-   "first_seen": "2026-10-24T11:10:03.657874+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/pierrakakis-vretanikes-ependiseis-53-dis-evro-stin-ellada-to-megalo-stoixima-ton-10-tris-tis-evropis",
-   "title": "Πιερρακάκης: Βρετανικές επενδύσεις 5,3 δισ. ευρώ στην Ελλάδα – Το μεγάλο στοίχημα των 10 τρισ. της Ευρώπης",
-   "link": "https://www.fortunegreece.com/article/pierrakakis-vretanikes-ependiseis-53-dis-evro-stin-ellada-to-megalo-stoixima-ton-10-tris-tis-evropis/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Στην κορυφή των ξένων επενδυτών στην Ελλάδα το Ηνωμένο Βασίλειο, σύμφωνα με τα στοιχεία που παρουσίασε ο υπουργός Εθνικής Οικονομίας και Οικονομικών. Οι ευκαιρίες σε ενέργεια, ναυτιλία και τεχνολογία, η άνοδος του κόστους δανεισμού και η πρόκληση της αξιοποίησης των ευρωπαϊκών αποταμιεύσεων.",
-   "first_seen": "2026-10-24T11:10:03.657874+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-to-stoixima-ton-12-dis-evro-gia-tis-ellinikes-startups-o-rolos-tis-ai-kai-ton-trapezon",
-   "title": "Power of Innovation Summit 2026: Το στοίχημα των 12 δισ. ευρώ για τις ελληνικές startups – Ο ρόλος της AI και των τραπεζών",
-   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-to-stoixima-ton-12-dis-evro-gia-tis-ellinikes-startups-o-rolos-tis-ai-kai-ton-trapezon/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Ρούλα Μπαχταλιά της Eurobank και ο Χρήστος Νικολούδης της Mantis Beyond συζήτησαν με τον Τάσο Ζάχο για το μέλλον της ελληνικής νεοφυούς επιχειρηματικότητας, τις νέες δυνατότητες χρηματοδότησης και τις προκλήσεις της επόμενης πενταετίας.",
-   "first_seen": "2026-10-24T11:00:30+00:00"
   },
   {
    "key": "url:https://meetup.com/practical-ai-thessaloniki-meetup-group/events/317091917",
@@ -471,19 +445,6 @@
    "first_seen": "2026-10-20T23:56:26.135135+00:00"
   },
   {
-   "key": "url:https://meetup.com/london-business-analytics-group/events/316775954",
-   "title": "How to Tell a Clear Story with Data",
-   "link": "https://www.meetup.com/london-business-analytics-group/events/316775954/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-28T20:00:00+02:00",
-   "location": "Online",
-   "summary": "Tom provides a framework that analysts can use to help structure their analytical findings into more of a story/coherent format so that it has a bigger impact. He will then also talk through a real-life example for each pillar of the framework. This is a short 20 minute talk followed by 5-10 minutes of Q&A. Tom is a Senior Commercial Analytics Manager with a background in turning data into commercially useful insight. He also speaks regularly through Toastmasters and is particularly interested in helping analysts communicate complex ideas more simply and effectively.",
-   "first_seen": "2026-10-17T15:40:47.276415+00:00"
-  },
-  {
    "key": "url:https://meetup.com/ministry-of-testing-athens/events/316944513",
    "title": "MoT Athens #19: Chaos Testing, Contract Testing & AI Agents",
    "link": "https://www.meetup.com/ministry-of-testing-athens/events/316944513/",
@@ -515,12 +476,25 @@
    "link": "https://www.meetup.com/agent-builders/events/315958151/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
    "starts": "2026-10-29T20:00:00+02:00",
    "location": "Online",
    "summary": "October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works along with guidance in prompting and getting the result you want without having to burn loads of tokens. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do * A sample project to build, so you leave with so…",
    "first_seen": "2026-10-13T16:59:07.932367+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863015",
+   "title": "Advanced Cloud Architecture & DevOps CICD Pipeline Process",
+   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863015/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-27T19:00:00+02:00",
+   "location": "Online",
+   "summary": "This advanced session examines enterprise-grade AI architecture and how pipelines securely move applications from code commit to production, including automated testing, artefact management, containerisation, security scanning, Kubernetes deployment, workload identity, observability, rollback, performance optimisation, and troubleshooting. Speaker: Imoh Etuk Watch live: https://www.youtube.com/watch?v=_Xw7ia6Eyd4 View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-2a159350-2fbf-45f2-89e3-d0d9172bf520",
+   "first_seen": "2026-10-13T06:51:25.576001+00:00"
   },
   {
    "key": "url:https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia",
@@ -562,19 +536,6 @@
    "first_seen": "2026-10-09T18:23:50.119653+00:00"
   },
   {
-   "key": "url:https://meetup.com/european-software-crafters/events/316894439",
-   "title": "/human-review - Tools & Guardrails for Agentic Engineers",
-   "link": "https://www.meetup.com/european-software-crafters/events/316894439/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-30T12:30:00+02:00",
-   "location": "Online",
-   "summary": "At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a \"Frustrated / Creative Users Follow-up Meeting\" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…",
-   "first_seen": "2026-10-09T10:40:19.336259+00:00"
-  },
-  {
    "key": "url:https://meetup.com/meetup-group-judpeflp/events/316655050",
    "title": "On-prem full-stack AI and vibe-coding panel discussion",
    "link": "https://www.meetup.com/meetup-group-judpeflp/events/316655050/",
@@ -598,6 +559,19 @@
    "starts": "2026-11-03T19:00:00+02:00",
    "location": "Impact Hub Athens, Karaiskaki 28 10554, Athens, Athens",
    "summary": "Join us for the **32nd edition** of the Angular Athens Meetup! Mark your calendars for **Tuesday, November 03th**. More details will be announced soon. 📅 **Date:** Tuesday, November 03, 2026 🕖 **Time:** 7:00 PM - 9:00 PM EET 📍 **Venue:** Impact Hub Athens, Karaiskaki 28, 10554 Athens",
+   "first_seen": "2026-10-08T10:58:00.575311+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/generative-ai-belgium/events/316287359",
+   "title": "Generative AI - Cost Of Being Wrong",
+   "link": "https://www.meetup.com/generative-ai-belgium/events/316287359/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-27T20:00:00+02:00",
+   "location": "Online",
+   "summary": "Hey Everyone! 👋 **Location:** \\- On\\-site: Faktion\\, Oudeleeuwenrui 39\\, 2000 Antwerpen \\- Online: TBA **Practicalities for the evening on Tuesday, October 27th:** \\- 18:00: Doors Open\\, snacks & drinks \\- 19:00: Speaker Talks \\- 20:30: Networking & Drinks **Transport:** * Arriving by car: Parking is available at **Q-Park Godefriduskaai**, just around the corner from Faktion. Please note that Faktion is located in **Antwerp’s Low Emission Zone (LEZ)**. * Arriving by train: From **Antwerp-Central Station, take bus 17 to Felixpakhuis**. The bus stops right in front of the Faktion offices. * Arriving by bike: Faktion is easily accessible by bike. **Note:** As this is an invite‑only event, you m…",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {

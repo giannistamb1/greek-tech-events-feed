@@ -6,8 +6,35 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 00:30:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 09:06:23 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>ΔΥΠΑ: 109 εργαστήρια συμβουλευτικής τον Νοέμβριο για αναζήτηση εργασίας και επιχειρηματικότητα</title>
+<link>https://www.insider.gr/tax-labour/430308/dypa-109-ergastiria-symboyleytikis-ton-noembrio-gia-anazitisi-ergasias-kai</link>
+<guid isPermaLink="false">url:https://insider.gr/tax-labour/430308/dypa-109-ergastiria-symboyleytikis-ton-noembrio-gia-anazitisi-ergasias-kai</guid>
+<pubDate>Tue, 27 Oct 2026 08:09:46 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η ΔΥΠΑ διοργανώνει τον Νοέμβριο 109 εργαστήρια ομαδικής συμβουλευτικής για πολίτες που αναζητούν εργ...&lt;/p&gt;</description>
+</item>
+<item>
+<title>100 δισ. για… να σας αφανίσουμε και ψίθυροι για νέα αλυσίδα καφέ που καβουρδίζει «χαρμάνια φοροδιαφυγής»</title>
+<link>https://www.naftemporiki.gr/paraskiniaka/2180649/100-dis-gia-na-sas-afanisoyme-kai-psithyroi-gia-nea-alysida-kafe-poy-kavoyrdizei-charmania-forodiafygis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=100-dis-gia-na-sas-afanisoyme-kai-psithyroi-gia-nea-alysida-kafe-poy-kavoyrdizei-charmania-forodiafygis</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/paraskiniaka/2180649/100-dis-gia-na-sas-afanisoyme-kai-psithyroi-gia-nea-alysida-kafe-poy-kavoyrdizei-charmania-forodiafygis</guid>
+<pubDate>Tue, 27 Oct 2026 07:39:00 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η Anthropic, που λέτε, ετοιμάζεται για τη μεγαλύτερη αρχική δημόσια εγγραφή όλων των εποχών και φροντίζει να προσφέρει στους επενδυτές και σε εμάς τους δημοσιογράφους, όλο το απαραίτητο υλικό: ζημιές… 100 δισ. για… να σας αφανίσουμε και ψίθυροι για νέα αλυσίδα καφέ που καβουρδίζει «χαρμάνια φοροδιαφυγής» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+</item>
+<item>
+<title>ΕΚΠΑ: Έως 30 Νοεμβρίου οι αιτήσεις για πρόγραμμα επιχειρηματικότητας</title>
+<link>https://www.businessdaily.gr/xristika/240298_ekpa-eos-30-noembrioy-oi-aitiseis-gia-programma-epiheirimatikotitas?utm_source=Feedelio&amp;utm_medium=news&amp;utm_campaign=ape&amp;utm_content=V_lab</link>
+<guid isPermaLink="false">url:https://businessdaily.gr/xristika/240298_ekpa-eos-30-noembrioy-oi-aitiseis-gia-programma-epiheirimatikotitas</guid>
+<pubDate>Tue, 27 Oct 2026 06:20:51 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Φοιτητές, ερευνητές και απόφοιτοι του ΕΚΠΑ μπορούν να μετατρέψουν καινοτόμες ιδέες σε επιχειρήσεις, με δωρεάν εκπαίδευση, mentoring και δικτύωση.&lt;/p&gt;</description>
+</item>
 <item>
 <title>Pizza Fan: Έρευνα για πιθανή εμπλοκή υπαλλήλων της ΑΑΔΕ – Στο μικροσκόπιο το λογισμικό της απάτης</title>
 <link>https://www.fortunegreece.com/article/pizza-fan-erevna-gia-pithani-emploki-ipallilon-tis-aade-sto-mikroskopio-to-logismiko-tis-apatis/</link>
@@ -169,60 +196,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Στελέχη των Dell Technologies, Παπαστράτος και Eurobank ανέλυσαν στο The Power of Innovation 2026 τις προκλήσεις της υιοθέτησης της AI, τη σημασία της εταιρικής κουλτούρας και τον ρόλο των ανθρώπων στον ψηφιακό μετασχηματισμό.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Power of Innovation Summit 2026: Ελλάδα και Κύπρος χτίζουν κοινή προοπτική στην Τεχνητή Νοημοσύνη</title>
-<link>https://www.fortunegreece.com/article/power-of-innovation-summit-2026-ellada-kai-kipros-xtizoun-koini-prooptiki-stin-ai/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/power-of-innovation-summit-2026-ellada-kai-kipros-xtizoun-koini-prooptiki-stin-ai</guid>
-<pubDate>Sat, 24 Oct 2026 19:00:50 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο Δημήτρης Σκουρίδης, Chief Scientist της Κυπριακής Δημοκρατίας, ανέδειξε πώς οι υπολογιστικές υποδομές, η τεχνογνωσία και η πρόσβαση σε διεθνείς αγορές μπορούν να μετατραπούν σε κοινά επιχειρηματικά εγχειρήματα.&lt;/p&gt;</description>
-</item>
-<item>
-<title>FIFA: Ο Ινφαντίνο γελά με τα σενάρια παραίτησης – Το deal που προκάλεσε κρίση και η μάχη για την προεδρία</title>
-<link>https://www.fortunegreece.com/article/fifa-o-infantino-gela-me-ta-senaria-paraitisis-to-deal-pou-prokalese-krisi-kai-i-maxi-gia-tin-proedria/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/fifa-o-infantino-gela-me-ta-senaria-paraitisis-to-deal-pou-prokalese-krisi-kai-i-maxi-gia-tin-proedria</guid>
-<pubDate>Sat, 24 Oct 2026 16:01:11 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο Τζιάνι Ινφαντίνο απορρίπτει τα σενάρια αποχώρησης μετά το ναυάγιο του σχεδίου προσέλκυσης ιδιωτικών επενδυτών στα εμπορικά δικαιώματα της FIFA. Η στροφή της Ασιατικής Συνομοσπονδίας, οι αντιδράσεις της UEFA και οι ισορροπίες ενόψει των προεδρικών εκλογών του 2027.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Power of Innovation Summit 2026: Από την ιδιοκτησία στην πρόσβαση – Η νέα οικονομία των υπηρεσιών</title>
-<link>https://www.fortunegreece.com/article/power-of-innovation-summit-2026-apo-tin-idioktisia-stin-prosvasi-i-nea-oikonomia-ton-ipiresion/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/power-of-innovation-summit-2026-apo-tin-idioktisia-stin-prosvasi-i-nea-oikonomia-ton-ipiresion</guid>
-<pubDate>Sat, 24 Oct 2026 15:00:45 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Από το leasing αυτοκινήτων έως το ηλεκτρονικό εμπόριο και τη διαχείριση ενέργειας, οι επιχειρήσεις αναζητούν νέα μοντέλα ανάπτυξης, με την τεχνολογία να αλλάζει τη σχέση τους με τους πελάτες.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Power of Innovation Summit 2026: Η ελληνική ευκαιρία στη διαστημική οικονομία</title>
-<link>https://www.fortunegreece.com/article/power-of-innovation-summit-2026-i-elliniki-efkairia-sti-diastimiki-oikonomia/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/power-of-innovation-summit-2026-i-elliniki-efkairia-sti-diastimiki-oikonomia</guid>
-<pubDate>Sat, 24 Oct 2026 11:10:03 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο Industrial AI Lead της Accenture συζήτησε με την Ιωάννα Θωμά, Senior Editor του Fortune Greece για τις εφαρμογές της δορυφορικής τεχνολογίας, τα όρια της πληροφορίας σε πραγματικό χρόνο και την ευκαιρία της Ελλάδας στη διαστημική οικονομία.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Πιερρακάκης: Βρετανικές επενδύσεις 5,3 δισ. ευρώ στην Ελλάδα – Το μεγάλο στοίχημα των 10 τρισ. της Ευρώπης</title>
-<link>https://www.fortunegreece.com/article/pierrakakis-vretanikes-ependiseis-53-dis-evro-stin-ellada-to-megalo-stoixima-ton-10-tris-tis-evropis/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/pierrakakis-vretanikes-ependiseis-53-dis-evro-stin-ellada-to-megalo-stoixima-ton-10-tris-tis-evropis</guid>
-<pubDate>Sat, 24 Oct 2026 11:10:03 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Στην κορυφή των ξένων επενδυτών στην Ελλάδα το Ηνωμένο Βασίλειο, σύμφωνα με τα στοιχεία που παρουσίασε ο υπουργός Εθνικής Οικονομίας και Οικονομικών. Οι ευκαιρίες σε ενέργεια, ναυτιλία και τεχνολογία, η άνοδος του κόστους δανεισμού και η πρόκληση της αξιοποίησης των ευρωπαϊκών αποταμιεύσεων.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Power of Innovation Summit 2026: Το στοίχημα των 12 δισ. ευρώ για τις ελληνικές startups – Ο ρόλος της AI και των τραπεζών</title>
-<link>https://www.fortunegreece.com/article/power-of-innovation-summit-2026-to-stoixima-ton-12-dis-evro-gia-tis-ellinikes-startups-o-rolos-tis-ai-kai-ton-trapezon/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/power-of-innovation-summit-2026-to-stoixima-ton-12-dis-evro-gia-tis-ellinikes-startups-o-rolos-tis-ai-kai-ton-trapezon</guid>
-<pubDate>Sat, 24 Oct 2026 11:00:30 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η Ρούλα Μπαχταλιά της Eurobank και ο Χρήστος Νικολούδης της Mantis Beyond συζήτησαν με τον Τάσο Ζάχο για το μέλλον της ελληνικής νεοφυούς επιχειρηματικότητας, τις νέες δυνατότητες χρηματοδότησης και τις προκλήσεις της επόμενης πενταετίας.&lt;/p&gt;</description>
 </item>
 <item>
 <title>Στατιστικά Phishing 2026: Η AI και οι εταιρικές ειδοποιήσεις αποτελούν τα πιο αποτελεσματικά δολώματα</title>
