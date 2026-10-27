@@ -1,6 +1,6 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-26T20:33:37.688388+00:00",
+ "built": "2026-10-27T00:30:57.654384+00:00",
  "items": [
   {
    "key": "url:https://fortunegreece.com/article/pizza-fan-erevna-gia-pithani-emploki-ipallilon-tis-aade-sto-mikroskopio-to-logismiko-tis-apatis",
@@ -248,19 +248,6 @@
    "location": "",
    "summary": "Στελέχη των Dell Technologies, Παπαστράτος και Eurobank ανέλυσαν στο The Power of Innovation 2026 τις προκλήσεις της υιοθέτησης της AI, τη σημασία της εταιρικής κουλτούρας και τον ρόλο των ανθρώπων στον ψηφιακό μετασχηματισμό.",
    "first_seen": "2026-10-25T11:00:07+00:00"
-  },
-  {
-   "key": "url:https://techblog.gr/howto/xmp-kai-expo-poio-profil-tis-ram-na-dialexeis-sto-bios",
-   "title": "XMP και EXPO: Ποιο προφίλ της RAM να διαλέξεις στο BIOS",
-   "link": "https://techblog.gr/howto/xmp-kai-expo-poio-profil-tis-ram-na-dialexeis-sto-bios/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techblog",
-   "source_url": "https://techblog.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η RAM έχει πολλά προφίλ XMP/EXPO με άλλη συχνότητα, τάση και χρονισμούς. Ποιο να διαλέξεις στο BIOS και γιατί τα 6.400 MT/s μπορεί να είναι πιο αργά. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( XMP και EXPO: Ποιο προφίλ της RAM να διαλέξεις στο BIOS )",
-   "first_seen": "2026-10-25T07:17:32+00:00"
   },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316939138",
