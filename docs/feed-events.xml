@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Tue, 27 Oct 2026 09:06:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 15:24:15 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[27 Oct] 🦄 Why a Consumer Unicorn bet on B2B, and How We Built it at Velocity?</title>
+<link>https://www.meetup.com/productpeople/events/316399858/</link>
+<guid isPermaLink="false">url:https://meetup.com/productpeople/events/316399858</guid>
+<pubDate>Tue, 27 Oct 2026 15:24:15 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;🚀 Airalo is widely known as a consumer eSIM unicorn. What’s less visible is the second engine behind it, arguably the more interesting part of the story. I’ll walk through how we built it, how we adapted the way PMs work to make it happen, and what it means to truly own an entire space. **⏰ Schedule (CET)** 17:00 - 17:05 Intros 17:05 - 18:00 Presentation and Q&amp;amp;A **✨ About the Organizers** We're on a mission to help companies discover and deliver great products faster. We do this by empowering our community to share knowledge generously. Through our consulting engagements, we do all the hands-on and unglamorous work of a Product Manager on an Interim basis (3-12 months). We onboard fast, alig…&lt;/p&gt;</description>
+</item>
 <item>
 <title>[13 Nov] Epic Tech Talks #3: Coding with Angular</title>
 <link>https://www.meetup.com/epic-studios-tech-talks/events/317142578/</link>
@@ -61,15 +70,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Tην **Πέμπτη 29 Οκτωβρίου**, στις 19:00, στον χώρο του **OK!Thess**, λίγες εβδομάδες πριν το Voxxed Days Thessaloniki 2026, οι τεχνολογικές κοινότητες της πόλης συναντιούνται σε ένα κοινό meetup. Στόχος μας να γνωριστούμε με ανθρώπους από διαφορετικούς ρόλους και να μπερδέψουμε δημιουργικά τις διαφορετικές οπτικές στα θέματα τεχνολογίας και δημιουργίας προϊόντων και εργαλείων. Αυτό το 2ωρο meetup θα περιλαμβάνει: * Battle των κοινοτήτων: σύντομα, διασκεδαστικά “debates” * Tech Trivia League: μικτές ομάδες από όλες τις κοινότητες παίζουν pub quiz με ερωτήσεις από όλους τους ρόλους και τα διαφορετικά stacks, με ψηφοφορία και σχόλια * Swag και εισιτήρια για το Voxxed Days Thessaloniki * Pizza, …&lt;/p&gt;</description>
-</item>
-<item>
-<title>[06 Nov] TTN: AI Fundamentals</title>
-<link>https://www.meetup.com/future-skills-community/events/316567427/</link>
-<guid isPermaLink="false">url:https://meetup.com/future-skills-community/events/316567427</guid>
-<pubDate>Fri, 23 Oct 2026 11:46:07 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 06 November 2026, 12:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** This 4-hour beginner-friendly workshop will introduce you to the fundamentals of AI, including how AI systems work, how machine learning models are created, and how AI is being used across industries today. Through interactive learning and practical examples, you'll explore the latest AI developments, discover how to choose the right AI tools for different tasks, and learn how to use AI responsibly. **Participants who attend the full session will receive a certificate of completion.** **What You'll Learn** * Latest AI developments and trends * How AI systems and machine learning models work * Choosing the right AI tools and models * Responsible and ethical use of AI …&lt;/p&gt;</description>
 </item>
 <item>
 <title>[29 Oct] 🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥</title>
@@ -144,15 +144,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works along with guidance in prompting and getting the result you want without having to burn loads of tokens. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do * A sample project to build, so you leave with so…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[27 Oct] Advanced Cloud Architecture &amp; DevOps CICD Pipeline Process</title>
-<link>https://www.meetup.com/malta-microsoft-ai-user-group/events/316863015/</link>
-<guid isPermaLink="false">url:https://meetup.com/malta-microsoft-ai-user-group/events/316863015</guid>
-<pubDate>Tue, 13 Oct 2026 06:51:25 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 27 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;This advanced session examines enterprise-grade AI architecture and how pipelines securely move applications from code commit to production, including automated testing, artefact management, containerisation, security scanning, Kubernetes deployment, workload identity, observability, rollback, performance optimisation, and troubleshooting. Speaker: Imoh Etuk Watch live: https://www.youtube.com/watch?v=_Xw7ia6Eyd4 View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-2a159350-2fbf-45f2-89e3-d0d9172bf520&lt;/p&gt;</description>
-</item>
-<item>
 <title>[27 Oct] Working with AI to Build Dashboards People Understand | Marjolein Opsteegh</title>
 <link>https://www.meetup.com/d-c_powerbi/events/316496738/</link>
 <guid isPermaLink="false">url:https://meetup.com/d-c_powerbi/events/316496738</guid>
@@ -169,6 +160,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 08 November 2026, 17:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[30 Oct] /human-review - Tools &amp; Guardrails for Agentic Engineers</title>
+<link>https://www.meetup.com/european-software-crafters/events/316894439/</link>
+<guid isPermaLink="false">url:https://meetup.com/european-software-crafters/events/316894439</guid>
+<pubDate>Fri, 09 Oct 2026 10:40:19 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 30 October 2026, 12:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a "Frustrated / Creative Users Follow-up Meeting" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[27 Oct] On-prem full-stack AI and vibe-coding panel discussion</title>
