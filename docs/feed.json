@@ -1,19 +1,97 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-27T15:24:15.946927+00:00",
+ "built": "2026-10-27T22:20:30.182968+00:00",
  "items": [
   {
-   "key": "url:https://meetup.com/productpeople/events/316399858",
-   "title": "🦄 Why a Consumer Unicorn bet on B2B, and How We Built it at Velocity?",
-   "link": "https://www.meetup.com/productpeople/events/316399858/",
+   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863048",
+   "title": "Capstone Project: Contoso Recruitment Assistant",
+   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863048/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-27T18:00:00+02:00",
+   "starts": "2026-10-28T19:00:00+02:00",
    "location": "Online",
-   "summary": "🚀 Airalo is widely known as a consumer eSIM unicorn. What’s less visible is the second engine behind it, arguably the more interesting part of the story. I’ll walk through how we built it, how we adapted the way PMs work to make it happen, and what it means to truly own an entire space. **⏰ Schedule (CET)** 17:00 - 17:05 Intros 17:05 - 18:00 Presentation and Q&A **✨ About the Organizers** We're on a mission to help companies discover and deliver great products faster. We do this by empowering our community to share knowledge generously. Through our consulting engagements, we do all the hands-on and unglamorous work of a Product Manager on an Interim basis (3-12 months). We onboard fast, alig…",
-   "first_seen": "2026-10-27T15:24:15.946927+00:00"
+   "summary": "Design an AI-assisted recruitment solution that structures candidate evidence, supports recruiter analysis and interview preparation, and keeps all hiring decisions under human control. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-contoso-recruitment-assistant",
+   "first_seen": "2026-10-27T22:20:30.182968+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/finance/markets/2181157/wall-street-anodos-kai-gia-toys-treis-vasikoys-deiktes-me-odigo-tis-metoches-ton-mikrotsip",
+   "title": "Wall Street: Άνοδος και για τους τρεις βασικούς δείκτες με «οδηγό» τις μετοχές των μικροτσίπ",
+   "link": "https://www.naftemporiki.gr/finance/markets/2181157/wall-street-anodos-kai-gia-toys-treis-vasikoys-deiktes-me-odigo-tis-metoches-ton-mikrotsip/?utm_source=rss&utm_medium=rss&utm_campaign=wall-street-anodos-kai-gia-toys-treis-vasikoys-deiktes-me-odigo-tis-metoches-ton-mikrotsip",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Με θετικό πρόσημο έκλεισαν και οι τρεις βασικοί χρηματιστηριακοί δείκτες στη Wall Street στη σημερινή συνεδρίαση, καθώς ο ενθουσιασμός γύρω από τις εταιρείες κατασκευής μικροτσίπ ώθησε τους επενδυτές να στραφούν… Wall Street: Άνοδος και για τους τρεις βασικούς δείκτες με «οδηγό» τις μετοχές των μικροτσίπ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-10-27T21:29:01+00:00"
+  },
+  {
+   "key": "url:https://techgear.gr/opera-web-ai-to-neo-protypo-poy-fernei-tin-techniti-noimosyni-topika-ston-browser-51101",
+   "title": "Opera Web AI: Το νέο πρότυπο που φέρνει την Τεχνητή Νοημοσύνη τοπικά στον browser",
+   "link": "https://www.techgear.gr/opera-web-ai-to-neo-protypo-poy-fernei-tin-techniti-noimosyni-topika-ston-browser-51101",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techgear",
+   "source_url": "https://www.techgear.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Σύνοψη Η Opera παρουσίασε επίσημα το Web AI, ένα νέο πρότυπο που επιτρέπει την εκτέλεση μοντέλων Τεχνητής Νοημοσύνης τοπικά, απευθείας μέσα από τον ...",
+   "first_seen": "2026-10-27T19:21:00+00:00"
+  },
+  {
+   "key": "url:https://techgear.gr/genie-4-to-neo-ai-montelo-tis-google-deepmind-ftiachnei-realistikoys-kosmoys-se-pragmatiko-chrono-51099",
+   "title": "Genie 4: Το νέο AI μοντέλο της Google Deepmind φτιάχνει ρεαλιστικούς κόσμους σε πραγματικό χρόνο!",
+   "link": "https://www.techgear.gr/genie-4-to-neo-ai-montelo-tis-google-deepmind-ftiachnei-realistikoys-kosmoys-se-pragmatiko-chrono-51099",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techgear",
+   "source_url": "https://www.techgear.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Σύνοψη Η Google DeepMind παρουσίασε επίσημα το Genie 4, το νεότερο μοντέλο παραγωγής διαδραστικών κόσμων σε πραγματικό χρόνο, το οποίο ενσωματώνει ...",
+   "first_seen": "2026-10-27T19:04:00+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/apo-tin-idea-sti-startup-to-dorean-programma-tou-ekpa-pou-anoigei-ton-dromo-stin-epixeirimatikotita",
+   "title": "Από την ιδέα στη startup: Το δωρεάν πρόγραμμα του ΕΚΠΑ που ανοίγει τον δρόμο στην επιχειρηματικότητα",
+   "link": "https://www.fortunegreece.com/article/apo-tin-idea-sti-startup-to-dorean-programma-tou-ekpa-pou-anoigei-ton-dromo-stin-epixeirimatikotita/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Εκπαίδευση, mentoring και δικτύωση με επιχειρήσεις προσφέρει ο 11ος κύκλος Επιχειρηματικής Επιτάχυνσης του ΕΚΠΑ. Ποιοι μπορούν να συμμετάσχουν και πώς θα υποβάλουν αίτηση έως τις 30 Νοεμβρίου.",
+   "first_seen": "2026-10-27T19:01:15+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/eidiseis/430412/o-tramp-epimenei-gia-tin-katargisi-toy-oroy-tehniti-noimosyni",
+   "title": "Ο Τραμπ επιμένει για την κατάργηση του όρου «τεχνητή νοημοσύνη»",
+   "link": "https://www.insider.gr/eidiseis/430412/o-tramp-epimenei-gia-tin-katargisi-toy-oroy-tehniti-noimosyni",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "«Πολύ σύντομα, θα απαγορεύσουμε επισήμως τον όρο AI/Τεχνητή Νοημοσύνη στα σχετικά έγγραφα και σε όλα...",
+   "first_seen": "2026-10-27T17:01:37+00:00"
+  },
+  {
+   "key": "url:https://businessvoice.gr/top-stories/995199/grecotel-nea-epochi-gia-to-xenodocheio-filoxenia-kalamata",
+   "title": "GRECOTEL: Νέα εποχή για το ξενοδοχείο Filoxenia Καλαμάτα",
+   "link": "https://businessvoice.gr/top-stories/995199/grecotel-nea-epochi-gia-to-xenodocheio-filoxenia-kalamata/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "EMEA.gr",
+   "source_url": "https://www.emea.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η εκδήλωση έλαβε χώρα στο ολοκαίνουργιο Olive Club, παρουσία εκπροσώπων της περιφερειακής και τοπικής αυτοδιοίκησης, προσωπικοτήτων από τον ακαδημαϊκό χώρο, προσκεκλημένων από τη Μεσσηνία και την υπόλοιπη Ελλάδα, καθώς και του ιδρυτή της GRECOTEL, Νίκου Δασκαλαντωνάκη",
+   "first_seen": "2026-10-27T16:30:36+00:00"
   },
   {
    "key": "url:https://startupper.gr/news/283006/eleftheroste-choro-kai-apogeioste-tin-poiotita-ton-fotografion-me-4-rythmiseis-sto-viber",
@@ -42,32 +120,6 @@
    "first_seen": "2026-10-27T14:37:58+00:00"
   },
   {
-   "key": "url:https://businessvoice.gr/epicheiriseis/995154/15o-ecommerce-digital-marketing-world-2026-to-the-growth-playbook-tis-psifiakis-agoras-sto-divani-caravel",
-   "title": "15ο eCommerce & Digital Marketing World 2026: Το «The Growth Playbook» της ψηφιακής αγοράς στο Divani Caravel",
-   "link": "https://businessvoice.gr/epicheiriseis/995154/15o-ecommerce-digital-marketing-world-2026-to-the-growth-playbook-tis-psifiakis-agoras-sto-divani-caravel/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Με 2+1 παράλληλα συνέδρια και επίκεντρο το Retail Tech, την Τεχνητή Νοημοσύνη και το ηλεκτρονικό εμπόριο, η κορυφαία διοργάνωση ενώνει ολόκληρο το εμπορικό οικοσύστημα στις 4 Νοεμβρίου.",
-   "first_seen": "2026-10-27T13:29:46+00:00"
-  },
-  {
-   "key": "url:https://businessvoice.gr/epicheiriseis/995135/omilos-eunice-to-euniflexvpp-epilechthike-apo-tin-evropaiki-epitropi-gia-proetoimasia-symfonias-chrimatodotisis",
-   "title": "Όμιλος Eunice: Το EuniFlexVPP επιλέχθηκε από την Ευρωπαϊκή Επιτροπή για προετοιμασία συμφωνίας χρηματοδότησης",
-   "link": "https://businessvoice.gr/epicheiriseis/995135/omilos-eunice-to-euniflexvpp-epilechthike-apo-tin-evropaiki-epitropi-gia-proetoimasia-symfonias-chrimatodotisis/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "77 έργα επιλέχθηκαν από 358 αιτήσεις στην πρόσκληση IF25 για τεχνολογίες μηδενικών καθαρών εκπομπών",
-   "first_seen": "2026-10-27T13:09:54+00:00"
-  },
-  {
    "key": "url:https://startupper.gr/focus/282952/pos-i-helsing-borei-na-analavei-tin-aeramyna-tis-evropis",
    "title": "Πώς η Helsing μπορεί να αναλάβει την αεράμυνα της Ευρώπης",
    "link": "https://startupper.gr/focus/282952/pos-i-helsing-borei-na-analavei-tin-aeramyna-tis-evropis/",
@@ -79,19 +131,6 @@
    "location": "",
    "summary": "Η γερμανική defencetech Startup Helsing παρουσίασε στις 26 Οκτωβρίου το Contra, ένα σύστημα αεράμυνας που βασίζεται σε τεχνητή νοημοσύνη και συνοδεύεται από δύο νέους πυραύλους, τον AD-1 Inferno και τον AD-2 Ambush. Η εταιρεία το παρουσιάζει ως λύση για μαζικές επιθέσεις με drones και πυραύλους, όμως το ερώτημα είναι αν μπορεί πράγματι να αποκτήσει κεντρικό […] The post Πώς η Helsing μπορεί να αναλάβει την αεράμυνα της Ευρώπης appeared first on STARTUPPER .",
    "first_seen": "2026-10-27T12:32:20+00:00"
-  },
-  {
-   "key": "url:https://businessvoice.gr/digital/995103/i-elliniki-ai-startup-pou-fernei-tin-techniti-noimosyni-stin-kathimerinotita-tou-agroti",
-   "title": "Trakterás: Η ελληνική startup που φέρνει την AI στην καθημερινότητα του αγρότη",
-   "link": "https://businessvoice.gr/digital/995103/i-elliniki-ai-startup-pou-fernei-tin-techniti-noimosyni-stin-kathimerinotita-tou-agroti/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Με φυσική φωνή, απλή χρήση και σχεδιασμό που ξεκινά από το χωράφι, ο Trakterás φιλοδοξεί να μετατρέψει την καθημερινή πληροφορία του παραγωγού σε οργάνωση, ιστορικό και καλύτερες αποφάσεις. Η ελληνική AgTech startup ξεκίνησε από ένα πραγματικό πρόβλημα και μέσα στον πρώτο μήνα λειτουργίας της ξεπέρασε τις 1.600 εγγραφές",
-   "first_seen": "2026-10-27T12:30:42+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/i-eurobank-ependiei-stin-igesia-tou-mellontos-se-sinergasia-me-to-insead",
@@ -120,19 +159,6 @@
    "first_seen": "2026-10-27T11:05:23+00:00"
   },
   {
-   "key": "url:https://startupper.gr/news/282915/apo-ta-163-dis-esoda-stis-zimies-rekor-i-anthropic-anoigei-ta-chartia-tis-gia-ton-nasdaq",
-   "title": "Από τα $16,3 δισ. έσοδα στις ζημιές-ρεκόρ: Η Anthropic ανοίγει τα χαρτιά της για τον Nasdaq",
-   "link": "https://startupper.gr/news/282915/apo-ta-163-dis-esoda-stis-zimies-rekor-i-anthropic-anoigei-ta-chartia-tis-gia-ton-nasdaq/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η δημιουργός του Claude ανοίγει τον δρόμο για τη μεγαλύτερη δημόσια εγγραφή στην ιστορία της Generative AI με σύμβολο «ANT» και αναδόχους τις Goldman Sachs και Morgan Stanley The post Από τα $16,3 δισ. έσοδα στις ζημιές-ρεκόρ: Η Anthropic ανοίγει τα χαρτιά της για τον Nasdaq appeared first on STARTUPPER .",
-   "first_seen": "2026-10-27T11:01:12+00:00"
-  },
-  {
    "key": "url:https://techgear.gr/technologia-toy-mit-dinei-aisthisi-afis-sta-antikeimena-meso-3d-ektyposis-51085",
    "title": "Τεχνολογία του MIT δίνει αίσθηση αφής στα αντικείμενα μέσω 3D εκτύπωσης!",
    "link": "https://www.techgear.gr/technologia-toy-mit-dinei-aisthisi-afis-sta-antikeimena-meso-3d-ektyposis-51085",
@@ -144,32 +170,6 @@
    "location": "",
    "summary": "Σύνοψη Ερευνητές του εργαστηρίου CSAIL του MIT ανέπτυξαν το λογισμικό X-Hinges, το οποίο επιτρέπει τον σχεδιασμό και την τρισδιάστατη εκτύπωση ...",
    "first_seen": "2026-10-27T10:55:00+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/news/282904/i-elliniki-ai-startup-pou-fernei-tin-techniti-noimosyni-stin-kathimerinotita-tou-agroti",
-   "title": "Η ελληνική AI startup που φέρνει την τεχνητή νοημοσύνη στην καθημερινότητα του αγρότη",
-   "link": "https://startupper.gr/news/282904/i-elliniki-ai-startup-pou-fernei-tin-techniti-noimosyni-stin-kathimerinotita-tou-agroti/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Με φυσική φωνή, απλή χρήση και σχεδιασμό που ξεκινά από το χωράφι, ο Trakterás φιλοδοξεί να μετατρέψει την καθημερινή πληροφορία του παραγωγού σε οργάνωση, ιστορικό και καλύτερες αποφάσεις. Η ελληνική AgTech startup ξεκίνησε από ένα πραγματικό πρόβλημα και μέσα στον πρώτο μήνα λειτουργίας της ξεπέρασε τις 1.600 εγγραφές The post Η ελληνική AI startup που φέρνει την τεχνητή νοημοσύνη στην καθημερινότητα του αγρότη appeared first on STARTUPPER .",
-   "first_seen": "2026-10-27T10:40:35+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/mitroo-anaklitheison-praxeon-gov-gr",
-   "title": "Gov.gr: Βάζει τέλος στις ανακριβείς υπεύθυνες δηλώσεις με τη νέα πλατφόρμα",
-   "link": "https://techmaniacs.gr/mitroo-anaklitheison-praxeon-gov-gr/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Σε πλήρη παραγωγική λειτουργία τέθηκε το νέο Μητρώο Ανακληθεισών Διοικητικών Πράξεων, εισάγοντας έναν κεντρικό και αυτοματοποιημένο μηχανισμό ελέγχου για τις υπεύθυνες δηλώσεις που υποβάλλονται σε αντικατάσταση δικαιολογητικών. Μέσω της ενιαίας ψηφιακής πύλης gov.gr, πολίτες και επιχειρήσεις μπορούν πλέον να ενημερώνονται άμεσα για τυχόν εγγραφές που τους αφορούν, ενώ οι δημόσιες υπηρεσίες αποκτούν ένα ενιαίο εργαλείο […] The post Gov.gr: Βάζει τέλος στις ανακριβείς υπεύθυνες δηλώσεις με τη νέα πλατφόρμα appeared first on Techmaniacs .",
-   "first_seen": "2026-10-27T10:12:27+00:00"
   },
   {
    "key": "url:https://ictplus.gr/dypa-109-ergastiria-symvouleftikis-ton-noemvrio-gia-anazitisi-ergasias-kai-epicheirimatikotita",
@@ -458,6 +458,19 @@
    "first_seen": "2026-10-23T11:46:07.963908+00:00"
   },
   {
+   "key": "url:https://meetup.com/future-skills-community/events/316567427",
+   "title": "TTN: AI Fundamentals",
+   "link": "https://www.meetup.com/future-skills-community/events/316567427/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-06T12:00:00+02:00",
+   "location": "Online",
+   "summary": "**About this workshop:** This 4-hour beginner-friendly workshop will introduce you to the fundamentals of AI, including how AI systems work, how machine learning models are created, and how AI is being used across industries today. Through interactive learning and practical examples, you'll explore the latest AI developments, discover how to choose the right AI tools for different tasks, and learn how to use AI responsibly. **Participants who attend the full session will receive a certificate of completion.** **What You'll Learn** * Latest AI developments and trends * How AI systems and machine learning models work * Choosing the right AI tools and models * Responsible and ethical use of AI …",
+   "first_seen": "2026-10-23T11:46:07.963908+00:00"
+  },
+  {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316914315",
    "title": "🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥",
    "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316914315/",
@@ -502,12 +515,25 @@
    "link": "https://www.meetup.com/sgi-superwomen-in-tech/events/316665463/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-10-28T14:00:00+02:00",
    "location": "Online",
    "summary": "*Welcome back to another session with SuperWomen in Tech! We're excited to be joined by* ***[Deborah Bennun](https://www.linkedin.com/in/deborahbennun/)*** *to discuss the topic on everyone's minds: AI.* AI is changing work at extraordinary speed. We are constantly being told which jobs will disappear, which new technologies we need to master and which “future skills” everyone supposedly needs to acquire. But there is a more useful question: **As AI becomes capable of doing more of the work, what will continue to make you valuable?** In this interactive session, Deborah will explore how AI is changing the balance between **execution and human judgement** and introduce a practical method for …",
    "first_seen": "2026-10-21T21:47:04.719778+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863053",
+   "title": "Capstone Project: MMAUG High School Secure Login Portal",
+   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863053/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-29T19:00:00+02:00",
+   "location": "Online",
+   "summary": "Create a secure school portal with strong authentication, server-side role-based access, protected APIs, account administration, audit history and repeatable DevSecOps delivery. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-high-school-secure-login-portal",
+   "first_seen": "2026-10-21T11:57:49.025366+00:00"
   },
   {
    "key": "url:https://meetup.com/cloud-native-muc/events/316851781",
@@ -521,6 +547,19 @@
    "location": "Online",
    "summary": "AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …",
    "first_seen": "2026-10-20T23:56:26.135135+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/london-business-analytics-group/events/316775954",
+   "title": "How to Tell a Clear Story with Data",
+   "link": "https://www.meetup.com/london-business-analytics-group/events/316775954/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-28T20:00:00+02:00",
+   "location": "Online",
+   "summary": "Tom provides a framework that analysts can use to help structure their analytical findings into more of a story/coherent format so that it has a bigger impact. He will then also talk through a real-life example for each pillar of the framework. This is a short 20 minute talk followed by 5-10 minutes of Q&A. Tom is a Senior Commercial Analytics Manager with a background in turning data into commercially useful insight. He also speaks regularly through Toastmasters and is particularly interested in helping analysts communicate complex ideas more simply and effectively.",
+   "first_seen": "2026-10-17T15:40:47.276415+00:00"
   },
   {
    "key": "url:https://meetup.com/ministry-of-testing-athens/events/316944513",
@@ -554,8 +593,8 @@
    "link": "https://www.meetup.com/agent-builders/events/315958151/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-10-29T20:00:00+02:00",
    "location": "Online",
    "summary": "October's build is OpenAI's Codex, one of the leading AI coding agents. If you've heard people talk about AI writing code for them and wondered what that actually looks like in practice, this is your chance to try it yourself. No coding experience or background needed, just you and your laptop. We'll give you a sample project and 90 minutes of hands-on time to see how Codex works along with guidance in prompting and getting the result you want without having to burn loads of tokens. What you'll get from this session: * A proper hands-on go with one of the most talked-about AI tools around * A real feel for what these agents can (and can't) do * A sample project to build, so you leave with so…",
@@ -573,19 +612,6 @@
    "location": "",
    "summary": "Νέο πρόγραμμα οικονομικής αρωγής έως €15.000 και δωρεάν υπηρεσιών επιχειρηματικής ανάπτυξης Υποβολή αιτήσεων: 1η Νοεμβρίου 2026 έως 31 Ιανουαρίου 2027",
    "first_seen": "2026-10-12T13:21:09+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/d-c_powerbi/events/316496738",
-   "title": "Working with AI to Build Dashboards People Understand | Marjolein Opsteegh",
-   "link": "https://www.meetup.com/d-c_powerbi/events/316496738/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-27T20:00:00+02:00",
-   "location": "Online",
-   "summary": "AI can help us build dashboards faster than ever before. But faster does not automatically mean better. In this session, Marjolein Opsteegh shares practical examples of how she works together with AI while designing Power BI dashboards. You'll see where AI can save time, generate ideas, and challenge your thinking, but also where human judgment remains essential. The focus is not on writing DAX or creating visuals more quickly. It is about building dashboards that people can actually understand, interpret, and use to make decisions. Through real-world examples, you'll learn how AI can help improve report structure, navigation, storytelling, accessibility, and overall user experience. Whether…",
-   "first_seen": "2026-10-12T10:59:02.244997+00:00"
   },
   {
    "key": "url:https://meetup.com/aws-user-group-athens/events/316227206",
@@ -612,45 +638,6 @@
    "location": "Online",
    "summary": "At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a \"Frustrated / Creative Users Follow-up Meeting\" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…",
    "first_seen": "2026-10-09T10:40:19.336259+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/meetup-group-judpeflp/events/316655050",
-   "title": "On-prem full-stack AI and vibe-coding panel discussion",
-   "link": "https://www.meetup.com/meetup-group-judpeflp/events/316655050/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-27T19:00:00+02:00",
-   "location": "Online",
-   "summary": "## Welcome to the Seventh BDEN Meetup! AI is moving fast, and developers are right in the middle of it. Some are already experimenting with AI-assisted coding, agents, MCP servers, and local models. Others are still trying to understand what all these new concepts really mean and where to start. This meetup is designed for both. For our seventh Belgian Developer Experience Network meetup, we will focus on what developers are facing today: Which struggles are we facing both in AI as in “regular” software development. As always, expect more than slideware. We will have explanations, demos, real-world discussion, and enough space for questions and networking. Mark your calendars for the 27th of…",
-   "first_seen": "2026-10-09T01:15:22.264976+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/angular-athens/events/312910489",
-   "title": "Angular Athens 32nd Meetup",
-   "link": "https://www.meetup.com/angular-athens/events/312910489/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-03T19:00:00+02:00",
-   "location": "Impact Hub Athens, Karaiskaki 28 10554, Athens, Athens",
-   "summary": "Join us for the **32nd edition** of the Angular Athens Meetup! Mark your calendars for **Tuesday, November 03th**. More details will be announced soon. 📅 **Date:** Tuesday, November 03, 2026 🕖 **Time:** 7:00 PM - 9:00 PM EET 📍 **Venue:** Impact Hub Athens, Karaiskaki 28, 10554 Athens",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/generative-ai-belgium/events/316287359",
-   "title": "Generative AI - Cost Of Being Wrong",
-   "link": "https://www.meetup.com/generative-ai-belgium/events/316287359/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-27T20:00:00+02:00",
-   "location": "Online",
-   "summary": "Hey Everyone! 👋 **Location:** \\- On\\-site: Faktion\\, Oudeleeuwenrui 39\\, 2000 Antwerpen \\- Online: TBA **Practicalities for the evening on Tuesday, October 27th:** \\- 18:00: Doors Open\\, snacks & drinks \\- 19:00: Speaker Talks \\- 20:30: Networking & Drinks **Transport:** * Arriving by car: Parking is available at **Q-Park Godefriduskaai**, just around the corner from Faktion. Please note that Faktion is located in **Antwerp’s Low Emission Zone (LEZ)**. * Arriving by train: From **Antwerp-Central Station, take bus 17 to Felixpakhuis**. The bus stops right in front of the Faktion offices. * Arriving by bike: Faktion is easily accessible by bike. **Note:** As this is an invite‑only event, you m…",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
    "key": "url:https://stayhappening.com/e/techniques-2026-charlotte-de-witte-in-athens-E2ISYR0NXM5",
