@@ -6,25 +6,43 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Wed, 28 Oct 2026 13:04:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 20:20:06 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>[28 Oct] Capstone Project: MMAUG Insurance Claims Agent</title>
-<link>https://www.meetup.com/malta-microsoft-ai-user-group/events/316863051/</link>
-<guid isPermaLink="false">url:https://meetup.com/malta-microsoft-ai-user-group/events/316863051</guid>
-<pubDate>Wed, 28 Oct 2026 13:04:08 +0000</pubDate>
+<title>[30 Oct] Claude Live Build: Websites + Routines</title>
+<link>https://www.meetup.com/the-innovative-compass-lab/events/315416544/</link>
+<guid isPermaLink="false">url:https://meetup.com/the-innovative-compass-lab/events/315416544</guid>
+<pubDate>Wed, 28 Oct 2026 20:20:06 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 28 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Build an agentic claims workflow that extracts and validates claim information, retrieves authorised policy evidence, handles missing data safely, and prepares a traceable summary for human review. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-insurance-claims-agent&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 30 October 2026, 16:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Build a real website live with Claude in 10–15 minutes, then learn how to turn it into a system that works for you automatically. In this live session, we’ll walk through creating a website from scratch using AI and setting up smart routines for: • Automatic blog posting • Social media content workflows • Website updates and automation You’ll see real workflows, live problem-solving, and practical ways businesses can start using AI beyond just content generation. Perfect for business owners, marketers, creators, and anyone curious about where AI-powered systems are heading.&lt;/p&gt;</description>
 </item>
 <item>
-<title>[28 Oct] Capstone Project: Contoso Recruitment Assistant</title>
-<link>https://www.meetup.com/malta-microsoft-ai-user-group/events/316863048/</link>
-<guid isPermaLink="false">url:https://meetup.com/malta-microsoft-ai-user-group/events/316863048</guid>
-<pubDate>Tue, 27 Oct 2026 22:20:30 +0000</pubDate>
+<title>[08 Nov] Build a Reasoning Model (From Scratch)</title>
+<link>https://www.meetup.com/llm-reading-club/events/317142795/</link>
+<guid isPermaLink="false">url:https://meetup.com/llm-reading-club/events/317142795</guid>
+<pubDate>Wed, 28 Oct 2026 20:20:06 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 28 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Design an AI-assisted recruitment solution that structures candidate evidence, supports recruiter analysis and interview preparation, and keeps all hiring decisions under human control. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-contoso-recruitment-assistant&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 08 November 2026, 17:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;We are working through *Build a Reasoning Model (From Scratch)* by Sebastian Raschka. During each meetup, we will discuss the key concepts from the chapter or pages under review. In this session we'll discuss the **Chapter 6. Training Reasoning Models with Reinforcement Learning.** Raschka provides a hands-on guide to understanding and building modern reasoning models. Starting with a conventional pretrained LLM, the book explores evaluation, inference-time reasoning techniques, reinforcement learning with verifiable rewards, and knowledge distillation. Please note that the session is not recorded, and participants are responsible for obtaining their own copy of the book. **Buy the book** (a…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[30 Oct] Teach the Nation: Introduction to Data Management</title>
+<link>https://www.meetup.com/future-skills-community/events/316567659/</link>
+<guid isPermaLink="false">url:https://meetup.com/future-skills-community/events/316567659</guid>
+<pubDate>Wed, 28 Oct 2026 20:20:06 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 30 October 2026, 12:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** Join us for a practical introduction to how data is stored, managed, and used in the real world. You'll explore core concepts around data architecture and get hands-on with SQL (Structured Query Language), learning how to query and update information using a database system. Whether you're curious about IT, data analytics, or business systems, this session will help you build a strong foundation in data management – no prior experience needed. **In this workshop, you'll learn:** * What data management means and how it works * How to perform basic SQL operations (CRUD: Create, Read, Update, Delete) * The difference between SQL and NoSQL systems * How data supports bus…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[04 Nov] TechConnect: Global Virtual Job &amp; Networking Event for Data, AI, and Tech Pros</title>
+<link>https://www.meetup.com/ac-lhr/events/316368097/</link>
+<guid isPermaLink="false">url:https://meetup.com/ac-lhr/events/316368097</guid>
+<pubDate>Wed, 28 Oct 2026 20:20:06 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 04 November 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Calling all developers, AI engineers, software architects, data scientists, DevOps professionals, and tech enthusiasts — **TechConnect** is your ultimate destination for career growth, project showcasing, and global peer networking in the tech ecosystem. Hosted in a self-led, Slack-style virtual space, this **virtual tech networking event** invites you to connect, collaborate, and innovate with a diverse community of tech minds and hiring professionals from around the world. Whether you're looking for your next job, exploring startups, showcasing tools, or building a **peer coding accountability group**, **TechConnect** is where meaningful connections are made. 🎥 **Watch the explainer video …&lt;/p&gt;</description>
 </item>
 <item>
 <title>[13 Nov] Epic Tech Talks #3: Coding with Angular</title>
@@ -36,15 +54,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 13 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Epic Studios, Syntagmatarchou Davaki 4, 115 26, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Epic's Tech Talk#3 is coming. On Friday, November 13th, we’re opening our doors and inviting you to our offices at 4 Syntagmatarchou Davaki Street, Athens 115 26, 1st floor, from 19:00 to 21:00. Our speakers for the evening will be: **Manos Kounelakis** – ''Angular - Moving towards Zoneless architecture and the Future'' **Matina Pantazidou** – "It Works on My Laptop" **Manos** is a Full Stack Software Engineer with a strong background in R&amp;amp;D and cyber security solutions for IoT devices . Specialized in building frontend applications using Angular Strong believer of Clean Code . Currently working with Angular / C# to deliver complex solutions for the Core Banking Domain **Matina** is a Front-…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[28 Oct] Tech4Futures: Software Development Workshop</title>
-<link>https://www.meetup.com/future-skills-community/events/316567753/</link>
-<guid isPermaLink="false">url:https://meetup.com/future-skills-community/events/316567753</guid>
-<pubDate>Sun, 25 Oct 2026 11:39:40 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 28 October 2026, 16:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** Ready to step into the exciting world of software development? Join our online workshop and get a sneak peek into the life of a software developer. Whether you're curious about the basics of web development, or interested in our software development apprenticeships, this session is crafted just for you! **During the workshop, you’ll:** * Dive into Software Development: Explore what it takes to be a software developer and understand the pivotal role they play in today's digital world. * Discover Our Software Development Apprenticeships: Learn about our apprenticeship programmes and how they can kickstart your career in tech. * Get Hands-On with HTML: Start your coding…&lt;/p&gt;</description>
-</item>
-<item>
 <title>[31 Oct] Hallowen party,Mint bar 930 p.m</title>
 <link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316939138/</link>
 <guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316939138</guid>
@@ -52,6 +61,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 31 October 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;🎃👻 ATHENS HALLOWEEN PARTY – LET’S SEE WHO’S THE BEST! 🧛‍♂️🕸️ 🔥 Get your costumes ready because this Saturday, we're bringing Halloween vibes to Mint Bar, Monastiraki! 🧙‍♀️🧟 🏆 3 prizes for the 3 best costumes! Think you can win? Come and show us what you've got! 😈 🍻 Meet new people, make friends, enjoy great music, and spend a spooky night with an international crowd! 🌍🖤 📅 Saturday, 31 October ⏰ 9:30 PM 📍 Mint Bar, Monastiraki https://maps.app.goo.gl/u2JQdDjtT7oCNAtM9?g_st=ac 🎟️ FREE ENTRY! 👻 Come solo, bring your friends, or meet new ones here! No costume? No problem — just bring your good energy! 😉 🔥 Don't just watch the Halloween stories… BE PART OF THE NIGHT! See you there! 🥂🎃 Mamad Found…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[06 Nov] TTN: AI Fundamentals</title>
+<link>https://www.meetup.com/future-skills-community/events/316567427/</link>
+<guid isPermaLink="false">url:https://meetup.com/future-skills-community/events/316567427</guid>
+<pubDate>Fri, 23 Oct 2026 11:46:07 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 06 November 2026, 12:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** This 4-hour beginner-friendly workshop will introduce you to the fundamentals of AI, including how AI systems work, how machine learning models are created, and how AI is being used across industries today. Through interactive learning and practical examples, you'll explore the latest AI developments, discover how to choose the right AI tools for different tasks, and learn how to use AI responsibly. **Participants who attend the full session will receive a certificate of completion.** **What You'll Learn** * Latest AI developments and trends * How AI systems and machine learning models work * Choosing the right AI tools and models * Responsible and ethical use of AI …&lt;/p&gt;</description>
 </item>
 <item>
 <title>[29 Oct] Pre-Voxxed Community Meetup: όλες οι κοινότητες μαζί σε ένα διαφορετικό meetup</title>
@@ -81,15 +99,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Tην **Πέμπτη 29 Οκτωβρίου**, στις 19:00, στον χώρο του **OK!Thess**, λίγες εβδομάδες πριν το Voxxed Days Thessaloniki 2026, οι τεχνολογικές κοινότητες της πόλης συναντιούνται σε ένα κοινό meetup. Στόχος μας να γνωριστούμε με ανθρώπους από διαφορετικούς ρόλους και να μπερδέψουμε δημιουργικά τις διαφορετικές οπτικές στα θέματα τεχνολογίας και δημιουργίας προϊόντων και εργαλείων. Αυτό το 2ωρο meetup θα περιλαμβάνει: * Battle των κοινοτήτων: σύντομα, διασκεδαστικά “debates” * Tech Trivia League: μικτές ομάδες από όλες τις κοινότητες παίζουν pub quiz με ερωτήσεις από όλους τους ρόλους και τα διαφορετικά stacks, με ψηφοφορία και σχόλια * Swag και εισιτήρια για το Voxxed Days Thessaloniki * Pizza, …&lt;/p&gt;</description>
 </item>
 <item>
-<title>[06 Nov] TTN: AI Fundamentals</title>
-<link>https://www.meetup.com/future-skills-community/events/316567427/</link>
-<guid isPermaLink="false">url:https://meetup.com/future-skills-community/events/316567427</guid>
-<pubDate>Fri, 23 Oct 2026 11:46:07 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 06 November 2026, 12:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** This 4-hour beginner-friendly workshop will introduce you to the fundamentals of AI, including how AI systems work, how machine learning models are created, and how AI is being used across industries today. Through interactive learning and practical examples, you'll explore the latest AI developments, discover how to choose the right AI tools for different tasks, and learn how to use AI responsibly. **Participants who attend the full session will receive a certificate of completion.** **What You'll Learn** * Latest AI developments and trends * How AI systems and machine learning models work * Choosing the right AI tools and models * Responsible and ethical use of AI …&lt;/p&gt;</description>
-</item>
-<item>
 <title>[29 Oct] 🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥</title>
 <link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316914315/</link>
 <guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316914315</guid>
@@ -117,6 +126,15 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 20:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Anglais Athens, Kirikeioi 6, Athina 105 55, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Bull market incoming, are you stacked and ready ? Join the community for a couple of drinks with a nice view on the acropolis! We meet in a public bar in the center of the city, at the beautiful rooftop bar Anglais Athens. True names not required. Hardware purchase possible (Bitbox02, Trezor 5, originated straight from manufacturer). Details and questions in the [Telegram group](https://t.me/hellenicbitcoin), don't hesitate to say hello and ask for the hardware or anything else.&lt;/p&gt;</description>
 </item>
 <item>
+<title>[29 Oct] Capstone Project: MMAUG High School Secure Login Portal</title>
+<link>https://www.meetup.com/malta-microsoft-ai-user-group/events/316863053/</link>
+<guid isPermaLink="false">url:https://meetup.com/malta-microsoft-ai-user-group/events/316863053</guid>
+<pubDate>Wed, 21 Oct 2026 11:57:49 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 29 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Create a secure school portal with strong authentication, server-side role-based access, protected APIs, account administration, audit history and repeatable DevSecOps delivery. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-high-school-secure-login-portal&lt;/p&gt;</description>
+</item>
+<item>
 <title>[05 Nov] Platform Engineering in the Age of AI</title>
 <link>https://www.meetup.com/cloud-native-muc/events/316851781/</link>
 <guid isPermaLink="false">url:https://meetup.com/cloud-native-muc/events/316851781</guid>
@@ -124,15 +142,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …&lt;/p&gt;</description>
-</item>
-<item>
-<title>[28 Oct] How to Tell a Clear Story with Data</title>
-<link>https://www.meetup.com/london-business-analytics-group/events/316775954/</link>
-<guid isPermaLink="false">url:https://meetup.com/london-business-analytics-group/events/316775954</guid>
-<pubDate>Sat, 17 Oct 2026 15:40:47 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 28 October 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Tom provides a framework that analysts can use to help structure their analytical findings into more of a story/coherent format so that it has a bigger impact. He will then also talk through a real-life example for each pillar of the framework. This is a short 20 minute talk followed by 5-10 minutes of Q&amp;amp;A. Tom is a Senior Commercial Analytics Manager with a background in turning data into commercially useful insight. He also speaks regularly through Toastmasters and is particularly interested in helping analysts communicate complex ideas more simply and effectively.&lt;/p&gt;</description>
 </item>
 <item>
 <title>[13 Nov] MoT Athens #19: Chaos Testing, Contract Testing &amp; AI Agents</title>
@@ -178,6 +187,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 30 October 2026, 12:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a "Frustrated / Creative Users Follow-up Meeting" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[05 Dec] TECHNIQUES 2026: CHARLOTTE DE WITTE IN ATHENS</title>
+<link>https://stayhappening.com/e/techniques-2026-charlotte-de-witte-in-athens-E2ISYR0NXM5</link>
+<guid isPermaLink="false">url:https://stayhappening.com/e/techniques-2026-charlotte-de-witte-in-athens-E2ISYR0NXM5</guid>
+<pubDate>Thu, 08 Oct 2026 10:58:00 +0000</pubDate>
+<category>Aggregator</category>
+<source url="https://www.stayhappening.com/athens">Stayhappening — Athens</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 05 December 2026, 00:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Telekom Center Athens, Λεωφόρος Ολυμπιονίκη Σπύρου Λούη, κλειστό γήπεδο μπάσκετ "Telekom Center Athens", Amaroúsion, Greece, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Stayhappening — Athens · Aggregator&lt;/p&gt;</description>
 </item>
 </channel>
 </rss>

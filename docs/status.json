@@ -1,17 +1,17 @@
 {
-  "built": "2026-10-28T13:04:08.863725+00:00",
-  "items": 46,
+  "built": "2026-10-28T20:20:06.961416+00:00",
+  "items": 53,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 11,
-      "kept": 11,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 11,
-      "kept": 11,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
@@ -34,9 +34,9 @@
     },
     {
       "name": "Stayhappening — Athens",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://stayhappening.com/athens"
+      "fetched": 100,
+      "kept": 1,
+      "error": ""
     },
     {
       "name": "dev.events — Greece",
@@ -59,7 +59,7 @@
     {
       "name": "Techgear",
       "fetched": 50,
-      "kept": 3,
+      "kept": 4,
       "error": ""
     },
     {
@@ -71,13 +71,13 @@
     {
       "name": "EMEA.gr",
       "fetched": 15,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 187,
-      "kept": 11,
+      "fetched": 213,
+      "kept": 12,
       "error": ""
     },
     {
@@ -107,7 +107,7 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
