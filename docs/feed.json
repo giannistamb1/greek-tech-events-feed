@@ -1,7 +1,111 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-28T05:50:20.688725+00:00",
+ "built": "2026-10-28T13:04:08.863725+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863051",
+   "title": "Capstone Project: MMAUG Insurance Claims Agent",
+   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863051/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-28T20:00:00+02:00",
+   "location": "Online",
+   "summary": "Build an agentic claims workflow that extracts and validates claim information, retrieves authorised policy evidence, handles missing data safely, and prepares a traceable summary for human review. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-insurance-claims-agent",
+   "first_seen": "2026-10-28T13:04:08.863725+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/aspida-tou-axillea-ta-oplika-sistimata-pou-parousiastikan-stin-parelasi-tis-thessalonikis",
+   "title": "«Ασπίδα του Αχιλλέα»: Τα οπλικά συστήματα που παρουσιάστηκαν στην παρέλαση της Θεσσαλονίκης",
+   "link": "https://www.fortunegreece.com/article/aspida-tou-axillea-ta-oplika-sistimata-pou-parousiastikan-stin-parelasi-tis-thessalonikis/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η «Ασπίδα του Αχιλλέα» παρουσιάστηκε για πρώτη φορά στη στρατιωτική παρέλαση της Θεσσαλονίκης, με συστήματα αεράμυνας, αντι-drone τεχνολογίες και πυραύλους που στοχεύουν στην ενίσχυση της προστασίας της χώρας απέναντι σε σύγχρονες εναέριες απειλές.",
+   "first_seen": "2026-10-28T13:04:08.863725+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/ekthesi-lancet-710-chiliades-thanatoi-apo-tin-akraia-zesti-pagkosmios",
+   "title": "Έκθεση Lancet: Ρεκόρ θανάτων από τη ζέστη σε παγκόσμιο επίπεδο και Ευρώπη",
+   "link": "https://techmaniacs.gr/ekthesi-lancet-710-chiliades-thanatoi-apo-tin-akraia-zesti-pagkosmios/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η κλιματική αλλαγή επιβαρύνει όλο και περισσότερο την ανθρώπινη υγεία και αυτό έχει ήδη αρχίσει να φαίνεται εδώ και χρόνια. Εκτός από την κακή ποιότητα του αέρα που αναπνέουμε, οι επιπτώσεις της ακραίας ζέστης των τελευταίων ετών γίνεται όλο και πιο δύσκολο να αγνοηθούν. Μάλιστα, σύμφωνα με την τελευταία έκθεση του έγκριτου ιατρικού περιοδικού Lancet […] The post Έκθεση Lancet: Ρεκόρ θανάτων από τη ζέστη σε παγκόσμιο επίπεδο και Ευρώπη appeared first on Techmaniacs .",
+   "first_seen": "2026-10-28T11:30:28+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/gnomes/283118/limani-thessalonikis-ta-polemika-kataloipa-tou-1940-ston-vytho-tou-6ou-provlita-kai-to-stoichima-tis-anaptyxis",
+   "title": "Λιμάνι Θεσσαλονίκης: Τα πολεμικά κατάλοιπα του 1940 στον βυθό του 6ου προβλήτα και το στοίχημα της ανάπτυξης",
+   "link": "https://startupper.gr/gnomes/283118/limani-thessalonikis-ta-polemika-kataloipa-tou-1940-ston-vytho-tou-6ou-provlita-kai-to-stoichima-tis-anaptyxis/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Του Θανάση Λασκούδη Η επέτειος της 28ης Οκτωβρίου αποτελεί παραδοσιακά ημέρα εθνικής μνήμης, απόδοσης τιμής και συλλογικού στοχασμού. Για τη Θεσσαλονίκη, ωστόσο, η φετινή ιστορική αναδρομή δεν περιορίζεται σε επετειακές ομιλίες και παρελάσεις, αλλά αποκτά μια απολύτως χειροπιαστή, σχεδόν δραματική διάσταση. Στα νερά του Θερμαϊκού, εκεί όπου χτυπά η καρδιά της παραγωγικής και εμπορικής προοπτικής […] The post Λιμάνι Θεσσαλονίκης: Τα πολεμικά κατάλοιπα του 1940 στον βυθό του 6ου προβλήτα και το στοίχημα της ανάπτυξης appeared first on STARTUPPER .",
+   "first_seen": "2026-10-28T11:13:23+00:00"
+  },
+  {
+   "key": "url:https://techblog.gr/mobile/samsung-w27-nea-renders-tou-ble-chrysou-fold8-ultra-gia-tin-kina",
+   "title": "Samsung W27: Νέα renders του μπλε-χρυσού Fold8 Ultra για την Κίνα",
+   "link": "https://techblog.gr/mobile/samsung-w27-nea-renders-tou-ble-chrysou-fold8-ultra-gia-tin-kina/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Νέα renders του Samsung W27 δείχνουν το πολυτελές αναδιπλούμενο κινητό λίγο πριν από την παρουσίασή του στην Κίνα, στις 29 Οκτωβρίου. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Samsung W27: Νέα renders του μπλε-χρυσού Fold8 Ultra για την Κίνα )",
+   "first_seen": "2026-10-28T07:30:17+00:00"
+  },
+  {
+   "key": "url:https://techblog.gr/mobile/redmi-k100-episima-10-000-mah-165-hz-kai-snapdragon-8-elite",
+   "title": "Redmi K100 επίσημα: 10.000 mAh, 165 Hz και Snapdragon 8 Elite",
+   "link": "https://techblog.gr/mobile/redmi-k100-episima-10-000-mah-165-hz-kai-snapdragon-8-elite/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Το Redmi K100 παρουσιάστηκε επίσημα στην Κίνα με μπαταρία 10.000 mAh, τσιπ Snapdragon 8 Elite και οθόνη OLED 6,83 ιντσών. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Redmi K100 επίσημα: 10.000 mAh, 165 Hz και Snapdragon 8 Elite )",
+   "first_seen": "2026-10-28T06:30:27+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/acceleration/283058/enteka-ellinikes-startups-parousiazoun-technologikes-lyseis-gia-tin-ygeia-se-business-day-tou-egg-kai-tis-ease",
+   "title": "Έντεκα ελληνικές startups παρουσιάζουν τεχνολογικές λύσεις για την υγεία σε Business Day του egg και της ΕΑΣΕ",
+   "link": "https://startupper.gr/acceleration/283058/enteka-ellinikes-startups-parousiazoun-technologikes-lyseis-gia-tin-ygeia-se-business-day-tou-egg-kai-tis-ease/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Το egg, ο επιταχυντής καινοτομίας της Eurobank, διοργάνωσε μαζί με την Ένωση Ανωτάτων Στελεχών Επιχειρήσεων ένα Business Day αφιερωμένο στις τεχνολογικές εξελίξεις και τις προοπτικές στον τομέα της υγείας. Στην εκδήλωση παρουσίασαν τις λύσεις τους 11 ελληνικές startups που δραστηριοποιούνται στην ιατρική τεχνολογία, τη βιοτεχνολογία, τα φαρμακευτικά προϊόντα και τις ψηφιακές υπηρεσίες υγείας. Σύμφωνα […] The post Έντεκα ελληνικές startups παρουσιάζουν τεχνολογικές λύσεις για την υγεία σε Business Day του egg και της ΕΑΣΕ appeared first on STARTUPPER .",
+   "first_seen": "2026-10-28T06:00:33+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/interviews/281825/lefteris-katsiadakis-panathenea-festival-theloume-na-kanoume-tin-athina-tin-poli-tis-kainotomias",
+   "title": "Λευτέρης Κατσιαδάκης (Panathēnea Festival): Θέλουμε να κάνουμε την Αθήνα την «Πόλη της Καινοτομίας»",
+   "link": "https://startupper.gr/interviews/281825/lefteris-katsiadakis-panathenea-festival-theloume-na-kanoume-tin-athina-tin-poli-tis-kainotomias/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Ο Λευτέρης Κατσιαδάκης, συνιδρυτής και CEO του Panathēnea Festival αποκαλύπτει στο Startupper.gr λεπτομέρειες για το μεγαλύτερο ελληνικό φεστιβάλ καινοτομίας που συγκέντρωσε πάνω από 10.000 επισκέπτες The post Λευτέρης Κατσιαδάκης (Panathēnea Festival): Θέλουμε να κάνουμε την Αθήνα την «Πόλη της Καινοτομίας» appeared first on STARTUPPER .",
+   "first_seen": "2026-10-28T06:00:13+00:00"
+  },
   {
    "key": "url:https://techblog.gr/mobile/iphone-18e-diarroi-deichnei-tsip-a20-sta-2-nm-alla-xana-othoni-60-hz",
    "title": "iPhone 18e: Διαρροή δείχνει τσιπ A20 στα 2 nm αλλά ξανά οθόνη 60 Hz",
@@ -27,19 +131,6 @@
    "location": "Online",
    "summary": "Design an AI-assisted recruitment solution that structures candidate evidence, supports recruiter analysis and interview preparation, and keeps all hiring decisions under human control. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-contoso-recruitment-assistant",
    "first_seen": "2026-10-27T22:20:30.182968+00:00"
-  },
-  {
-   "key": "url:https://naftemporiki.gr/finance/markets/2181157/wall-street-anodos-kai-gia-toys-treis-vasikoys-deiktes-me-odigo-tis-metoches-ton-mikrotsip",
-   "title": "Wall Street: Άνοδος και για τους τρεις βασικούς δείκτες με «οδηγό» τις μετοχές των μικροτσίπ",
-   "link": "https://www.naftemporiki.gr/finance/markets/2181157/wall-street-anodos-kai-gia-toys-treis-vasikoys-deiktes-me-odigo-tis-metoches-ton-mikrotsip/?utm_source=rss&utm_medium=rss&utm_campaign=wall-street-anodos-kai-gia-toys-treis-vasikoys-deiktes-me-odigo-tis-metoches-ton-mikrotsip",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Με θετικό πρόσημο έκλεισαν και οι τρεις βασικοί χρηματιστηριακοί δείκτες στη Wall Street στη σημερινή συνεδρίαση, καθώς ο ενθουσιασμός γύρω από τις εταιρείες κατασκευής μικροτσίπ ώθησε τους επενδυτές να στραφούν… Wall Street: Άνοδος και για τους τρεις βασικούς δείκτες με «οδηγό» τις μετοχές των μικροτσίπ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-10-27T21:29:01+00:00"
   },
   {
    "key": "url:https://techgear.gr/opera-web-ai-to-neo-protypo-poy-fernei-tin-techniti-noimosyni-topika-ston-browser-51101",
@@ -81,32 +172,6 @@
    "first_seen": "2026-10-27T19:01:15+00:00"
   },
   {
-   "key": "url:https://insider.gr/eidiseis/430412/o-tramp-epimenei-gia-tin-katargisi-toy-oroy-tehniti-noimosyni",
-   "title": "Ο Τραμπ επιμένει για την κατάργηση του όρου «τεχνητή νοημοσύνη»",
-   "link": "https://www.insider.gr/eidiseis/430412/o-tramp-epimenei-gia-tin-katargisi-toy-oroy-tehniti-noimosyni",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "«Πολύ σύντομα, θα απαγορεύσουμε επισήμως τον όρο AI/Τεχνητή Νοημοσύνη στα σχετικά έγγραφα και σε όλα...",
-   "first_seen": "2026-10-27T17:01:37+00:00"
-  },
-  {
-   "key": "url:https://businessvoice.gr/top-stories/995199/grecotel-nea-epochi-gia-to-xenodocheio-filoxenia-kalamata",
-   "title": "GRECOTEL: Νέα εποχή για το ξενοδοχείο Filoxenia Καλαμάτα",
-   "link": "https://businessvoice.gr/top-stories/995199/grecotel-nea-epochi-gia-to-xenodocheio-filoxenia-kalamata/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η εκδήλωση έλαβε χώρα στο ολοκαίνουργιο Olive Club, παρουσία εκπροσώπων της περιφερειακής και τοπικής αυτοδιοίκησης, προσωπικοτήτων από τον ακαδημαϊκό χώρο, προσκεκλημένων από τη Μεσσηνία και την υπόλοιπη Ελλάδα, καθώς και του ιδρυτή της GRECOTEL, Νίκου Δασκαλαντωνάκη",
-   "first_seen": "2026-10-27T16:30:36+00:00"
-  },
-  {
    "key": "url:https://startupper.gr/news/283006/eleftheroste-choro-kai-apogeioste-tin-poiotita-ton-fotografion-me-4-rythmiseis-sto-viber",
    "title": "Ελευθερώστε χώρο και απογειώστε την ποιότητα των φωτογραφιών με 4 ρυθμίσεις στο Viber",
    "link": "https://startupper.gr/news/283006/eleftheroste-choro-kai-apogeioste-tin-poiotita-ton-fotografion-me-4-rythmiseis-sto-viber/",
@@ -131,19 +196,6 @@
    "location": "",
    "summary": "Η Hugging Face παρουσίασε το Carbon-X, ανοιχτό μοντέλο AI που αναλύει DNA, προβλέπει επιπτώσεις μεταλλάξεων και τρέχει στον εξοπλισμό του ερευνητή. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Carbon-X: Η Hugging Face φτιάχνει chatbot που αναλύει DNA )",
    "first_seen": "2026-10-27T14:37:58+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/focus/282952/pos-i-helsing-borei-na-analavei-tin-aeramyna-tis-evropis",
-   "title": "Πώς η Helsing μπορεί να αναλάβει την αεράμυνα της Ευρώπης",
-   "link": "https://startupper.gr/focus/282952/pos-i-helsing-borei-na-analavei-tin-aeramyna-tis-evropis/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η γερμανική defencetech Startup Helsing παρουσίασε στις 26 Οκτωβρίου το Contra, ένα σύστημα αεράμυνας που βασίζεται σε τεχνητή νοημοσύνη και συνοδεύεται από δύο νέους πυραύλους, τον AD-1 Inferno και τον AD-2 Ambush. Η εταιρεία το παρουσιάζει ως λύση για μαζικές επιθέσεις με drones και πυραύλους, όμως το ερώτημα είναι αν μπορεί πράγματι να αποκτήσει κεντρικό […] The post Πώς η Helsing μπορεί να αναλάβει την αεράμυνα της Ευρώπης appeared first on STARTUPPER .",
-   "first_seen": "2026-10-27T12:32:20+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/i-eurobank-ependiei-stin-igesia-tou-mellontos-se-sinergasia-me-to-insead",
@@ -276,19 +328,6 @@
    "first_seen": "2026-10-26T17:01:31+00:00"
   },
   {
-   "key": "url:https://techblog.gr/gadgets/neo-ipad-mini-oled-85-intson-a20-pro-kai-ip67-se-pachos-54-mm",
-   "title": "Νέο iPad mini: OLED 8,5 ιντσών, A20 Pro και IP67 σε πάχος 5,4 mm",
-   "link": "https://techblog.gr/gadgets/neo-ipad-mini-oled-85-intson-a20-pro-kai-ip67-se-pachos-54-mm/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techblog",
-   "source_url": "https://techblog.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Apple παρουσίασε το νέο iPad mini με OLED 8,5 ιντσών, A20 Pro και IP67. Προπαραγγελίες από 28 Οκτωβρίου, τιμή από 699 δολάρια στις ΗΠΑ. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Νέο iPad mini: OLED 8,5 ιντσών, A20 Pro και IP67 σε πάχος 5,4 mm )",
-   "first_seen": "2026-10-26T15:50:37+00:00"
-  },
-  {
    "key": "url:https://fortunegreece.com/article/stavros-papagiannopoulos-sto-cyber-security-forum-i-kivernoasfaleia-den-einai-texniki-ipothesi-alla-ipothesi-igesias",
    "title": "Σταύρος Παπαγιαννόπουλος στο Cyber Security Forum: «Η κυβερνοασφάλεια δεν είναι τεχνική υπόθεση, αλλά υπόθεση ηγεσίας»",
    "link": "https://www.fortunegreece.com/article/stavros-papagiannopoulos-sto-cyber-security-forum-i-kivernoasfaleia-den-einai-texniki-ipothesi-alla-ipothesi-igesias/",
@@ -341,32 +380,6 @@
    "first_seen": "2026-10-26T08:36:51+00:00"
   },
   {
-   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-oi-dexiotites-pou-tha-krinoun-to-mellon-tis-ai-to-megalo-stoixima-gia-tis-ellinikes-epixeiriseis",
-   "title": "Power of Innovation Summit 2026: Οι δεξιότητες που θα κρίνουν το μέλλον της AI – Το μεγάλο στοίχημα για τις ελληνικές επιχειρήσεις",
-   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-oi-dexiotites-pou-tha-krinoun-to-mellon-tis-ai-to-megalo-stoixima-gia-tis-ellinikes-epixeiriseis/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο Γιώργος Κεφαλογιάννης της Intellectica και ο Χάρης Λαούδης της MAXMEDIA ανέλυσαν τον ρόλο του ανθρώπινου κεφαλαίου, τις ελλείψεις δεξιοτήτων και τις ευκαιρίες που δημιουργεί η Τεχνητή Νοημοσύνη για την ελληνική οικονομία.",
-   "first_seen": "2026-10-25T16:29:22.223461+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026",
-   "title": "Power of Innovation Summit 2026: Πώς η τεχνητή νοημοσύνη δημιουργεί μετρήσιμη επιχειρηματική αξία",
-   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Από την επιλογή των κατάλληλων δεδομένων και την αξιολόγηση των εφαρμογών τεχνητής νοημοσύνης έως την αλλαγή του τρόπου λειτουργίας των επιχειρήσεων, το ζητούμενο είναι η τεχνολογία να οδηγεί σε μετρήσιμο αποτέλεσμα.",
-   "first_seen": "2026-10-25T15:00:27+00:00"
-  },
-  {
    "key": "url:https://meetup.com/future-skills-community/events/316567753",
    "title": "Tech4Futures: Software Development Workshop",
    "link": "https://www.meetup.com/future-skills-community/events/316567753/",
@@ -380,48 +393,9 @@
    "first_seen": "2026-10-25T11:39:40.567624+00:00"
   },
   {
-   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-pos-i-ai-allazei-ti-maxi-gia-tin-prosoxi-tou-katanaloti",
-   "title": "Power of Innovation Summit 2026: Ο ρόλος της Τεχνητής Νοημοσύνης στη μάχη για την προσοχή του καταναλωτή",
-   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-pos-i-ai-allazei-ti-maxi-gia-tin-prosoxi-tou-katanaloti/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η νέα διαδρομή προς την αγορά, η αξία του δημιουργικού και η επόμενη ημέρα για agencies και publishers στο επίκεντρο της συζήτησης με τον Γαληνό Γιαγλή και τον Αλέξανδρο Σχίζα.",
-   "first_seen": "2026-10-25T11:39:40.567624+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/mastercard-innovation-forum-2026-to-megalo-stoixima-ton-trapezon-pera-apo-tin-texniti-noimosini",
-   "title": "Mastercard Innovation Forum 2026: Το μεγάλο στοίχημα των τραπεζών πέρα από την Τεχνητή Νοημοσύνη",
-   "link": "https://www.fortunegreece.com/article/mastercard-innovation-forum-2026-to-megalo-stoixima-ton-trapezon-pera-apo-tin-texniti-noimosini/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι ψηφιακοί βοηθοί αρχίζουν να εκτελούν συναλλαγές και οι neobanks ανεβάζουν τον πήχη της εξυπηρέτησης. Πώς το ελληνικό τραπεζικό σύστημα επιχειρεί να μετατρέψει την τεχνολογική πρόοδο σε πιο απλή καθημερινότητα κερδίζοντας, παράλληλα, την εμπιστοσύνη του πελάτη.",
-   "first_seen": "2026-10-25T11:39:40.567624+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/power-of-innovation-summit-2026-pos-i-texniti-noimosini-perna-apo-ta-pilotika-programmata-stin-kardia-ton-epixeiriseon",
-   "title": "Power of Innovation Summit 2026: Πώς η Τεχνητή Νοημοσύνη περνά από τα πιλοτικά προγράμματα στην καρδιά των επιχειρήσεων",
-   "link": "https://www.fortunegreece.com/article/power-of-innovation-summit-2026-pos-i-texniti-noimosini-perna-apo-ta-pilotika-programmata-stin-kardia-ton-epixeiriseon/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Στελέχη των Dell Technologies, Παπαστράτος και Eurobank ανέλυσαν στο The Power of Innovation 2026 τις προκλήσεις της υιοθέτησης της AI, τη σημασία της εταιρικής κουλτούρας και τον ρόλο των ανθρώπων στον ψηφιακό μετασχηματισμό.",
-   "first_seen": "2026-10-25T11:00:07+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316939121",
-   "title": "Hallowen party, mint bar 930 p.m",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316939121/",
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316939138",
+   "title": "Hallowen party,Mint bar 930 p.m",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316939138/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Athens tech",
@@ -430,19 +404,6 @@
    "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
    "summary": "🎃👻 ATHENS HALLOWEEN PARTY – LET’S SEE WHO’S THE BEST! 🧛‍♂️🕸️ 🔥 Get your costumes ready because this Saturday, we're bringing Halloween vibes to Mint Bar, Monastiraki! 🧙‍♀️🧟 🏆 3 prizes for the 3 best costumes! Think you can win? Come and show us what you've got! 😈 🍻 Meet new people, make friends, enjoy great music, and spend a spooky night with an international crowd! 🌍🖤 📅 Saturday, 31 October ⏰ 9:30 PM 📍 Mint Bar, Monastiraki https://maps.app.goo.gl/u2JQdDjtT7oCNAtM9?g_st=ac 🎟️ FREE ENTRY! 👻 Come solo, bring your friends, or meet new ones here! No costume? No problem — just bring your good energy! 😉 🔥 Don't just watch the Halloween stories… BE PART OF THE NIGHT! See you there! 🥂🎃 Mamad Found…",
    "first_seen": "2026-10-24T20:55:21.729262+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/practical-ai-thessaloniki-meetup-group/events/317091917",
-   "title": "Meetup #7 - Part of Pre-Voxxed Cross-community Meetup",
-   "link": "https://www.meetup.com/practical-ai-thessaloniki-meetup-group/events/317091917/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-29T19:00:00+02:00",
-   "location": "OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki",
-   "summary": "Λίγες εβδομάδες πριν το **Voxxed Days Thessaloniki 2026**, οι τεχνολογικές κοινότητες της πόλης, μαζί και το **Practical AI**, βγαίνουν από τα «silos» τους και συναντιούνται σε ένα κοινό meetup την **Πέμπτη 29 Οκτωβρίου, 19:00–21:00**, στο **OK Thess** (Κυδωνιών 2, όπισθεν Σοφούλη 30)! Τι θα γίνει: * Battle των κοινοτήτων: σύντομα, διασκεδαστικά «debates» για να ζεσταθεί το κλίμα (Frontend vs Backend, Testers vs όλοι, AI fans vs AI skeptics) * Tech Trivia League: μικτές ομάδες από όλες τις κοινότητες παίζουν pub quiz με ερωτήσεις από backend, frontend, QA, data και DevOps, με ψηφοφορία και σχόλια * Swag και εισιτήρια για το Voxxed Days Thessaloniki * Pizza & networking Ελάτε να τα πούμε από …",
-   "first_seen": "2026-10-23T11:46:07.963908+00:00"
   },
   {
    "key": "url:https://meetup.com/thessaloniki-software-testing-and-qa/events/317089296",
@@ -455,6 +416,19 @@
    "starts": "2026-10-29T19:00:00+02:00",
    "location": "OK!Thess, Komotinis 2, Thessaloniki, Thessaloniki",
    "summary": "Λίγες εβδομάδες πριν το Voxxed Days Thessaloniki 2026, οι τεχνολογικές κοινότητες της πόλης συναντιούνται σε ένα κοινό meetup. Στόχος μας είναι να γνωριστούμε με ανθρώπους από άλλα stacks και κοινότητες που συνήθως δεν συναντάμε. **Πότε:** Πέμπτη 29 Οκτωβρίου, 19:00–21:00 **Πού:** [OK!Thess](https://maps.app.goo.gl/5X4edJ4V5BFkzPoa6)[, ](https://www.google.com/maps/search/Thess,+%CE%9A%CF%85%CE%B4%CF%89%CE%BD%CE%B9%CF%8E%CE%BD+2?entry=gmail&source=g)ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Θεσσαλονίκη 546 55 **Τι θα γίνει:** * Battle των κοινοτήτων: σύντομα, διασκεδαστικά “debates” για να ανέβει το κλίμα (Frontend vs Backend, Testers vs όλοι, AI fans vs AI skeptics) * Tech Trivia League: μικτές ομάδε…",
+   "first_seen": "2026-10-23T11:46:07.963908+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/practical-ai-thessaloniki-meetup-group/events/317091917",
+   "title": "Meetup #7 - Part of Pre-Voxxed Cross-community Meetup",
+   "link": "https://www.meetup.com/practical-ai-thessaloniki-meetup-group/events/317091917/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-29T19:00:00+02:00",
+   "location": "OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki",
+   "summary": "Λίγες εβδομάδες πριν το **Voxxed Days Thessaloniki 2026**, οι τεχνολογικές κοινότητες της πόλης, μαζί και το **Practical AI**, βγαίνουν από τα «silos» τους και συναντιούνται σε ένα κοινό meetup την **Πέμπτη 29 Οκτωβρίου, 19:00–21:00**, στο **OK Thess** (Κυδωνιών 2, όπισθεν Σοφούλη 30)! Τι θα γίνει: * Battle των κοινοτήτων: σύντομα, διασκεδαστικά «debates» για να ζεσταθεί το κλίμα (Frontend vs Backend, Testers vs όλοι, AI fans vs AI skeptics) * Tech Trivia League: μικτές ομάδες από όλες τις κοινότητες παίζουν pub quiz με ερωτήσεις από backend, frontend, QA, data και DevOps, με ψηφοφορία και σχόλια * Swag και εισιτήρια για το Voxxed Days Thessaloniki * Pizza & networking Ελάτε να τα πούμε από …",
    "first_seen": "2026-10-23T11:46:07.963908+00:00"
   },
   {
@@ -523,39 +497,13 @@
    "first_seen": "2026-10-22T11:59:59.473868+00:00"
   },
   {
-   "key": "url:https://meetup.com/sgi-superwomen-in-tech/events/316665463",
-   "title": "The Human Skills That Matter in an AI-Driven World",
-   "link": "https://www.meetup.com/sgi-superwomen-in-tech/events/316665463/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-28T14:00:00+02:00",
-   "location": "Online",
-   "summary": "*Welcome back to another session with SuperWomen in Tech! We're excited to be joined by* ***[Deborah Bennun](https://www.linkedin.com/in/deborahbennun/)*** *to discuss the topic on everyone's minds: AI.* AI is changing work at extraordinary speed. We are constantly being told which jobs will disappear, which new technologies we need to master and which “future skills” everyone supposedly needs to acquire. But there is a more useful question: **As AI becomes capable of doing more of the work, what will continue to make you valuable?** In this interactive session, Deborah will explore how AI is changing the balance between **execution and human judgement** and introduce a practical method for …",
-   "first_seen": "2026-10-21T21:47:04.719778+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863053",
-   "title": "Capstone Project: MMAUG High School Secure Login Portal",
-   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863053/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-29T19:00:00+02:00",
-   "location": "Online",
-   "summary": "Create a secure school portal with strong authentication, server-side role-based access, protected APIs, account administration, audit history and repeatable DevSecOps delivery. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-high-school-secure-login-portal",
-   "first_seen": "2026-10-21T11:57:49.025366+00:00"
-  },
-  {
    "key": "url:https://meetup.com/cloud-native-muc/events/316851781",
    "title": "Platform Engineering in the Age of AI",
    "link": "https://www.meetup.com/cloud-native-muc/events/316851781/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-11-05T19:30:00+02:00",
    "location": "Online",
    "summary": "AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …",
@@ -651,19 +599,6 @@
    "location": "Online",
    "summary": "At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a \"Frustrated / Creative Users Follow-up Meeting\" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…",
    "first_seen": "2026-10-09T10:40:19.336259+00:00"
-  },
-  {
-   "key": "url:https://stayhappening.com/e/techniques-2026-charlotte-de-witte-in-athens-E2ISYR0NXM5",
-   "title": "TECHNIQUES 2026: CHARLOTTE DE WITTE IN ATHENS",
-   "link": "https://stayhappening.com/e/techniques-2026-charlotte-de-witte-in-athens-E2ISYR0NXM5",
-   "kind": "events",
-   "category": "Aggregator",
-   "source": "Stayhappening — Athens",
-   "source_url": "https://www.stayhappening.com/athens",
-   "starts": "2026-12-05T00:00:00+02:00",
-   "location": "Telekom Center Athens, Λεωφόρος Ολυμπιονίκη Σπύρου Λούη, κλειστό γήπεδο μπάσκετ \"Telekom Center Athens\", Amaroúsion, Greece, Athens",
-   "summary": "",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
   }
  ]
 }
