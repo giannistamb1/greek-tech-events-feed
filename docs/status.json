@@ -1,6 +1,6 @@
 {
-  "built": "2026-10-27T22:20:30.182968+00:00",
-  "items": 50,
+  "built": "2026-10-28T05:50:20.688725+00:00",
+  "items": 51,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -101,7 +101,7 @@
     {
       "name": "Techblog",
       "fetched": 20,
-      "kept": 2,
+      "kept": 3,
       "error": ""
     },
     {

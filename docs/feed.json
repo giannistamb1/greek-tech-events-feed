@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-27T22:20:30.182968+00:00",
+ "built": "2026-10-28T05:50:20.688725+00:00",
  "items": [
+  {
+   "key": "url:https://techblog.gr/mobile/iphone-18e-diarroi-deichnei-tsip-a20-sta-2-nm-alla-xana-othoni-60-hz",
+   "title": "iPhone 18e: Διαρροή δείχνει τσιπ A20 στα 2 nm αλλά ξανά οθόνη 60 Hz",
+   "link": "https://techblog.gr/mobile/iphone-18e-diarroi-deichnei-tsip-a20-sta-2-nm-alla-xana-othoni-60-hz/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Το iPhone 18e θα έχει τσιπ A20 στα 2 nm, κάμερα 48 MP και οθόνη OLED 6,12 ιντσών στα 60 Hz, σύμφωνα με διαρροή. Παρουσίαση την άνοιξη. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( iPhone 18e: Διαρροή δείχνει τσιπ A20 στα 2 nm αλλά ξανά οθόνη 60 Hz )",
+   "first_seen": "2026-10-28T04:28:28+00:00"
+  },
   {
    "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863048",
    "title": "Capstone Project: Contoso Recruitment Assistant",
