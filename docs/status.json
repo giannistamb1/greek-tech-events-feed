@@ -1,17 +1,17 @@
 {
-  "built": "2026-10-29T10:05:33.823499+00:00",
-  "items": 48,
+  "built": "2026-10-29T18:31:08.719112+00:00",
+  "items": 28,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 9,
+      "kept": 9,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 3,
+      "kept": 3,
       "error": ""
     },
     {
@@ -47,14 +47,14 @@
     {
       "name": "Startupper",
       "fetched": 10,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "ICT Plus",
-      "fetched": 21,
-      "kept": 4,
-      "error": ""
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 522 Server Error: <none> for url: https://www.ictplus.gr/feed"
     },
     {
       "name": "Techgear",
@@ -77,19 +77,19 @@
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Insider.gr",
       "fetched": 60,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
       "name": "Fortune Greece",
-      "fetched": 160,
-      "kept": 6,
+      "fetched": 214,
+      "kept": 8,
       "error": ""
     },
     {
@@ -101,13 +101,13 @@
     {
       "name": "Techblog",
       "fetched": 20,
-      "kept": 4,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
