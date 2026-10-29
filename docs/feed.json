@@ -1,7 +1,33 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-28T20:20:06.961416+00:00",
+ "built": "2026-10-29T01:01:03.355675+00:00",
  "items": [
+  {
+   "key": "url:https://fortunegreece.com/article/dipa-109-ergastiria-simvouleftikis-ton-noemvrio-gia-ergasia-kai-epixeirimatikotita",
+   "title": "ΔΥΠΑ: 109 εργαστήρια συμβουλευτικής τον Νοέμβριο για εργασία και επιχειρηματικότητα",
+   "link": "https://www.fortunegreece.com/article/dipa-109-ergastiria-simvouleftikis-ton-noemvrio-gia-ergasia-kai-epixeirimatikotita/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Με την καθοδήγηση εξειδικευμένων εργασιακών συμβούλων, οι συμμετέχοντες θα έχουν τη δυνατότητα να βελτιώσουν το βιογραφικό τους, να προετοιμαστούν για μια συνέντευξη εργασίας και να ενημερωθούν για τα βήματα ανάπτυξης μιας επιχειρηματικής ιδέας.",
+   "first_seen": "2026-10-28T23:04:31+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/finance/markets/2181498/wall-street-anodos-gia-triti-diadochiki-synedriasi-sto-epikentro-i-fed-kai-ta-technologika-apotelesmata",
+   "title": "Wall Street: Άνοδος για τρίτη διαδοχική συνεδρίαση – Στο επίκεντρο η Fed και τα τεχνολογικά αποτελέσματα",
+   "link": "https://www.naftemporiki.gr/finance/markets/2181498/wall-street-anodos-gia-triti-diadochiki-synedriasi-sto-epikentro-i-fed-kai-ta-technologika-apotelesmata/?utm_source=rss&utm_medium=rss&utm_campaign=wall-street-anodos-gia-triti-diadochiki-synedriasi-sto-epikentro-i-fed-kai-ta-technologika-apotelesmata",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Mε άνοδο έκλεισαν και οι τρεις βασικοί χρηματιστηριακοί δείκτες στη σημερινή συνεδρίαση στη Wall Street, καθώς οι επενδυτές αξιολόγησαν την τελευταία απόφαση της Fed για τα επιτόκια και περίμεναν τις… Wall Street: Άνοδος για τρίτη διαδοχική συνεδρίαση – Στο επίκεντρο η Fed και τα τεχνολογικά αποτελέσματα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-10-28T21:38:50+00:00"
+  },
   {
    "key": "url:https://meetup.com/the-innovative-compass-lab/events/315416544",
    "title": "Claude Live Build: Websites + Routines",
@@ -94,19 +120,6 @@
    "first_seen": "2026-10-28T18:00:00+00:00"
   },
   {
-   "key": "url:https://naftemporiki.gr/society/2181434/epeisodia-sto-kentro-tis-thessalonikis-me-aformi-omilia-toy-kasidiari",
-   "title": "Επεισόδια στο κέντρο της Θεσσαλονίκης με αφορμή ομιλία του Κασιδιάρη",
-   "link": "https://www.naftemporiki.gr/society/2181434/epeisodia-sto-kentro-tis-thessalonikis-me-aformi-omilia-toy-kasidiari/?utm_source=rss&utm_medium=rss&utm_campaign=epeisodia-sto-kentro-tis-thessalonikis-me-aformi-omilia-toy-kasidiari",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Επεισόδια σημειώθηκαν αργά το μεσημέρι της Τετάρτης (28/10) στο κέντρο της Θεσσαλονίκης, στο περιθώριο συγκέντρωσης διαμαρτυρίας που πραγματοποιήθηκε με αφορμή την προγραμματισμένη ομιλία του Ηλία Κασιδιάρη σε κεντρικό ξενοδοχείο της… Επεισόδια στο κέντρο της Θεσσαλονίκης με αφορμή ομιλία του Κασιδιάρη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-10-28T16:07:41+00:00"
-  },
-  {
    "key": "url:https://businessvoice.gr/oikonomia/995364/wall-street-se-thetiko-edafos-enopsei-fed-kai-apotelesmaton-microsoft-alphabet",
    "title": "Wall Street σε θετικό έδαφος ενόψει Fed και αποτελεσμάτων Microsoft–Alphabet",
    "link": "https://businessvoice.gr/oikonomia/995364/wall-street-se-thetiko-edafos-enopsei-fed-kai-apotelesmaton-microsoft-alphabet/",
@@ -131,19 +144,6 @@
    "location": "",
    "summary": "Η «Ασπίδα του Αχιλλέα» παρουσιάστηκε για πρώτη φορά στη στρατιωτική παρέλαση της Θεσσαλονίκης, με συστήματα αεράμυνας, αντι-drone τεχνολογίες και πυραύλους που στοχεύουν στην ενίσχυση της προστασίας της χώρας απέναντι σε σύγχρονες εναέριες απειλές.",
    "first_seen": "2026-10-28T13:04:08.863725+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/ekthesi-lancet-710-chiliades-thanatoi-apo-tin-akraia-zesti-pagkosmios",
-   "title": "Έκθεση Lancet: Ρεκόρ θανάτων από τη ζέστη σε παγκόσμιο επίπεδο και Ευρώπη",
-   "link": "https://techmaniacs.gr/ekthesi-lancet-710-chiliades-thanatoi-apo-tin-akraia-zesti-pagkosmios/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η κλιματική αλλαγή επιβαρύνει όλο και περισσότερο την ανθρώπινη υγεία και αυτό έχει ήδη αρχίσει να φαίνεται εδώ και χρόνια. Εκτός από την κακή ποιότητα του αέρα που αναπνέουμε, οι επιπτώσεις της ακραίας ζέστης των τελευταίων ετών γίνεται όλο και πιο δύσκολο να αγνοηθούν. Μάλιστα, σύμφωνα με την τελευταία έκθεση του έγκριτου ιατρικού περιοδικού Lancet […] The post Έκθεση Lancet: Ρεκόρ θανάτων από τη ζέστη σε παγκόσμιο επίπεδο και Ευρώπη appeared first on Techmaniacs .",
-   "first_seen": "2026-10-28T11:30:28+00:00"
   },
   {
    "key": "url:https://startupper.gr/gnomes/283118/limani-thessalonikis-ta-polemika-kataloipa-tou-1940-ston-vytho-tou-6ou-provlita-kai-to-stoichima-tis-anaptyxis",
