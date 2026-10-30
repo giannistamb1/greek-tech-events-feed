@@ -6,16 +6,79 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Fri, 30 Oct 2026 18:03:37 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:26:16 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>[03 Nov] Can We Make AIs Sentient – and Should We? Solms vs Humphrey Live Debate</title>
-<link>https://www.meetup.com/conscious-ai/events/317070860/</link>
-<guid isPermaLink="false">url:https://meetup.com/conscious-ai/events/317070860</guid>
-<pubDate>Fri, 30 Oct 2026 18:03:37 +0000</pubDate>
+<title>[06 Nov] Latinos Night | Where Social Meets Latin Rhythm 🎶</title>
+<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317142572/</link>
+<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317142572</guid>
+<pubDate>Fri, 30 Oct 2026 22:26:16 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 06 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Athens, 0, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;This is not just another Friday night — it is a real Latin social experience. 🇱🇦🔥 Location: https://maps.app.goo.gl/9cEtfXNj91suh7TM9?g_st=ac If you have been looking for a night where you can meet new people, talk, laugh, move around, dance a little, and feel the energy, this is the one. Latinos Night | Kallithea is back every second Friday at El Latino Café Bar — a cozy hidden Latin spot just a short walk from Kallithea Metro 🚇 The concept is simple: a social night with real connection, great music, and the freedom to do both — stand, sit, mingle, dance, and enjoy the vibe exactly how you like it. 🎧 Latin DJ all night 💃 Social atmosphere with movement and connection 🍹 Happy Hour 8:30–10:00…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[31 Oct] Hack The Box Meetup: Jordan #06</title>
+<link>https://www.meetup.com/hack-the-box-meetup-amman-jo/events/317158171/</link>
+<guid isPermaLink="false">url:https://meetup.com/hack-the-box-meetup-amman-jo/events/317158171</guid>
+<pubDate>Fri, 30 Oct 2026 22:26:16 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 03 November 2026, 20:15&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;To celebrate the publication of “*Perspectives on Machine Consciousness”*, we are hosting a live online debate between two of the leading thinkers in the science of consciousness. Mark Solms is a neuroscientist and psychoanalyst at the University of Cape Town. His book *The Hidden Spring* argues that consciousness is rooted in feeling, generated deep in the brainstem rather than the cortex. He is now working to build artificial agents that genuinely feel. Drawing on Karl Friston's free energy principle, his agents are driven by homeostatic needs they must regulate to survive, and he takes very seriously the moral questions their success would raise. Nick Humphrey is a theoretical psychologis…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 31 October 2026, 12:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Time for another meetup! Join us as we discover our way through labs, hacking, and security stuff. You can participate, learn and share knowledge, and win rewards from HackTheBox! This meetup will be on our discord server: https://discord.gg/zSrZ8KmQ87&lt;/p&gt;</description>
+</item>
+<item>
+<title>[28 Nov] The quantum advantage gap</title>
+<link>https://www.meetup.com/azureusergroupsundsvallsverige/events/317133375/</link>
+<guid isPermaLink="false">url:https://meetup.com/azureusergroupsundsvallsverige/events/317133375</guid>
+<pubDate>Fri, 30 Oct 2026 22:26:16 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 28 November 2026, 13:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;The quantum advantage gap - What software teams need to understand before quantum becomes practical. Quantum computing sounds like a future breakthrough, but for software teams the important question is more practical: what will it take before quantum becomes something we can actually build with? Today, the gap is not just about hardware. It is about programming models, tooling, architecture, resource estimation, hybrid execution, and knowing which problems are even worth trying. In this session, we explore that gap from an engineering perspective. We will look at how quantum workloads differ from classical computing, why hybrid systems will matter, and how quantum may connect with AI, HPC, …&lt;/p&gt;</description>
+</item>
+<item>
+<title>[05 Nov] Rust Hack and Learn</title>
+<link>https://www.meetup.com/rust-berlin/events/316907780/</link>
+<guid isPermaLink="false">url:https://meetup.com/rust-berlin/events/316907780</guid>
+<pubDate>Fri, 30 Oct 2026 22:26:16 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;This event is happening online! Check all instructions on our website: https://berline.rs/ \-\-\- Rust is a language empowering everyone to build reliable and efficient software. Let's meet for open hacking and (co)-learning in our bi-weekly learning group! Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff. Please bring a computer. Bring your ideas, questions &amp;amp; projects and let’s meet. * What did you work on this week? * What problems did you solve this week with Rust? * Are you just learning Rust and want some topic explained? * Found an interesting crate you want to talk about? Feel free to join and drop out at any point. Everyone is invited to join us, no t…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[05 Nov] Intelligent Agile (IA) #6</title>
+<link>https://www.meetup.com/agile-conversations/events/316693460/</link>
+<guid isPermaLink="false">url:https://meetup.com/agile-conversations/events/316693460</guid>
+<pubDate>Fri, 30 Oct 2026 22:26:16 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 15:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**[A Six-Part Online Meetup Series](https://tobiasmayer.uk/edu/ia)** **Session 6** guest speaker: **[Derek Wade](https://www.linkedin.com/in/derekwwade/)** **Modern Management Metaphors** *A Cybernetic Paradigm for Your Organization’s AI Implementation* — Many leaders approach AI implementation with an Industrial-Age paradigm, wielding AI as a simple headcount-reducer. In knowledge work, the result can be a shifting of bottlenecks around the organization (at best) or even lost mission-critical capabilities (at worst). This is not the paradigm for improved customer satisfaction, market stability, or employee morale. A \*cybernetic\* paradigm of human/machine collaboration is needed to leverag…&lt;/p&gt;</description>
+</item>
+<item>
+<title>Sell-off στον Nasdaq: Η χειρότερη συνεδρίαση από το καλοκαίρi</title>
+<link>https://www.naftemporiki.gr/finance/markets/2182533/sell-off-ston-nasdaq-i-cheiroteri-synedriasi-apo-to-kalokairi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sell-off-ston-nasdaq-i-cheiroteri-synedriasi-apo-to-kalokairi</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/finance/markets/2182533/sell-off-ston-nasdaq-i-cheiroteri-synedriasi-apo-to-kalokairi</guid>
+<pubDate>Fri, 30 Oct 2026 21:09:56 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Με σημαντικές απώλειες έκλεισε τη σημερινή συνεδρίαση ο Nasdaq, καθώς οι επενδυτές απομακρύνθηκαν από τις μετοχές που συνδέονται με την τεχνητή νοημοσύνη και στράφηκαν σε πιο αμυντικούς κλάδους της αγοράς.… Sell-off στον Nasdaq: Η χειρότερη συνεδρίαση από το καλοκαίρi - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+</item>
+<item>
+<title>Φωτογραφήθηκε από κοντά το μυστικό διαστημικό αεροπλάνο της Κίνας – «Κλώνος» του X-37B</title>
+<link>https://techmaniacs.gr/fotografithike-apo-konta-to-mystiko-diastimiko-aeroplano-tis-kinas-klonos-toy-x-37b/</link>
+<guid isPermaLink="false">url:https://techmaniacs.gr/fotografithike-apo-konta-to-mystiko-diastimiko-aeroplano-tis-kinas-klonos-toy-x-37b</guid>
+<pubDate>Fri, 30 Oct 2026 19:29:21 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Ένας αμερικανικός εμπορικός δορυφόρος, που κανονικά έχει ως αποστολή να φωτογραφίζει τη Γη, έστρεψε το τηλεσκόπιό του προς το διάστημα το 2024 και κατέγραψε από κοντά το μυστικό διαστημικό αεροπλάνο της Κίνας. Η φωτογραφία δόθηκε πλέον στη δημοσιότητα, καθώς την συμπεριέλαβε η Υπηρεσία Πληροφοριών Άμυνας των ΗΠΑ (DIA) σε πρόσφατη, μη διαβαθμισμένη έκθεσή της για […] The post Φωτογραφήθηκε από κοντά το μυστικό διαστημικό αεροπλάνο της Κίνας – «Κλώνος» του X-37B appeared first on Techmaniacs .&lt;/p&gt;</description>
+</item>
+<item>
+<title>Μετά τις LG και οι τηλεοράσεις της Samsung ακούν τις συνομιλίες μας</title>
+<link>https://techmaniacs.gr/meta-tis-lg-kai-oi-tileoraseis-tis-samsung-akoyn-tis-synomilies-mas/</link>
+<guid isPermaLink="false">url:https://techmaniacs.gr/meta-tis-lg-kai-oi-tileoraseis-tis-samsung-akoyn-tis-synomilies-mas</guid>
+<pubDate>Fri, 30 Oct 2026 18:24:24 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Αν έχετε τηλεόραση Samsung, ακόμα και χωρίς ενσωματωμένο μικρόφωνο, τότε αυτή ενδέχεται να σας ακούει, σύμφωνα με νέα έρευνα τα ευρήματα της οποίας δημοσιεύτηκαν αυτή την εβδομάδα. Ο ερευνητής κυβερνοασφάλειας @log4j δημοσίευσε στο X (πρώην Twitter) πως, μετά από έλεγχο σε τηλεοράσεις της Samsung, διαπίστωσε ότι τα μοντέλα χωρίς μικρόφωνο σαρώνουν τον χώρο για συνδεδεμένες […] The post Μετά τις LG και οι τηλεοράσεις της Samsung ακούν τις συνομιλίες μας appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
 <title>[31 Oct] Capstone Project: MMAUG Bank Financial Fraud Detection Agent</title>
@@ -25,6 +88,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 31 October 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Develop an explainable fraud-detection platform that evaluates synthetic transaction signals, creates evidence-based investigation alerts and keeps consequential actions with authorised human or deterministic workflows. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-bank-financial-fraud-detection-agent&lt;/p&gt;</description>
+</item>
+<item>
+<title>[03 Nov] Can We Make AIs Sentient – and Should We? Solms vs Humphrey Live Debate</title>
+<link>https://www.meetup.com/conscious-ai/events/317070860/</link>
+<guid isPermaLink="false">url:https://meetup.com/conscious-ai/events/317070860</guid>
+<pubDate>Fri, 30 Oct 2026 18:03:37 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 03 November 2026, 20:15&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;To celebrate the publication of “*Perspectives on Machine Consciousness”*, we are hosting a live online debate between two of the leading thinkers in the science of consciousness. Mark Solms is a neuroscientist and psychoanalyst at the University of Cape Town. His book *The Hidden Spring* argues that consciousness is rooted in feeling, generated deep in the brainstem rather than the cortex. He is now working to build artificial agents that genuinely feel. Drawing on Karl Friston's free energy principle, his agents are driven by homeostatic needs they must regulate to survive, and he takes very seriously the moral questions their success would raise. Nick Humphrey is a theoretical psychologis…&lt;/p&gt;</description>
 </item>
 <item>
 <title>ΔΥΠΑ: Δωρεάν εργαστήρια για εργασία και επιχειρηματικότητα στις 14 Νοεμβρίου – Πώς θα συμμετάσχετε</title>
@@ -108,15 +180,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Οι πρώτοι 77 απόφοιτοι του ManagiDiTH, του κοινού ξενόγλωσσου μεταπτυχιακού προγράμματος του Αριστοτελείου Πανεπιστημίου θα παραλάβουν τα πτυχία τους, την Τρίτη 3 Νοεμβρίου 2026 και ώρα 9:00 π.μ., στην Αίθουσα Τελετών του Αριστοτελείου Πανεπιστημίου. Το πρόγραμμα ιδρύθηκε από κοινού με το ISCTE – University Institute of Lisbon (Πορτογαλία) και το Laurea University of Applied Sciences […] Το άρθρο DiTH: Ο ψηφιακός μετασχηματισμός στην υγεία στο επίκεντρο διεθνούς Συνεδρίου στο Αριστοτέλειο Πανεπιστήμιο εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
 </item>
 <item>
-<title>Τεράστια πτώση 20% στις αποστολές smartphones για το Q3 2026 – Είμαστε ακόμα στην αρχή</title>
-<link>https://techmaniacs.gr/smartphones-ptosi-20-omdia-q3-2026-krisi-mnimon-times/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/smartphones-ptosi-20-omdia-q3-2026-krisi-mnimon-times</guid>
-<pubDate>Fri, 30 Oct 2026 12:26:26 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Σύμφωνα με τη νέα έκθεση της Omdia για τις παγκόσμιες αποστολές smartphones, ο κλάδος της κινητής τηλεφωνίας βρίσκεται αντιμέτωπος με μια πρωτοφανή κατρακύλα της τάξης του 20% για το τρίτο τρίμηνο του 2026 (Q3 2026). Η εταιρεία ερευνών μετράει τις αποστολές από τα εργοστάσια προς τις αποθήκες και τα καταστήματα (sell-in) και όχι τις πραγματικές […] The post Τεράστια πτώση 20% στις αποστολές smartphones για το Q3 2026 – Είμαστε ακόμα στην αρχή appeared first on Techmaniacs .&lt;/p&gt;</description>
-</item>
-<item>
 <title>Samsung W27: Επίσημα το χρυσό Galaxy Z Fold8 Ultra για την Κίνα</title>
 <link>https://techblog.gr/mobile/samsung-w27-episima-to-chryso-galaxy-z-fold8-ultra-gia-tin-kina/</link>
 <guid isPermaLink="false">url:https://techblog.gr/mobile/samsung-w27-episima-to-chryso-galaxy-z-fold8-ultra-gia-tin-kina</guid>
@@ -133,15 +196,6 @@
 <category>Enterprise IT</category>
 <source url="https://www.ictplus.gr/">ICT Plus</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Με τη συμμετοχή του Αθανάσιου Μπαλέρμπα, Γενικού Γραμματέα Εσωτερικών και Οργάνωσης του υπουργείου Εσωτερικών, του Δημοσθένη Αναγνωστόπουλου, Γενικού Γραμματέα Πληροφοριακών Συστημάτων και Ψηφιακής Διακυβέρνησης, και της Γιώτας Παπαρίδου, προέδρου του Διοικητικού Συμβουλίου του Συνδέσμου Επιχειρήσεων Πληροφορικής και Επικοινωνιών Ελλάδας (ΣΕΠΕ), πραγματοποιήθηκε από τις 15 έως τις 17 Οκτωβρίου στα Ιωάννινα το 18ο OTS Forum 2026. […] Το άρθρο OTS Forum 2026: Η ψηφιακή πορεία της Τοπικής Αυτοδιοίκησης οι μελλοντικές προκλήσεις εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>[31 Oct] Portfolio UX Design</title>
-<link>https://www.meetup.com/smart-ux-design-group/events/317063100/</link>
-<guid isPermaLink="false">url:https://meetup.com/smart-ux-design-group/events/317063100</guid>
-<pubDate>Fri, 30 Oct 2026 10:08:43 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 31 October 2026, 15:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;We are excited to invite you to our upcoming event: Portfolio UX Design (English). This is the perfect opportunity to revise or improve your portfolio and showcase your skills as a UX designer. In this workshop, you will learn how to create a stunning UX portfolio that highlights your experience and creativity. You will gain valuable insights into the structure and content that captivate hiring managers and recruiters. Sign up now to secure your spot. We look forward to seeing you and working on your portfolios together! Best regards, Yuliya Smart UX Design&lt;/p&gt;</description>
 </item>
 <item>
 <title>Motorola Signature 27: Επίσημη παρουσίαση στις 5 Νοεμβρίου</title>
@@ -306,15 +360,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Η Google DeepMind παρουσίασε επίσημα το Genie 4, το νεότερο μοντέλο παραγωγής διαδραστικών κόσμων σε πραγματικό χρόνο, το οποίο ενσωματώνει ...&lt;/p&gt;</description>
 </item>
 <item>
-<title>Τεχνολογία του MIT δίνει αίσθηση αφής στα αντικείμενα μέσω 3D εκτύπωσης!</title>
-<link>https://www.techgear.gr/technologia-toy-mit-dinei-aisthisi-afis-sta-antikeimena-meso-3d-ektyposis-51085</link>
-<guid isPermaLink="false">url:https://techgear.gr/technologia-toy-mit-dinei-aisthisi-afis-sta-antikeimena-meso-3d-ektyposis-51085</guid>
-<pubDate>Tue, 27 Oct 2026 10:55:00 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://www.techgear.gr/">Techgear</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Ερευνητές του εργαστηρίου CSAIL του MIT ανέπτυξαν το λογισμικό X-Hinges, το οποίο επιτρέπει τον σχεδιασμό και την τρισδιάστατη εκτύπωση ...&lt;/p&gt;</description>
-</item>
-<item>
 <title>[13 Nov] Epic Tech Talks #3: Coding with Angular</title>
 <link>https://www.meetup.com/epic-studios-tech-talks/events/317142578/</link>
 <guid isPermaLink="false">url:https://meetup.com/epic-studios-tech-talks/events/317142578</guid>
@@ -338,8 +383,8 @@
 <guid isPermaLink="false">url:https://meetup.com/future-skills-community/events/316567427</guid>
 <pubDate>Fri, 23 Oct 2026 11:46:07 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 06 November 2026, 12:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** This 4-hour beginner-friendly workshop will introduce you to the fundamentals of AI, including how AI systems work, how machine learning models are created, and how AI is being used across industries today. Through interactive learning and practical examples, you'll explore the latest AI developments, discover how to choose the right AI tools for different tasks, and learn how to use AI responsibly. **Participants who attend the full session will receive a certificate of completion.** **What You'll Learn** * Latest AI developments and trends * How AI systems and machine learning models work * Choosing the right AI tools and models * Responsible and ethical use of AI …&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 06 November 2026, 12:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;**About this workshop:** This 4-hour beginner-friendly workshop will introduce you to the fundamentals of AI, including how AI systems work, how machine learning models are created, and how AI is being used across industries today. Through interactive learning and practical examples, you'll explore the latest AI developments, discover how to choose the right AI tools for different tasks, and learn how to use AI responsibly. **Participants who attend the full session will receive a certificate of completion.** **What You'll Learn** * Latest AI developments and trends * How AI systems and machine learning models work * Choosing the right AI tools and models * Responsible and ethical use of AI …&lt;/p&gt;</description>
 </item>
 <item>
 <title>[10 Nov] Hellenic Bitcoin: social meetup</title>
