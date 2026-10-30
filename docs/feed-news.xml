@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Thu, 29 Oct 2026 18:31:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 01:06:18 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>Πτωτικά έκλεισε η Wall Street</title>
+<link>https://www.naftemporiki.gr/finance/world/2182036/ptotika-ekleise-i-wall-street-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ptotika-ekleise-i-wall-street-3</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/finance/world/2182036/ptotika-ekleise-i-wall-street-3</guid>
+<pubDate>Thu, 29 Oct 2026 20:51:36 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Υπό πίεση βρέθηκαν οι μετοχές στη Wall Street στη σημερινή συνεδρίαση, καθώς οι επενδυτές αξιολόγησαν το νέο κύμα εταιρικών αποτελεσμάτων. Ο Nasdaq υποχώρησε 1,38%, κλείνοντας στις 26.184,72 μονάδες. Ο S&amp;amp;P… Πτωτικά έκλεισε η Wall Street - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+</item>
 <item>
 <title>ΤτΕ – Επιτροπή Κεφαλαιαγοράς: Νέο πλαίσιο για τις δοκιμές κυβερνοασφάλειας στον χρηματοοικονομικό τομέα</title>
 <link>https://www.fortunegreece.com/article/tte-epitropi-kefalaiagoras-neo-plaisio-gia-tis-dokimes-kivernoasfaleias-ston-xrimatooikonomiko-tomea/</link>
@@ -27,13 +36,31 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ξεπέρασε τις εκτιμήσεις των αναλυτών η γαλλική τράπεζα στο τρίτο τρίμηνο του 2026, με τα έσοδα να αγγίζουν τα 7,17 δισ. ευρώ – Οι ανησυχίες για το αυξημένο κόστος, το γαλλικό χρέος και την έκθεση στα data centers.&lt;/p&gt;</description>
 </item>
 <item>
-<title>Παρέμβαση Μπλέτσα στον ΟΗΕ: Η ασφάλεια της ναυτιλίας στην νέα ψηφιακή εποχή</title>
-<link>https://www.naftemporiki.gr/maritime/2181908/paremvasi-mpletsa-ston-oie-i-asfaleia-tis-naytilias-stin-nea-psifiaki-epochi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=paremvasi-mpletsa-ston-oie-i-asfaleia-tis-naytilias-stin-nea-psifiaki-epochi</link>
-<guid isPermaLink="false">url:https://naftemporiki.gr/maritime/2181908/paremvasi-mpletsa-ston-oie-i-asfaleia-tis-naytilias-stin-nea-psifiaki-epochi</guid>
-<pubDate>Thu, 29 Oct 2026 16:11:15 +0000</pubDate>
+<title>AI FilmFest Athens: Το πρώτο φεστιβάλ ταινιών τεχνητής νοημοσύνης στην Ελλάδα έρχεται στις 6 Νοεμβρίου</title>
+<link>https://www.insider.gr/eidiseis/430687/ai-filmfest-athens-proto-festibal-tainion-tehnitis-noimosynis-stin-ellada-erhetai</link>
+<guid isPermaLink="false">url:https://insider.gr/eidiseis/430687/ai-filmfest-athens-proto-festibal-tainion-tehnitis-noimosynis-stin-ellada-erhetai</guid>
+<pubDate>Thu, 29 Oct 2026 15:09:01 +0000</pubDate>
 <category>Business &amp; tech media</category>
-<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Την εξέλιξη της παγκόσμιας ναυτιλίας σε ένα ιδιαίτερα ψηφιοποιημένο και διασυνδεδεμένο περιβάλλον, στο οποίο η αξιοποίηση προηγμένων τεχνολογιών δημιουργεί νέες δυνατότητες, αλλά ταυτόχρονα διευρύνει την έκθεση σε αναδυόμενες κυβερνοαπειλές και… Παρέμβαση Μπλέτσα στον ΟΗΕ: Η ασφάλεια της ναυτιλίας στην νέα ψηφιακή εποχή - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Στις 6 Νοεμβρίου το Experience Center στην Αθήνα θα φιλοξενήσει το πρώτο AI Filmfest στην Ελλάδα. Έν...&lt;/p&gt;</description>
+</item>
+<item>
+<title>Check Point: Η νέα λύση Maestro Hyperscale Orchestrator προστατεύει την AI κίνηση σε υποδομές χωρίς συμβιβασμούς στην απόδοση</title>
+<link>https://www.ictplus.gr/check-point-i-nea-lysi-maestro-hyperscale-orchestrator-prostatevei-tin-ai-kinisi-se-ypodomes-choris-symvivasmous-stin-apodosi/</link>
+<guid isPermaLink="false">url:https://ictplus.gr/check-point-i-nea-lysi-maestro-hyperscale-orchestrator-prostatevei-tin-ai-kinisi-se-ypodomes-choris-symvivasmous-stin-apodosi</guid>
+<pubDate>Thu, 29 Oct 2026 14:56:58 +0000</pubDate>
+<category>Enterprise IT</category>
+<source url="https://www.ictplus.gr/">ICT Plus</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Το νέο Maestro Hyperscale Orchestrator 200 τετραπλασιάζει τη χωρητικότητα των υποδομών ασφαλείας, ανταποκρινόμενο στις αυξανόμενες απαιτήσεις της εποχής της Τεχνητής Νοημοσύνης Το άρθρο Check Point: Η νέα λύση Maestro Hyperscale Orchestrator προστατεύει την AI κίνηση σε υποδομές χωρίς συμβιβασμούς στην απόδοση εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
+</item>
+<item>
+<title>From AI to ROI 2026: Οι μεγαλύτερες ελληνικές επιχειρήσεις παρουσιάζουν την τεχνητή νοημοσύνη σε πραγματική λειτουργία</title>
+<link>https://www.ictplus.gr/from-ai-to-roi-2026-oi-megalyteres-ellinikes-epicheiriseis-parousiazoun-tin-techniti-noimosyni-se-pragmatiki-leitourgia/</link>
+<guid isPermaLink="false">url:https://ictplus.gr/from-ai-to-roi-2026-oi-megalyteres-ellinikes-epicheiriseis-parousiazoun-tin-techniti-noimosyni-se-pragmatiki-leitourgia</guid>
+<pubDate>Thu, 29 Oct 2026 13:04:29 +0000</pubDate>
+<category>Enterprise IT</category>
+<source url="https://www.ictplus.gr/">ICT Plus</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Το 3ο συνέδριο της Satori Analytics έφερε στη σκηνή ηγέτες μεγάλων ελληνικών επιχειρήσεων, κυβερνητικά στελέχη, διεθνείς ομιλητές και έργα τεχνητής νοημοσύνης που ήδη εφαρμόζονται και αποδίδουν Το άρθρο From AI to ROI 2026: Οι μεγαλύτερες ελληνικές επιχειρήσεις παρουσιάζουν την τεχνητή νοημοσύνη σε πραγματική λειτουργία εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
 </item>
 <item>
 <title>Από τον πειραματισμό στην κερδοφορία: Πώς οι ελληνικές επιχειρήσεις παράγουν μετρήσιμο ROI από την τεχνητή νοημοσύνη</title>
@@ -43,15 +70,6 @@
 <category>Startups</category>
 <source url="https://startupper.gr/">Startupper</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Startupper · Startups&lt;/p&gt;&lt;p&gt;Το 3ο συνέδριο της Satori Analytics στο ΚΠΙΣΝ συγκέντρωσε 400 κορυφαία στελέχη από 200 οργανισμούς, επισφραγίζοντας την ωρίμανση του εγχώριου οικοσυστήματος AI The post Από τον πειραματισμό στην κερδοφορία: Πώς οι ελληνικές επιχειρήσεις παράγουν μετρήσιμο ROI από την τεχνητή νοημοσύνη appeared first on STARTUPPER .&lt;/p&gt;</description>
-</item>
-<item>
-<title>From AI to ROI 2026: Οι μεγαλύτερες ελληνικές επιχειρήσεις παρουσιάζουν την τεχνητή νοημοσύνη σε πραγματική λειτουργία</title>
-<link>https://www.fortunegreece.com/article/from-ai-to-roi-2026-oi-megaliteres-ellinikes-epixeiriseis-parousiazoun-tin-texniti-noimosini-se-pragmatiki-leitourgia/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/from-ai-to-roi-2026-oi-megaliteres-ellinikes-epixeiriseis-parousiazoun-tin-texniti-noimosini-se-pragmatiki-leitourgia</guid>
-<pubDate>Thu, 29 Oct 2026 10:05:33 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Το 3ο συνέδριο της Satori Analytics έφερε στη σκηνή ηγέτες μεγάλων ελληνικών επιχειρήσεων, κυβερνητικά στελέχη, διεθνείς ομιλητές και έργα τεχνητής νοημοσύνης που ήδη εφαρμόζονται και αποδίδουν&lt;/p&gt;</description>
 </item>
 <item>
 <title>ΗΔΥΚΑ: Νέα προθεσμία στον διαγωνισμό για το Ενιαίο Οικοσύστημα Ψηφιακής Υγείας</title>
