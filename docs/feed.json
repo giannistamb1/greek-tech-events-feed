@@ -1,19 +1,188 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-30T10:08:43.614400+00:00",
+ "built": "2026-10-30T18:03:37.600721+00:00",
  "items": [
   {
-   "key": "url:https://meetup.com/kql-cafe/events/314043561",
-   "title": "KustoCon 2026 (Cloud edition)",
-   "link": "https://www.meetup.com/kql-cafe/events/314043561/",
+   "key": "url:https://meetup.com/conscious-ai/events/317070860",
+   "title": "Can We Make AIs Sentient – and Should We? Solms vs Humphrey Live Debate",
+   "link": "https://www.meetup.com/conscious-ai/events/317070860/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-30T14:00:00+02:00",
+   "starts": "2026-11-03T20:15:00+02:00",
    "location": "Online",
-   "summary": "**🌐 KustoCon Online – Afternoon Sessions** 🗓 **30th of October, 2025** 🕐 **13:00 – 19:25 (CET)** 📍 **Online (Livestream)** Can’t make it to Zürich? Join the **KustoCon afternoon program online** and tune in to a powerful series of sessions led by industry experts and passionate KQL practitioners. We’ll kick things off with an opening from Gianni & Alex, followed by real-world stories, practical tips, and demos from speakers across Europe. Expect deep dives into detection engineering, incident response, and innovative use cases for Microsoft Sentinel and Defender XDR. 📶 All sessions will be livestreamed, and no matter where you are, you’ll be part of the action! For more information about the…",
-   "first_seen": "2026-10-30T10:08:43.614400+00:00"
+   "summary": "To celebrate the publication of “*Perspectives on Machine Consciousness”*, we are hosting a live online debate between two of the leading thinkers in the science of consciousness. Mark Solms is a neuroscientist and psychoanalyst at the University of Cape Town. His book *The Hidden Spring* argues that consciousness is rooted in feeling, generated deep in the brainstem rather than the cortex. He is now working to build artificial agents that genuinely feel. Drawing on Karl Friston's free energy principle, his agents are driven by homeostatic needs they must regulate to survive, and he takes very seriously the moral questions their success would raise. Nick Humphrey is a theoretical psychologis…",
+   "first_seen": "2026-10-30T18:03:37.600721+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863058",
+   "title": "Capstone Project: MMAUG Bank Financial Fraud Detection Agent",
+   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863058/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-10-31T19:00:00+02:00",
+   "location": "Online",
+   "summary": "Develop an explainable fraud-detection platform that evaluates synthetic transaction signals, creates evidence-based investigation alerts and keeps consequential actions with authorised human or deterministic workflows. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-bank-financial-fraud-detection-agent",
+   "first_seen": "2026-10-30T18:03:37.600721+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/dipa-dorean-ergastiria-gia-ergasia-kai-epixeirimatikotita-stis-14-noemvriou-pos-tha-simmetasxete",
+   "title": "ΔΥΠΑ: Δωρεάν εργαστήρια για εργασία και επιχειρηματικότητα στις 14 Νοεμβρίου – Πώς θα συμμετάσχετε",
+   "link": "https://www.fortunegreece.com/article/dipa-dorean-ergastiria-gia-ergasia-kai-epixeirimatikotita-stis-14-noemvriou-pos-tha-simmetasxete/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Το 13ο JobReady by DYPA έρχεται στην Αθήνα με δωρεάν εργαστήρια για βιογραφικά, συνεντεύξεις εργασίας, επαγγελματικές δεξιότητες και επιχειρηματικότητα. Πού θα πραγματοποιηθεί η εκδήλωση και πώς μπορείτε να δηλώσετε συμμετοχή.",
+   "first_seen": "2026-10-30T18:03:37.600721+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/news/283601/to-neo-spor-roloi-tis-norqain-zygizei-molis-45-grammaria-kai-antechei-se-akraies-kataponiseis",
+   "title": "Το νέο σπορ ρολόι της Norqain ζυγίζει μόλις 45 γραμμάρια και αντέχει σε ακραίες καταπονήσεις",
+   "link": "https://startupper.gr/news/283601/to-neo-spor-roloi-tis-norqain-zygizei-molis-45-grammaria-kai-antechei-se-akraies-kataponiseis/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Η ελβετική ωρολογοποιία Norqain παρουσίασε επίσημα τη νέα έκδοση της σειράς Wild One Skeleton X Lite σε τιρκουάζ απόχρωση, συνεχίζοντας την ανάπτυξη εξαιρετικά ελαφριών μηχανικών ρολογιών με έμφαση στην τεχνολογία υλικών. Με συνολικό βάρος μόλις 45 γραμμαρίων, στο οποίο περιλαμβάνεται και το λουράκι, το νέο μοντέλο αποτελεί την πιο προηγμένη τεχνικά πρόταση της εταιρείας στην […] The post Το νέο σπορ ρολόι της Norqain ζυγίζει μόλις 45 γραμμάρια και αντέχει σε ακραίες καταπονήσεις appeared first on STARTUPPER .",
+   "first_seen": "2026-10-30T17:17:24+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/android-auto-efarmoges-video-browsers",
+   "title": "Google: Το Android Auto φέρνει επιτέλους εφαρμογές video",
+   "link": "https://techmaniacs.gr/android-auto-efarmoges-video-browsers/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Google επιβεβαίωσε στο συνέδριο Android Dev Summit ότι οι εφαρμογές αναπαραγωγής βίντεο και οι web browsers για το Android Auto παραμένουν σε τροχιά διάθεσης, καθώς πλησιάζει η προθεσμία που είχε θέσει η ίδια η εταιρεία. Τον Μάιο του 2026, ο τεχνολογικός κολοσσός είχε ανακοινώσει πως η υποστήριξη video apps θα κυκλοφορούσε εντός του έτους […] The post Google: Το Android Auto φέρνει επιτέλους εφαρμογές video appeared first on Techmaniacs .",
+   "first_seen": "2026-10-30T16:32:38+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/all-connected/283573/apple-parousiase-to-proto-macbook-pro-me-othoni-afis-kai-tandem-oled-kai-tsip-m5",
+   "title": "Apple: Παρουσίασε το πρώτο MacBook Pro με οθόνη αφής και Tandem OLED και τσιπ M5",
+   "link": "https://startupper.gr/all-connected/283573/apple-parousiase-to-proto-macbook-pro-me-othoni-afis-kai-tandem-oled-kai-tsip-m5/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Το ανασχεδιασμένο MacBook Pro ενσωματώνει οθόνη PROLED XDR με φωτεινότητα 2.000 nits, Dynamic Island, νέο σταθερό μεντεσέ και τους πανίσχυρους επεξεργαστές M5 Pro και M5 Max The post Apple: Παρουσίασε το πρώτο MacBook Pro με οθόνη αφής και Tandem OLED και τσιπ M5 appeared first on STARTUPPER .",
+   "first_seen": "2026-10-30T16:18:55+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/ai/283550/synergy-enas-synergatikos-pantognostis-apanta-se-oles-anagkes-tou-logistikou-kladou",
+   "title": "SYNERGY: Ένας συνεργατικός παντογνώστης απαντά σε όλες ανάγκες του λογιστικού κλάδου",
+   "link": "https://startupper.gr/ai/283550/synergy-enas-synergatikos-pantognostis-apanta-se-oles-anagkes-tou-logistikou-kladou/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Με το σύνθημα «Ένα δίκτυο όπου όλοι κερδίζουν», παρουσιάστηκε στο ΕΒΕΑ την Παρασκευή 30/10/2026, το πανελλαδικό δίκτυο που γεννήθηκε μέσα από έρευνα σε λογιστές, συνδυάζει συνεργασία, τεχνητή νοημοσύνη και επιχειρηματική ανάπτυξη. Η Synergy Accounting Intelligent Network αφορά σε μια νέα επιχειρηματική πρωτοβουλία για τη δημιουργία ενός σύγχρονου πανελλαδικού δικτύου λογιστικών γραφείων. Η Synergy δημιουργήθηκε για […] The post SYNERGY: Ένας συνεργατικός παντογνώστης απαντά σε όλες ανάγκες του λογιστικού κλάδου appeared first on STARTUPPER .",
+   "first_seen": "2026-10-30T15:54:46+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/all-connected/283551/philips-evnia-nea-epochi-sto-gaming-display-me-qd-oled-panels-leitourgia-dual-mode-eos-320-hz-kai-ai-ambiglow",
+   "title": "Philips Evnia: Νέα εποχή στο gaming display με QD-OLED panels, λειτουργία Dual Mode έως 320 Hz και AI Ambiglow",
+   "link": "https://startupper.gr/all-connected/283551/philips-evnia-nea-epochi-sto-gaming-display-me-qd-oled-panels-leitourgia-dual-mode-eos-320-hz-kai-ai-ambiglow/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Philips Evnia αναδιαμορφώνει τα gaming setups γεφυρώνοντας το χάσμα ανάμεσα σε κονσόλες και PC The post Philips Evnia: Νέα εποχή στο gaming display με QD-OLED panels, λειτουργία Dual Mode έως 320 Hz και AI Ambiglow appeared first on STARTUPPER .",
+   "first_seen": "2026-10-30T15:41:51+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/startups/283498/10-xronia-startupper-awards-erchontai",
+   "title": "10 χρόνια Startupper Awards",
+   "link": "https://startupper.gr/startups/283498/10-xronia-startupper-awards-erchontai/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Τα Startupper Awards 2026 έρχονται, στις 30 Νοεμβρίου, στον Ελληνικό Κόσμο και ετοιμάζονται να κάνουν δημιουργική φασαρία ρίχνοντας φως στους πραγματικούς πρωταγωνιστές! The post 10 χρόνια Startupper Awards appeared first on STARTUPPER .",
+   "first_seen": "2026-10-30T14:31:48+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/news/283520/d-papastergiou-o-psifiakos-thorakas-tis-elladas-apenanti-stin-klimatiki-krisi-apo-tous-mikrodoryforous-ston-daidalo",
+   "title": "Δ. Παπαστεργίου: Ο ψηφιακός «θώρακας» της Ελλάδας απέναντι στην κλιματική κρίση – Από τους μικροδορυφόρους στον «Δαίδαλο»",
+   "link": "https://startupper.gr/news/283520/d-papastergiou-o-psifiakos-thorakas-tis-elladas-apenanti-stin-klimatiki-krisi-apo-tous-mikrodoryforous-ston-daidalo/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Μιλώντας στο συνέδριο Rethymno Blue Shield, ο Υπουργός Ψηφιακής Διακυβέρνησης, Δημήτρης Παπαστεργίου, παρουσίασε τη δέσμη ψηφιακών εργαλείων για την αντιμετώπιση της κλιματικής κρίσης The post Δ. Παπαστεργίου: Ο ψηφιακός «θώρακας» της Ελλάδας απέναντι στην κλιματική κρίση – Από τους μικροδορυφόρους στον «Δαίδαλο» appeared first on STARTUPPER .",
+   "first_seen": "2026-10-30T14:07:31+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/dith-o-psifiakos-metaschimatismos-stin-ygeia-sto-epikentro-diethnous-synedriou-sto-aristoteleio-panepistimio",
+   "title": "DiTH: Ο ψηφιακός μετασχηματισμός στην υγεία στο επίκεντρο διεθνούς Συνεδρίου στο Αριστοτέλειο Πανεπιστήμιο",
+   "link": "https://www.ictplus.gr/dith-o-psifiakos-metaschimatismos-stin-ygeia-sto-epikentro-diethnous-synedriou-sto-aristoteleio-panepistimio/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Οι πρώτοι 77 απόφοιτοι του ManagiDiTH, του κοινού ξενόγλωσσου μεταπτυχιακού προγράμματος του Αριστοτελείου Πανεπιστημίου θα παραλάβουν τα πτυχία τους, την Τρίτη 3 Νοεμβρίου 2026 και ώρα 9:00 π.μ., στην Αίθουσα Τελετών του Αριστοτελείου Πανεπιστημίου. Το πρόγραμμα ιδρύθηκε από κοινού με το ISCTE – University Institute of Lisbon (Πορτογαλία) και το Laurea University of Applied Sciences […] Το άρθρο DiTH: Ο ψηφιακός μετασχηματισμός στην υγεία στο επίκεντρο διεθνούς Συνεδρίου στο Αριστοτέλειο Πανεπιστήμιο εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-30T12:48:28+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/smartphones-ptosi-20-omdia-q3-2026-krisi-mnimon-times",
+   "title": "Τεράστια πτώση 20% στις αποστολές smartphones για το Q3 2026 – Είμαστε ακόμα στην αρχή",
+   "link": "https://techmaniacs.gr/smartphones-ptosi-20-omdia-q3-2026-krisi-mnimon-times/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Σύμφωνα με τη νέα έκθεση της Omdia για τις παγκόσμιες αποστολές smartphones, ο κλάδος της κινητής τηλεφωνίας βρίσκεται αντιμέτωπος με μια πρωτοφανή κατρακύλα της τάξης του 20% για το τρίτο τρίμηνο του 2026 (Q3 2026). Η εταιρεία ερευνών μετράει τις αποστολές από τα εργοστάσια προς τις αποθήκες και τα καταστήματα (sell-in) και όχι τις πραγματικές […] The post Τεράστια πτώση 20% στις αποστολές smartphones για το Q3 2026 – Είμαστε ακόμα στην αρχή appeared first on Techmaniacs .",
+   "first_seen": "2026-10-30T12:26:26+00:00"
+  },
+  {
+   "key": "url:https://techblog.gr/mobile/samsung-w27-episima-to-chryso-galaxy-z-fold8-ultra-gia-tin-kina",
+   "title": "Samsung W27: Επίσημα το χρυσό Galaxy Z Fold8 Ultra για την Κίνα",
+   "link": "https://techblog.gr/mobile/samsung-w27-episima-to-chryso-galaxy-z-fold8-ultra-gia-tin-kina/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Το Samsung W27 παρουσιάστηκε στην Κίνα ως Galaxy Z Fold8 Ultra με χρυσές λεπτομέρειες και δορυφορική σύνδεση, από 18.999 γιουάν. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Samsung W27: Επίσημα το χρυσό Galaxy Z Fold8 Ultra για την Κίνα )",
+   "first_seen": "2026-10-30T11:00:00+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/ots-forum-2026-i-psifiaki-poreia-tis-topikis-aftodioikisis-oi-mellontikes-prokliseis",
+   "title": "OTS Forum 2026: Η ψηφιακή πορεία της Τοπικής Αυτοδιοίκησης οι μελλοντικές προκλήσεις",
+   "link": "https://www.ictplus.gr/ots-forum-2026-i-psifiaki-poreia-tis-topikis-aftodioikisis-oi-mellontikes-prokliseis/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Με τη συμμετοχή του Αθανάσιου Μπαλέρμπα, Γενικού Γραμματέα Εσωτερικών και Οργάνωσης του υπουργείου Εσωτερικών, του Δημοσθένη Αναγνωστόπουλου, Γενικού Γραμματέα Πληροφοριακών Συστημάτων και Ψηφιακής Διακυβέρνησης, και της Γιώτας Παπαρίδου, προέδρου του Διοικητικού Συμβουλίου του Συνδέσμου Επιχειρήσεων Πληροφορικής και Επικοινωνιών Ελλάδας (ΣΕΠΕ), πραγματοποιήθηκε από τις 15 έως τις 17 Οκτωβρίου στα Ιωάννινα το 18ο OTS Forum 2026. […] Το άρθρο OTS Forum 2026: Η ψηφιακή πορεία της Τοπικής Αυτοδιοίκησης οι μελλοντικές προκλήσεις εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-10-30T10:20:18+00:00"
   },
   {
    "key": "url:https://meetup.com/smart-ux-design-group/events/317063100",
@@ -55,32 +224,6 @@
    "first_seen": "2026-10-30T07:56:52+00:00"
   },
   {
-   "key": "url:https://startupper.gr/news/283346/makrozoia-apo-tin-psevdoepistimi-stin-pragmatiki-viotechnologia-part-i",
-   "title": "Μακροζωία: Από την ψευδοεπιστήμη στην πραγματική βιοτεχνολογία (Part I)",
-   "link": "https://startupper.gr/news/283346/makrozoia-apo-tin-psevdoepistimi-stin-pragmatiki-viotechnologia-part-i/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο θάνατος του Γιώργου Μαζωνάκη μετά την ανακοπή που υπέστη σε ιδιωτικό ιατρείο στο Κολωνάκι, σε συνεδρία πλασμαφαίρεσης, λειτούργησε σαν βίαιος έλεγχος πραγματικότητας για το πώς μπλέκονται στην Ελλάδα ιατρικές πράξεις, ψευδοεπιστήμη και βιομηχανία ευεξίας The post Μακροζωία: Από την ψευδοεπιστήμη στην πραγματική βιοτεχνολογία (Part I) appeared first on STARTUPPER .",
-   "first_seen": "2026-10-30T07:03:04+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/news/283319/to-proto-gala-choris-agelada-tis-opalia-tha-dokimastei-gia-tin-paragogi-galaktomikon",
-   "title": "Το πρώτο γάλα “χωρίς αγελάδα” της Opalia θα δοκιμαστεί για την παραγωγή γαλακτοκομικών",
-   "link": "https://startupper.gr/news/283319/to-proto-gala-choris-agelada-tis-opalia-tha-dokimastei-gia-tin-paragogi-galaktomikon/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η ολλανδική Hoogwegt, ένας από τους μεγαλύτερους προμηθευτές γαλακτοκομικών συστατικών παγκοσμίως, θα αγοράσει την πρώτη παρτίδα πλήρους γάλακτος που παράγει η καναδική startup Opalia με τεχνολογία κυτταρικής καλλιέργειας. H ποσότητα γάλακτος “χωρίς αγελάδα” θα χρησιμοποιηθεί κυρίως για εργαστηριακούς ελέγχους και ανάπτυξη προϊόντων και όχι για εμπορική διάθεση. Οι δύο εταιρείες την παρουσιάζουν ως την πρώτη […] The post Το πρώτο γάλα “χωρίς αγελάδα” της Opalia θα δοκιμαστεί για την παραγωγή γαλακτοκομικών appeared first on STARTUPPER .",
-   "first_seen": "2026-10-30T06:00:40+00:00"
-  },
-  {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317014872",
    "title": "🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥",
    "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317014872/",
@@ -91,19 +234,6 @@
    "starts": "2026-11-05T20:30:00+02:00",
    "location": "Mint Music bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
    "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) 🤍 A new season of meeting people starts here. Coming alone? New in Athens? Shy or a little introverted? You’re exactly who we want to welcome. ✨ Every Thursday, we meet at Mint Bar for a relaxed social night where you can come alone, meet new people, and feel comfortable from the moment you arrive. No need to bring friends. No need to be super outgoing. Just come as you are. 🫶 🌍 Locals • Travellers • Expats • Couples • Friends • Solo people Everyone is welcome. Come for good conversati…",
-   "first_seen": "2026-10-30T01:06:18.308533+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/the-devops-world-meetup-group/events/316008940",
-   "title": "Building & Governing AI: Semantic Search with DynamoDB + EU AI Act Risk Tiers",
-   "link": "https://www.meetup.com/the-devops-world-meetup-group/events/316008940/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-30T19:30:00+02:00",
-   "location": "Online",
-   "summary": "**Agenda:** 18:30 - 18:40 hrs - Welcome , Community updates and Intro 18:40 - 19:10 hrs : **Topic 1: One Less Database to Operate: Rethinking Semantic Search with DynamoDB - *[Host: Chidimma Dominic Nweke, AWS Certified Software Engineer]*** Adding semantic search often means adding another datastore, replication pipeline, and operational burden. But what if your existing database could handle it too? In this session, we’ll build a semantic search application using Amazon Bedrock embeddings and DynamoDB vector search, exploring how vector search fits alongside traditional DynamoDB access patterns. We’ll also look beyond the demo at the architectural trade-offs, from cost and observability to…",
    "first_seen": "2026-10-30T01:06:18.308533+00:00"
   },
   {
@@ -133,6 +263,19 @@
    "first_seen": "2026-10-30T01:06:18.308533+00:00"
   },
   {
+   "key": "url:https://meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/316572614",
+   "title": "Nov 11 - AI, ML and Computer Vision Meetup",
+   "link": "https://www.meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/316572614/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-11T19:00:00+02:00",
+   "location": "Online",
+   "summary": "Join our virtual meetup to hear talks from experts on cutting-edge topics across AI, ML, and computer vision. **Time, Date and Location** Nov 11, 2026 9:00 AM - 11:00 AM PST Online. **[Register for the Zoom!](https://voxel51.com/events/ai-ml-and-computer-vision-meetup-november-11-2026)** **Agentic RAG: Beyond Retrieve-and-Generate** Retrieval-Augmented Generation (RAG) has become the default pattern for grounding large language models in external knowledge, but most implementations still follow a rigid retrieve-once, generate-once pipeline — one that struggles with multi-hop questions, ambiguous queries, and knowing when its own retrieved context is insufficient. This talk introduces Agentic…",
+   "first_seen": "2026-10-30T01:06:18.308533+00:00"
+  },
+  {
    "key": "url:https://fortunegreece.com/article/tte-epitropi-kefalaiagoras-neo-plaisio-gia-tis-dokimes-kivernoasfaleias-ston-xrimatooikonomiko-tomea",
    "title": "ΤτΕ – Επιτροπή Κεφαλαιαγοράς: Νέο πλαίσιο για τις δοκιμές κυβερνοασφάλειας στον χρηματοοικονομικό τομέα",
    "link": "https://www.fortunegreece.com/article/tte-epitropi-kefalaiagoras-neo-plaisio-gia-tis-dokimes-kivernoasfaleias-ston-xrimatooikonomiko-tomea/",
@@ -159,30 +302,17 @@
    "first_seen": "2026-10-29T18:31:08.719112+00:00"
   },
   {
-   "key": "url:https://ictplus.gr/check-point-i-nea-lysi-maestro-hyperscale-orchestrator-prostatevei-tin-ai-kinisi-se-ypodomes-choris-symvivasmous-stin-apodosi",
-   "title": "Check Point: Η νέα λύση Maestro Hyperscale Orchestrator προστατεύει την AI κίνηση σε υποδομές χωρίς συμβιβασμούς στην απόδοση",
-   "link": "https://www.ictplus.gr/check-point-i-nea-lysi-maestro-hyperscale-orchestrator-prostatevei-tin-ai-kinisi-se-ypodomes-choris-symvivasmous-stin-apodosi/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Το νέο Maestro Hyperscale Orchestrator 200 τετραπλασιάζει τη χωρητικότητα των υποδομών ασφαλείας, ανταποκρινόμενο στις αυξανόμενες απαιτήσεις της εποχής της Τεχνητής Νοημοσύνης Το άρθρο Check Point: Η νέα λύση Maestro Hyperscale Orchestrator προστατεύει την AI κίνηση σε υποδομές χωρίς συμβιβασμούς στην απόδοση εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-29T14:56:58+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/from-ai-to-roi-2026-oi-megalyteres-ellinikes-epicheiriseis-parousiazoun-tin-techniti-noimosyni-se-pragmatiki-leitourgia",
+   "key": "url:https://fortunegreece.com/article/from-ai-to-roi-2026-oi-megaliteres-ellinikes-epixeiriseis-parousiazoun-tin-texniti-noimosini-se-pragmatiki-leitourgia",
    "title": "From AI to ROI 2026: Οι μεγαλύτερες ελληνικές επιχειρήσεις παρουσιάζουν την τεχνητή νοημοσύνη σε πραγματική λειτουργία",
-   "link": "https://www.ictplus.gr/from-ai-to-roi-2026-oi-megalyteres-ellinikes-epicheiriseis-parousiazoun-tin-techniti-noimosyni-se-pragmatiki-leitourgia/",
+   "link": "https://www.fortunegreece.com/article/from-ai-to-roi-2026-oi-megaliteres-ellinikes-epixeiriseis-parousiazoun-tin-texniti-noimosini-se-pragmatiki-leitourgia/",
    "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
    "starts": null,
    "location": "",
-   "summary": "Το 3ο συνέδριο της Satori Analytics έφερε στη σκηνή ηγέτες μεγάλων ελληνικών επιχειρήσεων, κυβερνητικά στελέχη, διεθνείς ομιλητές και έργα τεχνητής νοημοσύνης που ήδη εφαρμόζονται και αποδίδουν Το άρθρο From AI to ROI 2026: Οι μεγαλύτερες ελληνικές επιχειρήσεις παρουσιάζουν την τεχνητή νοημοσύνη σε πραγματική λειτουργία εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-10-29T13:04:29+00:00"
+   "summary": "Το 3ο συνέδριο της Satori Analytics έφερε στη σκηνή ηγέτες μεγάλων ελληνικών επιχειρήσεων, κυβερνητικά στελέχη, διεθνείς ομιλητές και έργα τεχνητής νοημοσύνης που ήδη εφαρμόζονται και αποδίδουν",
+   "first_seen": "2026-10-29T10:05:33.823499+00:00"
   },
   {
    "key": "url:https://netweek.gr/idyka-nea-prothesmia-ston-diagonismo-gia-to-eniaio-oikosystima-psifiakis-ygeias",
@@ -224,19 +354,6 @@
    "first_seen": "2026-10-28T23:04:31+00:00"
   },
   {
-   "key": "url:https://meetup.com/the-innovative-compass-lab/events/315416544",
-   "title": "Claude Live Build: Websites + Routines",
-   "link": "https://www.meetup.com/the-innovative-compass-lab/events/315416544/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-30T16:00:00+02:00",
-   "location": "Online",
-   "summary": "Build a real website live with Claude in 10–15 minutes, then learn how to turn it into a system that works for you automatically. In this live session, we’ll walk through creating a website from scratch using AI and setting up smart routines for: • Automatic blog posting • Social media content workflows • Website updates and automation You’ll see real workflows, live problem-solving, and practical ways businesses can start using AI beyond just content generation. Perfect for business owners, marketers, creators, and anyone curious about where AI-powered systems are heading.",
-   "first_seen": "2026-10-28T20:20:06.961416+00:00"
-  },
-  {
    "key": "url:https://meetup.com/llm-reading-club/events/317142795",
    "title": "Build a Reasoning Model (From Scratch)",
    "link": "https://www.meetup.com/llm-reading-club/events/317142795/",
@@ -247,19 +364,6 @@
    "starts": "2026-11-08T17:30:00+02:00",
    "location": "Online",
    "summary": "We are working through *Build a Reasoning Model (From Scratch)* by Sebastian Raschka. During each meetup, we will discuss the key concepts from the chapter or pages under review. In this session we'll discuss the **Chapter 6. Training Reasoning Models with Reinforcement Learning.** Raschka provides a hands-on guide to understanding and building modern reasoning models. Starting with a conventional pretrained LLM, the book explores evaluation, inference-time reasoning techniques, reinforcement learning with verifiable rewards, and knowledge distillation. Please note that the session is not recorded, and participants are responsible for obtaining their own copy of the book. **Buy the book** (a…",
-   "first_seen": "2026-10-28T20:20:06.961416+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/ac-lhr/events/316368097",
-   "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-   "link": "https://www.meetup.com/ac-lhr/events/316368097/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-04T18:00:00+02:00",
-   "location": "Online",
-   "summary": "Calling all developers, AI engineers, software architects, data scientists, DevOps professionals, and tech enthusiasts — **TechConnect** is your ultimate destination for career growth, project showcasing, and global peer networking in the tech ecosystem. Hosted in a self-led, Slack-style virtual space, this **virtual tech networking event** invites you to connect, collaborate, and innovate with a diverse community of tech minds and hiring professionals from around the world. Whether you're looking for your next job, exploring startups, showcasing tools, or building a **peer coding accountability group**, **TechConnect** is where meaningful connections are made. 🎥 **Watch the explainer video …",
    "first_seen": "2026-10-28T20:20:06.961416+00:00"
   },
   {
@@ -419,19 +523,6 @@
    "first_seen": "2026-10-15T11:37:16.134001+00:00"
   },
   {
-   "key": "url:https://meetup.com/blockchaingreece-0/events/316958855",
-   "title": "Φορολογία Κρυπτονομισμάτων στην Ελλάδα",
-   "link": "https://www.meetup.com/blockchaingreece-0/events/316958855/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-30T19:30:00+02:00",
-   "location": "SuiHub Athens, Agiou Markou 22, Athina 105 60, Greece, Athina, Athina",
-   "summary": "Φίλοι του Bitcoin και των κρυπτονομισμάτων, με αφορμή το **σχέδιο νόμου για την φορολόγηση των κρυπτονομισμάτων με 10%** της κυβέρνησης, φιλοξενούμε ένα **πάνελ νομικών και φοροτεχνικών** που θα απαντήσουν στις ερωτήσεις σας την Παρασκευή 30 Οκτωβρίου στις 19:30. Μετά θα συνεχίσουμε στην καθιερωμένη **συζήτηση και networking με συνοδεία πίτσας και μπύρας**. Οι ομιλητές είναι: \\- Ο [Βαγγέλης Αηδόνης](https://www.linkedin.com/in/vangelis-aidonis-3382b2179/) είναι δικηγόρος, με εξειδίκευση στο φορολογικό και κληρονομικό δίκαιο, και Partner στην KBVL Law Firm, μέλος του διεθνούς δικτύου Deloitte Legal. \\- Ο [Κωνσταντίνος Νανόπουλος](https://nanopoulos.com/) είναι φοροτεχνικός, σύμβουλος επιχειρή…",
-   "first_seen": "2026-10-14T12:00:28.322994+00:00"
-  },
-  {
    "key": "url:https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia",
    "title": "Το The People’s Trust στηρίζει την επιχειρηματικότητα στη Δυτική Μακεδονία",
    "link": "https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia/",
@@ -482,19 +573,6 @@
    "location": "",
    "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
    "first_seen": "2026-10-09T18:23:50.119653+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/european-software-crafters/events/316894439",
-   "title": "/human-review - Tools & Guardrails for Agentic Engineers",
-   "link": "https://www.meetup.com/european-software-crafters/events/316894439/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-30T12:30:00+02:00",
-   "location": "Online",
-   "summary": "At [Devoxx](https://devoxx.be/) Antwerp, I gave a tour of the human review tool I vibe-coded (on [YouTube here](https://youtu.be/BOcNjR2lBus?t=191)), which includes a large variety of visualisation and metrics techniques a software engineer can use to keep an AI-built solution on track. After the talk, I promised to organize a \"Frustrated / Creative Users Follow-up Meeting\" to collect more requirements and ideas from the community, to burn my (almost) infinite quota on 😊 **Play 5 minutes** with the live online [demo-1](https://victorrentea.github.io/human-review/demo/review.html) and [demo-2](https://victorrentea.github.io/human-review/demo2/review.html) (receving updates every week😊), and j…",
-   "first_seen": "2026-10-09T10:40:19.336259+00:00"
   },
   {
    "key": "url:https://stayhappening.com/e/techniques-2026-charlotte-de-witte-in-athens-E2ISYR0NXM5",
