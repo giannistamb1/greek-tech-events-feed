@@ -1,15 +1,54 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-31T12:41:44.657289+00:00",
+ "built": "2026-10-31T19:20:41.999099+00:00",
  "items": [
+  {
+   "key": "url:https://businessdaily.gr/oikonomia/241134_i-ellada-sto-epikentro-tis-hrimatooikonomikis-kainotomias-kai-fintech-anaptyxis",
+   "title": "Fintech Athens 5.0: Η Ελλάδα στον παγκόσμιο χάρτη χρηματοοικονομικής καινοτομίας",
+   "link": "https://www.businessdaily.gr/oikonomia/241134_i-ellada-sto-epikentro-tis-hrimatooikonomikis-kainotomias-kai-fintech-anaptyxis?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Στο συνέδριο Fintech Athens 5.0 επισημάνθηκε η ανάγκη διασύνδεσης πανεπιστημίων, τραπεζών και επενδυτών ώστε η τεχνολογική καινοτομία να οδηγεί σε...",
+   "first_seen": "2026-10-31T15:37:31+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/psifiako-diploma-telos-gia-aytoys-toys-odigoys",
+   "title": "Ψηφιακό δίπλωμα: Τέλος για αυτούς τους οδηγούς",
+   "link": "https://techmaniacs.gr/psifiako-diploma-telos-gia-aytoys-toys-odigoys/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Μέσω του Gov.gr Wallet οι πολίτες έχουν τη δυνατότητα να ψηφιοποιήσουν τα έγγραφά τους, μεταξύ των οποίων περιλαμβάνεται και το ψηφιακό δίπλωμα οδήγησης. Ωστόσο, οι οδηγοί ενδέχεται να χάσουν την πρόσβαση στο ψηφιακό τους δίπλωμα σε περίπτωση που αυτό ανακληθεί από κάποιον αρμόδιο φορέα, μια διαδικασία η οποία πλέον εκτελείται αυτόματα. Αρχικά, διευκρινίζεται ότι η […] The post Ψηφιακό δίπλωμα: Τέλος για αυτούς τους οδηγούς appeared first on Techmaniacs .",
+   "first_seen": "2026-10-31T15:37:23+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/apth-gia-kiniti-kai-wi-fi-ta-simeia-me-tin-perissoteri-aktinovolia",
+   "title": "Κινητή και Wi-Fi: Τα σημεία με την περισσότερη ακτινοβολία σύμφωνα με το ΑΠΘ",
+   "link": "https://techmaniacs.gr/apth-gia-kiniti-kai-wi-fi-ta-simeia-me-tin-perissoteri-aktinovolia/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Έρευνα του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης, σε συνεργασία με την Ελληνική Επιτροπή Ατομικής Ενέργειας, που δημοσιεύθηκε μόλις εχθές, 30 Οκτωβρίου 2026, ανέλυσε περισσότερες από 26.000 μετρήσεις σε 40 διαφορετικά μέρη σε Αθήνα, Θεσσαλονίκη, Αττική και Χαλκιδική και χαρτογραφεί τα σημεία με τη μεγαλύτερη έκθεση. Όπως αποκαλύπτει η έρευνα, τα ΜΜΜ καταγράφουν τα υψηλότερα επίπεδα έκθεσης (0.856 […] The post Κινητή και Wi-Fi: Τα σημεία με την περισσότερη ακτινοβολία σύμφωνα με το ΑΠΘ appeared first on Techmaniacs .",
+   "first_seen": "2026-10-31T12:54:12+00:00"
+  },
   {
    "key": "url:https://meetup.com/beyond-the-code/events/316578225",
    "title": "Software Engineering: Extinction or Evolution?",
    "link": "https://www.meetup.com/beyond-the-code/events/316578225/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-11-05T19:30:00+02:00",
    "location": "Online",
    "summary": "AI is changing software engineering at a pace that is difficult to ignore, but how much has *actually* changed, and what does it mean for the people building software today? **Beyond the Code’s first live panel** brings together an elite panel of experts for a candid discussion about what AI is genuinely changing on the ground, what is still hype, and what the future could mean for engineering teams and individual careers. The panel will be split into two distinct halves: 1. ***What’s Actually Changed?*** AI coding tools, copilots, agents and increasingly capable models are already changing how software is built. But beyond the headlines, what does that look like in practice? 2. ***Betting o…",
@@ -94,32 +133,6 @@
    "first_seen": "2026-10-30T19:29:21+00:00"
   },
   {
-   "key": "url:https://techmaniacs.gr/meta-tis-lg-kai-oi-tileoraseis-tis-samsung-akoyn-tis-synomilies-mas",
-   "title": "Μετά τις LG και οι τηλεοράσεις της Samsung ακούν τις συνομιλίες μας",
-   "link": "https://techmaniacs.gr/meta-tis-lg-kai-oi-tileoraseis-tis-samsung-akoyn-tis-synomilies-mas/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Αν έχετε τηλεόραση Samsung, ακόμα και χωρίς ενσωματωμένο μικρόφωνο, τότε αυτή ενδέχεται να σας ακούει, σύμφωνα με νέα έρευνα τα ευρήματα της οποίας δημοσιεύτηκαν αυτή την εβδομάδα. Ο ερευνητής κυβερνοασφάλειας @log4j δημοσίευσε στο X (πρώην Twitter) πως, μετά από έλεγχο σε τηλεοράσεις της Samsung, διαπίστωσε ότι τα μοντέλα χωρίς μικρόφωνο σαρώνουν τον χώρο για συνδεδεμένες […] The post Μετά τις LG και οι τηλεοράσεις της Samsung ακούν τις συνομιλίες μας appeared first on Techmaniacs .",
-   "first_seen": "2026-10-30T18:24:24+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/malta-microsoft-ai-user-group/events/316863058",
-   "title": "Capstone Project: MMAUG Bank Financial Fraud Detection Agent",
-   "link": "https://www.meetup.com/malta-microsoft-ai-user-group/events/316863058/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-10-31T19:00:00+02:00",
-   "location": "Online",
-   "summary": "Develop an explainable fraud-detection platform that evaluates synthetic transaction signals, creates evidence-based investigation alerts and keeps consequential actions with authorised human or deterministic workflows. Facilitators: MMAUG Capstone Facilitators Join and view capstone details: https://mmaug.com/bootcamp View the complete MMAUG bootcamp programme: https://mmaug.com/bootcamp Synced from the MMAUG website - Session reference admin-capstone-mmaug-bank-financial-fraud-detection-agent",
-   "first_seen": "2026-10-30T18:03:37.600721+00:00"
-  },
-  {
    "key": "url:https://meetup.com/conscious-ai/events/317070860",
    "title": "Can We Make AIs Sentient – and Should We? Solms vs Humphrey Live Debate",
    "link": "https://www.meetup.com/conscious-ai/events/317070860/",
@@ -157,19 +170,6 @@
    "location": "",
    "summary": "Η ελβετική ωρολογοποιία Norqain παρουσίασε επίσημα τη νέα έκδοση της σειράς Wild One Skeleton X Lite σε τιρκουάζ απόχρωση, συνεχίζοντας την ανάπτυξη εξαιρετικά ελαφριών μηχανικών ρολογιών με έμφαση στην τεχνολογία υλικών. Με συνολικό βάρος μόλις 45 γραμμαρίων, στο οποίο περιλαμβάνεται και το λουράκι, το νέο μοντέλο αποτελεί την πιο προηγμένη τεχνικά πρόταση της εταιρείας στην […] The post Το νέο σπορ ρολόι της Norqain ζυγίζει μόλις 45 γραμμάρια και αντέχει σε ακραίες καταπονήσεις appeared first on STARTUPPER .",
    "first_seen": "2026-10-30T17:17:24+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/android-auto-efarmoges-video-browsers",
-   "title": "Google: Το Android Auto φέρνει επιτέλους εφαρμογές video",
-   "link": "https://techmaniacs.gr/android-auto-efarmoges-video-browsers/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Google επιβεβαίωσε στο συνέδριο Android Dev Summit ότι οι εφαρμογές αναπαραγωγής βίντεο και οι web browsers για το Android Auto παραμένουν σε τροχιά διάθεσης, καθώς πλησιάζει η προθεσμία που είχε θέσει η ίδια η εταιρεία. Τον Μάιο του 2026, ο τεχνολογικός κολοσσός είχε ανακοινώσει πως η υποστήριξη video apps θα κυκλοφορούσε εντός του έτους […] The post Google: Το Android Auto φέρνει επιτέλους εφαρμογές video appeared first on Techmaniacs .",
-   "first_seen": "2026-10-30T16:32:38+00:00"
   },
   {
    "key": "url:https://startupper.gr/all-connected/283573/apple-parousiase-to-proto-macbook-pro-me-othoni-afis-kai-tandem-oled-kai-tsip-m5",
@@ -419,6 +419,19 @@
    "first_seen": "2026-10-28T20:20:06.961416+00:00"
   },
   {
+   "key": "url:https://meetup.com/ac-lhr/events/316368097",
+   "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+   "link": "https://www.meetup.com/ac-lhr/events/316368097/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-04T18:00:00+02:00",
+   "location": "Online",
+   "summary": "Calling all developers, AI engineers, software architects, data scientists, DevOps professionals, and tech enthusiasts — **TechConnect** is your ultimate destination for career growth, project showcasing, and global peer networking in the tech ecosystem. Hosted in a self-led, Slack-style virtual space, this **virtual tech networking event** invites you to connect, collaborate, and innovate with a diverse community of tech minds and hiring professionals from around the world. Whether you're looking for your next job, exploring startups, showcasing tools, or building a **peer coding accountability group**, **TechConnect** is where meaningful connections are made. 🎥 **Watch the explainer video …",
+   "first_seen": "2026-10-28T20:20:06.961416+00:00"
+  },
+  {
    "key": "url:https://techgear.gr/episima-ta-prota-macbook-pro-me-entyposiaki-othoni-afis-proled-xdr-kai-panischyroys-epexergastes-51110",
    "title": "Επίσημα τα πρώτα MacBook Pro με εντυπωσιακή οθόνη αφής ProLED XDR και πανίσχυρους επεξεργαστές",
    "link": "https://www.techgear.gr/episima-ta-prota-macbook-pro-me-entyposiaki-othoni-afis-proled-xdr-kai-panischyroys-epexergastes-51110",
@@ -443,19 +456,6 @@
    "location": "",
    "summary": "Σύνοψη Η Opera παρουσίασε επίσημα το Web AI, ένα νέο πρότυπο που επιτρέπει την εκτέλεση μοντέλων Τεχνητής Νοημοσύνης τοπικά, απευθείας μέσα από τον ...",
    "first_seen": "2026-10-27T19:21:00+00:00"
-  },
-  {
-   "key": "url:https://techgear.gr/genie-4-to-neo-ai-montelo-tis-google-deepmind-ftiachnei-realistikoys-kosmoys-se-pragmatiko-chrono-51099",
-   "title": "Genie 4: Το νέο AI μοντέλο της Google Deepmind φτιάχνει ρεαλιστικούς κόσμους σε πραγματικό χρόνο!",
-   "link": "https://www.techgear.gr/genie-4-to-neo-ai-montelo-tis-google-deepmind-ftiachnei-realistikoys-kosmoys-se-pragmatiko-chrono-51099",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techgear",
-   "source_url": "https://www.techgear.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Σύνοψη Η Google DeepMind παρουσίασε επίσημα το Genie 4, το νεότερο μοντέλο παραγωγής διαδραστικών κόσμων σε πραγματικό χρόνο, το οποίο ενσωματώνει ...",
-   "first_seen": "2026-10-27T19:04:00+00:00"
   },
   {
    "key": "url:https://meetup.com/epic-studios-tech-talks/events/317142578",
