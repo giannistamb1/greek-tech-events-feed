@@ -1,7 +1,72 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-10-31T19:20:41.999099+00:00",
+ "built": "2026-11-01T00:10:51.583430+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038439",
+   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038439/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-07T21:30:00+02:00",
+   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
+   "first_seen": "2026-11-01T00:10:51.583430+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038470",
+   "title": "Saturday Social at Mint Bar – International Mingle event",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038470/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-07T21:30:00+02:00",
+   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
+   "first_seen": "2026-11-01T00:10:51.583430+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/baig-academy-of-ai/events/317160870",
+   "title": "Jev and the rise of AI decision models",
+   "link": "https://www.meetup.com/baig-academy-of-ai/events/317160870/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-04T19:00:00+02:00",
+   "location": "Online",
+   "summary": "## What you'll learn * Understand what Jev does differently Understand how an AI model built for decisions differs from tools like ChatGPT that generate text and explanations. * Identify where decision models fit into your work See how AI could classify customer requests, prioritize leads, review information, and direct routine tasks. * Compare the emerging approaches to AI decisions Explore Jev, the System 1 model concept, and how OpenAI, Microsoft, and open-source AI fit into this evolving landscape. * Assess the practical impact on your business Identify workflows where structured AI decisions help and where human review or general-purpose AI works better. ## Why this topic matters AI can…",
+   "first_seen": "2026-11-01T00:10:51.583430+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/software-architecture-or-system-design-training/events/317171014",
+   "title": "Google Map Software Architecture",
+   "link": "https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-21T19:00:00+02:00",
+   "location": "Online",
+   "summary": "Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…",
+   "first_seen": "2026-11-01T00:10:51.583430+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/ai-signals-community/events/317188586",
+   "title": "AI Signals #36: Computer Vision, Production ML and AI Skills",
+   "link": "https://www.meetup.com/ai-signals-community/events/317188586/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-11T20:00:00+02:00",
+   "location": "Online",
+   "summary": "Sponsored by [Daemon](https://www.dae.mn/) [PLEASE SIGN UP ON LUMA NOT ON MEETUP!](https://luma.com/3w2pddao) Agenda 06:00pm – Doors open 06:30pm – Welcome 06:35pm – Shradha Janib, “Traffic sign recognition using deep learning” 07:20pm – Break 07:35pm – David Hughes, Stelia, “Lessons learned from running ML workloads in production” 08:20pm – Lightning talks * Freeman Madudili, “Deterministic boundaries around AI actions” * Ozan Dagdeviren, “Why measuring AI skill is harder than it looks” * 08:50pm – Close, social at The Angel Please note you will be unable to enter the venue before 6.00pm. RSVPs will close 24 hours before the event, you may be unable to register after this time but you can s…",
+   "first_seen": "2026-11-01T00:10:51.583430+00:00"
+  },
   {
    "key": "url:https://businessdaily.gr/oikonomia/241134_i-ellada-sto-epikentro-tis-hrimatooikonomikis-kainotomias-kai-fintech-anaptyxis",
    "title": "Fintech Athens 5.0: Η Ελλάδα στον παγκόσμιο χάρτη χρηματοοικονομικής καινοτομίας",
@@ -47,8 +112,8 @@
    "link": "https://www.meetup.com/beyond-the-code/events/316578225/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
    "starts": "2026-11-05T19:30:00+02:00",
    "location": "Online",
    "summary": "AI is changing software engineering at a pace that is difficult to ignore, but how much has *actually* changed, and what does it mean for the people building software today? **Beyond the Code’s first live panel** brings together an elite panel of experts for a candid discussion about what AI is genuinely changing on the ground, what is still hype, and what the future could mean for engineering teams and individual careers. The panel will be split into two distinct halves: 1. ***What’s Actually Changed?*** AI coding tools, copilots, agents and increasingly capable models are already changing how software is built. But beyond the headlines, what does that look like in practice? 2. ***Betting o…",
@@ -66,19 +131,6 @@
    "location": "Online",
    "summary": "The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \\- Connect an agent you already use\\, such as Claude Code or GitHub Copilot\\, to the model you have open through the MCP server\\, and delegate a task that involves multiple changes \\- Decide what the agent may do\\, for example edit the model's metadata without reading its data \\- Follow the agent's changes as it works\\, and revert all or only those changes you disagree with \\- Let the …",
    "first_seen": "2026-10-31T12:41:44.657289+00:00"
-  },
-  {
-   "key": "url:https://businessdaily.gr/politiki/241109_d-papastergioy-i-axiopisti-enimerosi-diatirei-ton-politi-sto-epikentro",
-   "title": "Παπαστεργίου: Η αξιόπιστη ενημέρωση κρατά τον πολίτη στο επίκεντρο",
-   "link": "https://www.businessdaily.gr/politiki/241109_d-papastergioy-i-axiopisti-enimerosi-diatirei-ton-politi-sto-epikentro?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=Sokratis%20Psaltis",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Ο Δημήτρης Παπαστεργίου, Υπουργός Ψηφιακής Διακυβέρνησης και ΤΝ, τόνισε τη σημασία της αξιόπιστης ενημέρωσης στο 56ο Συνέδριο ΕΣΕΤ στην Καλαμπάκα,...",
-   "first_seen": "2026-10-31T12:03:39+00:00"
   },
   {
    "key": "url:https://techblog.gr/software/android-enallaktika-app-stores-me-ena-patima-mesa-apo-to-google-play",
@@ -118,19 +170,6 @@
    "location": "Athens, 0, Athens, Athens",
    "summary": "This is not just another Friday night — it is a real Latin social experience. 🇱🇦🔥 Location: https://maps.app.goo.gl/9cEtfXNj91suh7TM9?g_st=ac If you have been looking for a night where you can meet new people, talk, laugh, move around, dance a little, and feel the energy, this is the one. Latinos Night | Kallithea is back every second Friday at El Latino Café Bar — a cozy hidden Latin spot just a short walk from Kallithea Metro 🚇 The concept is simple: a social night with real connection, great music, and the freedom to do both — stand, sit, mingle, dance, and enjoy the vibe exactly how you like it. 🎧 Latin DJ all night 💃 Social atmosphere with movement and connection 🍹 Happy Hour 8:30–10:00…",
    "first_seen": "2026-10-30T22:26:16.049687+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/fotografithike-apo-konta-to-mystiko-diastimiko-aeroplano-tis-kinas-klonos-toy-x-37b",
-   "title": "Φωτογραφήθηκε από κοντά το μυστικό διαστημικό αεροπλάνο της Κίνας – «Κλώνος» του X-37B",
-   "link": "https://techmaniacs.gr/fotografithike-apo-konta-to-mystiko-diastimiko-aeroplano-tis-kinas-klonos-toy-x-37b/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ένας αμερικανικός εμπορικός δορυφόρος, που κανονικά έχει ως αποστολή να φωτογραφίζει τη Γη, έστρεψε το τηλεσκόπιό του προς το διάστημα το 2024 και κατέγραψε από κοντά το μυστικό διαστημικό αεροπλάνο της Κίνας. Η φωτογραφία δόθηκε πλέον στη δημοσιότητα, καθώς την συμπεριέλαβε η Υπηρεσία Πληροφοριών Άμυνας των ΗΠΑ (DIA) σε πρόσφατη, μη διαβαθμισμένη έκθεσή της για […] The post Φωτογραφήθηκε από κοντά το μυστικό διαστημικό αεροπλάνο της Κίνας – «Κλώνος» του X-37B appeared first on Techmaniacs .",
-   "first_seen": "2026-10-30T19:29:21+00:00"
   },
   {
    "key": "url:https://meetup.com/conscious-ai/events/317070860",
@@ -471,19 +510,6 @@
    "first_seen": "2026-10-27T09:06:23.758582+00:00"
   },
   {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316939138",
-   "title": "Hallowen party,Mint bar 930 p.m",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316939138/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-10-31T21:30:00+02:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "🎃👻 ATHENS HALLOWEEN PARTY – LET’S SEE WHO’S THE BEST! 🧛‍♂️🕸️ 🔥 Get your costumes ready because this Saturday, we're bringing Halloween vibes to Mint Bar, Monastiraki! 🧙‍♀️🧟 🏆 3 prizes for the 3 best costumes! Think you can win? Come and show us what you've got! 😈 🍻 Meet new people, make friends, enjoy great music, and spend a spooky night with an international crowd! 🌍🖤 📅 Saturday, 31 October ⏰ 9:30 PM 📍 Mint Bar, Monastiraki https://maps.app.goo.gl/u2JQdDjtT7oCNAtM9?g_st=ac 🎟️ FREE ENTRY! 👻 Come solo, bring your friends, or meet new ones here! No costume? No problem — just bring your good energy! 😉 🔥 Don't just watch the Halloween stories… BE PART OF THE NIGHT! See you there! 🥂🎃 Mamad Found…",
-   "first_seen": "2026-10-24T20:55:21.729262+00:00"
-  },
-  {
    "key": "url:https://meetup.com/future-skills-community/events/316567427",
    "title": "TTN: AI Fundamentals",
    "link": "https://www.meetup.com/future-skills-community/events/316567427/",
@@ -515,8 +541,8 @@
    "link": "https://www.meetup.com/cloud-native-muc/events/316851781/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-11-05T19:30:00+02:00",
    "location": "Online",
    "summary": "AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …",
