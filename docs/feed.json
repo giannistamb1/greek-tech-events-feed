@@ -1,58 +1,71 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-01T06:16:39.780364+00:00",
+ "built": "2026-11-01T13:38:13.725079+00:00",
  "items": [
   {
-   "key": "url:https://meetup.com/the-online-ai-skills-builder-community/events/317161330",
-   "title": "7 Practical Ways to Generate Passive Income with AI",
-   "link": "https://www.meetup.com/the-online-ai-skills-builder-community/events/317161330/",
+   "key": "url:https://meetup.com/hack-the-night-builders-and-dreamers/events/317228496",
+   "title": "Athens Verified Locals για Μακροχρόνιες Σχέσεις",
+   "link": "https://www.meetup.com/hack-the-night-builders-and-dreamers/events/317228496/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-29T19:00:00+02:00",
+   "location": "WRXF+8W Paiania, WRXF+8W Paiania, Athens, Athens",
+   "summary": "**💞 Athens: ψηφιακό speed dating – με οικοδεσπότη, προσεγμένο, στο Zoom** Ένας απλός και διασκεδαστικός τρόπος να γνωρίσεις single της περιοχής σου – χωρίς να βγεις από το σπίτι. Θα περάσεις από σύντομα βιντεοραντεβού ένας προς έναν με άτομα από Athens που σου ταιριάζουν σε ηλικία και προσωπικότητα. Ο οικοδεσπότης φροντίζει να κυλάει η βραδιά άνετα. 🗣️ **Ο οικοδεσπότης είναι δίγλωσσος:** η εκδήλωση γίνεται σε δύο γλώσσες – ελληνικά και αγγλικά – οπότε μιλάς σε όποια σε βολεύει περισσότερο. **Βρες την ηλικιακή σου ομάδα παρακάτω:** - **Ηλικίες 18-32** → [ΕΓΓΡΑΦΗ ΕΔΩ](https://theliveround.com/product?productId=758.0&productType=onlineSpeedDating&city=Athens&groupurlname=hack-the-night-builders…",
+   "first_seen": "2026-11-01T13:38:13.725079+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/hack-the-night-builders-and-dreamers/events/317228540",
+   "title": "Thessaloniki Σχέσεις με Σκοπό Zoom Dating",
+   "link": "https://www.meetup.com/hack-the-night-builders-and-dreamers/events/317228540/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-12T21:30:00+02:00",
-   "location": "Online",
-   "summary": "[⏰ ](https://newfuturepublish--clientsandconsulting.thrivecart.com/7-ways-to-monetise-ai/)**[Click here to register your place now](https://newfuturepublish--clientsandconsulting.thrivecart.com/7-ways-to-monetise-ai/)**[ ✨](https://newfuturepublish--clientsandconsulting.thrivecart.com/7-ways-to-monetise-ai/) 💡 **Free Workshop: 7 Proven Ways To Generate Passive Income With A.I.** Most people know AI is changing how we work. Far fewer know exactly how to use it to create a realistic, sustainable income from home. This free, one-hour workshop clarifies that possibility with practical guidance you can actually use. In one session you will discover: ✅ The 7 most accessible ways to monetise AI tod…",
-   "first_seen": "2026-11-01T06:16:39.780364+00:00"
+   "starts": "2026-11-29T19:00:00+02:00",
+   "location": "Odos Hvris Onomasia, Odos Hvris Onomasia, Thessaloniki, Thessaloniki",
+   "summary": "**💖 Γνώρισε single από Thessaloniki απόψε – speed dating με οικοδεσπότη στο Zoom** Ένας απλός και διασκεδαστικός τρόπος να γνωρίσεις single της περιοχής σου – χωρίς να βγεις από το σπίτι. Γρήγοροι γύροι στο Zoom με οικοδεσπότη και single από Thessaloniki, επιλεγμένους για την ηλικιακή σου ομάδα και την προσωπικότητά σου. Χωρίς αμήχανες σιωπές – μόνο φυσική κουβέντα. 🗣️ **Ο οικοδεσπότης είναι δίγλωσσος:** η εκδήλωση γίνεται σε δύο γλώσσες – ελληνικά και αγγλικά – οπότε μιλάς σε όποια σε βολεύει περισσότερο. **Επίλεξε το ηλικιακό σου εύρος για εγγραφή:** - **Ηλικίες 18-32** → [ΕΓΓΡΑΦΗ ΕΔΩ](https://theliveround.com/product?productId=758.0&productType=onlineSpeedDating&city=Thessaloniki&groupurl…",
+   "first_seen": "2026-11-01T13:38:13.725079+00:00"
   },
   {
-   "key": "url:https://businessdaily.gr/synenteyxeis/239350_pantazis-ta-nea-shedia-tis-hellas-direct-me-revolut-kai-anoigma-se-nees-agores",
-   "title": "Αλ. Πανταζής (Hellas Direct): Το deal με Revolut και το άνοιγμα σε νέες αγορές",
-   "link": "https://www.businessdaily.gr/synenteyxeis/239350_pantazis-ta-nea-shedia-tis-hellas-direct-me-revolut-kai-anoigma-se-nees-agores",
+   "key": "url:https://meetup.com/ai-builders-skg/events/317222733",
+   "title": "AI Builders SKG - Meetup #2",
+   "link": "https://www.meetup.com/ai-builders-skg/events/317222733/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-05T18:00:00+02:00",
+   "location": "OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki",
+   "summary": "We're back. Three weeks after our first meetup, AI Builders SKG returns to [OK!Thess](https://okthess.gr/), powered by [Municipality of Thessaloniki](https://thessaloniki.gr/), with two more stories from the builder side of AI. One is about a business run by one-two people and a dozen agents. The other is about what happens when an AI prototype has to survive contact with a real business. **Software for One - Personal Software in the Age of Agents** What does it take to run a real business with one or two people and a dozen AI agents? The work that used to need a team is making content, editing videos, scheduling posts across five platforms, tracking what's working, and building the tools to…",
+   "first_seen": "2026-11-01T13:38:13.725079+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/eidiseis/430940/skertsos-stin-athina-oi-megales-etaireies-tehnologias-gia-tin-apagoreysi-ton-meson",
+   "title": "Σκέρτσος: Στην Αθήνα οι μεγάλες εταιρείες τεχνολογίας για την απαγόρευση των μέσων κοινωνικής δικτύωσης στους κάτω των 15",
+   "link": "https://www.insider.gr/eidiseis/430940/skertsos-stin-athina-oi-megales-etaireies-tehnologias-gia-tin-apagoreysi-ton-meson",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Οι πλατφόρμες θα κληθούν να παρουσιάσουν τους μηχανισμούς επαλήθευσης ηλικίας που σκοπεύουν να εφαρμ...",
+   "first_seen": "2026-11-01T10:01:12+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/politiki/241200_stin-athina-oi-tehnologikoi-kolossoi-gia-ton-periorismo-ton-social-media-stoys",
+   "title": "Σκέρτσος: Συζήτηση στην Αθήνα για την απαγόρευση των social media σε ανήλικους",
+   "link": "https://www.businessdaily.gr/politiki/241200_stin-athina-oi-tehnologikoi-kolossoi-gia-ton-periorismo-ton-social-media-stoys?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
    "kind": "news",
    "category": "Business & tech media",
    "source": "Business Daily",
    "source_url": "https://www.businessdaily.gr/rss.xml",
    "starts": null,
    "location": "",
-   "summary": "Ο συνιδρυτής και Executive Director της Hellas Direct, Αλέξης Πανταζής, παρουσιάσει σε συνέντευξή του στο BD τα σχέδια για νέες αγορές, τη διεύρυνση...",
-   "first_seen": "2026-11-01T05:37:04+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038470",
-   "title": "Saturday Social at Mint Bar – International Mingle event",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038470/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-07T21:30:00+02:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-11-01T00:10:51.583430+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038439",
-   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038439/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-07T21:30:00+02:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-11-01T00:10:51.583430+00:00"
+   "summary": "Εκπρόσωποι μεγάλων τεχνολογικών εταιρειών θα επισκεφθούν την Αθήνα την ερχόμενη εβδομάδα, για να συζητήσουν, μετά από πρόσκληση της κυβέρνησης, την...",
+   "first_seen": "2026-11-01T09:48:51+00:00"
   },
   {
    "key": "url:https://meetup.com/baig-academy-of-ai/events/317160870",
@@ -105,19 +118,6 @@
    "location": "",
    "summary": "Μέσω του Gov.gr Wallet οι πολίτες έχουν τη δυνατότητα να ψηφιοποιήσουν τα έγγραφά τους, μεταξύ των οποίων περιλαμβάνεται και το ψηφιακό δίπλωμα οδήγησης. Ωστόσο, οι οδηγοί ενδέχεται να χάσουν την πρόσβαση στο ψηφιακό τους δίπλωμα σε περίπτωση που αυτό ανακληθεί από κάποιον αρμόδιο φορέα, μια διαδικασία η οποία πλέον εκτελείται αυτόματα. Αρχικά, διευκρινίζεται ότι η […] The post Ψηφιακό δίπλωμα: Τέλος για αυτούς τους οδηγούς appeared first on Techmaniacs .",
    "first_seen": "2026-10-31T15:37:23+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/apth-gia-kiniti-kai-wi-fi-ta-simeia-me-tin-perissoteri-aktinovolia",
-   "title": "Κινητή και Wi-Fi: Τα σημεία με την περισσότερη ακτινοβολία σύμφωνα με το ΑΠΘ",
-   "link": "https://techmaniacs.gr/apth-gia-kiniti-kai-wi-fi-ta-simeia-me-tin-perissoteri-aktinovolia/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Έρευνα του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης, σε συνεργασία με την Ελληνική Επιτροπή Ατομικής Ενέργειας, που δημοσιεύθηκε μόλις εχθές, 30 Οκτωβρίου 2026, ανέλυσε περισσότερες από 26.000 μετρήσεις σε 40 διαφορετικά μέρη σε Αθήνα, Θεσσαλονίκη, Αττική και Χαλκιδική και χαρτογραφεί τα σημεία με τη μεγαλύτερη έκθεση. Όπως αποκαλύπτει η έρευνα, τα ΜΜΜ καταγράφουν τα υψηλότερα επίπεδα έκθεσης (0.856 […] The post Κινητή και Wi-Fi: Τα σημεία με την περισσότερη ακτινοβολία σύμφωνα με το ΑΠΘ appeared first on Techmaniacs .",
-   "first_seen": "2026-10-31T12:54:12+00:00"
   },
   {
    "key": "url:https://meetup.com/beyond-the-code/events/316578225",
@@ -367,6 +367,19 @@
    "first_seen": "2026-10-30T01:06:18.308533+00:00"
   },
   {
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316900908",
+   "title": "🌙 Thursday Social Night | Meet New People in Athens@Mint bar",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316900908/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-05T20:30:00+02:00",
+   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) 🤍 A new season of meeting people starts here. Coming alone? New in Athens? Shy or a little introverted? You’re exactly who we want to welcome. ✨ Every Thursday, we meet at Mint Bar for a relaxed social night where you can come alone, meet new people, and feel comfortable from the moment you arrive. No need to bring friends. No need to be super outgoing. Just come as you are. 🫶 🌍 Locals • Travellers • Expats • Couples • Friends • Solo people Everyone is welcome. Come for good conversati…",
+   "first_seen": "2026-10-30T01:06:18.308533+00:00"
+  },
+  {
    "key": "url:https://meetup.com/london-women-on-the-rise-meetup-group/events/316060526",
    "title": "Women On the RISE Speed Networking",
    "link": "https://www.meetup.com/london-women-on-the-rise-meetup-group/events/316060526/",
@@ -378,45 +391,6 @@
    "location": "Online",
    "summary": "Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!",
    "first_seen": "2026-10-30T01:06:18.308533+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/tte-epitropi-kefalaiagoras-neo-plaisio-gia-tis-dokimes-kivernoasfaleias-ston-xrimatooikonomiko-tomea",
-   "title": "ΤτΕ – Επιτροπή Κεφαλαιαγοράς: Νέο πλαίσιο για τις δοκιμές κυβερνοασφάλειας στον χρηματοοικονομικό τομέα",
-   "link": "https://www.fortunegreece.com/article/tte-epitropi-kefalaiagoras-neo-plaisio-gia-tis-dokimes-kivernoasfaleias-ston-xrimatooikonomiko-tomea/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το Εθνικό Έγγραφο Υλοποίησης TIBER-GR ενσωματώνει το αναθεωρημένο ευρωπαϊκό πλαίσιο, ενώ συστήνεται ειδική ομάδα για τον συντονισμό των δοκιμών προσομοίωσης κυβερνοεπιθέσεων.",
-   "first_seen": "2026-10-29T18:31:08.719112+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/societe-generale-kerdi-rekor-189-dis-evro-kai-alma-46-stis-sinallages-metoxon",
-   "title": "Societe Generale: Κέρδη-ρεκόρ 1,89 δισ. ευρώ και «άλμα» 46% στις συναλλαγές μετοχών",
-   "link": "https://www.fortunegreece.com/article/societe-generale-kerdi-rekor-189-dis-evro-kai-alma-46-stis-sinallages-metoxon/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ξεπέρασε τις εκτιμήσεις των αναλυτών η γαλλική τράπεζα στο τρίτο τρίμηνο του 2026, με τα έσοδα να αγγίζουν τα 7,17 δισ. ευρώ – Οι ανησυχίες για το αυξημένο κόστος, το γαλλικό χρέος και την έκθεση στα data centers.",
-   "first_seen": "2026-10-29T18:31:08.719112+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/from-ai-to-roi-2026-oi-megaliteres-ellinikes-epixeiriseis-parousiazoun-tin-texniti-noimosini-se-pragmatiki-leitourgia",
-   "title": "From AI to ROI 2026: Οι μεγαλύτερες ελληνικές επιχειρήσεις παρουσιάζουν την τεχνητή νοημοσύνη σε πραγματική λειτουργία",
-   "link": "https://www.fortunegreece.com/article/from-ai-to-roi-2026-oi-megaliteres-ellinikes-epixeiriseis-parousiazoun-tin-texniti-noimosini-se-pragmatiki-leitourgia/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το 3ο συνέδριο της Satori Analytics έφερε στη σκηνή ηγέτες μεγάλων ελληνικών επιχειρήσεων, κυβερνητικά στελέχη, διεθνείς ομιλητές και έργα τεχνητής νοημοσύνης που ήδη εφαρμόζονται και αποδίδουν",
-   "first_seen": "2026-10-29T10:05:33.823499+00:00"
   },
   {
    "key": "url:https://netweek.gr/idyka-nea-prothesmia-ston-diagonismo-gia-to-eniaio-oikosystima-psifiakis-ygeias",
@@ -458,19 +432,6 @@
    "first_seen": "2026-10-28T20:20:06.961416+00:00"
   },
   {
-   "key": "url:https://meetup.com/ac-lhr/events/316368097",
-   "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-   "link": "https://www.meetup.com/ac-lhr/events/316368097/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-04T18:00:00+02:00",
-   "location": "Online",
-   "summary": "Calling all developers, AI engineers, software architects, data scientists, DevOps professionals, and tech enthusiasts — **TechConnect** is your ultimate destination for career growth, project showcasing, and global peer networking in the tech ecosystem. Hosted in a self-led, Slack-style virtual space, this **virtual tech networking event** invites you to connect, collaborate, and innovate with a diverse community of tech minds and hiring professionals from around the world. Whether you're looking for your next job, exploring startups, showcasing tools, or building a **peer coding accountability group**, **TechConnect** is where meaningful connections are made. 🎥 **Watch the explainer video …",
-   "first_seen": "2026-10-28T20:20:06.961416+00:00"
-  },
-  {
    "key": "url:https://techgear.gr/episima-ta-prota-macbook-pro-me-entyposiaki-othoni-afis-proled-xdr-kai-panischyroys-epexergastes-51110",
    "title": "Επίσημα τα πρώτα MacBook Pro με εντυπωσιακή οθόνη αφής ProLED XDR και πανίσχυρους επεξεργαστές",
    "link": "https://www.techgear.gr/episima-ta-prota-macbook-pro-me-entyposiaki-othoni-afis-proled-xdr-kai-panischyroys-epexergastes-51110",
@@ -482,19 +443,6 @@
    "location": "",
    "summary": "Σύνοψη Οθόνη αφής: Ενσωμάτωση του νέου panel ProLED XDR με πλήρη υποστήριξη αφής στο macOS, ειδική ελαιοφοβική επίστρωση και υβριδική τεχνολογία ...",
    "first_seen": "2026-10-28T18:00:00+00:00"
-  },
-  {
-   "key": "url:https://techgear.gr/opera-web-ai-to-neo-protypo-poy-fernei-tin-techniti-noimosyni-topika-ston-browser-51101",
-   "title": "Opera Web AI: Το νέο πρότυπο που φέρνει την Τεχνητή Νοημοσύνη τοπικά στον browser",
-   "link": "https://www.techgear.gr/opera-web-ai-to-neo-protypo-poy-fernei-tin-techniti-noimosyni-topika-ston-browser-51101",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techgear",
-   "source_url": "https://www.techgear.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Σύνοψη Η Opera παρουσίασε επίσημα το Web AI, ένα νέο πρότυπο που επιτρέπει την εκτέλεση μοντέλων Τεχνητής Νοημοσύνης τοπικά, απευθείας μέσα από τον ...",
-   "first_seen": "2026-10-27T19:21:00+00:00"
   },
   {
    "key": "url:https://meetup.com/epic-studios-tech-talks/events/317142578",
