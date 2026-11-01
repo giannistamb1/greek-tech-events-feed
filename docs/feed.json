@@ -1,7 +1,33 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-01T13:38:13.725079+00:00",
+ "built": "2026-11-01T19:43:54.449457+00:00",
  "items": [
+  {
+   "key": "url:https://insider.gr/eidiseis/430986/synedriazei-ayrio-i-olomeleia-tis-epitropis-dieyrynsis-toy-pasok-omilia-n",
+   "title": "Συνεδριάζει αύριο η Ολομέλεια της Επιτροπής Διεύρυνσης του ΠΑΣΟΚ - Ομιλία Ν. Ανδρουλάκη",
+   "link": "https://www.insider.gr/eidiseis/430986/synedriazei-ayrio-i-olomeleia-tis-epitropis-dieyrynsis-toy-pasok-omilia-n",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Η συνεδρίαση, που έχει προγραμματιστεί για τις 18:30 στο ξενοδοχείο DIVANI-Caravel.",
+   "first_seen": "2026-11-01T17:27:28+00:00"
+  },
+  {
+   "key": "url:https://businessvoice.gr/diethni/996096/dokimi-pyravlikis-kefalis-me-pyromachika-diasporas-sti-voreia-korea",
+   "title": "Δοκιμή πυραυλικής κεφαλής με πυρομαχικά διασποράς στη Βόρεια Κορέα",
+   "link": "https://businessvoice.gr/diethni/996096/dokimi-pyravlikis-kefalis-me-pyromachika-diasporas-sti-voreia-korea/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "EMEA.gr",
+   "source_url": "https://www.emea.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Σε μια επίδειξη στρατιωτικής ισχύος, το καθεστώς της Πιονγκγιάνγκ προχώρησε τις τελευταίες εβδομάδες σε αρκετές πυραυλικές δοκιμές, ενώ διοργάνωσε έκθεση με παρουσίαση διαφόρων τύπων drones",
+   "first_seen": "2026-11-01T14:00:46+00:00"
+  },
   {
    "key": "url:https://meetup.com/hack-the-night-builders-and-dreamers/events/317228496",
    "title": "Athens Verified Locals για Μακροχρόνιες Σχέσεις",
@@ -55,17 +81,17 @@
    "first_seen": "2026-11-01T10:01:12+00:00"
   },
   {
-   "key": "url:https://businessdaily.gr/politiki/241200_stin-athina-oi-tehnologikoi-kolossoi-gia-ton-periorismo-ton-social-media-stoys",
-   "title": "Σκέρτσος: Συζήτηση στην Αθήνα για την απαγόρευση των social media σε ανήλικους",
-   "link": "https://www.businessdaily.gr/politiki/241200_stin-athina-oi-tehnologikoi-kolossoi-gia-ton-periorismo-ton-social-media-stoys?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
+   "key": "url:https://startupper.gr/news/283727/makrozoia-apo-tin-psevdoepistimi-stin-pragmatiki-viotechnologia-part-iii",
+   "title": "Μακροζωία: Από την ψευδοεπιστήμη στην πραγματική βιοτεχνολογία (Part III)",
+   "link": "https://startupper.gr/news/283727/makrozoia-apo-tin-psevdoepistimi-stin-pragmatiki-viotechnologia-part-iii/",
    "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
    "starts": null,
    "location": "",
-   "summary": "Εκπρόσωποι μεγάλων τεχνολογικών εταιρειών θα επισκεφθούν την Αθήνα την ερχόμενη εβδομάδα, για να συζητήσουν, μετά από πρόσκληση της κυβέρνησης, την...",
-   "first_seen": "2026-11-01T09:48:51+00:00"
+   "summary": "Ο θάνατος του Γιώργου Μαζωνάκη μετά την ανακοπή που υπέστη σε ιδιωτικό παθολογικό ιατρείο στο Κολωνάκι, σε συνεδρία πλασμαφαίρεσης, λειτούργησε σαν βίαιος έλεγχος πραγματικότητας για το πώς μπλέκονται στην Ελλάδα ιατρικές πράξεις, ψευδοεπιστήμη και βιομηχανία ευεξίας The post Μακροζωία: Από την ψευδοεπιστήμη στην πραγματική βιοτεχνολογία (Part III) appeared first on STARTUPPER .",
+   "first_seen": "2026-11-01T07:03:20+00:00"
   },
   {
    "key": "url:https://meetup.com/baig-academy-of-ai/events/317160870",
@@ -105,19 +131,6 @@
    "location": "Online",
    "summary": "Sponsored by [Daemon](https://www.dae.mn/) [PLEASE SIGN UP ON LUMA NOT ON MEETUP!](https://luma.com/3w2pddao) Agenda 06:00pm – Doors open 06:30pm – Welcome 06:35pm – Shradha Janib, “Traffic sign recognition using deep learning” 07:20pm – Break 07:35pm – David Hughes, Stelia, “Lessons learned from running ML workloads in production” 08:20pm – Lightning talks * Freeman Madudili, “Deterministic boundaries around AI actions” * Ozan Dagdeviren, “Why measuring AI skill is harder than it looks” * 08:50pm – Close, social at The Angel Please note you will be unable to enter the venue before 6.00pm. RSVPs will close 24 hours before the event, you may be unable to register after this time but you can s…",
    "first_seen": "2026-11-01T00:10:51.583430+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/psifiako-diploma-telos-gia-aytoys-toys-odigoys",
-   "title": "Ψηφιακό δίπλωμα: Τέλος για αυτούς τους οδηγούς",
-   "link": "https://techmaniacs.gr/psifiako-diploma-telos-gia-aytoys-toys-odigoys/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Μέσω του Gov.gr Wallet οι πολίτες έχουν τη δυνατότητα να ψηφιοποιήσουν τα έγγραφά τους, μεταξύ των οποίων περιλαμβάνεται και το ψηφιακό δίπλωμα οδήγησης. Ωστόσο, οι οδηγοί ενδέχεται να χάσουν την πρόσβαση στο ψηφιακό τους δίπλωμα σε περίπτωση που αυτό ανακληθεί από κάποιον αρμόδιο φορέα, μια διαδικασία η οποία πλέον εκτελείται αυτόματα. Αρχικά, διευκρινίζεται ότι η […] The post Ψηφιακό δίπλωμα: Τέλος για αυτούς τους οδηγούς appeared first on Techmaniacs .",
-   "first_seen": "2026-10-31T15:37:23+00:00"
   },
   {
    "key": "url:https://meetup.com/beyond-the-code/events/316578225",
@@ -274,19 +287,6 @@
    "location": "",
    "summary": "Τα Startupper Awards 2026 έρχονται, στις 30 Νοεμβρίου, στον Ελληνικό Κόσμο και ετοιμάζονται να κάνουν δημιουργική φασαρία ρίχνοντας φως στους πραγματικούς πρωταγωνιστές! The post 10 χρόνια Startupper Awards appeared first on STARTUPPER .",
    "first_seen": "2026-10-30T14:31:48+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/news/283520/d-papastergiou-o-psifiakos-thorakas-tis-elladas-apenanti-stin-klimatiki-krisi-apo-tous-mikrodoryforous-ston-daidalo",
-   "title": "Δ. Παπαστεργίου: Ο ψηφιακός «θώρακας» της Ελλάδας απέναντι στην κλιματική κρίση – Από τους μικροδορυφόρους στον «Δαίδαλο»",
-   "link": "https://startupper.gr/news/283520/d-papastergiou-o-psifiakos-thorakas-tis-elladas-apenanti-stin-klimatiki-krisi-apo-tous-mikrodoryforous-ston-daidalo/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Μιλώντας στο συνέδριο Rethymno Blue Shield, ο Υπουργός Ψηφιακής Διακυβέρνησης, Δημήτρης Παπαστεργίου, παρουσίασε τη δέσμη ψηφιακών εργαλείων για την αντιμετώπιση της κλιματικής κρίσης The post Δ. Παπαστεργίου: Ο ψηφιακός «θώρακας» της Ελλάδας απέναντι στην κλιματική κρίση – Από τους μικροδορυφόρους στον «Δαίδαλο» appeared first on STARTUPPER .",
-   "first_seen": "2026-10-30T14:07:31+00:00"
   },
   {
    "key": "url:https://ictplus.gr/dith-o-psifiakos-metaschimatismos-stin-ygeia-sto-epikentro-diethnous-synedriou-sto-aristoteleio-panepistimio",

@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-01T13:38:13.725079+00:00",
+  "built": "2026-11-01T19:43:54.449457+00:00",
   "items": 44,
   "sources": [
     {
@@ -71,7 +71,7 @@
     {
       "name": "EMEA.gr",
       "fetched": 15,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
@@ -83,19 +83,19 @@
     {
       "name": "Insider.gr",
       "fetched": 60,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
       "name": "Fortune Greece",
-      "fetched": 141,
+      "fetched": 149,
       "kept": 1,
       "error": ""
     },
     {
       "name": "Business Daily",
       "fetched": 40,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
@@ -107,7 +107,7 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
