@@ -1,11 +1,37 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-01T00:10:51.583430+00:00",
+ "built": "2026-11-01T06:16:39.780364+00:00",
  "items": [
   {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038439",
-   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038439/",
+   "key": "url:https://meetup.com/the-online-ai-skills-builder-community/events/317161330",
+   "title": "7 Practical Ways to Generate Passive Income with AI",
+   "link": "https://www.meetup.com/the-online-ai-skills-builder-community/events/317161330/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-12T21:30:00+02:00",
+   "location": "Online",
+   "summary": "[⏰ ](https://newfuturepublish--clientsandconsulting.thrivecart.com/7-ways-to-monetise-ai/)**[Click here to register your place now](https://newfuturepublish--clientsandconsulting.thrivecart.com/7-ways-to-monetise-ai/)**[ ✨](https://newfuturepublish--clientsandconsulting.thrivecart.com/7-ways-to-monetise-ai/) 💡 **Free Workshop: 7 Proven Ways To Generate Passive Income With A.I.** Most people know AI is changing how we work. Far fewer know exactly how to use it to create a realistic, sustainable income from home. This free, one-hour workshop clarifies that possibility with practical guidance you can actually use. In one session you will discover: ✅ The 7 most accessible ways to monetise AI tod…",
+   "first_seen": "2026-11-01T06:16:39.780364+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/synenteyxeis/239350_pantazis-ta-nea-shedia-tis-hellas-direct-me-revolut-kai-anoigma-se-nees-agores",
+   "title": "Αλ. Πανταζής (Hellas Direct): Το deal με Revolut και το άνοιγμα σε νέες αγορές",
+   "link": "https://www.businessdaily.gr/synenteyxeis/239350_pantazis-ta-nea-shedia-tis-hellas-direct-me-revolut-kai-anoigma-se-nees-agores",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Ο συνιδρυτής και Executive Director της Hellas Direct, Αλέξης Πανταζής, παρουσιάσει σε συνέντευξή του στο BD τα σχέδια για νέες αγορές, τη διεύρυνση...",
+   "first_seen": "2026-11-01T05:37:04+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038470",
+   "title": "Saturday Social at Mint Bar – International Mingle event",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038470/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Athens tech",
@@ -16,9 +42,9 @@
    "first_seen": "2026-11-01T00:10:51.583430+00:00"
   },
   {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038470",
-   "title": "Saturday Social at Mint Bar – International Mingle event",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038470/",
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038439",
+   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038439/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Athens tech",
@@ -66,19 +92,6 @@
    "location": "Online",
    "summary": "Sponsored by [Daemon](https://www.dae.mn/) [PLEASE SIGN UP ON LUMA NOT ON MEETUP!](https://luma.com/3w2pddao) Agenda 06:00pm – Doors open 06:30pm – Welcome 06:35pm – Shradha Janib, “Traffic sign recognition using deep learning” 07:20pm – Break 07:35pm – David Hughes, Stelia, “Lessons learned from running ML workloads in production” 08:20pm – Lightning talks * Freeman Madudili, “Deterministic boundaries around AI actions” * Ozan Dagdeviren, “Why measuring AI skill is harder than it looks” * 08:50pm – Close, social at The Angel Please note you will be unable to enter the venue before 6.00pm. RSVPs will close 24 hours before the event, you may be unable to register after this time but you can s…",
    "first_seen": "2026-11-01T00:10:51.583430+00:00"
-  },
-  {
-   "key": "url:https://businessdaily.gr/oikonomia/241134_i-ellada-sto-epikentro-tis-hrimatooikonomikis-kainotomias-kai-fintech-anaptyxis",
-   "title": "Fintech Athens 5.0: Η Ελλάδα στον παγκόσμιο χάρτη χρηματοοικονομικής καινοτομίας",
-   "link": "https://www.businessdaily.gr/oikonomia/241134_i-ellada-sto-epikentro-tis-hrimatooikonomikis-kainotomias-kai-fintech-anaptyxis?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Στο συνέδριο Fintech Athens 5.0 επισημάνθηκε η ανάγκη διασύνδεσης πανεπιστημίων, τραπεζών και επενδυτών ώστε η τεχνολογική καινοτομία να οδηγεί σε...",
-   "first_seen": "2026-10-31T15:37:31+00:00"
   },
   {
    "key": "url:https://techmaniacs.gr/psifiako-diploma-telos-gia-aytoys-toys-odigoys",
@@ -364,19 +377,6 @@
    "starts": "2026-11-09T20:00:00+02:00",
    "location": "Online",
    "summary": "Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!",
-   "first_seen": "2026-10-30T01:06:18.308533+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/ac-lhr/events/315138287",
-   "title": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
-   "link": "https://www.meetup.com/ac-lhr/events/315138287/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-06T13:00:00+02:00",
-   "location": "Online",
-   "summary": "**What is FirstFridayFair Monthly Job Fair?** [FirstFridayFair Monthly Job Fair](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd) is a **global virtual job fair and remote hiring event** hosted by the [Analytics.CLUB](Analytics.CLUB) community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**. 🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk) **Where and When?** 📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd) 🗓 First…",
    "first_seen": "2026-10-30T01:06:18.308533+00:00"
   },
   {
