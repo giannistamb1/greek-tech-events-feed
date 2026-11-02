@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-01T19:43:54.449457+00:00",
+ "built": "2026-11-02T00:48:37.265302+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/berlin-datatalks-club/events/316580788",
+   "title": "GraphRAG in Real-Life Use Cases",
+   "link": "https://www.meetup.com/berlin-datatalks-club/events/316580788/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-02T13:30:00+02:00",
+   "location": "Online",
+   "summary": "**How structured retrieval helps high-stakes decision making - Daan Di Scala** ​Moving beyond basic RAG isn't just a technical upgrade, it's the key to building truly trustworthy AI. In this session, discover how GraphRAG transforms raw data into reliable insights across three applied real-world use cases. ​In this talk, he will: * ​Introduce his work at TNO as an AI scientist * ​Cover the topic of Trustworthy AI decision support, and in particular: * ​Discuss: how can knowledge-driven RAG and GraphRAG approaches make retrieval more trustworthy? * ​Take you through 3 applied use cases and showcase the effect of different approaches ​ ​**About the Speaker:** **Daan Di Scala** studied Artifici…",
+   "first_seen": "2026-11-02T00:48:37.265302+00:00"
+  },
   {
    "key": "url:https://insider.gr/eidiseis/430986/synedriazei-ayrio-i-olomeleia-tis-epitropis-dieyrynsis-toy-pasok-omilia-n",
    "title": "Συνεδριάζει αύριο η Ολομέλεια της Επιτροπής Διεύρυνσης του ΠΑΣΟΚ - Ομιλία Ν. Ανδρουλάκη",
@@ -94,19 +107,6 @@
    "first_seen": "2026-11-01T07:03:20+00:00"
   },
   {
-   "key": "url:https://meetup.com/baig-academy-of-ai/events/317160870",
-   "title": "Jev and the rise of AI decision models",
-   "link": "https://www.meetup.com/baig-academy-of-ai/events/317160870/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-04T19:00:00+02:00",
-   "location": "Online",
-   "summary": "## What you'll learn * Understand what Jev does differently Understand how an AI model built for decisions differs from tools like ChatGPT that generate text and explanations. * Identify where decision models fit into your work See how AI could classify customer requests, prioritize leads, review information, and direct routine tasks. * Compare the emerging approaches to AI decisions Explore Jev, the System 1 model concept, and how OpenAI, Microsoft, and open-source AI fit into this evolving landscape. * Assess the practical impact on your business Identify workflows where structured AI decisions help and where human review or general-purpose AI works better. ## Why this topic matters AI can…",
-   "first_seen": "2026-11-01T00:10:51.583430+00:00"
-  },
-  {
    "key": "url:https://meetup.com/software-architecture-or-system-design-training/events/317171014",
    "title": "Google Map Software Architecture",
    "link": "https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/",
@@ -120,16 +120,16 @@
    "first_seen": "2026-11-01T00:10:51.583430+00:00"
   },
   {
-   "key": "url:https://meetup.com/ai-signals-community/events/317188586",
-   "title": "AI Signals #36: Computer Vision, Production ML and AI Skills",
-   "link": "https://www.meetup.com/ai-signals-community/events/317188586/",
+   "key": "url:https://meetup.com/baig-academy-of-ai/events/317160870",
+   "title": "Jev and the rise of AI decision models",
+   "link": "https://www.meetup.com/baig-academy-of-ai/events/317160870/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-11T20:00:00+02:00",
+   "starts": "2026-11-04T19:00:00+02:00",
    "location": "Online",
-   "summary": "Sponsored by [Daemon](https://www.dae.mn/) [PLEASE SIGN UP ON LUMA NOT ON MEETUP!](https://luma.com/3w2pddao) Agenda 06:00pm – Doors open 06:30pm – Welcome 06:35pm – Shradha Janib, “Traffic sign recognition using deep learning” 07:20pm – Break 07:35pm – David Hughes, Stelia, “Lessons learned from running ML workloads in production” 08:20pm – Lightning talks * Freeman Madudili, “Deterministic boundaries around AI actions” * Ozan Dagdeviren, “Why measuring AI skill is harder than it looks” * 08:50pm – Close, social at The Angel Please note you will be unable to enter the venue before 6.00pm. RSVPs will close 24 hours before the event, you may be unable to register after this time but you can s…",
+   "summary": "## What you'll learn * Understand what Jev does differently Understand how an AI model built for decisions differs from tools like ChatGPT that generate text and explanations. * Identify where decision models fit into your work See how AI could classify customer requests, prioritize leads, review information, and direct routine tasks. * Compare the emerging approaches to AI decisions Explore Jev, the System 1 model concept, and how OpenAI, Microsoft, and open-source AI fit into this evolving landscape. * Assess the practical impact on your business Identify workflows where structured AI decisions help and where human review or general-purpose AI works better. ## Why this topic matters AI can…",
    "first_seen": "2026-11-01T00:10:51.583430+00:00"
   },
   {

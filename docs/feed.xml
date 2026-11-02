@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sun, 01 Nov 2026 19:43:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 00:48:37 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[02 Nov] GraphRAG in Real-Life Use Cases</title>
+<link>https://www.meetup.com/berlin-datatalks-club/events/316580788/</link>
+<guid isPermaLink="false">url:https://meetup.com/berlin-datatalks-club/events/316580788</guid>
+<pubDate>Mon, 02 Nov 2026 00:48:37 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 02 November 2026, 13:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**How structured retrieval helps high-stakes decision making - Daan Di Scala** ​Moving beyond basic RAG isn't just a technical upgrade, it's the key to building truly trustworthy AI. In this session, discover how GraphRAG transforms raw data into reliable insights across three applied real-world use cases. ​In this talk, he will: * ​Introduce his work at TNO as an AI scientist * ​Cover the topic of Trustworthy AI decision support, and in particular: * ​Discuss: how can knowledge-driven RAG and GraphRAG approaches make retrieval more trustworthy? * ​Take you through 3 applied use cases and showcase the effect of different approaches ​ ​**About the Speaker:** **Daan Di Scala** studied Artifici…&lt;/p&gt;</description>
+</item>
 <item>
 <title>Συνεδριάζει αύριο η Ολομέλεια της Επιτροπής Διεύρυνσης του ΠΑΣΟΚ - Ομιλία Ν. Ανδρουλάκη</title>
 <link>https://www.insider.gr/eidiseis/430986/synedriazei-ayrio-i-olomeleia-tis-epitropis-dieyrynsis-toy-pasok-omilia-n</link>
@@ -72,15 +81,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Startupper · Startups&lt;/p&gt;&lt;p&gt;Ο θάνατος του Γιώργου Μαζωνάκη μετά την ανακοπή που υπέστη σε ιδιωτικό παθολογικό ιατρείο στο Κολωνάκι, σε συνεδρία πλασμαφαίρεσης, λειτούργησε σαν βίαιος έλεγχος πραγματικότητας για το πώς μπλέκονται στην Ελλάδα ιατρικές πράξεις, ψευδοεπιστήμη και βιομηχανία ευεξίας The post Μακροζωία: Από την ψευδοεπιστήμη στην πραγματική βιοτεχνολογία (Part III) appeared first on STARTUPPER .&lt;/p&gt;</description>
 </item>
 <item>
-<title>[04 Nov] Jev and the rise of AI decision models</title>
-<link>https://www.meetup.com/baig-academy-of-ai/events/317160870/</link>
-<guid isPermaLink="false">url:https://meetup.com/baig-academy-of-ai/events/317160870</guid>
-<pubDate>Sun, 01 Nov 2026 00:10:51 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 04 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;## What you'll learn * Understand what Jev does differently Understand how an AI model built for decisions differs from tools like ChatGPT that generate text and explanations. * Identify where decision models fit into your work See how AI could classify customer requests, prioritize leads, review information, and direct routine tasks. * Compare the emerging approaches to AI decisions Explore Jev, the System 1 model concept, and how OpenAI, Microsoft, and open-source AI fit into this evolving landscape. * Assess the practical impact on your business Identify workflows where structured AI decisions help and where human review or general-purpose AI works better. ## Why this topic matters AI can…&lt;/p&gt;</description>
-</item>
-<item>
 <title>[21 Nov] Google Map Software Architecture</title>
 <link>https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/</link>
 <guid isPermaLink="false">url:https://meetup.com/software-architecture-or-system-design-training/events/317171014</guid>
@@ -90,13 +90,13 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 21 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[11 Nov] AI Signals #36: Computer Vision, Production ML and AI Skills</title>
-<link>https://www.meetup.com/ai-signals-community/events/317188586/</link>
-<guid isPermaLink="false">url:https://meetup.com/ai-signals-community/events/317188586</guid>
+<title>[04 Nov] Jev and the rise of AI decision models</title>
+<link>https://www.meetup.com/baig-academy-of-ai/events/317160870/</link>
+<guid isPermaLink="false">url:https://meetup.com/baig-academy-of-ai/events/317160870</guid>
 <pubDate>Sun, 01 Nov 2026 00:10:51 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 11 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Sponsored by [Daemon](https://www.dae.mn/) [PLEASE SIGN UP ON LUMA NOT ON MEETUP!](https://luma.com/3w2pddao) Agenda 06:00pm – Doors open 06:30pm – Welcome 06:35pm – Shradha Janib, “Traffic sign recognition using deep learning” 07:20pm – Break 07:35pm – David Hughes, Stelia, “Lessons learned from running ML workloads in production” 08:20pm – Lightning talks * Freeman Madudili, “Deterministic boundaries around AI actions” * Ozan Dagdeviren, “Why measuring AI skill is harder than it looks” * 08:50pm – Close, social at The Angel Please note you will be unable to enter the venue before 6.00pm. RSVPs will close 24 hours before the event, you may be unable to register after this time but you can s…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 04 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;## What you'll learn * Understand what Jev does differently Understand how an AI model built for decisions differs from tools like ChatGPT that generate text and explanations. * Identify where decision models fit into your work See how AI could classify customer requests, prioritize leads, review information, and direct routine tasks. * Compare the emerging approaches to AI decisions Explore Jev, the System 1 model concept, and how OpenAI, Microsoft, and open-source AI fit into this evolving landscape. * Assess the practical impact on your business Identify workflows where structured AI decisions help and where human review or general-purpose AI works better. ## Why this topic matters AI can…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[05 Nov] Software Engineering: Extinction or Evolution?</title>
