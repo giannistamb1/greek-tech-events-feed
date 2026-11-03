@@ -1,7 +1,85 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-02T21:44:36.651245+00:00",
+ "built": "2026-11-03T06:55:02.066243+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/producttank-athens/events/317253750",
+   "title": "ProductTank Athens: Building AI-powered products for the real, complex world",
+   "link": "https://www.meetup.com/producttank-athens/events/317253750/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-26T19:00:00+02:00",
+   "location": "Hellas Direct, Sorou 18, Marousi 151 25, Greece, Marousi, Marousi",
+   "summary": "**Join us for the next ProductTank Athens meetup** The way we discover, design, build, and ship products is changing fast. Better products come from better-connected product people, and that takes open, in-depth conversations. 📅 Thursday, 26 November 🕡 Doors open 18:30, with early networking 🕖 Talks start 19:00 **📍** [Hellas Direct, Sorou 18, Marousi](https://maps.app.goo.gl/ikund3xKpfDgdLYE7) We’ll cover a topic that’s on almost every product roadmap, but rarely discussed in depth: building AI-powered products once regulation, complex operations, and real users are involved. **🎤 [Pavlina Drakou](https://www.linkedin.com/in/pavlina-drakou/)**, Senior Product Manager @ Hellas Direct: Deployin…",
+   "first_seen": "2026-11-03T06:55:02.066243+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/practical-ai-thessaloniki-meetup-group/events/317253198",
+   "title": "Meetup #8 - The Recovering Data Scientist: Lessons Learned the Hard Way",
+   "link": "https://www.meetup.com/practical-ai-thessaloniki-meetup-group/events/317253198/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-12T19:00:00+02:00",
+   "location": "fromScratch Studio, Themistokli Sofouli 70Α, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki",
+   "summary": "**The model was never the hard part. The systems, the data, and the people around it were.** Join us on **Thursday, 12 November, at the fromScratch Studio HQ**, where we’ll hear from a self-described “**recovering data scientist\\***” about what it really takes to get machine learning into production. Through a series of **real war stories from deploying ML systems for enterprise clients**, we’ll look at where projects actually break down, and what you can do about it. Each story comes with a concrete insight and a practical takeaway you can apply to your own work. **Stavros Dimou** from **RealMintAI** will show us how the engineering best practices built into platforms like Databricks, Fabri…",
+   "first_seen": "2026-11-03T06:55:02.066243+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/power-bi-user-group-italy/events/317187762",
+   "title": "What are Claude Dashboards? - with Ruben Van de Voorde",
+   "link": "https://www.meetup.com/power-bi-user-group-italy/events/317187762/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-10T19:30:00+02:00",
+   "location": "Online",
+   "summary": "⚡ The 2026 edition of the Ticino Data Conference is already in the past. We want to thank everyone again for their support and participation. But just like AI evolution, our activities never stop 😊 🔊 On the 10th of November at 18.30, [Ruben Van de Voorde](https://www.linkedin.com/preload/?_bprMode=vanilla#) joins our community to talk about Claude Dashboards. If you have been alive and registered on LinkedIn in the past month, surely you have heard of them. And maybe you'd like to know how to set them up and how they work. Ruben will walk us precisely through that, taking as reference an article he wrote for [Tabular Editor](https://www.linkedin.com/preload/?_bprMode=vanilla#). 🫵 Subscribe h…",
+   "first_seen": "2026-11-03T06:55:02.066243+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/productpeople/events/316851825",
+   "title": "🧬 Why 59% of Companies With Product-Market Fit Still Fail to Scale",
+   "link": "https://www.meetup.com/productpeople/events/316851825/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-03T18:00:00+02:00",
+   "location": "Online",
+   "summary": "🚀 Everyone in product optimizes for product-market fit. Almost no one talks about what breaks next: 59% of companies that reach PMF still fail to scale. Not because of the product — but because the company itself never transforms to match it. Norbert calls this missing step \"Product-Company Fit.\" Drawing on 30+ years and 100+ product turnarounds, this talk shows the recurring pattern behind stalled scale-ups, why the standard advice — raise more, hire faster, push the roadmap — often accelerates stagnation. **⏰ Schedule (CET)** 17:00 - 17:05 Intros 17:05 - 18:00 Presentation and Q&A **✨ About the Organizers** We're on a mission to help companies discover and deliver great products faster. We…",
+   "first_seen": "2026-11-03T06:55:02.066243+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/berlin-datatalks-club/events/317190601",
+   "title": "Build a Media Agent: CPU Agent, GPU Models as Tools",
+   "link": "https://www.meetup.com/berlin-datatalks-club/events/317190601/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-03T17:30:00+02:00",
+   "location": "Online",
+   "summary": "Run expensive GPU models only when your agent needs them - Alexey Grigorev and Mikhail Rozhkov Generative media apps don't need a GPU running all the time. The agent itself is cheap: it can run on a CPU, read a brief, and decide what to make. The expensive part - image and speech models - can live on GPUs and be called as tools only when needed. Join this hands-on coding workshop with Alexey Grigorev (DataTalks.Club) and Mikhail Rozhkov (Nebius), where we'll build a small media agent on Nebius: a CPU agent as the control plane, with GPU-hosted models exposed as tools. We'll also compare the two ways to run GPU work - a Serverless Endpoint and a batch Job - by latency and cost per asset. We'l…",
+   "first_seen": "2026-11-03T06:55:02.066243+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/moodys-gia-ellinikes-trapezes-isxira-kerdi-kai-refstotita-alla-kai-4-kampanakia",
+   "title": "Moody’s για ελληνικές τράπεζες: Ισχυρά κέρδη και ρευστότητα, αλλά και 4 «καμπανάκια»",
+   "link": "https://www.fortunegreece.com/article/moodys-gia-ellinikes-trapezes-isxira-kerdi-kai-refstotita-alla-kai-4-kampanakia/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η έκθεση της Τράπεζας της Ελλάδος επιβεβαιώνει τη σταθερότητα του κλάδου — Διαχειρίσιμες οι πιέσεις για το 93% του συστήματος, σύμφωνα με τον οίκο αξιολόγησης — Οι νέες εισροές NPLs σε μικρομεσαίους, το «αγκάθι» του αναβαλλόμενου φόρου (DTCs), οι κυβερνοαπειλές AI και το μακροοικονομικό περιβάλλον.",
+   "first_seen": "2026-11-03T06:55:02.066243+00:00"
+  },
   {
    "key": "url:https://meetup.com/microsoft-fabric-dublin/events/315957615",
    "title": "Turning Data Into Stories People Remember",
@@ -27,19 +105,6 @@
    "location": "",
    "summary": "Όταν μια ομάδα κυνηγών μετεωριτών έπεσε πάνω σε έναν παράξενο, κοκκινωπό βράχο στην έρημο της Σαχάρας το 2022, κανείς δεν μπορούσε να φανταστεί τι ακριβώς κρατούσε στα χέρια του. Σήμερα, τα αποτελέσματα των εξειδικευμένων εργαστηριακών αναλύσεων που δημοσιεύθηκαν στο κορυφαίο επιστημονικό περιοδικό Science επιβεβαιώνουν κάτι πραγματικά σπάνιο. Ο μετεωρίτης, που πήρε την επίσημη ονομασία Teghaza […] The post Βράχος 4,1 δισ. ετών από τον Άρη βρέθηκε στη Σαχάρα: Είχε νερό appeared first on Techmaniacs .",
    "first_seen": "2026-11-02T20:50:07+00:00"
-  },
-  {
-   "key": "url:https://businessdaily.gr/politiki/241474_ta-nea-psifiaka-erga-kai-oi-allages-sto-govgr-symfona-me-ton-d-papastergioy",
-   "title": "Τα νέα ψηφιακά έργα έως τις εκλογές και οι αλλαγές στο gov.gr",
-   "link": "https://www.businessdaily.gr/politiki/241474_ta-nea-psifiaka-erga-kai-oi-allages-sto-govgr-symfona-me-ton-d-papastergioy?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Ο Δημήτρης Παπαστεργίου παρουσίασε στο Green Deal Greece 2026 τις ψηφιακές παρεμβάσεις που θα υλοποιήσει η κυβέρνηση, όπως ασφαλείς επικοινωνίες,...",
-   "first_seen": "2026-11-02T18:37:01+00:00"
   },
   {
    "key": "url:https://techmaniacs.gr/windows-11-anazitisi-android-apps-taskbar",
@@ -185,19 +250,6 @@
    "first_seen": "2026-11-02T14:43:29+00:00"
   },
   {
-   "key": "url:https://insider.gr/eidiseis/431107/pyriniki-energeia-imerida-gia-tis-prooptikes-kai-tis-prokliseis-sabbato-7-noembrioy",
-   "title": "Πυρηνική Ενέργεια: Ημερίδα για τις προοπτικές και τις προκλήσεις το Σάββατο 7 Νοεμβρίου",
-   "link": "https://www.insider.gr/eidiseis/431107/pyriniki-energeia-imerida-gia-tis-prooptikes-kai-tis-prokliseis-sabbato-7-noembrioy",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Οι προοπτικές της πυρηνικής ενέργειας, οι τεχνολογικές εξελίξεις, οι εφαρμογές στην υγεία και την έρ...",
-   "first_seen": "2026-11-02T14:28:09+00:00"
-  },
-  {
    "key": "url:https://ictplus.gr/st-kalafatis-i-erevna-kai-i-kainotomia-synistoun-pylona-ethnikis-ischyos-kai-aichmi-enos-neou-patriotismou",
    "title": "Στ. Καλαφάτης: «Η Έρευνα και η Καινοτομία συνιστούν πυλώνα Εθνικής Ισχύος και αιχμή ενός Νέου Πατριωτισμού»",
    "link": "https://www.ictplus.gr/st-kalafatis-i-erevna-kai-i-kainotomia-synistoun-pylona-ethnikis-ischyos-kai-aichmi-enos-neou-patriotismou/",
@@ -315,52 +367,13 @@
    "first_seen": "2026-11-01T13:38:13.725079+00:00"
   },
   {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038439",
-   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038439/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-07T21:30:00+02:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-11-01T00:10:51.583430+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/software-architecture-or-system-design-training/events/317171014",
-   "title": "Google Map Software Architecture",
-   "link": "https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-21T19:00:00+02:00",
-   "location": "Online",
-   "summary": "Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…",
-   "first_seen": "2026-11-01T00:10:51.583430+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/baig-academy-of-ai/events/317160870",
-   "title": "Jev and the rise of AI decision models",
-   "link": "https://www.meetup.com/baig-academy-of-ai/events/317160870/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-04T19:00:00+02:00",
-   "location": "Online",
-   "summary": "## What you'll learn * Understand what Jev does differently Understand how an AI model built for decisions differs from tools like ChatGPT that generate text and explanations. * Identify where decision models fit into your work See how AI could classify customer requests, prioritize leads, review information, and direct routine tasks. * Compare the emerging approaches to AI decisions Explore Jev, the System 1 model concept, and how OpenAI, Microsoft, and open-source AI fit into this evolving landscape. * Assess the practical impact on your business Identify workflows where structured AI decisions help and where human review or general-purpose AI works better. ## Why this topic matters AI can…",
-   "first_seen": "2026-11-01T00:10:51.583430+00:00"
-  },
-  {
    "key": "url:https://meetup.com/beyond-the-code/events/316578225",
    "title": "Software Engineering: Extinction or Evolution?",
    "link": "https://www.meetup.com/beyond-the-code/events/316578225/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-11-05T19:30:00+02:00",
    "location": "Online",
    "summary": "AI is changing software engineering at a pace that is difficult to ignore, but how much has *actually* changed, and what does it mean for the people building software today? **Beyond the Code’s first live panel** brings together an elite panel of experts for a candid discussion about what AI is genuinely changing on the ground, what is still hype, and what the future could mean for engineering teams and individual careers. The panel will be split into two distinct halves: 1. ***What’s Actually Changed?*** AI coding tools, copilots, agents and increasingly capable models are already changing how software is built. But beyond the headlines, what does that look like in practice? 2. ***Betting o…",
@@ -430,19 +443,6 @@
    "location": "Online",
    "summary": "Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!",
    "first_seen": "2026-10-30T01:06:18.308533+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/llm-reading-club/events/317142795",
-   "title": "Build a Reasoning Model (From Scratch)",
-   "link": "https://www.meetup.com/llm-reading-club/events/317142795/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-08T17:30:00+02:00",
-   "location": "Online",
-   "summary": "We are working through *Build a Reasoning Model (From Scratch)* by Sebastian Raschka. During each meetup, we will discuss the key concepts from the chapter or pages under review. In this session we'll discuss the **Chapter 6. Training Reasoning Models with Reinforcement Learning.** Raschka provides a hands-on guide to understanding and building modern reasoning models. Starting with a conventional pretrained LLM, the book explores evaluation, inference-time reasoning techniques, reinforcement learning with verifiable rewards, and knowledge distillation. Please note that the session is not recorded, and participants are responsible for obtaining their own copy of the book. **Buy the book** (a…",
-   "first_seen": "2026-10-28T20:20:06.961416+00:00"
   },
   {
    "key": "url:https://meetup.com/epic-studios-tech-talks/events/317142578",

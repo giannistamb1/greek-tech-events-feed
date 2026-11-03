@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Mon, 02 Nov 2026 21:44:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 06:55:02 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>Moody’s για ελληνικές τράπεζες: Ισχυρά κέρδη και ρευστότητα, αλλά και 4 «καμπανάκια»</title>
+<link>https://www.fortunegreece.com/article/moodys-gia-ellinikes-trapezes-isxira-kerdi-kai-refstotita-alla-kai-4-kampanakia/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/moodys-gia-ellinikes-trapezes-isxira-kerdi-kai-refstotita-alla-kai-4-kampanakia</guid>
+<pubDate>Tue, 03 Nov 2026 06:55:02 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η έκθεση της Τράπεζας της Ελλάδος επιβεβαιώνει τη σταθερότητα του κλάδου — Διαχειρίσιμες οι πιέσεις για το 93% του συστήματος, σύμφωνα με τον οίκο αξιολόγησης — Οι νέες εισροές NPLs σε μικρομεσαίους, το «αγκάθι» του αναβαλλόμενου φόρου (DTCs), οι κυβερνοαπειλές AI και το μακροοικονομικό περιβάλλον.&lt;/p&gt;</description>
+</item>
 <item>
 <title>Βράχος 4,1 δισ. ετών από τον Άρη βρέθηκε στη Σαχάρα: Είχε νερό</title>
 <link>https://techmaniacs.gr/meteoritis-aris-sachara-teghaza-001-nero-4-1-dis-eti/</link>
@@ -16,15 +25,6 @@
 <category>Tech media</category>
 <source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Όταν μια ομάδα κυνηγών μετεωριτών έπεσε πάνω σε έναν παράξενο, κοκκινωπό βράχο στην έρημο της Σαχάρας το 2022, κανείς δεν μπορούσε να φανταστεί τι ακριβώς κρατούσε στα χέρια του. Σήμερα, τα αποτελέσματα των εξειδικευμένων εργαστηριακών αναλύσεων που δημοσιεύθηκαν στο κορυφαίο επιστημονικό περιοδικό Science επιβεβαιώνουν κάτι πραγματικά σπάνιο. Ο μετεωρίτης, που πήρε την επίσημη ονομασία Teghaza […] The post Βράχος 4,1 δισ. ετών από τον Άρη βρέθηκε στη Σαχάρα: Είχε νερό appeared first on Techmaniacs .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Τα νέα ψηφιακά έργα έως τις εκλογές και οι αλλαγές στο gov.gr</title>
-<link>https://www.businessdaily.gr/politiki/241474_ta-nea-psifiaka-erga-kai-oi-allages-sto-govgr-symfona-me-ton-d-papastergioy?utm_source=Feedelio&amp;utm_medium=news&amp;utm_campaign=ape&amp;utm_content=auto</link>
-<guid isPermaLink="false">url:https://businessdaily.gr/politiki/241474_ta-nea-psifiaka-erga-kai-oi-allages-sto-govgr-symfona-me-ton-d-papastergioy</guid>
-<pubDate>Mon, 02 Nov 2026 18:37:01 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο Δημήτρης Παπαστεργίου παρουσίασε στο Green Deal Greece 2026 τις ψηφιακές παρεμβάσεις που θα υλοποιήσει η κυβέρνηση, όπως ασφαλείς επικοινωνίες,...&lt;/p&gt;</description>
 </item>
 <item>
 <title>Windows 11: Φέρνει πρόσβαση σε Android εφαρμογές από την νέα αναζήτηση</title>
@@ -124,15 +124,6 @@
 <category>Enterprise IT</category>
 <source url="https://www.ictplus.gr/">ICT Plus</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Με ιδιαίτερη επιτυχία πραγματοποιήθηκε την Τρίτη, 13 Οκτωβρίου 2026, στο Il Giardino, η εκδήλωση της EPSILON DIGITAL του Ομίλου EPSILONNET σε συνεργασία με τη Microsoft, με τίτλο «AI &amp;amp; Digital Transformation: Above &amp;amp; Beyond Compliance». Πώς μπορεί η τεχνητή νοημοσύνη να δημιουργήσει ουσιαστική επιχειρηματική αξία; Με ποιον τρόπο οι αναδυόμενες τεχνολογίες μπορούν να προσφέρουν στρατηγικό […] Το άρθρο Με επιτυχία πραγματοποιήθηκε η εκδήλωση της EPSILON DIGITAL με τίτλο «AI &amp;amp; Digital Transformation: Above &amp;amp; Beyond Compliance» εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Πυρηνική Ενέργεια: Ημερίδα για τις προοπτικές και τις προκλήσεις το Σάββατο 7 Νοεμβρίου</title>
-<link>https://www.insider.gr/eidiseis/431107/pyriniki-energeia-imerida-gia-tis-prooptikes-kai-tis-prokliseis-sabbato-7-noembrioy</link>
-<guid isPermaLink="false">url:https://insider.gr/eidiseis/431107/pyriniki-energeia-imerida-gia-tis-prooptikes-kai-tis-prokliseis-sabbato-7-noembrioy</guid>
-<pubDate>Mon, 02 Nov 2026 14:28:09 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Οι προοπτικές της πυρηνικής ενέργειας, οι τεχνολογικές εξελίξεις, οι εφαρμογές στην υγεία και την έρ...&lt;/p&gt;</description>
 </item>
 <item>
 <title>Στ. Καλαφάτης: «Η Έρευνα και η Καινοτομία συνιστούν πυλώνα Εθνικής Ισχύος και αιχμή ενός Νέου Πατριωτισμού»</title>
