@@ -6,8 +6,35 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 17:07:27 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 23:28:08 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[04 Nov] How to Trust the Code You Ship</title>
+<link>https://www.meetup.com/microsoft-reactor-london/events/316998862/</link>
+<guid isPermaLink="false">url:https://meetup.com/microsoft-reactor-london/events/316998862</guid>
+<pubDate>Tue, 03 Nov 2026 23:28:08 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 04 November 2026, 10:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;In this session, we’ll walk through a single pull request end to end and show how GitHub helps your team close the gap between code that’s written and software that’s trustworthy. You’ll learn how GitHub supports stronger security and quality outcomes without adding more pressure to developers or reviewers. You'll learn: How to get a comprehensive view of the vulnerabilities in your codebase—including areas traditional scanning tools might miss. How GitHub Code Security helps you turn findings into validated, review-ready pull requests, so you can shrink your backlog. Tangible next steps on how you can automatically apply standards and make trust a consistent part of the development process.&lt;/p&gt;</description>
+</item>
+<item>
+<title>[04 Nov] Building an Internal Developer Platform for Kubernetes</title>
+<link>https://www.meetup.com/cloud-foundation-community/events/316879621/</link>
+<guid isPermaLink="false">url:https://meetup.com/cloud-foundation-community/events/316879621</guid>
+<pubDate>Tue, 03 Nov 2026 23:28:08 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 04 November 2026, 11:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;In this webinar, we’ll demonstrate how you can build an internal developer platform using meshStack, empowering your development teams to focus more on delivering value and less on managing infrastructure. **Language: English** **Where: Google Meet** To get the webinar link, **please, register on our website**: https://www.meshcloud.io/en/company/events/building-an-internal-developer-platform-with-meshstack/ **Who is this webinar for?** This is a workshop for platform engineers, aiming at building a container-based platform to their developers and empowering them to focus more on delivering value and less on managing infrastructure. **Our IDP Reference Architecture** Within this workshop, we…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[04 Nov] [Golang] Interview question grinding</title>
+<link>https://www.meetup.com/berlin-software-designers/events/317254743/</link>
+<guid isPermaLink="false">url:https://meetup.com/berlin-software-designers/events/317254743</guid>
+<pubDate>Tue, 03 Nov 2026 23:28:08 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 04 November 2026, 10:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;We answer interview questions created by ChatGPT. For each question we try to go deeper, and understand its fundamentals. Structure: * each round we ask ChatGPT to create an interview question * one random member of the audience answers it * we all give feedback and improve the answer * we compare our answer with the one proposed by the LLM * we do this for multiple rounds #### What you’ll need: * At least a basic knowledge of Golang * A stable internet connection * Willingness to engage, discuss, and share insights ####&lt;/p&gt;</description>
+</item>
 <item>
 <title>[26 Nov] ProductTank Athens: Building AI-powered products for the real, complex world</title>
 <link>https://www.meetup.com/producttank-athens/events/317253750/</link>
@@ -88,15 +115,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 17 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \- Connect an agent you already use\, such as Claude Code or GitHub Copilot\, to the model you have open through the MCP server\, and delegate a task that involves multiple changes \- Decide what the agent may do\, for example edit the model's metadata without reading its data \- Follow the agent's changes as it works\, and revert all or only those changes you disagree with \- Let the …&lt;/p&gt;</description>
-</item>
-<item>
-<title>[03 Nov] Can We Make AIs Sentient – and Should We? Solms vs Humphrey Live Debate</title>
-<link>https://www.meetup.com/conscious-ai/events/317070860/</link>
-<guid isPermaLink="false">url:https://meetup.com/conscious-ai/events/317070860</guid>
-<pubDate>Fri, 30 Oct 2026 18:03:37 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 03 November 2026, 20:15&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;To celebrate the publication of “*Perspectives on Machine Consciousness”*, we are hosting a live online debate between two of the leading thinkers in the science of consciousness. Mark Solms is a neuroscientist and psychoanalyst at the University of Cape Town. His book *The Hidden Spring* argues that consciousness is rooted in feeling, generated deep in the brainstem rather than the cortex. He is now working to build artificial agents that genuinely feel. Drawing on Karl Friston's free energy principle, his agents are driven by homeostatic needs they must regulate to survive, and he takes very seriously the moral questions their success would raise. Nick Humphrey is a theoretical psychologis…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[05 Nov] 🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥</title>
