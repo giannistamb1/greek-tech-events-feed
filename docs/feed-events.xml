@@ -6,7 +6,7 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 06:55:02 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 17:07:27 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>[26 Nov] ProductTank Athens: Building AI-powered products for the real, complex world</title>
@@ -34,24 +34,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;⚡ The 2026 edition of the Ticino Data Conference is already in the past. We want to thank everyone again for their support and participation. But just like AI evolution, our activities never stop 😊 🔊 On the 10th of November at 18.30, [Ruben Van de Voorde](https://www.linkedin.com/preload/?_bprMode=vanilla#) joins our community to talk about Claude Dashboards. If you have been alive and registered on LinkedIn in the past month, surely you have heard of them. And maybe you'd like to know how to set them up and how they work. Ruben will walk us precisely through that, taking as reference an article he wrote for [Tabular Editor](https://www.linkedin.com/preload/?_bprMode=vanilla#). 🫵 Subscribe h…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[03 Nov] 🧬 Why 59% of Companies With Product-Market Fit Still Fail to Scale</title>
-<link>https://www.meetup.com/productpeople/events/316851825/</link>
-<guid isPermaLink="false">url:https://meetup.com/productpeople/events/316851825</guid>
-<pubDate>Tue, 03 Nov 2026 06:55:02 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 03 November 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;🚀 Everyone in product optimizes for product-market fit. Almost no one talks about what breaks next: 59% of companies that reach PMF still fail to scale. Not because of the product — but because the company itself never transforms to match it. Norbert calls this missing step "Product-Company Fit." Drawing on 30+ years and 100+ product turnarounds, this talk shows the recurring pattern behind stalled scale-ups, why the standard advice — raise more, hire faster, push the roadmap — often accelerates stagnation. **⏰ Schedule (CET)** 17:00 - 17:05 Intros 17:05 - 18:00 Presentation and Q&amp;amp;A **✨ About the Organizers** We're on a mission to help companies discover and deliver great products faster. We…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[03 Nov] Build a Media Agent: CPU Agent, GPU Models as Tools</title>
-<link>https://www.meetup.com/berlin-datatalks-club/events/317190601/</link>
-<guid isPermaLink="false">url:https://meetup.com/berlin-datatalks-club/events/317190601</guid>
-<pubDate>Tue, 03 Nov 2026 06:55:02 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 03 November 2026, 17:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Run expensive GPU models only when your agent needs them - Alexey Grigorev and Mikhail Rozhkov Generative media apps don't need a GPU running all the time. The agent itself is cheap: it can run on a CPU, read a brief, and decide what to make. The expensive part - image and speech models - can live on GPUs and be called as tools only when needed. Join this hands-on coding workshop with Alexey Grigorev (DataTalks.Club) and Mikhail Rozhkov (Nebius), where we'll build a small media agent on Nebius: a CPU agent as the control plane, with GPU-hosted models exposed as tools. We'll also compare the two ways to run GPU work - a Serverless Endpoint and a batch Job - by latency and cost per asset. We'l…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[17 Nov] Turning Data Into Stories People Remember</title>

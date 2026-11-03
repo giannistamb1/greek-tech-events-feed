@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-03T06:55:02.066243+00:00",
+  "built": "2026-11-03T17:07:27.327118+00:00",
   "items": 44,
   "sources": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 10,
+      "kept": 10,
       "error": ""
     },
     {
@@ -47,7 +47,7 @@
     {
       "name": "Startupper",
       "fetched": 10,
-      "kept": 3,
+      "kept": 2,
       "error": ""
     },
     {
@@ -83,13 +83,13 @@
     {
       "name": "Insider.gr",
       "fetched": 60,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
       "name": "Fortune Greece",
-      "fetched": 106,
-      "kept": 3,
+      "fetched": 158,
+      "kept": 5,
       "error": ""
     },
     {
@@ -107,13 +107,13 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 2,
+      "kept": 3,
       "error": ""
     },
     {
       "name": "Netweek",
       "fetched": 10,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
