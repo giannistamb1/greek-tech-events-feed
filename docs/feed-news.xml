@@ -6,16 +6,16 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Tue, 03 Nov 2026 23:28:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 06:34:18 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>Wall Street: Μεικτά πρόσημα με άνοδο για Nasdaq και S&amp;P 500 εν αναμονή των ενδιάμεσων εκλογών</title>
-<link>https://www.naftemporiki.gr/finance/markets/2184134/wall-street-meikta-prosima-me-anodo-gia-nasdaq-kai-sp-500-en-anamoni-ton-endiameson-eklogon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wall-street-meikta-prosima-me-anodo-gia-nasdaq-kai-sp-500-en-anamoni-ton-endiameson-eklogon</link>
-<guid isPermaLink="false">url:https://naftemporiki.gr/finance/markets/2184134/wall-street-meikta-prosima-me-anodo-gia-nasdaq-kai-sp-500-en-anamoni-ton-endiameson-eklogon</guid>
-<pubDate>Tue, 03 Nov 2026 21:48:29 +0000</pubDate>
+<title>Σε στάση αναμονής οι επενδυτές</title>
+<link>https://www.naftemporiki.gr/finance/markets/2184142/se-stasi-anamonis-oi-ependytes-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=se-stasi-anamonis-oi-ependytes-2</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/finance/markets/2184142/se-stasi-anamonis-oi-ependytes-2</guid>
+<pubDate>Wed, 04 Nov 2026 05:00:33 +0000</pubDate>
 <category>Business &amp; tech media</category>
 <source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Με μεικτά πρόσημα έκλεισε η σημερινή συνεδρίαση στη Wall Street με τους επενδυτές να προετοιμάζονται για το αποτέλεσμα των ενδιάμεσων εκλογών του Κογκρέσου. Ο δείκτης Nasdaq σημείωσε άνοδο, καθώς οι… Wall Street: Μεικτά πρόσημα με άνοδο για Nasdaq και S&amp;amp;P 500 εν αναμονή των ενδιάμεσων εκλογών - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Οριακές μεταβολές σημείωσε το δολάριο στη διάρκεια της χθεσινής συνεδρίασης εν μέσω νευρικότητας, με τους επενδυτές να περιμένουν το αποτέλεσμα των ενδιάμεσων εκλογών στο Κογκρέσο, αλλά και μία πιθανή συμφωνία… Σε στάση αναμονής οι επενδυτές - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
 </item>
 <item>
 <title>AMD: Άλμα 45% στα έσοδα με «όχημα» την τεχνητή νοημοσύνη</title>
@@ -97,15 +97,6 @@
 <category>Enterprise IT</category>
 <source url="https://www.ictplus.gr/">ICT Plus</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Με αφορμή τις πρόσφατες κυβερνοεπιθέσεις σε συστήματα ψύξης επιχειρήσεων στην Ευρώπη, ο ειδικός της Kaspersky αναλύει τις αδυναμίες ασφαλείας και τους κινδύνους από την έκθεση συνδεδεμένων συσκευών στο διαδίκτυο Το άρθρο Kaspersky: Οι κίνδυνοι κυβερνοασφάλειας στα συνδεδεμένα συστήματα ψύξης εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Y/KNOT: Στρατηγικός μετασχηματισμός με αιχμή τη ναυτιλία</title>
-<link>https://businessvoice.gr/epicheiriseis/996627/y-knot-stratigikos-metaschimatismos-me-aichmi-ti-naftilia/</link>
-<guid isPermaLink="false">url:https://businessvoice.gr/epicheiriseis/996627/y-knot-stratigikos-metaschimatismos-me-aichmi-ti-naftilia</guid>
-<pubDate>Tue, 03 Nov 2026 14:07:45 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.emea.gr/feed/">EMEA.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; EMEA.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Επαφές με επενδυτές στο Euronext Small Cap Conference 2026&lt;/p&gt;</description>
 </item>
 <item>
 <title>Το μεγάλο λάθος με το κινητό τηλέφωνο στο taxisnet!</title>
