@@ -6,7 +6,7 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Wed, 04 Nov 2026 06:34:18 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 17:19:34 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>[19 Nov] Build AI Agents That Run Your Daily Operations</title>
@@ -16,33 +16,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;## What you'll learn * **Automating daily workflows** Turn a repeatable daily process into an AI workflow that handles each step with less manual intervention. * **Schedule AI agents to run tasks in the background** Schedule AI workflows to run in the background, handling routine tasks while you focus on higher-value work. * **Put AI agents to work across your daily operations** Build AI agents that work with your calendar, meetings, documents, and files to automate everyday tasks. * **Guardrails and reliability** Set context, permissions, and boundaries so your AI agent works reliably and knows when to stop or ask for approval. ## Why this topic matters Your workday is filled with tasks AI …&lt;/p&gt;</description>
-</item>
-<item>
-<title>[04 Nov] How to Trust the Code You Ship</title>
-<link>https://www.meetup.com/microsoft-reactor-london/events/316998862/</link>
-<guid isPermaLink="false">url:https://meetup.com/microsoft-reactor-london/events/316998862</guid>
-<pubDate>Tue, 03 Nov 2026 23:28:08 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 04 November 2026, 10:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;In this session, we’ll walk through a single pull request end to end and show how GitHub helps your team close the gap between code that’s written and software that’s trustworthy. You’ll learn how GitHub supports stronger security and quality outcomes without adding more pressure to developers or reviewers. You'll learn: How to get a comprehensive view of the vulnerabilities in your codebase—including areas traditional scanning tools might miss. How GitHub Code Security helps you turn findings into validated, review-ready pull requests, so you can shrink your backlog. Tangible next steps on how you can automatically apply standards and make trust a consistent part of the development process.&lt;/p&gt;</description>
-</item>
-<item>
-<title>[04 Nov] Building an Internal Developer Platform for Kubernetes</title>
-<link>https://www.meetup.com/cloud-foundation-community/events/316879621/</link>
-<guid isPermaLink="false">url:https://meetup.com/cloud-foundation-community/events/316879621</guid>
-<pubDate>Tue, 03 Nov 2026 23:28:08 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 04 November 2026, 11:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;In this webinar, we’ll demonstrate how you can build an internal developer platform using meshStack, empowering your development teams to focus more on delivering value and less on managing infrastructure. **Language: English** **Where: Google Meet** To get the webinar link, **please, register on our website**: https://www.meshcloud.io/en/company/events/building-an-internal-developer-platform-with-meshstack/ **Who is this webinar for?** This is a workshop for platform engineers, aiming at building a container-based platform to their developers and empowering them to focus more on delivering value and less on managing infrastructure. **Our IDP Reference Architecture** Within this workshop, we…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[04 Nov] [Golang] Interview question grinding</title>
-<link>https://www.meetup.com/berlin-software-designers/events/317254743/</link>
-<guid isPermaLink="false">url:https://meetup.com/berlin-software-designers/events/317254743</guid>
-<pubDate>Tue, 03 Nov 2026 23:28:08 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 04 November 2026, 10:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;We answer interview questions created by ChatGPT. For each question we try to go deeper, and understand its fundamentals. Structure: * each round we ask ChatGPT to create an interview question * one random member of the audience answers it * we all give feedback and improve the answer * we compare our answer with the one proposed by the LLM * we do this for multiple rounds #### What you’ll need: * At least a basic knowledge of Golang * A stable internet connection * Willingness to engage, discuss, and share insights ####&lt;/p&gt;</description>
 </item>
 <item>
 <title>[26 Nov] ProductTank Athens: Building AI-powered products for the real, complex world</title>
@@ -106,15 +79,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 07 November 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[04 Nov] Jev and the rise of AI decision models</title>
-<link>https://www.meetup.com/baig-academy-of-ai/events/317160870/</link>
-<guid isPermaLink="false">url:https://meetup.com/baig-academy-of-ai/events/317160870</guid>
-<pubDate>Sun, 01 Nov 2026 00:10:51 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 04 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;## What you'll learn * Understand what Jev does differently Understand how an AI model built for decisions differs from tools like ChatGPT that generate text and explanations. * Identify where decision models fit into your work See how AI could classify customer requests, prioritize leads, review information, and direct routine tasks. * Compare the emerging approaches to AI decisions Explore Jev, the System 1 model concept, and how OpenAI, Microsoft, and open-source AI fit into this evolving landscape. * Assess the practical impact on your business Identify workflows where structured AI decisions help and where human review or general-purpose AI works better. ## Why this topic matters AI can…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[05 Nov] Software Engineering: Extinction or Evolution?</title>
