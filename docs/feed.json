@@ -1,7 +1,72 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-04T23:44:32.973703+00:00",
+ "built": "2026-11-05T06:55:59.987012+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/ai-for-devs-athens/events/317254871",
+   "title": "\"You’re Absolutely Right, I Missed This”: Build an LLM Pipeline That Works",
+   "link": "https://www.meetup.com/ai-for-devs-athens/events/317254871/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-12-03T18:30:00+02:00",
+   "location": "XM, Michalakopoulou 80, Athina 115 28, Greece, Athina, Athina",
+   "summary": "We are happy to announce our next meetup that will be held physically at XM Offices in Athens. After the talk there will be time for Q&A, food and networking. **📍Location📍** Michalakopoulou 80 street, 1st floor. Attendees should register with their meetup name at the entrance **⏰ Date & Time ⏰** 3rd of December, 18:30 **🔗 Prerequisites & Target audience 🔗** The talk is aimed at developers and tinkerers who have used AI tools, such as chat assistants, coding agents or APIs, and have run into their limits. You don’t need to be an expert. If you have ever watched an LLM skip a step, you’ll feel right at home. **🇬🇷 Language 🇬🇧** The talk will be in Greek unless otherwise requested. **📃 Agenda 📃*…",
+   "first_seen": "2026-11-05T06:55:59.987012+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/berlin-software-designers/events/317280936",
+   "title": "[code review] supervised background tasks",
+   "link": "https://www.meetup.com/berlin-software-designers/events/317280936/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-05T10:30:00+02:00",
+   "location": "Online",
+   "summary": "We read small github repositories, and try to understand the code and what design decisions were behind it. Today we will code review a Golang app: https://gitlab.com/telo_tade/supervised-background-tasks We will review and try to go deeper into its capabilities. No prep needed — just bring your curiosity and your intuition.",
+   "first_seen": "2026-11-05T06:55:59.987012+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/dotnet-austria/events/317063128",
+   "title": "[REMOTE] AI Agents in Our Daily Work – Where Do We Still Take Over?",
+   "link": "https://www.meetup.com/dotnet-austria/events/317063128/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-05T19:00:00+02:00",
+   "location": "Online",
+   "summary": "🚀 Join the DotNetDevs.at meetup from wherever you are! Tune in for an evening of .NET insights, live on stream. 📍 Prefer to meet in person? Save your seat here: ✨ WHAT'S ON AI agents can plan tasks, write code and run tests today. In day-to-day project work, things look less shiny: results vary, reviews get tedious, and nobody really knows how far to trust the agent – and when it's better to take over yourself. Somewhere between the slick demo and the merged pull request, the promise of autonomy often turns into a lot of babysitting. We show how we do it in our team at XXXLutz, unpolished. What has worked for us, where did we fail, and what did we learn about ourselves as a team along the wa…",
+   "first_seen": "2026-11-05T06:55:59.987012+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/microsoftdataplatformbirmingham/events/316908909",
+   "title": "Real-Time Intelligence with Microsoft Fabric",
+   "link": "https://www.meetup.com/microsoftdataplatformbirmingham/events/316908909/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-05T15:00:00+02:00",
+   "location": "Online",
+   "summary": "**Microsoft Data Platform Group Birmingham** **Thursday 5th November 2026 at 13:00 GMT** **Session Title:** Every Second Counts: Real-Time Intelligence with Microsoft Fabric **Speaker:** James McGillivray **Session Abstract:** In life and death situations, every second counts. This session explores how Microsoft Fabric’s real-time capabilities can be applied to solve urgent, high-impact problems in the real world. Using the relatable scenario of emergency room triage in a state hospital, we’ll examine how streaming dataflows, event processing, and dynamic analytics can be used to surface critical insights instantly, helping frontline staff make faster, more informed decisions. Rather than sh…",
+   "first_seen": "2026-11-05T06:55:59.987012+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/english/2184759/leaders-of-the-greek-economy-2026-spyros-ktenas-female-and-youth-entrepreneurship-the-new-driving-force-for-growth",
+   "title": "Leaders of the Greek Economy 2026 – Spyros Ktenas: Female and youth entrepreneurship, the new driving force for growth",
+   "link": "https://www.naftemporiki.gr/english/2184759/leaders-of-the-greek-economy-2026-spyros-ktenas-female-and-youth-entrepreneurship-the-new-driving-force-for-growth/?utm_source=rss&utm_medium=rss&utm_campaign=leaders-of-the-greek-economy-2026-spyros-ktenas-female-and-youth-entrepreneurship-the-new-driving-force-for-growth",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "“Today’s event offers us the opportunity to talk about the hope emerging from two particularly promising segments of the country’s business community: women, who through rational thinking and action are… Leaders of the Greek Economy 2026 – Spyros Ktenas: Female and youth entrepreneurship, the new driving force for growth - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-11-05T06:09:14+00:00"
+  },
   {
    "key": "url:https://businessdaily.gr/politiki/241946_mitsotakis-i-tehniti-noimosyni-kai-o-eleghos-sto-epikentro-syzitisis-me-platon",
    "title": "Μητσοτάκης: Δεν αγοράζονται οι εκλογές, όσο πλούσιος κι αν είσαι",
@@ -14,19 +79,6 @@
    "location": "",
    "summary": "Ο Κυριάκος Μητσοτάκης, σε εκδήλωση με τον φωτογράφο Platon στο Μουσείο Μπενάκη, τόνισε την ανάγκη εποπτείας στην τεχνολογία και εξέφρασε επιφυλάξεις...",
    "first_seen": "2026-11-04T19:52:47+00:00"
-  },
-  {
-   "key": "url:https://naftemporiki.gr/finance/economy/2184681/leaders-of-the-greek-economy-2026-mitropolitis-gavriil-i-texniti-nohmosyni-mporei-na-mas-deixei-ti-einai-efikto-oxi-omos-ti-einai-dikaio",
-   "title": "Leaders of the Greek Economy 2026 – Μητροπολίτης Γαβριήλ: Η τεχνητή νοημοσύνη μπορεί να μας δείξει τι είναι εφικτό, όχι όμως τι είναι δίκαιο",
-   "link": "https://www.naftemporiki.gr/finance/economy/2184681/leaders-of-the-greek-economy-2026-mitropolitis-gavriil-i-texniti-nohmosyni-mporei-na-mas-deixei-ti-einai-efikto-oxi-omos-ti-einai-dikaio/?utm_source=rss&utm_medium=rss&utm_campaign=leaders-of-the-greek-economy-2026-mitropolitis-gavriil-i-texniti-nohmosyni-mporei-na-mas-deixei-ti-einai-efikto-oxi-omos-ti-einai-dikaio",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Για την ηθική διάσταση της ηγεσίας, την ευθύνη των αποφάσεων και τα όρια της τεχνολογίας μίλησε ο Μητροπολίτης Νέας Ιωνίας, Φιλαδελφείας, Ηρακλείου και Χαλκηδόνος κ. Γαβριήλ, στην εκδήλωση Leaders of… Leaders of the Greek Economy 2026 – Μητροπολίτης Γαβριήλ: Η τεχνητή νοημοσύνη μπορεί να μας δείξει τι είναι εφικτό, όχι όμως τι είναι δίκαιο - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-11-04T18:58:51+00:00"
   },
   {
    "key": "url:https://techmaniacs.gr/i-vodafone-apanta-sti-kartokiniti-me-ola-aperiorista-gia-1-chrono",
@@ -250,19 +302,6 @@
    "first_seen": "2026-11-03T06:55:02.066243+00:00"
   },
   {
-   "key": "url:https://meetup.com/microsoft-fabric-dublin/events/315957615",
-   "title": "Turning Data Into Stories People Remember",
-   "link": "https://www.meetup.com/microsoft-fabric-dublin/events/315957615/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-17T20:00:00+02:00",
-   "location": "Online",
-   "summary": "Data is powerful, but on its own it rarely inspires action. In this session, we’ll take a real dataset of baby names from the U.S. Census Bureau and turn it into a story that grabs attention. You’ll learn how to find the most interesting insights, visualize them in ways that make sense, and weave them into a narrative that resonates with any audience. Whether your story feels like a history, a tragedy, or a thriller, you’ll leave knowing how to make your data speak in a way that people remember. **Important Details** This event will be ONLINE using Teams. not in person!",
-   "first_seen": "2026-11-02T21:44:36.651245+00:00"
-  },
-  {
    "key": "url:https://startup.gr/zero-waste-entrepreneurship-hackathon-oi-neoi-dimiourgoun-viosimes-epicheirimatikes-idees-gia-ena-pio-kykliko-mellon",
    "title": "Zero-Waste Entrepreneurship Hackathon: Οι νέοι δημιουργούν βιώσιμες επιχειρηματικές ιδέες για ένα πιο κυκλικό μέλλον",
    "link": "https://startup.gr/zero-waste-entrepreneurship-hackathon-oi-neoi-dimiourgoun-viosimes-epicheirimatikes-idees-gia-ena-pio-kykliko-mellon/",
@@ -354,32 +393,6 @@
    "first_seen": "2026-11-01T13:38:13.725079+00:00"
   },
   {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038439",
-   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038439/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-07T21:30:00+02:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-11-01T00:10:51.583430+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/software-architecture-or-system-design-training/events/317171014",
-   "title": "Google Map Software Architecture",
-   "link": "https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-21T19:00:00+02:00",
-   "location": "Online",
-   "summary": "Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…",
-   "first_seen": "2026-11-01T00:10:51.583430+00:00"
-  },
-  {
    "key": "url:https://meetup.com/beyond-the-code/events/316578225",
    "title": "Software Engineering: Extinction or Evolution?",
    "link": "https://www.meetup.com/beyond-the-code/events/316578225/",
@@ -393,29 +406,16 @@
    "first_seen": "2026-10-31T12:41:44.657289+00:00"
   },
   {
-   "key": "url:https://meetup.com/d-c_powerbi/events/316695236",
-   "title": "See What Changed: AI & Semantic Models in Tabular Editor | Ruben Van de Voorde",
-   "link": "https://www.meetup.com/d-c_powerbi/events/316695236/",
+   "key": "url:https://meetup.com/rust-berlin/events/316907780",
+   "title": "Rust Hack and Learn",
+   "link": "https://www.meetup.com/rust-berlin/events/316907780/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-17T20:00:00+02:00",
+   "starts": "2026-11-05T20:00:00+02:00",
    "location": "Online",
-   "summary": "The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \\- Connect an agent you already use\\, such as Claude Code or GitHub Copilot\\, to the model you have open through the MCP server\\, and delegate a task that involves multiple changes \\- Decide what the agent may do\\, for example edit the model's metadata without reading its data \\- Follow the agent's changes as it works\\, and revert all or only those changes you disagree with \\- Let the …",
-   "first_seen": "2026-10-31T12:41:44.657289+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/agile-conversations/events/316693460",
-   "title": "Intelligent Agile (IA) #6",
-   "link": "https://www.meetup.com/agile-conversations/events/316693460/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-05T15:00:00+02:00",
-   "location": "Online",
-   "summary": "**[A Six-Part Online Meetup Series](https://tobiasmayer.uk/edu/ia)** **Session 6** guest speaker: **[Derek Wade](https://www.linkedin.com/in/derekwwade/)** **Modern Management Metaphors** *A Cybernetic Paradigm for Your Organization’s AI Implementation* — Many leaders approach AI implementation with an Industrial-Age paradigm, wielding AI as a simple headcount-reducer. In knowledge work, the result can be a shifting of bottlenecks around the organization (at best) or even lost mission-critical capabilities (at worst). This is not the paradigm for improved customer satisfaction, market stability, or employee morale. A \\*cybernetic\\* paradigm of human/machine collaboration is needed to leverag…",
+   "summary": "This event is happening online! Check all instructions on our website: https://berline.rs/ \\-\\-\\- IMPORTANT NOTES FOR THIS EVENT: * There is no dedicated host for todays event. Participants are kindly requested to organize themselves. * Free Jitsi sessions are currently limited to 90 minutes. Participants must transfer to a new Jitsi session ID, if they want to continue after 90 minutes. \\-\\-\\- Rust is a language empowering everyone to build reliable and efficient software. Let's meet for open hacking and (co)-learning in our bi-weekly learning group! Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff. Please bring a computer. Bring your ideas, questions & proj…",
    "first_seen": "2026-10-30T22:26:16.049687+00:00"
   },
   {
@@ -445,17 +445,17 @@
    "first_seen": "2026-10-30T01:06:18.308533+00:00"
   },
   {
-   "key": "url:https://meetup.com/llm-reading-club/events/317142795",
-   "title": "Build a Reasoning Model (From Scratch)",
-   "link": "https://www.meetup.com/llm-reading-club/events/317142795/",
+   "key": "url:https://meetup.com/ux-research-meetups/events/317173477",
+   "title": "[Workshop] How to Test Navigation: Card Sorting & Tree Testing",
+   "link": "https://www.meetup.com/ux-research-meetups/events/317173477/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-08T17:30:00+02:00",
+   "starts": "2026-11-05T16:00:00+02:00",
    "location": "Online",
-   "summary": "We are working through *Build a Reasoning Model (From Scratch)* by Sebastian Raschka. During each meetup, we will discuss the key concepts from the chapter or pages under review. In this session we'll discuss the **Chapter 6. Training Reasoning Models with Reinforcement Learning.** Raschka provides a hands-on guide to understanding and building modern reasoning models. Starting with a conventional pretrained LLM, the book explores evaluation, inference-time reasoning techniques, reinforcement learning with verifiable rewards, and knowledge distillation. Please note that the session is not recorded, and participants are responsible for obtaining their own copy of the book. **Buy the book** (a…",
-   "first_seen": "2026-10-28T20:20:06.961416+00:00"
+   "summary": "**📆 Date:** November 05, 2026 **🕔 Time:** 9:00 a.m. EST / 3:00 p.m. CET / 6:00 a.m. PST **📍 Location:** Online **💸 Free event** **Does your navigation make sense to the people using it? Join our customer success lead for a live, hands-on workshop on testing your information architecture with UXtweak.** **What we’ll cover:** * A quick introduction to information architecture and why testing it matters * How card sorting helps you understand how users group and label content * How tree testing helps you check whether people can actually find things in your structure * A live, step-by-step setup of a card sort and a tree test in UXtweak, from idea to launch * How to read the results and turn th…",
+   "first_seen": "2026-10-30T01:06:18.308533+00:00"
   },
   {
    "key": "url:https://meetup.com/epic-studios-tech-talks/events/317142578",
@@ -502,8 +502,8 @@
    "link": "https://www.meetup.com/cloud-native-muc/events/316851781/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-11-05T19:30:00+02:00",
    "location": "Online",
    "summary": "AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …",
@@ -534,19 +534,6 @@
    "location": "",
    "summary": "Νέο πρόγραμμα οικονομικής αρωγής έως €15.000 και δωρεάν υπηρεσιών επιχειρηματικής ανάπτυξης Υποβολή αιτήσεων: 1η Νοεμβρίου 2026 έως 31 Ιανουαρίου 2027",
    "first_seen": "2026-10-12T13:21:09+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/aws-user-group-athens/events/316227211",
-   "title": "[ML Associate] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
-   "link": "https://www.meetup.com/aws-user-group-athens/events/316227211/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-09T17:00:00+02:00",
-   "location": "",
-   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
-   "first_seen": "2026-10-10T17:22:19.663455+00:00"
   },
   {
    "key": "url:https://meetup.com/aws-user-group-athens/events/316227206",
