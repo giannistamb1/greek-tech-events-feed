@@ -6,8 +6,53 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 17:27:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 23:41:04 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[06 Nov] AI for DevOps &amp; SRE: From Impressive Demos to Operational Trust</title>
+<link>https://www.meetup.com/bucharest-xdevops-meetup-group/events/316850587/</link>
+<guid isPermaLink="false">url:https://meetup.com/bucharest-xdevops-meetup-group/events/316850587</guid>
+<pubDate>Thu, 05 Nov 2026 23:41:04 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 06 November 2026, 21:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;AI for DevOps &amp;amp; SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[19 Nov] Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data</title>
+<link>https://www.meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/316617463/</link>
+<guid isPermaLink="false">url:https://meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/316617463</guid>
+<pubDate>Thu, 05 Nov 2026 23:41:04 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;This workshop is a hands-on tour of what actually breaks when you load real LeRobot datasets, and how Voxel51's native LeRobot support in FiftyOne catches it. **Date, Time and Location** Nov 19, 2026 9:00 AM - 10:00 AM PST Online. **[Register for the Zoom!](https://voxel51.com/events/lerobot-workshop-november-19-2026)** Robot learning data doesn't look like the data that trains most vision-language models. It's temporal, low-dimensional in the parts that matter most, embodiment-specific, and expensive to collect, and increasingly, it's shipped in Hugging Face's LeRobot format. But packaging robot data consistently isn't the same as being able to see it: episodes hide broken metadata, silentl…&lt;/p&gt;</description>
+</item>
+<item>
+<title>Wall Street: Βουτιά 5,5% για τον Nasdaq – «Εξαϋλώθηκαν» 2,3 τρισ. δολάρια από τις μετοχές τεχνολογίας</title>
+<link>https://www.naftemporiki.gr/finance/markets/2185250/wall-street-voytia-55-gia-ton-nasdaq-exaylothikan-23-tris-dolaria-apo-tis-metoches-technologias/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wall-street-voytia-55-gia-ton-nasdaq-exaylothikan-23-tris-dolaria-apo-tis-metoches-technologias</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/finance/markets/2185250/wall-street-voytia-55-gia-ton-nasdaq-exaylothikan-23-tris-dolaria-apo-tis-metoches-technologias</guid>
+<pubDate>Thu, 05 Nov 2026 22:03:12 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Σε ελεύθερη πτώση βρέθηκαν οι οι μετοχές στη σημερινή συνεδρίαση της Wall Street, εν μέσω βίαιων ρευστοποιήσεων στην τεχνολογία, με τους βασικούς δείκτες να χάνουν τα ισχυρά κέρδη από το… Wall Street: Βουτιά 5,5% για τον Nasdaq – «Εξαϋλώθηκαν» 2,3 τρισ. δολάρια από τις μετοχές τεχνολογίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+</item>
+<item>
+<title>Huawei Alpha 6000: Η νέα γενιά κεραιών για πιο αποδοτικά και ευφυή δίκτυα τηλεπικοινωνίας</title>
+<link>https://www.techgear.gr/huawei-alpha-6000-i-nea-genia-keraion-gia-pio-apodotika-kai-eyfyi-diktya-tilepikoinonias-51217</link>
+<guid isPermaLink="false">url:https://techgear.gr/huawei-alpha-6000-i-nea-genia-keraion-gia-pio-apodotika-kai-eyfyi-diktya-tilepikoinonias-51217</guid>
+<pubDate>Thu, 05 Nov 2026 19:35:00 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://www.techgear.gr/">Techgear</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Η Huawei παρουσίασε την καινοτόμο σειρά κεραιών Alpha 6000 στο Global Antenna Technology &amp;amp; Industry Forum 2026 στο Παρίσι. Στόχος είναι η ...&lt;/p&gt;</description>
+</item>
+<item>
+<title>Check Point Research: Ευπάθεια στο ChatGPT επέτρεπε παράκαμψη του Lockdown Mode και πιθανή υποκλοπή δεδομένων</title>
+<link>https://businessvoice.gr/digital/997170/check-point-research-efpatheia-sto-chatgpt-epetrepe-parakampsi-tou-lockdown-mode-kai-pithani-ypoklopi-dedomenon/</link>
+<guid isPermaLink="false">url:https://businessvoice.gr/digital/997170/check-point-research-efpatheia-sto-chatgpt-epetrepe-parakampsi-tou-lockdown-mode-kai-pithani-ypoklopi-dedomenon</guid>
+<pubDate>Thu, 05 Nov 2026 17:30:33 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.emea.gr/feed/">EMEA.gr</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; EMEA.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η έρευνα ανέδειξε δυνατότητες διαρροής συνομιλιών χωρίς ενέργεια του χρήστη, phishing και διανομής κακόβουλου λογισμικού. Η OpenAI έχει ήδη διορθώσει την ευπάθεια.&lt;/p&gt;</description>
+</item>
 <item>
 <title>Nothing: Η πρώτη συσκευή AI χωρίς οθόνη έρχεται τον Δεκέμβριο</title>
 <link>https://techblog.gr/gadgets/nothing-i-proti-syskevi-ai-choris-othoni-erchetai-ton-dekemvrio/</link>
@@ -108,15 +153,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η KIEFER παρουσίασε το όραμά της για ένα ολοκληρωμένο τεχνολογικό οικοσύστημα, ενώ ξεχωριστή παρουσία στη διοργάνωση είχε το ανθρωποειδές ρομπότ Sophea.&lt;/p&gt;</description>
 </item>
 <item>
-<title>NASA: Ανακοίνωσε επίσημα το νέο επανδρωμένο X-70 για ελιγμούς που δεν έχουμε ξαναδεί</title>
-<link>https://techmaniacs.gr/nasa-anakoinose-episima-to-neo-epandromeno-x-70-gia-eligmoys-poy-den-echoyme-xanadei/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/nasa-anakoinose-episima-to-neo-epandromeno-x-70-gia-eligmoys-poy-den-echoyme-xanadei</guid>
-<pubDate>Thu, 05 Nov 2026 09:56:43 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Η NASA μόλις ανακοίνωσε το νέο της επανδρωμένο πειραματικό αεροσκάφος, το X-70 Fractal, στο πλαίσιο του συνεδρίου UP.Summit που πραγματοποιήθηκε στο Διαστημικό Κέντρο Kennedy στη Φλόριντα. Πρόκειται για μια ευέλικτη πλατφόρμα δοκιμών υψηλών επιδόσεων, σχεδιασμένη να επιταχύνει την ανάπτυξη και αξιολόγηση τεχνολογιών αιχμής στην αεροναυπηγική. Το σκάφος διαθέτει προηγμένα συστήματα ελέγχου πτήσης με δυνατότητα ταχείας […] The post NASA: Ανακοίνωσε επίσημα το νέο επανδρωμένο X-70 για ελιγμούς που δεν έχουμε ξαναδεί appeared first on Techmaniacs .&lt;/p&gt;</description>
-</item>
-<item>
 <title>[03 Dec] "You’re Absolutely Right, I Missed This”: Build an LLM Pipeline That Works</title>
 <link>https://www.meetup.com/ai-for-devs-athens/events/317254871/</link>
 <guid isPermaLink="false">url:https://meetup.com/ai-for-devs-athens/events/317254871</guid>
@@ -140,8 +176,8 @@
 <guid isPermaLink="false">url:https://meetup.com/baig-academy-of-ai/events/317187066</guid>
 <pubDate>Wed, 04 Nov 2026 06:34:18 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;## What you'll learn * **Automating daily workflows** Turn a repeatable daily process into an AI workflow that handles each step with less manual intervention. * **Schedule AI agents to run tasks in the background** Schedule AI workflows to run in the background, handling routine tasks while you focus on higher-value work. * **Put AI agents to work across your daily operations** Build AI agents that work with your calendar, meetings, documents, and files to automate everyday tasks. * **Guardrails and reliability** Set context, permissions, and boundaries so your AI agent works reliably and knows when to stop or ask for approval. ## Why this topic matters Your workday is filled with tasks AI …&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;## What you'll learn * **Automating daily workflows** Turn a repeatable daily process into an AI workflow that handles each step with less manual intervention. * **Schedule AI agents to run tasks in the background** Schedule AI workflows to run in the background, handling routine tasks while you focus on higher-value work. * **Put AI agents to work across your daily operations** Build AI agents that work with your calendar, meetings, documents, and files to automate everyday tasks. * **Guardrails and reliability** Set context, permissions, and boundaries so your AI agent works reliably and knows when to stop or ask for approval. ## Why this topic matters Your workday is filled with tasks AI …&lt;/p&gt;</description>
 </item>
 <item>
 <title>GTA VI: Διαθέσιμο για pre-load στις 10 Νοεμβρίου με απαιτήσεις για 212GB αποθηκευτικό χώρο!</title>
@@ -180,6 +216,15 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Hellas Direct, Sorou 18, Marousi 151 25, Greece, Marousi, Marousi&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;**Join us for the next ProductTank Athens meetup** The way we discover, design, build, and ship products is changing fast. Better products come from better-connected product people, and that takes open, in-depth conversations. 📅 Thursday, 26 November 🕡 Doors open 18:30, with early networking 🕖 Talks start 19:00 **📍** [Hellas Direct, Sorou 18, Marousi](https://maps.app.goo.gl/ikund3xKpfDgdLYE7) We’ll cover a topic that’s on almost every product roadmap, but rarely discussed in depth: building AI-powered products once regulation, complex operations, and real users are involved. **🎤 [Pavlina Drakou](https://www.linkedin.com/in/pavlina-drakou/)**, Senior Product Manager @ Hellas Direct: Deployin…&lt;/p&gt;</description>
 </item>
 <item>
+<title>[10 Nov] What are Claude Dashboards? - with Ruben Van de Voorde</title>
+<link>https://www.meetup.com/power-bi-user-group-italy/events/317187762/</link>
+<guid isPermaLink="false">url:https://meetup.com/power-bi-user-group-italy/events/317187762</guid>
+<pubDate>Tue, 03 Nov 2026 06:55:02 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;⚡ The 2026 edition of the Ticino Data Conference is already in the past. We want to thank everyone again for their support and participation. But just like AI evolution, our activities never stop 😊 🔊 On the 10th of November at 18.30, [Ruben Van de Voorde](https://www.linkedin.com/preload/?_bprMode=vanilla#) joins our community to talk about Claude Dashboards. If you have been alive and registered on LinkedIn in the past month, surely you have heard of them. And maybe you'd like to know how to set them up and how they work. Ruben will walk us precisely through that, taking as reference an article he wrote for [Tabular Editor](https://www.linkedin.com/preload/?_bprMode=vanilla#). 🫵 Subscribe h…&lt;/p&gt;</description>
+</item>
+<item>
 <title>[12 Nov] Meetup #8 - The Recovering Data Scientist: Lessons Learned the Hard Way</title>
 <link>https://www.meetup.com/practical-ai-thessaloniki-meetup-group/events/317253198/</link>
 <guid isPermaLink="false">url:https://meetup.com/practical-ai-thessaloniki-meetup-group/events/317253198</guid>
@@ -189,15 +234,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 12 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; fromScratch Studio, Themistokli Sofouli 70Α, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**The model was never the hard part. The systems, the data, and the people around it were.** Join us on **Thursday, 12 November, at the fromScratch Studio HQ**, where we’ll hear from a self-described “**recovering data scientist\***” about what it really takes to get machine learning into production. Through a series of **real war stories from deploying ML systems for enterprise clients**, we’ll look at where projects actually break down, and what you can do about it. Each story comes with a concrete insight and a practical takeaway you can apply to your own work. **Stavros Dimou** from **RealMintAI** will show us how the engineering best practices built into platforms like Databricks, Fabri…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[10 Nov] What are Claude Dashboards? - with Ruben Van de Voorde</title>
-<link>https://www.meetup.com/power-bi-user-group-italy/events/317187762/</link>
-<guid isPermaLink="false">url:https://meetup.com/power-bi-user-group-italy/events/317187762</guid>
-<pubDate>Tue, 03 Nov 2026 06:55:02 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;⚡ The 2026 edition of the Ticino Data Conference is already in the past. We want to thank everyone again for their support and participation. But just like AI evolution, our activities never stop 😊 🔊 On the 10th of November at 18.30, [Ruben Van de Voorde](https://www.linkedin.com/preload/?_bprMode=vanilla#) joins our community to talk about Claude Dashboards. If you have been alive and registered on LinkedIn in the past month, surely you have heard of them. And maybe you'd like to know how to set them up and how they work. Ruben will walk us precisely through that, taking as reference an article he wrote for [Tabular Editor](https://www.linkedin.com/preload/?_bprMode=vanilla#). 🫵 Subscribe h…&lt;/p&gt;</description>
-</item>
-<item>
 <title>Moody’s για ελληνικές τράπεζες: Ισχυρά κέρδη και ρευστότητα, αλλά και 4 «καμπανάκια»</title>
 <link>https://www.fortunegreece.com/article/moodys-gia-ellinikes-trapezes-isxira-kerdi-kai-refstotita-alla-kai-4-kampanakia/</link>
 <guid isPermaLink="false">url:https://fortunegreece.com/article/moodys-gia-ellinikes-trapezes-isxira-kerdi-kai-refstotita-alla-kai-4-kampanakia</guid>
@@ -205,6 +241,15 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η έκθεση της Τράπεζας της Ελλάδος επιβεβαιώνει τη σταθερότητα του κλάδου — Διαχειρίσιμες οι πιέσεις για το 93% του συστήματος, σύμφωνα με τον οίκο αξιολόγησης — Οι νέες εισροές NPLs σε μικρομεσαίους, το «αγκάθι» του αναβαλλόμενου φόρου (DTCs), οι κυβερνοαπειλές AI και το μακροοικονομικό περιβάλλον.&lt;/p&gt;</description>
+</item>
+<item>
+<title>[17 Nov] Turning Data Into Stories People Remember</title>
+<link>https://www.meetup.com/microsoft-fabric-dublin/events/315957615/</link>
+<guid isPermaLink="false">url:https://meetup.com/microsoft-fabric-dublin/events/315957615</guid>
+<pubDate>Mon, 02 Nov 2026 21:44:36 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 17 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Data is powerful, but on its own it rarely inspires action. In this session, we’ll take a real dataset of baby names from the U.S. Census Bureau and turn it into a story that grabs attention. You’ll learn how to find the most interesting insights, visualize them in ways that make sense, and weave them into a narrative that resonates with any audience. Whether your story feels like a history, a tragedy, or a thriller, you’ll leave knowing how to make your data speak in a way that people remember. **Important Details** This event will be ONLINE using Teams. not in person!&lt;/p&gt;</description>
 </item>
 <item>
 <title>Zero-Waste Entrepreneurship Hackathon: Οι νέοι δημιουργούν βιώσιμες επιχειρηματικές ιδέες για ένα πιο κυκλικό μέλλον</title>
@@ -225,49 +270,49 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 12 November 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Kifisias 18 &amp;amp; Gkizi, Marousi, Greece, Kifisias 18 &amp;amp; Gkizi, Marousi, Greece, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Join us on our **6th Leaddev Athens Meetup** for an evening of ⚡ lightning talks, leadership insights, and relaxed networking — hosted at **Allwyn Lottery Solutions** offices. ⚠️ Space is limited — RSVP is required to attend. 🏠Venue Host: **Allwyn Lottery Solutions** 🍕Catering: Pizzas and soft drinks 📝Agenda • 18:15 \- 19:00 \| Pre\-Session Bookclub: "Build High Value Software Systems: How to eliminate waste across the software delivery lifecycle" * Panagiotis\-Christos Kyrmpatsos \| Software Engineer in Research at Orfium • 19:00 \- 19:15 \| Welcome by the meetup host • 19:15 \- 20:00 \| Fireside Chat Panel: "The state of the tech industry in 2026" * Archontellis\-Rafail Sotirchellis \| Ass…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[05 Nov] 5th Artificial Intelligence Forum by AI Catalyst</title>
-<link>https://stayhappening.com/e/5th-artificial-intelligence-forum-by-ai-catalyst-E2IT01FCTLT</link>
-<guid isPermaLink="false">url:https://stayhappening.com/e/5th-artificial-intelligence-forum-by-ai-catalyst-E2IT01FCTLT</guid>
-<pubDate>Mon, 02 Nov 2026 11:19:33 +0000</pubDate>
-<category>Aggregator</category>
-<source url="https://www.stayhappening.com/athens">Stayhappening — Athens</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 00:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Divani Caravel Hotel, Vassileos Alexandrou 2,Kaisarianí, Attiki, Greece, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Stayhappening — Athens · Aggregator&lt;/p&gt;</description>
-</item>
-<item>
-<title>[05 Nov] Software Engineering: Extinction or Evolution?</title>
-<link>https://www.meetup.com/beyond-the-code/events/316578225/</link>
-<guid isPermaLink="false">url:https://meetup.com/beyond-the-code/events/316578225</guid>
-<pubDate>Sat, 31 Oct 2026 12:41:44 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;AI is changing software engineering at a pace that is difficult to ignore, but how much has *actually* changed, and what does it mean for the people building software today? **Beyond the Code’s first live panel** brings together an elite panel of experts for a candid discussion about what AI is genuinely changing on the ground, what is still hype, and what the future could mean for engineering teams and individual careers. The panel will be split into two distinct halves: 1. ***What’s Actually Changed?*** AI coding tools, copilots, agents and increasingly capable models are already changing how software is built. But beyond the headlines, what does that look like in practice? 2. ***Betting o…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[05 Nov] Rust Hack and Learn</title>
-<link>https://www.meetup.com/rust-berlin/events/316907780/</link>
-<guid isPermaLink="false">url:https://meetup.com/rust-berlin/events/316907780</guid>
-<pubDate>Fri, 30 Oct 2026 22:26:16 +0000</pubDate>
+<title>[21 Nov] Google Map Software Architecture</title>
+<link>https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/</link>
+<guid isPermaLink="false">url:https://meetup.com/software-architecture-or-system-design-training/events/317171014</guid>
+<pubDate>Sun, 01 Nov 2026 00:10:51 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;This event is happening online! Check all instructions on our website: https://berline.rs/ \-\-\- IMPORTANT NOTES FOR THIS EVENT: * There is no dedicated host for todays event. Participants are kindly requested to organize themselves. * Free Jitsi sessions are currently limited to 90 minutes. Participants must transfer to a new Jitsi session ID, if they want to continue after 90 minutes. \-\-\- Rust is a language empowering everyone to build reliable and efficient software. Let's meet for open hacking and (co)-learning in our bi-weekly learning group! Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff. Please bring a computer. Bring your ideas, questions &amp;amp; proj…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 21 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[05 Nov] 🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥</title>
-<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317014872/</link>
-<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317014872</guid>
-<pubDate>Fri, 30 Oct 2026 01:06:18 +0000</pubDate>
+<title>[17 Nov] See What Changed: AI &amp; Semantic Models in Tabular Editor | Ruben Van de Voorde</title>
+<link>https://www.meetup.com/d-c_powerbi/events/316695236/</link>
+<guid isPermaLink="false">url:https://meetup.com/d-c_powerbi/events/316695236</guid>
+<pubDate>Sat, 31 Oct 2026 12:41:44 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 20:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint Music bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) 🤍 A new season of meeting people starts here. Coming alone? New in Athens? Shy or a little introverted? You’re exactly who we want to welcome. ✨ Every Thursday, we meet at Mint Bar for a relaxed social night where you can come alone, meet new people, and feel comfortable from the moment you arrive. No need to bring friends. No need to be super outgoing. Just come as you are. 🫶 🌍 Locals • Travellers • Expats • Couples • Friends • Solo people Everyone is welcome. Come for good conversati…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 17 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \- Connect an agent you already use\, such as Claude Code or GitHub Copilot\, to the model you have open through the MCP server\, and delegate a task that involves multiple changes \- Decide what the agent may do\, for example edit the model's metadata without reading its data \- Follow the agent's changes as it works\, and revert all or only those changes you disagree with \- Let the …&lt;/p&gt;</description>
 </item>
 <item>
-<title>[05 Nov] 🌙 Thursday Social Night | Meet New People in Athens@Mint bar</title>
-<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316900908/</link>
-<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316900908</guid>
+<title>[09 Nov] Women On the RISE Speed Networking</title>
+<link>https://www.meetup.com/london-women-on-the-rise-meetup-group/events/316060526/</link>
+<guid isPermaLink="false">url:https://meetup.com/london-women-on-the-rise-meetup-group/events/316060526</guid>
 <pubDate>Fri, 30 Oct 2026 01:06:18 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 20:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) 🤍 A new season of meeting people starts here. Coming alone? New in Athens? Shy or a little introverted? You’re exactly who we want to welcome. ✨ Every Thursday, we meet at Mint Bar for a relaxed social night where you can come alone, meet new people, and feel comfortable from the moment you arrive. No need to bring friends. No need to be super outgoing. Just come as you are. 🫶 🌍 Locals • Travellers • Expats • Couples • Friends • Solo people Everyone is welcome. Come for good conversati…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!&lt;/p&gt;</description>
+</item>
+<item>
+<title>[06 Nov] AnalyticsCLUB JobExpo Virtual Business, Data &amp; Technology Job Expo</title>
+<link>https://www.meetup.com/ac-lhr/events/315138287/</link>
+<guid isPermaLink="false">url:https://meetup.com/ac-lhr/events/315138287</guid>
+<pubDate>Fri, 30 Oct 2026 01:06:18 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 06 November 2026, 13:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**What is FirstFridayFair Monthly Job Fair?** [FirstFridayFair Monthly Job Fair](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd) is a **global virtual job fair and remote hiring event** hosted by the [Analytics.CLUB](Analytics.CLUB) community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**. 🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk) **Where and When?** 📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd) 🗓 First…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[08 Nov] Build a Reasoning Model (From Scratch)</title>
+<link>https://www.meetup.com/llm-reading-club/events/317142795/</link>
+<guid isPermaLink="false">url:https://meetup.com/llm-reading-club/events/317142795</guid>
+<pubDate>Wed, 28 Oct 2026 20:20:06 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 08 November 2026, 17:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;We are working through *Build a Reasoning Model (From Scratch)* by Sebastian Raschka. During each meetup, we will discuss the key concepts from the chapter or pages under review. In this session we'll discuss the **Chapter 6. Training Reasoning Models with Reinforcement Learning.** Raschka provides a hands-on guide to understanding and building modern reasoning models. Starting with a conventional pretrained LLM, the book explores evaluation, inference-time reasoning techniques, reinforcement learning with verifiable rewards, and knowledge distillation. Please note that the session is not recorded, and participants are responsible for obtaining their own copy of the book. **Buy the book** (a…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[13 Nov] Epic Tech Talks #3: Coding with Angular</title>
@@ -297,15 +342,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 20:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Anglais Athens, Kirikeioi 6, Athina 105 55, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Bull market incoming, are you stacked and ready ? Join the community for a couple of drinks with a nice view on the acropolis! We meet in a public bar in the center of the city, at the beautiful rooftop bar Anglais Athens. True names not required. Hardware purchase possible (Bitbox02, Trezor 5, originated straight from manufacturer). Details and questions in the [Telegram group](https://t.me/hellenicbitcoin), don't hesitate to say hello and ask for the hardware or anything else.&lt;/p&gt;</description>
 </item>
 <item>
-<title>[05 Nov] Platform Engineering in the Age of AI</title>
-<link>https://www.meetup.com/cloud-native-muc/events/316851781/</link>
-<guid isPermaLink="false">url:https://meetup.com/cloud-native-muc/events/316851781</guid>
-<pubDate>Tue, 20 Oct 2026 23:56:26 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 05 November 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;AI is changing not only how we build software, but also how we think about the platforms and infrastructure underneath it. What happens when agents start taking over tasks traditionally handled by developers and platform teams? And how can we build platforms that give developers more freedom without sacrificing reliability and control? At this Cloud Native Night, we’ll explore **Platform Engineering in the Age of AI** — from rethinking Infrastructure as Code for an agentic world to the principles and architectures behind successful internal developer platforms. Join us for two talks, practical insights, and plenty of discussion about where cloud-native infrastructure is heading next. **THIS …&lt;/p&gt;</description>
-</item>
-<item>
 <title>[13 Nov] MoT Athens #19: Chaos Testing, Contract Testing &amp; AI Agents</title>
 <link>https://www.meetup.com/ministry-of-testing-athens/events/316944513/</link>
 <guid isPermaLink="false">url:https://meetup.com/ministry-of-testing-athens/events/316944513</guid>
@@ -322,6 +358,15 @@
 <category>Startups</category>
 <source url="https://www.startup.gr/">Startup.gr</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Startup.gr · Startups&lt;/p&gt;&lt;p&gt;Νέο πρόγραμμα οικονομικής αρωγής έως €15.000 και δωρεάν υπηρεσιών επιχειρηματικής ανάπτυξης Υποβολή αιτήσεων: 1η Νοεμβρίου 2026 έως 31 Ιανουαρίου 2027&lt;/p&gt;</description>
+</item>
+<item>
+<title>[09 Nov] [ML Associate] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026</title>
+<link>https://www.meetup.com/aws-user-group-athens/events/316227211/</link>
+<guid isPermaLink="false">url:https://meetup.com/aws-user-group-athens/events/316227211</guid>
+<pubDate>Sat, 10 Oct 2026 17:22:19 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 17:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[08 Nov] [AI Practitioner] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026</title>
