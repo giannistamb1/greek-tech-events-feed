@@ -6,17 +6,8 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Thu, 05 Nov 2026 23:41:04 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:55:40 +0000</lastBuildDate>
 <ttl>180</ttl>
-<item>
-<title>Wall Street: Βουτιά 5,5% για τον Nasdaq – «Εξαϋλώθηκαν» 2,3 τρισ. δολάρια από τις μετοχές τεχνολογίας</title>
-<link>https://www.naftemporiki.gr/finance/markets/2185250/wall-street-voytia-55-gia-ton-nasdaq-exaylothikan-23-tris-dolaria-apo-tis-metoches-technologias/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wall-street-voytia-55-gia-ton-nasdaq-exaylothikan-23-tris-dolaria-apo-tis-metoches-technologias</link>
-<guid isPermaLink="false">url:https://naftemporiki.gr/finance/markets/2185250/wall-street-voytia-55-gia-ton-nasdaq-exaylothikan-23-tris-dolaria-apo-tis-metoches-technologias</guid>
-<pubDate>Thu, 05 Nov 2026 22:03:12 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Σε ελεύθερη πτώση βρέθηκαν οι οι μετοχές στη σημερινή συνεδρίαση της Wall Street, εν μέσω βίαιων ρευστοποιήσεων στην τεχνολογία, με τους βασικούς δείκτες να χάνουν τα ισχυρά κέρδη από το… Wall Street: Βουτιά 5,5% για τον Nasdaq – «Εξαϋλώθηκαν» 2,3 τρισ. δολάρια από τις μετοχές τεχνολογίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
-</item>
 <item>
 <title>Huawei Alpha 6000: Η νέα γενιά κεραιών για πιο αποδοτικά και ευφυή δίκτυα τηλεπικοινωνίας</title>
 <link>https://www.techgear.gr/huawei-alpha-6000-i-nea-genia-keraion-gia-pio-apodotika-kai-eyfyi-diktya-tilepikoinonias-51217</link>
@@ -61,15 +52,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο συνιδρυτής της Microsoft προειδοποιεί ότι η τεχνητή νοημοσύνη θα μπορούσε να αξιοποιηθεί για την ανάπτυξη βιολογικών όπλων και την πραγματοποίηση κυβερνοεπιθέσεων μεγάλης κλίμακας. Από το Future of AI Summit των Financial Times ζητά αυστηρότερη κρατική εποπτεία, κατηγορώντας την κυβέρνηση Τραμπ ότι εμποδίζει τις διεθνείς προσπάθειες ρύθμισης της AI.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Motorola Signature 27: Το νέο flagship με κάμερα DXOMARK Gold, οθόνη 12.000 nits και AI νέας γενιάς</title>
-<link>https://businessvoice.gr/digital/997134/motorola-signature-27-to-neo-flagship-me-kamera-dxomark-gold-othoni-12-000-nits-kai-ai-neas-genias/</link>
-<guid isPermaLink="false">url:https://businessvoice.gr/digital/997134/motorola-signature-27-to-neo-flagship-me-kamera-dxomark-gold-othoni-12-000-nits-kai-ai-neas-genias</guid>
-<pubDate>Thu, 05 Nov 2026 14:52:19 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.emea.gr/feed/">EMEA.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; EMEA.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η Motorola παρουσίασε το Signature 27, το πιο προηγμένο flagship smartphone της μέχρι σήμερα. Η νέα συσκευή συνδυάζει κάμερα με διάκριση DXOMARK Gold Label, την πιο φωτεινή οθόνη που κυκλοφορεί σε smartphone, πλατφόρμα Snapdragon 8 Elite Gen 6, εμπειρίες Gemini AI και μπαταρία 7.000mAh, θέτοντας νέο πρότυπο για τη σειρά signature της εταιρείας.&lt;/p&gt;</description>
 </item>
 <item>
 <title>Apps4Athens 3.0: Ο Δήμος Αθηναίων ανοίγει για πρώτη φορά τα APIs του AthensGov</title>
@@ -151,33 +133,6 @@
 <category>Tech media</category>
 <source url="https://www.techgear.gr/">Techgear</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Η Rockstar Games μεταφέρει την ημερομηνία προφόρτωσης του Grand Theft Auto VI στις 10 Νοεμβρίου για τις ψηφιακές προπαραγγελίες, προσφέροντας ...&lt;/p&gt;</description>
-</item>
-<item>
-<title>Τράπεζες: Πάνω από 600 νέες θέσεις εργασίας το 2027 – Ποιες ειδικότητες αναζητούν</title>
-<link>https://www.fortunegreece.com/article/trapezes-pano-apo-600-nees-theseis-ergasias-to-2027-poies-eidikotites-anazitoun/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/trapezes-pano-apo-600-nees-theseis-ergasias-to-2027-poies-eidikotites-anazitoun</guid>
-<pubDate>Tue, 03 Nov 2026 13:16:01 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Οκτώ τράπεζες σχεδιάζουν περισσότερες από 600 προσλήψεις μέσα στο 2027, με έμφαση στην τεχνητή νοημοσύνη, την ψηφιακή τραπεζική και τη διαχείριση δεδομένων. Οι ευκαιρίες απασχόλησης, οι αποδοχές και οι δεξιότητες που ζητά ο κλάδος θα παρουσιαστούν στο «The Monday Festival», στις 28 Νοεμβρίου.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Τεχνητή Νοημοσύνη: Νέες υποδομές και θέσεις εργασίας, επιχειρηματικές ευκαιρίες με Βαλκανικές χώρες και προοπτικές ψηφιακής διπλωματίας για τη χώρα</title>
-<link>https://www.fortunegreece.com/article/texniti-noimosini-nees-ipodomes-kai-theseis-ergasias-epixeirimatikes-efkairies-me-valkanikes-xores-kai-prooptikes-psifiakis-diplomatias-gia-ti-xora/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/texniti-noimosini-nees-ipodomes-kai-theseis-ergasias-epixeirimatikes-efkairies-me-valkanikes-xores-kai-prooptikes-psifiakis-diplomatias-gia-ti-xora</guid>
-<pubDate>Tue, 03 Nov 2026 12:33:36 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο Υπουργός Ψηφιακής Διακυβέρνησης και Τεχνητής Νοημοσύνης παρουσίασε τις νέες δυνατότητες που δημιουργούν οι υποδομές υπολογιστικής ισχύος της χώρας, με αιχμή τον υπερυπολογιστή «ΔΑΙΔΑΛΟΣ» και το AI Factory Pharos.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Moody’s για ελληνικές τράπεζες: Ισχυρά κέρδη και ρευστότητα, αλλά και 4 «καμπανάκια»</title>
-<link>https://www.fortunegreece.com/article/moodys-gia-ellinikes-trapezes-isxira-kerdi-kai-refstotita-alla-kai-4-kampanakia/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/moodys-gia-ellinikes-trapezes-isxira-kerdi-kai-refstotita-alla-kai-4-kampanakia</guid>
-<pubDate>Tue, 03 Nov 2026 06:55:02 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η έκθεση της Τράπεζας της Ελλάδος επιβεβαιώνει τη σταθερότητα του κλάδου — Διαχειρίσιμες οι πιέσεις για το 93% του συστήματος, σύμφωνα με τον οίκο αξιολόγησης — Οι νέες εισροές NPLs σε μικρομεσαίους, το «αγκάθι» του αναβαλλόμενου φόρου (DTCs), οι κυβερνοαπειλές AI και το μακροοικονομικό περιβάλλον.&lt;/p&gt;</description>
 </item>
 <item>
 <title>Zero-Waste Entrepreneurship Hackathon: Οι νέοι δημιουργούν βιώσιμες επιχειρηματικές ιδέες για ένα πιο κυκλικό μέλλον</title>

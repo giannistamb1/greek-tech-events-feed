@@ -1,7 +1,46 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-05T23:41:04.618908+00:00",
+ "built": "2026-11-06T06:55:40.982825+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/baig-academy-of-ai/events/317297747",
+   "title": "ChatGPT, Claude or Gemini? Make AI Useful in 60 Minutes",
+   "link": "https://www.meetup.com/baig-academy-of-ai/events/317297747/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-12T19:00:00+02:00",
+   "location": "Online",
+   "summary": "## What you'll learn * **Get answers you can use, actually** See why AI gives incorrect answers, practise habits that make its responses more useful. No \"the AI lied to me\" again. * **Pick the right AI for the job** Compare ChatGPT, Claude, Gemini and Copilot for writing, research, images and fact-checking. * **Hand AI part of your everyday work** Emails, documents, meeting prep: see live what AI can take off your desk this week, and what still needs your judgement. * **Bring your team along, safely** Start AI with colleagues, your team: what never to share, shared rules, why people who learn together keep using it. ## Why this topic matters AI tools can help with everyday work, but useful r…",
+   "first_seen": "2026-11-06T06:55:40.982825+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/riyadh-startup-idea-to-ipo/events/317119370",
+   "title": "2 Hours to Research Intelligence: Build Your First AI Agent",
+   "link": "https://www.meetup.com/riyadh-startup-idea-to-ipo/events/317119370/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-12T17:00:00+02:00",
+   "location": "Online",
+   "summary": "There are many groups promoting this event. Our meetup group is participating by promoting this event. This event is organized by Albert's List. This is an online event. Attendees can be located anywhere in the world! There is a cost to attend this event. In order to attend, please register here: [https://www.eventbrite.com/e/2003645521692?aff=oddtdtcreator](https://www.eventbrite.com/e/2003645521692?aff=oddtdtcreator) You're either looking at a company to join, or you're trying to understand what your competitors are doing. Either way, you're researching blind—reading scattered reviews, googling company news, checking LinkedIn. It takes forever and you miss things. Stop doing this manually.…",
+   "first_seen": "2026-11-06T06:55:40.982825+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/ac-tlv/events/316836716",
+   "title": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
+   "link": "https://www.meetup.com/ac-tlv/events/316836716/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-06T11:00:00+02:00",
+   "location": "Online",
+   "summary": "**What is FirstFridayFair Monthly Job Fair?** [FirstFridayFair Monthly Job Fair](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd) is a **global virtual job fair and remote hiring event** hosted by the [Analytics.CLUB](Analytics.CLUB) community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**. 🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk) **Where and When?** 📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd) 🗓 First…",
+   "first_seen": "2026-11-06T06:55:40.982825+00:00"
+  },
   {
    "key": "url:https://meetup.com/bucharest-xdevops-meetup-group/events/316850587",
    "title": "AI for DevOps & SRE: From Impressive Demos to Operational Trust",
@@ -14,32 +53,6 @@
    "location": "Online",
    "summary": "AI for DevOps & SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…",
    "first_seen": "2026-11-05T23:41:04.618908+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/316617463",
-   "title": "Nov 19 - Visualizing and Debugging Hugging Face's LeRobot Data",
-   "link": "https://www.meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/316617463/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-19T19:00:00+02:00",
-   "location": "Online",
-   "summary": "This workshop is a hands-on tour of what actually breaks when you load real LeRobot datasets, and how Voxel51's native LeRobot support in FiftyOne catches it. **Date, Time and Location** Nov 19, 2026 9:00 AM - 10:00 AM PST Online. **[Register for the Zoom!](https://voxel51.com/events/lerobot-workshop-november-19-2026)** Robot learning data doesn't look like the data that trains most vision-language models. It's temporal, low-dimensional in the parts that matter most, embodiment-specific, and expensive to collect, and increasingly, it's shipped in Hugging Face's LeRobot format. But packaging robot data consistently isn't the same as being able to see it: episodes hide broken metadata, silentl…",
-   "first_seen": "2026-11-05T23:41:04.618908+00:00"
-  },
-  {
-   "key": "url:https://naftemporiki.gr/finance/markets/2185250/wall-street-voytia-55-gia-ton-nasdaq-exaylothikan-23-tris-dolaria-apo-tis-metoches-technologias",
-   "title": "Wall Street: Βουτιά 5,5% για τον Nasdaq – «Εξαϋλώθηκαν» 2,3 τρισ. δολάρια από τις μετοχές τεχνολογίας",
-   "link": "https://www.naftemporiki.gr/finance/markets/2185250/wall-street-voytia-55-gia-ton-nasdaq-exaylothikan-23-tris-dolaria-apo-tis-metoches-technologias/?utm_source=rss&utm_medium=rss&utm_campaign=wall-street-voytia-55-gia-ton-nasdaq-exaylothikan-23-tris-dolaria-apo-tis-metoches-technologias",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Σε ελεύθερη πτώση βρέθηκαν οι οι μετοχές στη σημερινή συνεδρίαση της Wall Street, εν μέσω βίαιων ρευστοποιήσεων στην τεχνολογία, με τους βασικούς δείκτες να χάνουν τα ισχυρά κέρδη από το… Wall Street: Βουτιά 5,5% για τον Nasdaq – «Εξαϋλώθηκαν» 2,3 τρισ. δολάρια από τις μετοχές τεχνολογίας - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-11-05T22:03:12+00:00"
   },
   {
    "key": "url:https://techgear.gr/huawei-alpha-6000-i-nea-genia-keraion-gia-pio-apodotika-kai-eyfyi-diktya-tilepikoinonias-51217",
@@ -105,19 +118,6 @@
    "location": "",
    "summary": "Ο συνιδρυτής της Microsoft προειδοποιεί ότι η τεχνητή νοημοσύνη θα μπορούσε να αξιοποιηθεί για την ανάπτυξη βιολογικών όπλων και την πραγματοποίηση κυβερνοεπιθέσεων μεγάλης κλίμακας. Από το Future of AI Summit των Financial Times ζητά αυστηρότερη κρατική εποπτεία, κατηγορώντας την κυβέρνηση Τραμπ ότι εμποδίζει τις διεθνείς προσπάθειες ρύθμισης της AI.",
    "first_seen": "2026-11-05T15:00:53+00:00"
-  },
-  {
-   "key": "url:https://businessvoice.gr/digital/997134/motorola-signature-27-to-neo-flagship-me-kamera-dxomark-gold-othoni-12-000-nits-kai-ai-neas-genias",
-   "title": "Motorola Signature 27: Το νέο flagship με κάμερα DXOMARK Gold, οθόνη 12.000 nits και AI νέας γενιάς",
-   "link": "https://businessvoice.gr/digital/997134/motorola-signature-27-to-neo-flagship-me-kamera-dxomark-gold-othoni-12-000-nits-kai-ai-neas-genias/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Motorola παρουσίασε το Signature 27, το πιο προηγμένο flagship smartphone της μέχρι σήμερα. Η νέα συσκευή συνδυάζει κάμερα με διάκριση DXOMARK Gold Label, την πιο φωτεινή οθόνη που κυκλοφορεί σε smartphone, πλατφόρμα Snapdragon 8 Elite Gen 6, εμπειρίες Gemini AI και μπαταρία 7.000mAh, θέτοντας νέο πρότυπο για τη σειρά signature της εταιρείας.",
-   "first_seen": "2026-11-05T14:52:19+00:00"
   },
   {
    "key": "url:https://startupper.gr/news/284494/apps4athens-3-0-o-dimos-athinaion-anoigei-gia-proti-fora-ta-apis-tou-athensgov",
@@ -242,8 +242,8 @@
    "link": "https://www.meetup.com/baig-academy-of-ai/events/317187066/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
    "starts": "2026-11-19T19:00:00+02:00",
    "location": "Online",
    "summary": "## What you'll learn * **Automating daily workflows** Turn a repeatable daily process into an AI workflow that handles each step with less manual intervention. * **Schedule AI agents to run tasks in the background** Schedule AI workflows to run in the background, handling routine tasks while you focus on higher-value work. * **Put AI agents to work across your daily operations** Build AI agents that work with your calendar, meetings, documents, and files to automate everyday tasks. * **Guardrails and reliability** Set context, permissions, and boundaries so your AI agent works reliably and knows when to stop or ask for approval. ## Why this topic matters Your workday is filled with tasks AI …",
@@ -263,32 +263,6 @@
    "first_seen": "2026-11-03T18:09:00+00:00"
   },
   {
-   "key": "url:https://fortunegreece.com/article/trapezes-pano-apo-600-nees-theseis-ergasias-to-2027-poies-eidikotites-anazitoun",
-   "title": "Τράπεζες: Πάνω από 600 νέες θέσεις εργασίας το 2027 – Ποιες ειδικότητες αναζητούν",
-   "link": "https://www.fortunegreece.com/article/trapezes-pano-apo-600-nees-theseis-ergasias-to-2027-poies-eidikotites-anazitoun/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Οκτώ τράπεζες σχεδιάζουν περισσότερες από 600 προσλήψεις μέσα στο 2027, με έμφαση στην τεχνητή νοημοσύνη, την ψηφιακή τραπεζική και τη διαχείριση δεδομένων. Οι ευκαιρίες απασχόλησης, οι αποδοχές και οι δεξιότητες που ζητά ο κλάδος θα παρουσιαστούν στο «The Monday Festival», στις 28 Νοεμβρίου.",
-   "first_seen": "2026-11-03T13:16:01+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/texniti-noimosini-nees-ipodomes-kai-theseis-ergasias-epixeirimatikes-efkairies-me-valkanikes-xores-kai-prooptikes-psifiakis-diplomatias-gia-ti-xora",
-   "title": "Τεχνητή Νοημοσύνη: Νέες υποδομές και θέσεις εργασίας, επιχειρηματικές ευκαιρίες με Βαλκανικές χώρες και προοπτικές ψηφιακής διπλωματίας για τη χώρα",
-   "link": "https://www.fortunegreece.com/article/texniti-noimosini-nees-ipodomes-kai-theseis-ergasias-epixeirimatikes-efkairies-me-valkanikes-xores-kai-prooptikes-psifiakis-diplomatias-gia-ti-xora/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο Υπουργός Ψηφιακής Διακυβέρνησης και Τεχνητής Νοημοσύνης παρουσίασε τις νέες δυνατότητες που δημιουργούν οι υποδομές υπολογιστικής ισχύος της χώρας, με αιχμή τον υπερυπολογιστή «ΔΑΙΔΑΛΟΣ» και το AI Factory Pharos.",
-   "first_seen": "2026-11-03T12:33:36+00:00"
-  },
-  {
    "key": "url:https://meetup.com/producttank-athens/events/317253750",
    "title": "ProductTank Athens: Building AI-powered products for the real, complex world",
    "link": "https://www.meetup.com/producttank-athens/events/317253750/",
@@ -299,19 +273,6 @@
    "starts": "2026-11-26T19:00:00+02:00",
    "location": "Hellas Direct, Sorou 18, Marousi 151 25, Greece, Marousi, Marousi",
    "summary": "**Join us for the next ProductTank Athens meetup** The way we discover, design, build, and ship products is changing fast. Better products come from better-connected product people, and that takes open, in-depth conversations. 📅 Thursday, 26 November 🕡 Doors open 18:30, with early networking 🕖 Talks start 19:00 **📍** [Hellas Direct, Sorou 18, Marousi](https://maps.app.goo.gl/ikund3xKpfDgdLYE7) We’ll cover a topic that’s on almost every product roadmap, but rarely discussed in depth: building AI-powered products once regulation, complex operations, and real users are involved. **🎤 [Pavlina Drakou](https://www.linkedin.com/in/pavlina-drakou/)**, Senior Product Manager @ Hellas Direct: Deployin…",
-   "first_seen": "2026-11-03T06:55:02.066243+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/power-bi-user-group-italy/events/317187762",
-   "title": "What are Claude Dashboards? - with Ruben Van de Voorde",
-   "link": "https://www.meetup.com/power-bi-user-group-italy/events/317187762/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-10T19:30:00+02:00",
-   "location": "Online",
-   "summary": "⚡ The 2026 edition of the Ticino Data Conference is already in the past. We want to thank everyone again for their support and participation. But just like AI evolution, our activities never stop 😊 🔊 On the 10th of November at 18.30, [Ruben Van de Voorde](https://www.linkedin.com/preload/?_bprMode=vanilla#) joins our community to talk about Claude Dashboards. If you have been alive and registered on LinkedIn in the past month, surely you have heard of them. And maybe you'd like to know how to set them up and how they work. Ruben will walk us precisely through that, taking as reference an article he wrote for [Tabular Editor](https://www.linkedin.com/preload/?_bprMode=vanilla#). 🫵 Subscribe h…",
    "first_seen": "2026-11-03T06:55:02.066243+00:00"
   },
   {
@@ -328,16 +289,16 @@
    "first_seen": "2026-11-03T06:55:02.066243+00:00"
   },
   {
-   "key": "url:https://fortunegreece.com/article/moodys-gia-ellinikes-trapezes-isxira-kerdi-kai-refstotita-alla-kai-4-kampanakia",
-   "title": "Moody’s για ελληνικές τράπεζες: Ισχυρά κέρδη και ρευστότητα, αλλά και 4 «καμπανάκια»",
-   "link": "https://www.fortunegreece.com/article/moodys-gia-ellinikes-trapezes-isxira-kerdi-kai-refstotita-alla-kai-4-kampanakia/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η έκθεση της Τράπεζας της Ελλάδος επιβεβαιώνει τη σταθερότητα του κλάδου — Διαχειρίσιμες οι πιέσεις για το 93% του συστήματος, σύμφωνα με τον οίκο αξιολόγησης — Οι νέες εισροές NPLs σε μικρομεσαίους, το «αγκάθι» του αναβαλλόμενου φόρου (DTCs), οι κυβερνοαπειλές AI και το μακροοικονομικό περιβάλλον.",
+   "key": "url:https://meetup.com/power-bi-user-group-italy/events/317187762",
+   "title": "What are Claude Dashboards? - with Ruben Van de Voorde",
+   "link": "https://www.meetup.com/power-bi-user-group-italy/events/317187762/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-10T19:30:00+02:00",
+   "location": "Online",
+   "summary": "⚡ The 2026 edition of the Ticino Data Conference is already in the past. We want to thank everyone again for their support and participation. But just like AI evolution, our activities never stop 😊 🔊 On the 10th of November at 18.30, [Ruben Van de Voorde](https://www.linkedin.com/preload/?_bprMode=vanilla#) joins our community to talk about Claude Dashboards. If you have been alive and registered on LinkedIn in the past month, surely you have heard of them. And maybe you'd like to know how to set them up and how they work. Ruben will walk us precisely through that, taking as reference an article he wrote for [Tabular Editor](https://www.linkedin.com/preload/?_bprMode=vanilla#). 🫵 Subscribe h…",
    "first_seen": "2026-11-03T06:55:02.066243+00:00"
   },
   {
@@ -380,6 +341,19 @@
    "first_seen": "2026-11-02T11:19:33.609659+00:00"
   },
   {
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317038439",
+   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317038439/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-07T21:30:00+02:00",
+   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
+   "first_seen": "2026-11-01T00:10:51.583430+00:00"
+  },
+  {
    "key": "url:https://meetup.com/software-architecture-or-system-design-training/events/317171014",
    "title": "Google Map Software Architecture",
    "link": "https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/",
@@ -417,32 +391,6 @@
    "location": "Online",
    "summary": "Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!",
    "first_seen": "2026-10-30T01:06:18.308533+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/ac-lhr/events/315138287",
-   "title": "AnalyticsCLUB JobExpo Virtual Business, Data & Technology Job Expo",
-   "link": "https://www.meetup.com/ac-lhr/events/315138287/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-06T13:00:00+02:00",
-   "location": "Online",
-   "summary": "**What is FirstFridayFair Monthly Job Fair?** [FirstFridayFair Monthly Job Fair](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd) is a **global virtual job fair and remote hiring event** hosted by the [Analytics.CLUB](Analytics.CLUB) community. This **online job fair platform** brings together **professionals, employers, recruiters, and career coaches** for an immersive, **self-managed career networking experience**. 🎥 **New to FirstFridayFair? Watch our explainer video here:** [https://youtu.be/NlLaCfOjosk](https://youtu.be/NlLaCfOjosk) **Where and When?** 📍 Online at [https://events.tao.ai/pod/analytics.club/6j382kbpcnvd](https://events.tao.ai/pod/analytics.club/6j382kbpcnvd) 🗓 First…",
-   "first_seen": "2026-10-30T01:06:18.308533+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/llm-reading-club/events/317142795",
-   "title": "Build a Reasoning Model (From Scratch)",
-   "link": "https://www.meetup.com/llm-reading-club/events/317142795/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-08T17:30:00+02:00",
-   "location": "Online",
-   "summary": "We are working through *Build a Reasoning Model (From Scratch)* by Sebastian Raschka. During each meetup, we will discuss the key concepts from the chapter or pages under review. In this session we'll discuss the **Chapter 6. Training Reasoning Models with Reinforcement Learning.** Raschka provides a hands-on guide to understanding and building modern reasoning models. Starting with a conventional pretrained LLM, the book explores evaluation, inference-time reasoning techniques, reinforcement learning with verifiable rewards, and knowledge distillation. Please note that the session is not recorded, and participants are responsible for obtaining their own copy of the book. **Buy the book** (a…",
-   "first_seen": "2026-10-28T20:20:06.961416+00:00"
   },
   {
    "key": "url:https://meetup.com/epic-studios-tech-talks/events/317142578",
@@ -508,6 +456,19 @@
    "location": "",
    "summary": "Νέο πρόγραμμα οικονομικής αρωγής έως €15.000 και δωρεάν υπηρεσιών επιχειρηματικής ανάπτυξης Υποβολή αιτήσεων: 1η Νοεμβρίου 2026 έως 31 Ιανουαρίου 2027",
    "first_seen": "2026-10-12T13:21:09+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/aws-user-group-athens/events/316227214",
+   "title": "[Professional] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
+   "link": "https://www.meetup.com/aws-user-group-athens/events/316227214/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-10T17:00:00+02:00",
+   "location": "",
+   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
+   "first_seen": "2026-10-11T19:35:25.872566+00:00"
   },
   {
    "key": "url:https://meetup.com/aws-user-group-athens/events/316227211",
