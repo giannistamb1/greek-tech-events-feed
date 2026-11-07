@@ -6,16 +6,16 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sat, 07 Nov 2026 13:11:46 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 19:28:40 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>Ρωσία: «Cyber Partisans» και «Silent Crow» πίσω από την επίθεση στη στατιστική υπηρεσία – Με δυσκολία η επαναφορά της λειτουργίας της</title>
-<link>https://www.naftemporiki.gr/society/2185887/rosia-cyber-partisans-kai-silent-crow-piso-apo-tin-epithesi-sti-statistiki-ypiresia-me-dyskolia-i-epanafora-tis-leitoyrgias-tis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rosia-cyber-partisans-kai-silent-crow-piso-apo-tin-epithesi-sti-statistiki-ypiresia-me-dyskolia-i-epanafora-tis-leitoyrgias-tis</link>
-<guid isPermaLink="false">url:https://naftemporiki.gr/society/2185887/rosia-cyber-partisans-kai-silent-crow-piso-apo-tin-epithesi-sti-statistiki-ypiresia-me-dyskolia-i-epanafora-tis-leitoyrgias-tis</guid>
-<pubDate>Sat, 07 Nov 2026 11:24:40 +0000</pubDate>
+<title>Η δημόσια εγγραφή της Anthropic έρχεται αντιμέτωπη με το κύμα αντιδράσεων κατά της ΤΝ</title>
+<link>https://www.insider.gr/epiheiriseis/431876/i-dimosia-eggrafi-tis-anthropic-erhetai-antimetopi-me-kyma-antidraseon-kata-tis</link>
+<guid isPermaLink="false">url:https://insider.gr/epiheiriseis/431876/i-dimosia-eggrafi-tis-anthropic-erhetai-antimetopi-me-kyma-antidraseon-kata-tis</guid>
+<pubDate>Sat, 07 Nov 2026 16:08:06 +0000</pubDate>
 <category>Business &amp; tech media</category>
-<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Καθυστέρηση τουλάχιστον έως τις 13 Νοεμβρίου στις σημαντικές ρωσικές οικονομικές εκθέσεις προκάλεσε η κυβερνοεπίθεση μεγάλης κλίμακας που δέχθηκε η στατιστική υπηρεσία της χώρας, Rosstat. Η Rosstat δεν μπόρεσε να δημοσιεύσει… Ρωσία: «Cyber Partisans» και «Silent Crow» πίσω από την επίθεση στη στατιστική υπηρεσία – Με δυσκολία η επαναφορά της λειτουργίας της - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Οι ενδιάμεσες εκλογές ανέδειξαν την έντονη αποδοκιμασία των κέντρων δεδομένων από τους ψηφοφόρους.&lt;/p&gt;</description>
 </item>
 <item>
 <title>EY Ελλάδος: Silver διάκριση στα BITE Awards 2026 για το έργο «Ελληνικός Κόμβος Μικρομεσαίων Επιχειρήσεων GAIA-X Accelerator»</title>
@@ -25,15 +25,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η εθνική αυτή πρωτοβουλία υλοποιείται σε συνεργασία με την Telekom και χρηματοδοτείται από το Εθνικό Σχέδιο Ανάκαμψης «Ελλάδα 2. 0».&lt;/p&gt;</description>
-</item>
-<item>
-<title>Κίνα: Επανδρωμένη αποστολή στη Σελήνη πριν το 2030 για να προλάβει τις ΗΠΑ</title>
-<link>https://techmaniacs.gr/i-kina-apokalyptei-to-schedio-gia-epandromeni-apostoli-sti-selini-prin-to-2030/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/i-kina-apokalyptei-to-schedio-gia-epandromeni-apostoli-sti-selini-prin-to-2030</guid>
-<pubDate>Fri, 06 Nov 2026 20:40:19 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Το Πεκίνο ανοίγει πλέον τα χαρτιά του για το πώς σκοπεύει να πατήσει στη Σελήνη. Η Κίνα παρουσίασε το πιο αναλυτικό μέχρι σήμερα πλάνο της για την πρώτη της επανδρωμένη προσελήνωση, βάζοντας ως ξεκάθαρο στόχο να στείλει αστροναύτες στη σεληνιακή επιφάνεια πριν από το 2030. Επειδή η χώρα δεν διαθέτει ακόμη έναν υπερπύραυλο της κλάσης […] The post Κίνα: Επανδρωμένη αποστολή στη Σελήνη πριν το 2030 για να προλάβει τις ΗΠΑ appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
 <title>​​ΕΤΑΔ: Νέα επενδυτική προοπτική για το «Ξενία Καλεντζίου»​</title>

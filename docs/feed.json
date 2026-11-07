@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-07T13:11:46.480540+00:00",
+ "built": "2026-11-07T19:28:40.238108+00:00",
  "items": [
+  {
+   "key": "url:https://insider.gr/epiheiriseis/431876/i-dimosia-eggrafi-tis-anthropic-erhetai-antimetopi-me-kyma-antidraseon-kata-tis",
+   "title": "Η δημόσια εγγραφή της Anthropic έρχεται αντιμέτωπη με το κύμα αντιδράσεων κατά της ΤΝ",
+   "link": "https://www.insider.gr/epiheiriseis/431876/i-dimosia-eggrafi-tis-anthropic-erhetai-antimetopi-me-kyma-antidraseon-kata-tis",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Οι ενδιάμεσες εκλογές ανέδειξαν την έντονη αποδοκιμασία των κέντρων δεδομένων από τους ψηφοφόρους.",
+   "first_seen": "2026-11-07T16:08:06+00:00"
+  },
   {
    "key": "url:https://meetup.com/ux-research-meetups/events/317312838",
    "title": "[Webinar] Field Research, Unpacked: A Service Design Case Study",
@@ -29,19 +42,6 @@
    "first_seen": "2026-11-07T13:11:46.480540+00:00"
   },
   {
-   "key": "url:https://naftemporiki.gr/society/2185887/rosia-cyber-partisans-kai-silent-crow-piso-apo-tin-epithesi-sti-statistiki-ypiresia-me-dyskolia-i-epanafora-tis-leitoyrgias-tis",
-   "title": "Ρωσία: «Cyber Partisans» και «Silent Crow» πίσω από την επίθεση στη στατιστική υπηρεσία – Με δυσκολία η επαναφορά της λειτουργίας της",
-   "link": "https://www.naftemporiki.gr/society/2185887/rosia-cyber-partisans-kai-silent-crow-piso-apo-tin-epithesi-sti-statistiki-ypiresia-me-dyskolia-i-epanafora-tis-leitoyrgias-tis/?utm_source=rss&utm_medium=rss&utm_campaign=rosia-cyber-partisans-kai-silent-crow-piso-apo-tin-epithesi-sti-statistiki-ypiresia-me-dyskolia-i-epanafora-tis-leitoyrgias-tis",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Καθυστέρηση τουλάχιστον έως τις 13 Νοεμβρίου στις σημαντικές ρωσικές οικονομικές εκθέσεις προκάλεσε η κυβερνοεπίθεση μεγάλης κλίμακας που δέχθηκε η στατιστική υπηρεσία της χώρας, Rosstat. Η Rosstat δεν μπόρεσε να δημοσιεύσει… Ρωσία: «Cyber Partisans» και «Silent Crow» πίσω από την επίθεση στη στατιστική υπηρεσία – Με δυσκολία η επαναφορά της λειτουργίας της - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-11-07T11:24:40+00:00"
-  },
-  {
    "key": "url:https://fortunegreece.com/article/ey-ellados-silver-diakrisi-sta-bite-awards-2026-gia-to-ergo-ellinikos-komvos-mikromesaion-epixeiriseon-gaia-x-accelerator",
    "title": "EY Ελλάδος: Silver διάκριση στα BITE Awards 2026 για το έργο «Ελληνικός Κόμβος Μικρομεσαίων Επιχειρήσεων GAIA-X Accelerator»",
    "link": "https://www.fortunegreece.com/article/ey-ellados-silver-diakrisi-sta-bite-awards-2026-gia-to-ergo-ellinikos-komvos-mikromesaion-epixeiriseon-gaia-x-accelerator/",
@@ -53,19 +53,6 @@
    "location": "",
    "summary": "Η εθνική αυτή πρωτοβουλία υλοποιείται σε συνεργασία με την Telekom και χρηματοδοτείται από το Εθνικό Σχέδιο Ανάκαμψης «Ελλάδα 2. 0».",
    "first_seen": "2026-11-06T21:01:50+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/i-kina-apokalyptei-to-schedio-gia-epandromeni-apostoli-sti-selini-prin-to-2030",
-   "title": "Κίνα: Επανδρωμένη αποστολή στη Σελήνη πριν το 2030 για να προλάβει τις ΗΠΑ",
-   "link": "https://techmaniacs.gr/i-kina-apokalyptei-to-schedio-gia-epandromeni-apostoli-sti-selini-prin-to-2030/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το Πεκίνο ανοίγει πλέον τα χαρτιά του για το πώς σκοπεύει να πατήσει στη Σελήνη. Η Κίνα παρουσίασε το πιο αναλυτικό μέχρι σήμερα πλάνο της για την πρώτη της επανδρωμένη προσελήνωση, βάζοντας ως ξεκάθαρο στόχο να στείλει αστροναύτες στη σεληνιακή επιφάνεια πριν από το 2030. Επειδή η χώρα δεν διαθέτει ακόμη έναν υπερπύραυλο της κλάσης […] The post Κίνα: Επανδρωμένη αποστολή στη Σελήνη πριν το 2030 για να προλάβει τις ΗΠΑ appeared first on Techmaniacs .",
-   "first_seen": "2026-11-06T20:40:19+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/etad-nea-ependitiki-prooptiki-gia-to-xenia-kalentziou",
