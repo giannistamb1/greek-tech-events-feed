@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sun, 08 Nov 2026 17:57:23 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 22:12:37 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[14 Nov] Saturday Social at Mint Bar – Meet, Talk &amp; See Where the Night Goes</title>
+<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317134669/</link>
+<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317134669</guid>
+<pubDate>Sun, 08 Nov 2026 22:12:37 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 14 November 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
+</item>
 <item>
 <title>[26 Nov] 68th Agile Greece Meetup: We’ve Added AI Agents. Now We Need to Change.</title>
 <link>https://www.meetup.com/agile-greece/events/317331135/</link>
@@ -45,6 +54,15 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 14:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Umbraco Compose is a powerful SaaS platform for composing content from multiple sources into a single unified output. Jordan McFarlane is one of the great minds behind Umbraco. He's a Head of Orchestration and a familiar face on stage at Codegarden, the tech conference held in Denmark. Now he’s joining us to give us a demo of Umbraco Compose! See you there!&lt;/p&gt;</description>
 </item>
 <item>
+<title>[09 Nov] Nov 9 - Agentic Labeling for Specialized Visual Data</title>
+<link>https://www.meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/317079221/</link>
+<guid isPermaLink="false">url:https://meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/317079221</guid>
+<pubDate>Fri, 06 Nov 2026 23:13:57 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Date, Time and Location** Nov 09, 2026 9:00 AM - 10:00 AM PST Online. **[Register for the Zoom!](https://voxel51.com/events/when-prompting-beats-training-agentic-labeling-for-specialized-visual-data-november-9-2026)** Frontier multimodal models handle familiar concepts well and struggle on niche ones: sorting drill-core samples into 35 geological classes, or telling adhesion from scarring on a ceramic substrate. Our study across 11 specialized visual datasets in manufacturing inspection, geology, and medical imaging found that a few labeled examples in the prompt can close much of that gap, and it also found where that stops working. **What you’ll learn:** * Niche versus hard: how in-conte…&lt;/p&gt;</description>
+</item>
+<item>
 <title>[12 Nov] ChatGPT, Claude or Gemini? Make AI Useful in 60 Minutes</title>
 <link>https://www.meetup.com/baig-academy-of-ai/events/317297747/</link>
 <guid isPermaLink="false">url:https://meetup.com/baig-academy-of-ai/events/317297747</guid>
@@ -59,8 +77,8 @@
 <guid isPermaLink="false">url:https://meetup.com/bucharest-xdevops-meetup-group/events/316850587</guid>
 <pubDate>Thu, 05 Nov 2026 23:41:04 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 13 November 2026, 21:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;AI for DevOps &amp;amp; SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 13 November 2026, 21:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;AI for DevOps &amp;amp; SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[03 Dec] "You’re Absolutely Right, I Missed This”: Build an LLM Pipeline That Works</title>
@@ -77,8 +95,8 @@
 <guid isPermaLink="false">url:https://meetup.com/baig-academy-of-ai/events/317187066</guid>
 <pubDate>Wed, 04 Nov 2026 06:34:18 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;## What you'll learn * **Automating daily workflows** Turn a repeatable daily process into an AI workflow that handles each step with less manual intervention. * **Schedule AI agents to run tasks in the background** Schedule AI workflows to run in the background, handling routine tasks while you focus on higher-value work. * **Put AI agents to work across your daily operations** Build AI agents that work with your calendar, meetings, documents, and files to automate everyday tasks. * **Guardrails and reliability** Set context, permissions, and boundaries so your AI agent works reliably and knows when to stop or ask for approval. ## Why this topic matters Your workday is filled with tasks AI …&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;## What you'll learn * **Automating daily workflows** Turn a repeatable daily process into an AI workflow that handles each step with less manual intervention. * **Schedule AI agents to run tasks in the background** Schedule AI workflows to run in the background, handling routine tasks while you focus on higher-value work. * **Put AI agents to work across your daily operations** Build AI agents that work with your calendar, meetings, documents, and files to automate everyday tasks. * **Guardrails and reliability** Set context, permissions, and boundaries so your AI agent works reliably and knows when to stop or ask for approval. ## Why this topic matters Your workday is filled with tasks AI …&lt;/p&gt;</description>
 </item>
 <item>
 <title>[26 Nov] ProductTank Athens: Building AI-powered products for the real, complex world</title>
@@ -140,8 +158,8 @@
 <guid isPermaLink="false">url:https://meetup.com/london-women-on-the-rise-meetup-group/events/316060526</guid>
 <pubDate>Fri, 30 Oct 2026 01:06:18 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!&lt;/p&gt;</description>
 </item>
 <item>
 <title>[13 Nov] Epic Tech Talks #3: Coding with Angular</title>
