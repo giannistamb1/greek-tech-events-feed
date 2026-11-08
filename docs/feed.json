@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-08T10:29:27.370401+00:00",
+ "built": "2026-11-08T17:57:23.616210+00:00",
  "items": [
+  {
+   "key": "url:https://techmaniacs.gr/windows-11-cloud-rebuild-kathari-egkatastasi-choris-usb",
+   "title": "Τα Windows 11 θα μπορούν να εγκατασταθουν μόνα του ακόμα και αν ο υπολογιστής δεν κάνει boot",
+   "link": "https://techmaniacs.gr/windows-11-cloud-rebuild-kathari-egkatastasi-choris-usb/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Microsoft μόλις παρουσίασε το Cloud Rebuild, μια νέα λειτουργία ανάκτησης των Windows 11 που επιτρέπει στους χρήστες να επανεγκαταστήσουν το λειτουργικό τους σύστημα απευθείας από το cloud, ακόμα και στην περίπτωση που ο υπολογιστής τους δεν μπορεί να κάνει boot. Παράλληλα, η νέα αυτή διαδικασία κατεβάζει και περνάει αυτόματα όλους τους απαραίτητους drivers, ώστε […] The post Τα Windows 11 θα μπορούν να εγκατασταθουν μόνα του ακόμα και αν ο υπολογιστής δεν κάνει boot appeared first on Techmaniacs .",
+   "first_seen": "2026-11-08T14:20:46+00:00"
+  },
   {
    "key": "url:https://meetup.com/agile-greece/events/317331135",
    "title": "68th Agile Greece Meetup: We’ve Added AI Agents. Now We Need to Change.",
@@ -27,32 +40,6 @@
    "location": "Online",
    "summary": "**What can you do with a DAX query? \\| Zoe Douglas** Power BI has a query language to get data out of the semantic model -- the DAX query. This is different from DAX formulas you find in calculated columns, tables, and measures. With DAX query view you can quickly use this to understand your data, try out new formulas, and troubleshoot formulas you already have. If you were ever curious about what a DAX query was or want to know more, come and find out! **Zoe Douglas, Product Manager at Microsoft** I am a product manager for Power BI at Microsoft. I focus on unlocking awesome features for visuals and dedicated to helping all customers get the most out of their data!",
    "first_seen": "2026-11-08T10:29:27.370401+00:00"
-  },
-  {
-   "key": "url:https://businessvoice.gr/digital/997571/trapezes-apo-ta-gkise-stin-techniti-noimosyni",
-   "title": "Τράπεζες: Από τα γκισέ στην τεχνητή νοημοσύνη",
-   "link": "https://businessvoice.gr/digital/997571/trapezes-apo-ta-gkise-stin-techniti-noimosyni/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Πάνω από 600 προσλήψεις το 2027, η ευκαιρία του The Monday Festival",
-   "first_seen": "2026-11-08T08:50:54+00:00"
-  },
-  {
-   "key": "url:https://insider.gr/epiheiriseis/431876/i-dimosia-eggrafi-tis-anthropic-erhetai-antimetopi-me-kyma-antidraseon-kata-tis",
-   "title": "Η δημόσια εγγραφή της Anthropic έρχεται αντιμέτωπη με το κύμα αντιδράσεων κατά της ΤΝ",
-   "link": "https://www.insider.gr/epiheiriseis/431876/i-dimosia-eggrafi-tis-anthropic-erhetai-antimetopi-me-kyma-antidraseon-kata-tis",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Οι ενδιάμεσες εκλογές ανέδειξαν την έντονη αποδοκιμασία των κέντρων δεδομένων από τους ψηφοφόρους.",
-   "first_seen": "2026-11-07T16:08:06+00:00"
   },
   {
    "key": "url:https://meetup.com/ux-research-meetups/events/317312838",
@@ -445,19 +432,6 @@
    "first_seen": "2026-10-30T01:06:18.308533+00:00"
   },
   {
-   "key": "url:https://meetup.com/llm-reading-club/events/317142795",
-   "title": "Build a Reasoning Model (From Scratch)",
-   "link": "https://www.meetup.com/llm-reading-club/events/317142795/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-08T17:30:00+02:00",
-   "location": "Online",
-   "summary": "We are working through *Build a Reasoning Model (From Scratch)* by Sebastian Raschka. During each meetup, we will discuss the key concepts from the chapter or pages under review. In this session we'll discuss the **Chapter 6. Training Reasoning Models with Reinforcement Learning.** Raschka provides a hands-on guide to understanding and building modern reasoning models. Starting with a conventional pretrained LLM, the book explores evaluation, inference-time reasoning techniques, reinforcement learning with verifiable rewards, and knowledge distillation. Please note that the session is not recorded, and participants are responsible for obtaining their own copy of the book. **Buy the book** (a…",
-   "first_seen": "2026-10-28T20:20:06.961416+00:00"
-  },
-  {
    "key": "url:https://meetup.com/epic-studios-tech-talks/events/317142578",
    "title": "Epic Tech Talks #3: Coding with Angular",
    "link": "https://www.meetup.com/epic-studios-tech-talks/events/317142578/",
@@ -534,19 +508,6 @@
    "location": "",
    "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
    "first_seen": "2026-10-10T17:22:19.663455+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/aws-user-group-athens/events/316227206",
-   "title": "[AI Practitioner] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026",
-   "link": "https://www.meetup.com/aws-user-group-athens/events/316227206/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-08T17:00:00+02:00",
-   "location": "",
-   "summary": "Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…",
-   "first_seen": "2026-10-09T18:23:50.119653+00:00"
   },
   {
    "key": "url:https://stayhappening.com/e/techniques-2026-charlotte-de-witte-in-athens-E2ISYR0NXM5",
