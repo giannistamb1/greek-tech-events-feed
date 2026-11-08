@@ -1,17 +1,17 @@
 {
-  "built": "2026-11-07T19:28:40.238108+00:00",
-  "items": 45,
+  "built": "2026-11-08T00:42:45.089437+00:00",
+  "items": 46,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 11,
-      "kept": 11,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 11,
-      "kept": 11,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
@@ -118,9 +118,9 @@
     },
     {
       "name": "EU-Startups",
-      "fetched": 0,
+      "fetched": 10,
       "kept": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.eu-startups.com/feed/"
+      "error": ""
     },
     {
       "name": "Tech.eu",
