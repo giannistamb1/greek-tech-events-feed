@@ -6,16 +6,151 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 06:45:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 19:52:28 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>[09 Nov] [Golang] Interview question grinding</title>
-<link>https://www.meetup.com/berlin-software-designers/events/317337455/</link>
-<guid isPermaLink="false">url:https://meetup.com/berlin-software-designers/events/317337455</guid>
-<pubDate>Mon, 09 Nov 2026 06:45:00 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 10:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;We answer interview questions created by ChatGPT. For each question we try to go deeper, and understand its fundamentals. Structure: * each round we ask ChatGPT to create an interview question * one random member of the audience answers it * we all give feedback and improve the answer * we compare our answer with the one proposed by the LLM * we do this for multiple rounds #### What you’ll need: * At least a basic knowledge of Golang * A stable internet connection * Willingness to engage, discuss, and share insights ####&lt;/p&gt;</description>
+<title>Google: Διευρύνει τη σειρά τσιπ τεχνητής νοημοσύνης και ανταγωνίζεται τη Nvidia</title>
+<link>https://www.fortunegreece.com/article/google-dievrinei-ti-seira-tsip-texnitis-noimosinis-kai-antagonizetai-ti-nvidia/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/google-dievrinei-ti-seira-tsip-texnitis-noimosinis-kai-antagonizetai-ti-nvidia</guid>
+<pubDate>Mon, 09 Nov 2026 19:52:28 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η Google παρουσίασε δύο νέες εκδοχές των τσιπ TPU, με στόχο να καλύψει εξειδικευμένες ανάγκες τεχνητής νοημοσύνης και να ενισχύσει τη θέση της στην αγορά υποδομών AI.&lt;/p&gt;</description>
+</item>
+<item>
+<title>«Εξαφανίζουν» τον Χουάνγκ από τα μεγάλα συνέδρια τεχνολογίας μετά το σκάνδαλο – Νέα στοιχεία για τα deals της Κινέζας κατασκόπου</title>
+<link>https://www.naftemporiki.gr/kosmos/2186723/exafanizoyn-ton-choyangk-apo-ta-megala-synedria-technologias-meta-to-skandalo-nea-stoicheia-gia-ta-deals-tis-kinezas-kataskopoy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=exafanizoyn-ton-choyangk-apo-ta-megala-synedria-technologias-meta-to-skandalo-nea-stoicheia-gia-ta-deals-tis-kinezas-kataskopoy</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/kosmos/2186723/exafanizoyn-ton-choyangk-apo-ta-megala-synedria-technologias-meta-to-skandalo-nea-stoicheia-gia-ta-deals-tis-kinezas-kataskopoy</guid>
+<pubDate>Mon, 09 Nov 2026 19:50:56 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Ο Τζένσεν Χουάνγκ αρχίζει να αφαιρείται από τις λίστες ομιλητών σε μεγάλες τεχνολογικές εκδηλώσεις, καθώς το σκάνδαλο της εξωσυζυγικής σχέσης του και η έρευνα που ξεκίνησε το διοικητικό συμβούλιο της… «Εξαφανίζουν» τον Χουάνγκ από τα μεγάλα συνέδρια τεχνολογίας μετά το σκάνδαλο – Νέα στοιχεία για τα deals της Κινέζας κατασκόπου - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+</item>
+<item>
+<title>Anthropic: Νέα μοντέλα τεχνητής νοημοσύνης με 30% μεγαλύτερη ταχύτητα και 20% χαμηλότερο κόστος</title>
+<link>https://www.naftemporiki.gr/techscience/2186729/anthropic-nea-montela-technitis-noimosynis-me-30-megalyteri-tachytita-kai-20-chamilotero-kostos/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=anthropic-nea-montela-technitis-noimosynis-me-30-megalyteri-tachytita-kai-20-chamilotero-kostos</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/techscience/2186729/anthropic-nea-montela-technitis-noimosynis-me-30-megalyteri-tachytita-kai-20-chamilotero-kostos</guid>
+<pubDate>Mon, 09 Nov 2026 19:18:43 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η Anthropic ανακοίνωσε τη Δευτέρα ότι θα κυκλοφορήσει αναβαθμισμένες εκδόσεις δύο από τα ισχυρότερα μοντέλα τεχνητής νοημοσύνης (AI) που διαθέτει, καθώς το εργαστήριο με έδρα το Σαν Φρανσίσκο προετοιμάζεται παράλληλα… Anthropic: Νέα μοντέλα τεχνητής νοημοσύνης με 30% μεγαλύτερη ταχύτητα και 20% χαμηλότερο κόστος - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+</item>
+<item>
+<title>Επίθεση της Telekom στη καρτοκινητή What’s UP με συμβόλαια από μόλις 16,55 ευρώ</title>
+<link>https://techmaniacs.gr/metatropi-kartokinitws-what-039-s-up-simvolaia-gigamax-telekom/</link>
+<guid isPermaLink="false">url:https://techmaniacs.gr/metatropi-kartokinitws-what-039-s-up-simvolaia-gigamax-telekom</guid>
+<pubDate>Mon, 09 Nov 2026 19:18:13 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Εντός της εφαρμογής του What’s UP, η συντακτική ομάδα του Techmaniacs.gr εντόπισε μια νέα προωθητική ενέργεια για τους χρήστες. Συγκεκριμένα, δίνει το πακέτο συμβολαίου με απεριόριστη ομιλία και 35 GB δεδομένων κάθε μήνα, με μηνιαίο πάγιο 17,10 ευρώ, εφόσον ο χρήστης προχωρήσει σε μετατροπή του καρτοκινητού του σε συμβόλαιο. Πρόκειται για το πρόγραμμα Telekom GigaMax […] The post Επίθεση της Telekom στη καρτοκινητή What’s UP με συμβόλαια από μόλις 16,55 ευρώ appeared first on Techmaniacs .&lt;/p&gt;</description>
+</item>
+<item>
+<title>Sell off στην ΑΙ: Πόσο επηρεάζει τους Έλληνες «tech» στο Euronext Athens</title>
+<link>https://www.naftemporiki.gr/finance/markets/2186232/sell-off-stin-ai-poso-epireazei-toys-ellines-tech-sto-euronext-athens/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sell-off-stin-ai-poso-epireazei-toys-ellines-tech-sto-euronext-athens</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/finance/markets/2186232/sell-off-stin-ai-poso-epireazei-toys-ellines-tech-sto-euronext-athens</guid>
+<pubDate>Mon, 09 Nov 2026 18:08:38 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Έντονες είναι οι χρηματιστηριακές αναταράξεις των τελευταίων ημερών στον κλάδο της τεχνολογίας και της Τεχνητής Νοημοσύνης, με τον Nasdaq της Νέας Υόρκης να βουλιάζει κατά -5,5% στη συνεδρίαση της περασμένη… Sell off στην ΑΙ: Πόσο επηρεάζει τους Έλληνες «tech» στο Euronext Athens - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+</item>
+<item>
+<title>Hxos Eikona Show 2026: Η μεγαλύτερη έκθεση ήχου και εικόνας επιστρέφει στην Αθήνα στις 21 και 22 Νοεμβρίου</title>
+<link>https://techmaniacs.gr/hxos-eikona-show-2026-i-megalyteri-ekthesi-ichoy-kai-eikonas-epistrefei-stin-athina-stis-21-kai-22-noemvrioy/</link>
+<guid isPermaLink="false">url:https://techmaniacs.gr/hxos-eikona-show-2026-i-megalyteri-ekthesi-ichoy-kai-eikonas-epistrefei-stin-athina-stis-21-kai-22-noemvrioy</guid>
+<pubDate>Mon, 09 Nov 2026 17:41:18 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Για όλους εμάς που αγαπάμε την τεχνολογία, την υψηλή πιστότητα και την οικιακή ψυχαγωγία, το φθινόπωρο έχει ένα σταθερό σημείο αναφοράς. Η HXOS EIKONA SHOW 2026, η μεγαλύτερη και πιο επιδραστική έκθεση consumer electronics και home entertainment στη χώρα μας, επιστρέφει δυναμικά για 14η χρονιά. Είμαστε ιδιαίτερα χαρούμενοι καθώς το Techmaniacs δίνει το παρών, στηρίζοντας […] The post Hxos Eikona Show 2026: Η μεγαλύτερη έκθεση ήχου και εικόνας επιστρέφει στην Αθήνα στις 21 και 22 Νοεμβρίου appeared first on Techmaniacs .&lt;/p&gt;</description>
+</item>
+<item>
+<title>Την Τρίτη 10 Νοεμβρίου στο Defence Tech Summit η αμυντική καινοτομία συναντά την αγορά</title>
+<link>https://www.ictplus.gr/tin-triti-10-noemvriou-sto-defence-tech-summit-i-amyntiki-kainotomia-synanta-tin-agora/</link>
+<guid isPermaLink="false">url:https://ictplus.gr/tin-triti-10-noemvriou-sto-defence-tech-summit-i-amyntiki-kainotomia-synanta-tin-agora</guid>
+<pubDate>Mon, 09 Nov 2026 16:19:45 +0000</pubDate>
+<category>Enterprise IT</category>
+<source url="https://www.ictplus.gr/">ICT Plus</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Την Τρίτη 10 Νοεμβρίου το Πολεμικό Μουσείο φιλοξενεί το Defence Tech Summit, το πρώτο συνέδριο αμυντικής καινοτομίας στην Ελλάδα, όπου τεχνολογία, βιομηχανία, ακαδημαϊκή έρευνα και κρατική στρατηγική συναντιούνται για πρώτη φορά. Το Defence Tech Summit 2026 τελεί υπό την Αιγίδα του Υπουργείου Εθνικής Άμυνας και έρχεται σε μια περίοδο έντονης κινητικότητας για τον κλάδο. Η […] Το άρθρο Την Τρίτη 10 Νοεμβρίου στο Defence Tech Summit η αμυντική καινοτομία συναντά την αγορά εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
+</item>
+<item>
+<title>Nvidia: Η Κίνα απορρίπτει τις κατηγορίες για κατασκοπεία σε βάρος του Τζένσεν Χουάνγκ – Τι απαντά το Πεκίνο</title>
+<link>https://www.fortunegreece.com/article/nvidia-i-kina-aporriptei-tis-katigories-gia-kataskopeia-se-varos-tou-tzensen-xouangk-ti-apanta-to-pekino/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/nvidia-i-kina-aporriptei-tis-katigories-gia-kataskopeia-se-varos-tou-tzensen-xouangk-ti-apanta-to-pekino</guid>
+<pubDate>Mon, 09 Nov 2026 14:17:10 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Για «αβάσιμες συκοφαντίες» κάνει λόγο η Κίνα, απορρίπτοντας τις καταγγελίες ότι επιχείρησε να συλλέξει απόρρητες πληροφορίες μέσω γυναίκας που διατηρούσε προσωπική σχέση με τον επικεφαλής της Nvidia. Η υπόθεση έχει προκαλέσει ανεξάρτητη έρευνα από την εταιρεία και την παρέμβαση του αμερικανικού Κογκρέσου, ενώ η μετοχή του τεχνολογικού κολοσσού δέχθηκε πιέσεις στις προσυνεδριακές συναλλαγές.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Google Wallet: Σκανάρισμα αποδείξεων και αυτόματη αντιστοίχιση συναλλαγών στην Ελλάδα</title>
+<link>https://techmaniacs.gr/google-wallet-skanarisma-apodeixeon-kai-aytomati-antistoichisi-synallagon-stin-ellada/</link>
+<guid isPermaLink="false">url:https://techmaniacs.gr/google-wallet-skanarisma-apodeixeon-kai-aytomati-antistoichisi-synallagon-stin-ellada</guid>
+<pubDate>Mon, 09 Nov 2026 14:09:04 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Το Google Wallet ήδη μας επιτρέπει να αποθηκεύουμε διάφορα έγγραφα και κάρτες πληρωμών στην Ελλάδα. Έχει εξελιχθεί σε ένα κυρίαρχο μέσο ανέπαφων πληρωμών στη χώρα μας, μετά και την εγκατάλειψη των αυτόνομων ψηφιακών πορτοφολιών εκ μέρους των τραπεζών. Στην έκδοση 26.43.1009867093 της εφαρμογής, σε συνδυασμό με τα Google Play Services 26.44.31, βλέπουμε ότι μπορούμε να […] The post Google Wallet: Σκανάρισμα αποδείξεων και αυτόματη αντιστοίχιση συναλλαγών στην Ελλάδα appeared first on Techmaniacs .&lt;/p&gt;</description>
+</item>
+<item>
+<title>e-ΕΦΚΑ: Από σήμερα ηλεκτρονικά οι αιτήσεις για σύνταξη λόγω θανάτου στο Δημόσιο – Τα βήματα</title>
+<link>https://www.fortunegreece.com/article/e-efka-apo-simera-ilektronika-oi-aitiseis-gia-sintaxi-logo-thanatou-sto-dimosio-ta-vimata/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/e-efka-apo-simera-ilektronika-oi-aitiseis-gia-sintaxi-logo-thanatou-sto-dimosio-ta-vimata</guid>
+<pubDate>Mon, 09 Nov 2026 12:15:03 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Αποκλειστικά μέσω διαδικτύου υποβάλλονται από τη Δευτέρα 9 Νοεμβρίου οι αιτήσεις συνταξιοδότησης λόγω θανάτου ασφαλισμένου του Δημοσίου, καθώς τίθεται σε εφαρμογή η νέα ψηφιακή διαδικασία του e-ΕΦΚΑ. Η αλλαγή αφορά κύριες και επικουρικές συντάξεις, εφάπαξ παροχές και το Μετοχικό Ταμείο Πολιτικών Υπαλλήλων, με στόχο τη μείωση της γραφειοκρατίας και την ταχύτερη εξυπηρέτηση των δικαιούχων.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Το «μυστικό εργαστήριο» της Anthropic: AI εκπαιδεύει νέα AI με ιλιγγιώδη ταχύτητα</title>
+<link>https://www.fortunegreece.com/article/to-mistiko-ergastirio-tis-anthropic-ai-ekpaidevei-nea-ai-me-ilingiodi-taxitita/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/to-mistiko-ergastirio-tis-anthropic-ai-ekpaidevei-nea-ai-me-ilingiodi-taxitita</guid>
+<pubDate>Mon, 09 Nov 2026 10:48:45 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Οι αποκαλύψεις της METR για τρία απόρρητα μοντέλα και η λογοκρισία στοιχείων κινδύνου».&lt;/p&gt;</description>
+</item>
+<item>
+<title>Microsoft: Διακόπτει σταδιακά τη μίσθωση υπολογιστικής ισχύος από την Oracle. Στο μικροσκόπιο συμβόλαια 80 δισ. δολαρίων</title>
+<link>https://www.ictplus.gr/microsoft-diakoptei-stadiaka-ti-misthosi-ypologistikis-ischyos-apo-tin-oracle-sto-mikroskopio-symvolaia-80-dis-dolarion/</link>
+<guid isPermaLink="false">url:https://ictplus.gr/microsoft-diakoptei-stadiaka-ti-misthosi-ypologistikis-ischyos-apo-tin-oracle-sto-mikroskopio-symvolaia-80-dis-dolarion</guid>
+<pubDate>Mon, 09 Nov 2026 09:54:01 +0000</pubDate>
+<category>Enterprise IT</category>
+<source url="https://www.ictplus.gr/">ICT Plus</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Τη σταδιακή διακοπή της μίσθωσης υπολογιστικής ισχύος από την Oracle δρομολογεί η Microsoft, καθώς ο εξοπλισμός που χρησιμοποιούσε για τις ανάγκες της τεχνητής νοημοσύνης δεν ανταποκρίνεται πλέον στις τεχνολογικές απαιτήσεις της. Η εξέλιξη εντάσσεται σε μια ευρύτερη επανεξέταση των συμφωνιών της Microsoft με εξωτερικούς παρόχους υποδομών cloud, συνολικής αξίας άνω των 80 δισ. δολαρίων. Η […] Το άρθρο Microsoft: Διακόπτει σταδιακά τη μίσθωση υπολογιστικής ισχύος από την Oracle. Στο μικροσκόπιο συμβόλαια 80 δισ. δολαρίων εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
+</item>
+<item>
+<title>Στ. Καλαφάτης: Στόχος η ανάδειξή της Θεσσαλονίκη σε ψηφιακό κόμβο της Νοτιοανατολικής Ευρώπης με επενδύσεις άνω των 300 εκατ. ευρώ σε AI και έρευνα</title>
+<link>https://www.ictplus.gr/st-kalafatis-stochos-i-anadeixi-tis-thessaloniki-se-psifiako-komvo-tis-notioanatolikis-evropis-me-ependyseis-ano-ton-300-ekat-evro-se-ai-kai-erevna/</link>
+<guid isPermaLink="false">url:https://ictplus.gr/st-kalafatis-stochos-i-anadeixi-tis-thessaloniki-se-psifiako-komvo-tis-notioanatolikis-evropis-me-ependyseis-ano-ton-300-ekat-evro-se-ai-kai-erevna</guid>
+<pubDate>Mon, 09 Nov 2026 09:43:24 +0000</pubDate>
+<category>Enterprise IT</category>
+<source url="https://www.ictplus.gr/">ICT Plus</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Επενδύσεις άνω των 300 εκατ. ευρώ για τον εκσυγχρονισμό των ερευνητικών υποδομών και νέα χρηματοδοτικά εργαλεία για τις επιχειρήσεις συνθέτουν το αναπτυξιακό σχέδιο για την ενίσχυση της τεχνολογικής παρουσίας της Θεσσαλονίκης. Τη στρατηγική για τη μετατροπή της Θεσσαλονίκης σε «ψηφιακό λιμένα» της Νοτιοανατολικής Ευρώπης, με αιχμή την Τεχνητή Νοημοσύνη, την έρευνα και τη διασύνδεση των […] Το άρθρο Στ. Καλαφάτης: Στόχος η ανάδειξή της Θεσσαλονίκη σε ψηφιακό κόμβο της Νοτιοανατολικής Ευρώπης με επενδύσεις άνω των 300 εκατ. ευρώ σε AI και έρευνα εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
+</item>
+<item>
+<title>Το 25% των χρηστών smartphones στην Ελλάδα θα χρησιμοποιεί AI agents έως το 2030</title>
+<link>https://www.fortunegreece.com/article/to-25-ton-xriston-smartphones-stin-ellada-tha-xrisimopoiei-ai-agents-eos-to-2030/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/to-25-ton-xriston-smartphones-stin-ellada-tha-xrisimopoiei-ai-agents-eos-to-2030</guid>
+<pubDate>Mon, 09 Nov 2026 09:29:34 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η έρευνα της Ericsson ConsumerLab καταγράφει την αύξηση της καθημερινής χρήσης της τεχνητής νοημοσύνης, τις νέες απαιτήσεις για τα τηλεπικοινωνιακά δίκτυα και τις ανησυχίες για την ασφάλεια των ψηφιακών βοηθών.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Digital Economy Forum 2026: Στο επίκεντρο του συνεδρίου του ΣΕΠΕ η ψηφιακή οικονομία</title>
+<link>https://netweek.gr/digital-economy-forum-2026-sto-epikentro-tou-synedriou-tou-sepe-i-psifiaki-oikonomia/</link>
+<guid isPermaLink="false">url:https://netweek.gr/digital-economy-forum-2026-sto-epikentro-tou-synedriou-tou-sepe-i-psifiaki-oikonomia</guid>
+<pubDate>Mon, 09 Nov 2026 08:41:02 +0000</pubDate>
+<category>Enterprise IT</category>
+<source url="https://www.netweek.gr/feed/">Netweek</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Netweek · Enterprise IT&lt;/p&gt;</description>
+</item>
+<item>
+<title>Galaxy S27: Πέρασε την πρώτη πιστοποίηση πριν την παρουσίαση του 2027</title>
+<link>https://techblog.gr/mobile/galaxy-s27-perase-tin-proti-pistopoiisi-prin-tin-parousiasi-tou-2027/</link>
+<guid isPermaLink="false">url:https://techblog.gr/mobile/galaxy-s27-perase-tin-proti-pistopoiisi-prin-tin-parousiasi-tou-2027</guid>
+<pubDate>Mon, 09 Nov 2026 08:00:49 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techblog.gr/feed/">Techblog</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techblog · Tech media&lt;/p&gt;&lt;p&gt;Το Galaxy S27 πήρε πιστοποίηση BIS στην Ινδία με κωδικό SM-S952B/DS, την πρώτη για τη σειρά Galaxy S27. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Galaxy S27: Πέρασε την πρώτη πιστοποίηση πριν την παρουσίαση του 2027 )&lt;/p&gt;</description>
 </item>
 <item>
 <title>[13 Nov] Live: Breaking an AI-Built App in 30 Minutes — for CTOs and Founders</title>
@@ -25,15 +160,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 13 November 2026, 13:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Your team releases faster with AI coding tools. But who checks what those tools leave behind? In this 45-minute online session I will take an app built with AI tools and break it live, step by step. You will see how API keys are pulled out of an installed app, how one user can read another user's data through a badly configured backend, and what an attacker finds in data stored on the phone. Then we turn it round: five checks you can ask your team to run on Monday, and the questions to ask before you sign off the next release. WHO IT IS FOR CTOs, technical founders, heads of engineering and product leads who are accountable for releases and customer data. This is not a beginner's coding clas…&lt;/p&gt;</description>
-</item>
-<item>
-<title>Τα Windows 11 θα μπορούν να εγκατασταθουν μόνα του ακόμα και αν ο υπολογιστής δεν κάνει boot</title>
-<link>https://techmaniacs.gr/windows-11-cloud-rebuild-kathari-egkatastasi-choris-usb/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/windows-11-cloud-rebuild-kathari-egkatastasi-choris-usb</guid>
-<pubDate>Sun, 08 Nov 2026 14:20:46 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Η Microsoft μόλις παρουσίασε το Cloud Rebuild, μια νέα λειτουργία ανάκτησης των Windows 11 που επιτρέπει στους χρήστες να επανεγκαταστήσουν το λειτουργικό τους σύστημα απευθείας από το cloud, ακόμα και στην περίπτωση που ο υπολογιστής τους δεν μπορεί να κάνει boot. Παράλληλα, η νέα αυτή διαδικασία κατεβάζει και περνάει αυτόματα όλους τους απαραίτητους drivers, ώστε […] The post Τα Windows 11 θα μπορούν να εγκατασταθουν μόνα του ακόμα και αν ο υπολογιστής δεν κάνει boot appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
 <title>[26 Nov] 68th Agile Greece Meetup: We’ve Added AI Agents. Now We Need to Change.</title>
@@ -61,96 +187,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 18 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**📆 Date:** November 18, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online 💸 Free event **🎙 Speaker and topic:** **Topic:** Field Research, Unpacked: A Real-World Case Study in Service Design, Ops, and AI **Speaker:** [Joel Barr](https://www.linkedin.com/in/joelmbarr/), the Founder of FloatGoat, a Researcher, Service Designer, and an Accessibility Specialist **Moderator:** [Petra Rajkov](https://sk.linkedin.com/in/petra-rajkov-b75511225), User Researcher @UXtweak **🧐 About the presentation:** AI can analyze data, but it can’t walk into a real workplace and see what’s actually happening. In this session, Joel shares how he does tactical user research in th…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[09 Nov] Nov 9 - Agentic Labeling for Specialized Visual Data</title>
-<link>https://www.meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/317079221/</link>
-<guid isPermaLink="false">url:https://meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/317079221</guid>
-<pubDate>Fri, 06 Nov 2026 23:13:57 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Date, Time and Location** Nov 09, 2026 9:00 AM - 10:00 AM PST Online. **[Register for the Zoom!](https://voxel51.com/events/when-prompting-beats-training-agentic-labeling-for-specialized-visual-data-november-9-2026)** Frontier multimodal models handle familiar concepts well and struggle on niche ones: sorting drill-core samples into 35 geological classes, or telling adhesion from scarring on a ceramic substrate. Our study across 11 specialized visual datasets in manufacturing inspection, geology, and medical imaging found that a few labeled examples in the prompt can close much of that gap, and it also found where that stops working. **What you’ll learn:** * Niche versus hard: how in-conte…&lt;/p&gt;</description>
-</item>
-<item>
-<title>GPT-6 Cyber: Η OpenAI παρουσίασε μοντέλο που βρίσκει και εκμεταλλεύεται κενά ασφαλείας</title>
-<link>https://techblog.gr/software/gpt-6-cyber-i-openai-parousiase-montelo-pou-vriskei-kai-ekmetallevetai-kena-asfaleias/</link>
-<guid isPermaLink="false">url:https://techblog.gr/software/gpt-6-cyber-i-openai-parousiase-montelo-pou-vriskei-kai-ekmetallevetai-kena-asfaleias</guid>
-<pubDate>Fri, 06 Nov 2026 15:40:02 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techblog.gr/feed/">Techblog</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techblog · Tech media&lt;/p&gt;&lt;p&gt;Με το GPT-6 Cyber της OpenAI φτιάχτηκαν 948 exploit για τον πυρήνα του Linux και βρέθηκαν 81 κενά στον Firefox. Κοστίζει 20 δολάρια ανά εκατ. tokens. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( GPT-6 Cyber: Η OpenAI παρουσίασε μοντέλο που βρίσκει και εκμεταλλεύεται κενά ασφαλείας )&lt;/p&gt;</description>
-</item>
-<item>
-<title>ΕΛΚΑΚ: Η αμυντική καινοτομία στο επίκεντρο του European Defence Week 2026</title>
-<link>https://www.ictplus.gr/elkak-i-amyntiki-kainotomia-sto-epikentro-tou-european-defence-week-2026/</link>
-<guid isPermaLink="false">url:https://ictplus.gr/elkak-i-amyntiki-kainotomia-sto-epikentro-tou-european-defence-week-2026</guid>
-<pubDate>Fri, 06 Nov 2026 14:44:42 +0000</pubDate>
-<category>Enterprise IT</category>
-<source url="https://www.ictplus.gr/">ICT Plus</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Το Ελληνικό Κέντρο Αμυντικής Καινοτομίας (ΕΛΚΑΚ) συμμετείχε στο European Defence Week 2026, που πραγματοποιήθηκε στο Παρίσι από τις 2 έως τις 6 Νοεμβρίου, αναδεικνύοντας τις δυνατότητες του ελληνικού οικοσυστήματος αμυντικής καινοτομίας και διευρύνοντας τις διεθνείς του συνεργασίες. Το ΕΛΚΑΚ οργάνωσε και συντόνισε την ελληνική αποστολή, στην οποία συμμετείχαν δέκα εταιρείες με καινοτόμες τεχνολογικές λύσεις διττής […] Το άρθρο ΕΛΚΑΚ: Η αμυντική καινοτομία στο επίκεντρο του European Defence Week 2026 εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Salesforce: Έκρηξη 200% στη χρήση AI για τις γιορτινές αγορές</title>
-<link>https://startupper.gr/news/284691/salesforce-ekrixi-200-sti-chrisi-ai-gia-tis-giortines-agores/</link>
-<guid isPermaLink="false">url:https://startupper.gr/news/284691/salesforce-ekrixi-200-sti-chrisi-ai-gia-tis-giortines-agores</guid>
-<pubDate>Fri, 06 Nov 2026 14:02:41 +0000</pubDate>
-<category>Startups</category>
-<source url="https://startupper.gr/">Startupper</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Startupper · Startups&lt;/p&gt;&lt;p&gt;Ριζική αναδιαμόρφωση της καταναλωτικής διαδρομής ενόψει της εορταστικής περιόδου καταγράφει η νέα παγκόσμια έκθεση της Salesforce The post Salesforce: Έκρηξη 200% στη χρήση AI για τις γιορτινές αγορές appeared first on STARTUPPER .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Δ. Παπαστεργίου σε ΚΕΔΕ: Smart Cities, ψηφιακές και AI υποδομές στους δήμους και επενδύσεις 743 εκατ. ευρώ για γρήγορο Internet</title>
-<link>https://www.ictplus.gr/papastergiou-se-kede-smart-cities-psifiakes-kai-ai-ypodomes-stous-dimous-kai-ependyseis-743-ekat-evro-gia-grigoro-internet/</link>
-<guid isPermaLink="false">url:https://ictplus.gr/papastergiou-se-kede-smart-cities-psifiakes-kai-ai-ypodomes-stous-dimous-kai-ependyseis-743-ekat-evro-gia-grigoro-internet</guid>
-<pubDate>Fri, 06 Nov 2026 13:57:33 +0000</pubDate>
-<category>Enterprise IT</category>
-<source url="https://www.ictplus.gr/">ICT Plus</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Νέες παρεμβάσεις σε κυβερνοασφάλεια, υποδομές και τεχνητή νοημοσύνη προανήγγειλε στο συνέδριο της ΚΕΔΕ ο Δημήτρης Παπαστεργίου. 94 έργα Smart Cities έχουν συμβασιοποιηθεί Το άρθρο Δ. Παπαστεργίου σε ΚΕΔΕ: Smart Cities, ψηφιακές και AI υποδομές στους δήμους και επενδύσεις 743 εκατ. ευρώ για γρήγορο Internet εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Τι δείχνει η πρόσφατη Έκθεση APT του Κέντρου Έρευνας της ESET</title>
-<link>https://www.ictplus.gr/ti-deichnei-i-prosfati-ekthesi-apt-tou-kentrou-erevnas-tis-eset/</link>
-<guid isPermaLink="false">url:https://ictplus.gr/ti-deichnei-i-prosfati-ekthesi-apt-tou-kentrou-erevnas-tis-eset</guid>
-<pubDate>Fri, 06 Nov 2026 13:22:28 +0000</pubDate>
-<category>Enterprise IT</category>
-<source url="https://www.ictplus.gr/">ICT Plus</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;«Οι ερευνητές της ESET εντόπισαν αρκετές περιπτώσεις κατά τις οποίες ομάδες APT χρησιμοποίησαν τεχνητή νοημοσύνη (AI) και μεγάλα γλωσσικά μοντέλα (LLM) σε διάφορα στάδια των επιχειρήσεών τους» Το άρθρο Τι δείχνει η πρόσφατη Έκθεση APT του Κέντρου Έρευνας της ESET εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Καλαφάτης: Η καινοτομία και η τεχνολογία μπορούν να μετατρέψουν τον Κάθετο Διάδρομο Μεταφορών σε έξυπνο και πράσινο δίκτυο</title>
-<link>https://www.ictplus.gr/kalafatis-i-kainotomia-kai-i-technologia-boroun-na-metatrepsoun-ton-katheto-diadromo-metaforon-se-exypno-kai-prasino-diktyo/</link>
-<guid isPermaLink="false">url:https://ictplus.gr/kalafatis-i-kainotomia-kai-i-technologia-boroun-na-metatrepsoun-ton-katheto-diadromo-metaforon-se-exypno-kai-prasino-diktyo</guid>
-<pubDate>Fri, 06 Nov 2026 12:54:42 +0000</pubDate>
-<category>Enterprise IT</category>
-<source url="https://www.ictplus.gr/">ICT Plus</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;η σταθερή δέσμευση της κυβέρνησης για την ταχεία προώθηση των διασυνοριακών υποδομών και την τεχνολογική αναβάθμιση της Νοτιοανατολικής Ευρώπης υπογράμμισε ο υφυπουργός Ανάπτυξης, Σταύρος Καλαφάτης, στην έναρξη των εργασιών του Διεθνούς Φόρουμ «VERTICAL CORRIDOR: Perspectives on transport development in the Balkan peninsula», που πραγματοποιήθηκε στη Σόφια. Όπως αναφέρει η σχετική ανακοίνωση, στο φόρουμ – το […] Το άρθρο Καλαφάτης: Η καινοτομία και η τεχνολογία μπορούν να μετατρέψουν τον Κάθετο Διάδρομο Μεταφορών σε έξυπνο και πράσινο δίκτυο εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>ΕΥΔΑΠ: Σύμβαση 13,98 εκατ. ευρώ για άδειες και υπηρεσίες Microsoft – Παράταση έως τις 3 Δεκεμβρίου</title>
-<link>https://www.ictplus.gr/evdap-symvasi-1398-ekat-evro-gia-adeies-kai-ypiresies-microsoft-paratasi-eos-tis-3-dekemvriou/</link>
-<guid isPermaLink="false">url:https://ictplus.gr/evdap-symvasi-1398-ekat-evro-gia-adeies-kai-ypiresies-microsoft-paratasi-eos-tis-3-dekemvriou</guid>
-<pubDate>Fri, 06 Nov 2026 12:01:50 +0000</pubDate>
-<category>Enterprise IT</category>
-<source url="https://www.ictplus.gr/">ICT Plus</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Στις 3 Δεκεμβρίου 2026, αντί της αρχικής ημερομηνίας της 6ης Νοεμβρίου, μεταφέρεται η καταληκτική προθεσμία υποβολής προσφορών για τον διαγωνισμό της ΕΥΔΑΠ, που αφορά την κεντρική συμφωνία προμήθειας και συντήρησης αδειών λογισμικού Microsoft μέσω Enterprise Agreement. Η απόφαση παράτασης αποσκοπεί, σύμφωνα με την εταιρεία, στη διασφάλιση της πληρότητας των προσφορών και στη διεύρυνση της συμμετοχής […] Το άρθρο ΕΥΔΑΠ: Σύμβαση 13,98 εκατ. ευρώ για άδειες και υπηρεσίες Microsoft – Παράταση έως τις 3 Δεκεμβρίου εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>ΜΟΔ: Διαγωνισμός 6,67 εκατ. ευρώ για ανανέωση και αναβάθμιση αδειών λογισμικού</title>
-<link>https://www.ictplus.gr/mod-diagonismos-667-ekat-evro-gia-ananeosi-kai-anavathmisi-adeion-logismikou/</link>
-<guid isPermaLink="false">url:https://ictplus.gr/mod-diagonismos-667-ekat-evro-gia-ananeosi-kai-anavathmisi-adeion-logismikou</guid>
-<pubDate>Fri, 06 Nov 2026 12:00:07 +0000</pubDate>
-<category>Enterprise IT</category>
-<source url="https://www.ictplus.gr/">ICT Plus</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; ICT Plus · Enterprise IT&lt;/p&gt;&lt;p&gt;Σε ανοικτό διαγωνισμό για την προμήθεια, ανανέωση και αναβάθμιση αδειών χρήσης λογισμικού, συνολικού προϋπολογισμού 6,6675 εκατ. ευρώ με ΦΠΑ, προχωρά η Μονάδα Οργάνωσης της Διαχείρισης Αναπτυξιακών Προγραμμάτων (ΜΟΔ Α.Ε.). Η διαδικασία αφορά την ανανέωση υφιστάμενων αδειών, την αναβάθμισή τους με κάλυψη Software Assurance, αλλά και την απόκτηση νέων προϊόντων και υπηρεσιών για τις ανάγκες της […] Το άρθρο ΜΟΔ: Διαγωνισμός 6,67 εκατ. ευρώ για ανανέωση και αναβάθμιση αδειών λογισμικού εμφανίστηκε πρώτα στο ICTPLUS .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Βίκυ Κλήμη: Παλεύουμε με μανία για τον κοινωνικό αντίκτυπο</title>
-<link>https://netweek.gr/viky-klimi-palevoume-me-mania-gia-ton-koinoniko-antiktypo/</link>
-<guid isPermaLink="false">url:https://netweek.gr/viky-klimi-palevoume-me-mania-gia-ton-koinoniko-antiktypo</guid>
-<pubDate>Fri, 06 Nov 2026 08:45:13 +0000</pubDate>
-<category>Enterprise IT</category>
-<source url="https://www.netweek.gr/feed/">Netweek</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Netweek · Enterprise IT&lt;/p&gt;&lt;p&gt;Με ακόμα ένα (πολύ πρόσφατο) βραβείο στις αποσκευές της, η CEO της Grandmama μιλάει αποκλειστικά στο netweek για τη θαυμαστή πορεία της ελληνικής startup προσφοράς υπηρεσιών στον ευαίσθητο τομέα της κατ’ οίκον φροντίδας ηλικιωμένων, την επέκτασή της σε Ευρώπη και Ινδία (!), αλλά και τους λόγους που το business έχει νόημα όταν δημιουργεί αξία για την κοινωνία.&lt;/p&gt;</description>
 </item>
 <item>
 <title>[12 Nov] ChatGPT, Claude or Gemini? Make AI Useful in 60 Minutes</title>
@@ -261,15 +297,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 17 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \- Connect an agent you already use\, such as Claude Code or GitHub Copilot\, to the model you have open through the MCP server\, and delegate a task that involves multiple changes \- Decide what the agent may do\, for example edit the model's metadata without reading its data \- Follow the agent's changes as it works\, and revert all or only those changes you disagree with \- Let the …&lt;/p&gt;</description>
 </item>
 <item>
-<title>[09 Nov] Women On the RISE Speed Networking</title>
-<link>https://www.meetup.com/london-women-on-the-rise-meetup-group/events/316060526/</link>
-<guid isPermaLink="false">url:https://meetup.com/london-women-on-the-rise-meetup-group/events/316060526</guid>
-<pubDate>Fri, 30 Oct 2026 01:06:18 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!&lt;/p&gt;</description>
-</item>
-<item>
 <title>[13 Nov] Epic Tech Talks #3: Coding with Angular</title>
 <link>https://www.meetup.com/epic-studios-tech-talks/events/317142578/</link>
 <guid isPermaLink="false">url:https://meetup.com/epic-studios-tech-talks/events/317142578</guid>
@@ -312,16 +339,7 @@
 <pubDate>Sun, 11 Oct 2026 19:35:25 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 17:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[09 Nov] [ML Associate] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026</title>
-<link>https://www.meetup.com/aws-user-group-athens/events/316227211/</link>
-<guid isPermaLink="false">url:https://meetup.com/aws-user-group-athens/events/316227211</guid>
-<pubDate>Sat, 10 Oct 2026 17:22:19 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 17:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 17:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[05 Dec] TECHNIQUES 2026: CHARLOTTE DE WITTE IN ATHENS</title>

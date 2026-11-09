@@ -6,17 +6,8 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 06:45:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 19:52:28 +0000</lastBuildDate>
 <ttl>180</ttl>
-<item>
-<title>[09 Nov] [Golang] Interview question grinding</title>
-<link>https://www.meetup.com/berlin-software-designers/events/317337455/</link>
-<guid isPermaLink="false">url:https://meetup.com/berlin-software-designers/events/317337455</guid>
-<pubDate>Mon, 09 Nov 2026 06:45:00 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 10:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;We answer interview questions created by ChatGPT. For each question we try to go deeper, and understand its fundamentals. Structure: * each round we ask ChatGPT to create an interview question * one random member of the audience answers it * we all give feedback and improve the answer * we compare our answer with the one proposed by the LLM * we do this for multiple rounds #### What you’ll need: * At least a basic knowledge of Golang * A stable internet connection * Willingness to engage, discuss, and share insights ####&lt;/p&gt;</description>
-</item>
 <item>
 <title>[13 Nov] Live: Breaking an AI-Built App in 30 Minutes — for CTOs and Founders</title>
 <link>https://www.meetup.com/luxembourg-vibe-coding-meetup-group/events/317009427/</link>
@@ -52,15 +43,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 18 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**📆 Date:** November 18, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online 💸 Free event **🎙 Speaker and topic:** **Topic:** Field Research, Unpacked: A Real-World Case Study in Service Design, Ops, and AI **Speaker:** [Joel Barr](https://www.linkedin.com/in/joelmbarr/), the Founder of FloatGoat, a Researcher, Service Designer, and an Accessibility Specialist **Moderator:** [Petra Rajkov](https://sk.linkedin.com/in/petra-rajkov-b75511225), User Researcher @UXtweak **🧐 About the presentation:** AI can analyze data, but it can’t walk into a real workplace and see what’s actually happening. In this session, Joel shares how he does tactical user research in th…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[09 Nov] Nov 9 - Agentic Labeling for Specialized Visual Data</title>
-<link>https://www.meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/317079221/</link>
-<guid isPermaLink="false">url:https://meetup.com/munchen-ai-machine-learning-and-computer-vision-meetup/events/317079221</guid>
-<pubDate>Fri, 06 Nov 2026 23:13:57 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Date, Time and Location** Nov 09, 2026 9:00 AM - 10:00 AM PST Online. **[Register for the Zoom!](https://voxel51.com/events/when-prompting-beats-training-agentic-labeling-for-specialized-visual-data-november-9-2026)** Frontier multimodal models handle familiar concepts well and struggle on niche ones: sorting drill-core samples into 35 geological classes, or telling adhesion from scarring on a ceramic substrate. Our study across 11 specialized visual datasets in manufacturing inspection, geology, and medical imaging found that a few labeled examples in the prompt can close much of that gap, and it also found where that stops working. **What you’ll learn:** * Niche versus hard: how in-conte…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[12 Nov] ChatGPT, Claude or Gemini? Make AI Useful in 60 Minutes</title>
@@ -153,15 +135,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 17 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \- Connect an agent you already use\, such as Claude Code or GitHub Copilot\, to the model you have open through the MCP server\, and delegate a task that involves multiple changes \- Decide what the agent may do\, for example edit the model's metadata without reading its data \- Follow the agent's changes as it works\, and revert all or only those changes you disagree with \- Let the …&lt;/p&gt;</description>
 </item>
 <item>
-<title>[09 Nov] Women On the RISE Speed Networking</title>
-<link>https://www.meetup.com/london-women-on-the-rise-meetup-group/events/316060526/</link>
-<guid isPermaLink="false">url:https://meetup.com/london-women-on-the-rise-meetup-group/events/316060526</guid>
-<pubDate>Fri, 30 Oct 2026 01:06:18 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Grab a beverage of your choice and join us for our Monthly Speed Networking Meeting. You will get time to network and meet new friends and get a 10 min wisdom of the month session. Who you know beats what you know! Come , learn, networked and help each other RISE!&lt;/p&gt;</description>
-</item>
-<item>
 <title>[13 Nov] Epic Tech Talks #3: Coding with Angular</title>
 <link>https://www.meetup.com/epic-studios-tech-talks/events/317142578/</link>
 <guid isPermaLink="false">url:https://meetup.com/epic-studios-tech-talks/events/317142578</guid>
@@ -195,16 +168,7 @@
 <pubDate>Sun, 11 Oct 2026 19:35:25 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 17:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[09 Nov] [ML Associate] Wrap-up Session — AWS AI/ML Get Certified Challenge 2026</title>
-<link>https://www.meetup.com/aws-user-group-athens/events/316227211/</link>
-<guid isPermaLink="false">url:https://meetup.com/aws-user-group-athens/events/316227211</guid>
-<pubDate>Sat, 10 Oct 2026 17:22:19 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 09 November 2026, 17:00&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 17:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Τhe learning journey is coming to an end — but the certification goal is just ahead. Join the **AWS User Group Athens** for the **Wrap-up Session with AWS**, where we'll reflect on the challenge, review key takeaways, and help participants prepare for the final stage of their certification journey. **What we'll cover:** * Recap of the **AWS AI/ML Get Certified Challenge** * Key takeaways from the learning journey * Final guidance for certification exam preparation * Tips for the pre-assessment * Understanding the **50% certification exam voucher** process * What to do after completing the challenge * Next steps toward scheduling and completing your AWS certification Participants will also ha…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[05 Dec] TECHNIQUES 2026: CHARLOTTE DE WITTE IN ATHENS</title>
