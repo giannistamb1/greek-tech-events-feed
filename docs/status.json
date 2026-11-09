@@ -1,6 +1,6 @@
 {
-  "built": "2026-11-08T22:12:37.742447+00:00",
-  "items": 42,
+  "built": "2026-11-09T06:45:00.883825+00:00",
+  "items": 36,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -88,8 +88,8 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 155,
-      "kept": 6,
+      "fetched": 80,
+      "kept": 0,
       "error": ""
     },
     {
