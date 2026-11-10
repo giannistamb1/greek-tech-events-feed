@@ -1,17 +1,17 @@
 {
-  "built": "2026-11-10T03:37:11.312894+00:00",
-  "items": 43,
+  "built": "2026-11-10T14:58:27.318863+00:00",
+  "items": 51,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
@@ -40,14 +40,14 @@
     },
     {
       "name": "dev.events — Greece",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://dev.events/EU/GR/tech"
+      "fetched": 8,
+      "kept": 8,
+      "error": ""
     },
     {
       "name": "Startupper",
       "fetched": 10,
-      "kept": 0,
+      "kept": 2,
       "error": ""
     },
     {
@@ -59,7 +59,7 @@
     {
       "name": "Techgear",
       "fetched": 50,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {
@@ -71,13 +71,13 @@
     {
       "name": "EMEA.gr",
       "fetched": 15,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 2,
+      "kept": 0,
       "error": ""
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 155,
-      "kept": 5,
+      "fetched": 175,
+      "kept": 7,
       "error": ""
     },
     {
@@ -107,7 +107,7 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 4,
+      "kept": 3,
       "error": ""
     },
     {
@@ -118,9 +118,9 @@
     },
     {
       "name": "EU-Startups",
-      "fetched": 10,
+      "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.eu-startups.com/feed/"
     },
     {
       "name": "Tech.eu",
