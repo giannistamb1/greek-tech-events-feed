@@ -1,7 +1,59 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-09T19:52:28.382067+00:00",
+ "built": "2026-11-10T03:37:11.312894+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/demystifying-ai-governance-daig-paris/events/316933810",
+   "title": "EU AI Act in Practice: Classify AI Systems Yourself",
+   "link": "https://www.meetup.com/demystifying-ai-governance-daig-paris/events/316933810/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-10T13:00:00+02:00",
+   "location": "Online",
+   "summary": "**⚠️ IMPORTANT REGISTRATION NOTICE** **(YOU HAVE TO JOIN THROUGH LUMA TO BE REGISTERED FOR THE EVENT (LINK PROVIDED).** Understanding the EU AI Act risk tiers is one thing. Applying them to a real AI system is another. ​This 2-hour live workshop is the practical continuation of the EU AI Act Risk Tiers session. It's for anyone who wants to move from knowing the tiers to confidently classifying AI systems themselves. ​ ​WHAT YOU'LL DO * ​Work through real-world scenarios using a digital classification tool * ​Tackle the edge cases that trip most teams up, from exceptions to role changes * ​Compare and defend your reasoning with others in small groups * ​Classify an AI system from your own wor…",
+   "first_seen": "2026-11-10T03:37:11.312894+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/i-nasa-psachnei-astronaytes-gia-ti-selini-kai-richnei-ta-kritiria-poioi-mporoyn-na-pane",
+   "title": "Η NASA ψάχνει αστροναύτες για τη Σελήνη και ρίχνει τα κριτήρια! Ποιοι μπορούν να πάνε",
+   "link": "https://techmaniacs.gr/i-nasa-psachnei-astronaytes-gia-ti-selini-kai-richnei-ta-kritiria-poioi-mporoyn-na-pane/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Αν ονειρευόσουν ανέκαθεν να γίνεις αστροναύτης αλλά το είχες βάλει στην άκρη επειδή δεν διαθέτεις κάποιο εξειδικευμένο μεταπτυχιακό τίτλο, η διαστημική υπηρεσία των ΗΠΑ μόλις άλλαξε τους κανόνες. Η NASA ανακοίνωσε επίσημα ότι ανοίγει τις αιτήσεις για την επόμενη τάξη υποψήφιων αστροναυτών, σηματοδοτώντας την πρώτη διαδικασία επιλογής νέου προσωπικού από το 2024. Αυτή τη φορά, […] The post Η NASA ψάχνει αστροναύτες για τη Σελήνη και ρίχνει τα κριτήρια! Ποιοι μπορούν να πάνε appeared first on Techmaniacs .",
+   "first_seen": "2026-11-09T21:14:00+00:00"
+  },
+  {
+   "key": "url:https://techgear.gr/claude-fable-5-2-kai-mythos-5-2-entyposiakes-epidoseis-ston-programmatismo-kai-ayximeni-tachytita-51266",
+   "title": "Claude Fable 5.2 και Mythos 5.2: Εντυπωσιακές επιδόσεις στον προγραμματισμό και αυξημένη ταχύτητα",
+   "link": "https://www.techgear.gr/claude-fable-5-2-kai-mythos-5-2-entyposiakes-epidoseis-ston-programmatismo-kai-ayximeni-tachytita-51266",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techgear",
+   "source_url": "https://www.techgear.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Σύνοψη Η Anthropic παρουσίασε επισήμως τα νέα γλωσσικά μοντέλα Claude Fable 5.2 και Claude Mythos 5.2, τα οποία απευθύνονται σε προγραμματιστές και ...",
+   "first_seen": "2026-11-09T20:32:00+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/meta-i-techniti-noimosyni-entopizei-anilikoys-christes-akomi-ki-otan-dilonoyn-pseytiki-ilikia",
+   "title": "Meta: Η τεχνητή νοημοσύνη εντοπίζει ανήλικους χρήστες ακόμη κι όταν δηλώνουν ψεύτικη ηλικία",
+   "link": "https://techmaniacs.gr/meta-i-techniti-noimosyni-entopizei-anilikoys-christes-akomi-ki-otan-dilonoyn-pseytiki-ilikia/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Αν κάποιος νόμιζε ότι αρκεί να δηλώσει μια ψεύτικη χρονολογία γέννησης κατά την εγγραφή του για να παρακάμψει τους κανόνες του Instagram, η Meta έρχεται να ανατρέψει τα δεδομένα. Ο τεχνολογικός κολοσσός ενισχύει δραστικά τα συστήματα ελέγχου ηλικίας στις πλατφόρμες του και δεν βασίζεται πλέον αποκλειστικά στα στοιχεία που πληκτρολογεί ο χρήστης. Αντίθετα, επιστρατεύει προηγμένα […] The post Meta: Η τεχνητή νοημοσύνη εντοπίζει ανήλικους χρήστες ακόμη κι όταν δηλώνουν ψεύτικη ηλικία appeared first on Techmaniacs .",
+   "first_seen": "2026-11-09T19:55:12+00:00"
+  },
   {
    "key": "url:https://fortunegreece.com/article/google-dievrinei-ti-seira-tsip-texnitis-noimosinis-kai-antagonizetai-ti-nvidia",
    "title": "Google: Διευρύνει τη σειρά τσιπ τεχνητής νοημοσύνης και ανταγωνίζεται τη Nvidia",
@@ -55,19 +107,6 @@
    "first_seen": "2026-11-09T19:18:13+00:00"
   },
   {
-   "key": "url:https://naftemporiki.gr/finance/markets/2186232/sell-off-stin-ai-poso-epireazei-toys-ellines-tech-sto-euronext-athens",
-   "title": "Sell off στην ΑΙ: Πόσο επηρεάζει τους Έλληνες «tech» στο Euronext Athens",
-   "link": "https://www.naftemporiki.gr/finance/markets/2186232/sell-off-stin-ai-poso-epireazei-toys-ellines-tech-sto-euronext-athens/?utm_source=rss&utm_medium=rss&utm_campaign=sell-off-stin-ai-poso-epireazei-toys-ellines-tech-sto-euronext-athens",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Έντονες είναι οι χρηματιστηριακές αναταράξεις των τελευταίων ημερών στον κλάδο της τεχνολογίας και της Τεχνητής Νοημοσύνης, με τον Nasdaq της Νέας Υόρκης να βουλιάζει κατά -5,5% στη συνεδρίαση της περασμένη… Sell off στην ΑΙ: Πόσο επηρεάζει τους Έλληνες «tech» στο Euronext Athens - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-11-09T18:08:38+00:00"
-  },
-  {
    "key": "url:https://techmaniacs.gr/hxos-eikona-show-2026-i-megalyteri-ekthesi-ichoy-kai-eikonas-epistrefei-stin-athina-stis-21-kai-22-noemvrioy",
    "title": "Hxos Eikona Show 2026: Η μεγαλύτερη έκθεση ήχου και εικόνας επιστρέφει στην Αθήνα στις 21 και 22 Νοεμβρίου",
    "link": "https://techmaniacs.gr/hxos-eikona-show-2026-i-megalyteri-ekthesi-ichoy-kai-eikonas-epistrefei-stin-athina-stis-21-kai-22-noemvrioy/",
@@ -105,19 +144,6 @@
    "location": "",
    "summary": "Για «αβάσιμες συκοφαντίες» κάνει λόγο η Κίνα, απορρίπτοντας τις καταγγελίες ότι επιχείρησε να συλλέξει απόρρητες πληροφορίες μέσω γυναίκας που διατηρούσε προσωπική σχέση με τον επικεφαλής της Nvidia. Η υπόθεση έχει προκαλέσει ανεξάρτητη έρευνα από την εταιρεία και την παρέμβαση του αμερικανικού Κογκρέσου, ενώ η μετοχή του τεχνολογικού κολοσσού δέχθηκε πιέσεις στις προσυνεδριακές συναλλαγές.",
    "first_seen": "2026-11-09T14:17:10+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/google-wallet-skanarisma-apodeixeon-kai-aytomati-antistoichisi-synallagon-stin-ellada",
-   "title": "Google Wallet: Σκανάρισμα αποδείξεων και αυτόματη αντιστοίχιση συναλλαγών στην Ελλάδα",
-   "link": "https://techmaniacs.gr/google-wallet-skanarisma-apodeixeon-kai-aytomati-antistoichisi-synallagon-stin-ellada/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το Google Wallet ήδη μας επιτρέπει να αποθηκεύουμε διάφορα έγγραφα και κάρτες πληρωμών στην Ελλάδα. Έχει εξελιχθεί σε ένα κυρίαρχο μέσο ανέπαφων πληρωμών στη χώρα μας, μετά και την εγκατάλειψη των αυτόνομων ψηφιακών πορτοφολιών εκ μέρους των τραπεζών. Στην έκδοση 26.43.1009867093 της εφαρμογής, σε συνδυασμό με τα Google Play Services 26.44.31, βλέπουμε ότι μπορούμε να […] The post Google Wallet: Σκανάρισμα αποδείξεων και αυτόματη αντιστοίχιση συναλλαγών στην Ελλάδα appeared first on Techmaniacs .",
-   "first_seen": "2026-11-09T14:09:04+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/e-efka-apo-simera-ilektronika-oi-aitiseis-gia-sintaxi-logo-thanatou-sto-dimosio-ta-vimata",
@@ -224,6 +250,19 @@
    "first_seen": "2026-11-09T06:45:00.883825+00:00"
   },
   {
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317134669",
+   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317134669/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-14T21:30:00+02:00",
+   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
+   "first_seen": "2026-11-08T22:12:37.742447+00:00"
+  },
+  {
    "key": "url:https://meetup.com/agile-greece/events/317331135",
    "title": "68th Agile Greece Meetup: We’ve Added AI Agents. Now We Need to Change.",
    "link": "https://www.meetup.com/agile-greece/events/317331135/",
@@ -234,6 +273,19 @@
    "starts": "2026-11-26T18:00:00+02:00",
    "location": "The Snappi Hub, Korai 5, Athina 105 64, Greece, Athina, Athina",
    "summary": "### ***Registration — Limited Seating Capacity*** Due to limited seating capacity, please complete the registration form to secure your spot. Seats will be confirmed by email, subject to availability. **[Registration Form — [https://forms.gle/PgorJATqKBA48VEW7](https://forms.gle/PgorJATqKBA48VEW7)]** Dear Agileans, Since 2013, Agile Greece has brought together people *from the trenches*. Practitioners sharing real experiences, lessons learned, and practical knowledge about how organizations can evolve. Today, we believe it's time for another important conversation. **AI agents are no longer just tools. They're becoming part of how organizations work.** But what does that really mean for our …",
+   "first_seen": "2026-11-08T10:29:27.370401+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/d-c_powerbi/events/316998859",
+   "title": "What can you do with a DAX query? | Zoe Douglas",
+   "link": "https://www.meetup.com/d-c_powerbi/events/316998859/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-12-01T20:00:00+02:00",
+   "location": "Online",
+   "summary": "**What can you do with a DAX query? \\| Zoe Douglas** Power BI has a query language to get data out of the semantic model -- the DAX query. This is different from DAX formulas you find in calculated columns, tables, and measures. With DAX query view you can quickly use this to understand your data, try out new formulas, and troubleshoot formulas you already have. If you were ever curious about what a DAX query was or want to know more, come and find out! **Zoe Douglas, Product Manager at Microsoft** I am a product manager for Power BI at Microsoft. I focus on unlocking awesome features for visuals and dedicated to helping all customers get the most out of their data!",
    "first_seen": "2026-11-08T10:29:27.370401+00:00"
   },
   {
@@ -263,6 +315,19 @@
    "first_seen": "2026-11-07T13:11:46.480540+00:00"
   },
   {
+   "key": "url:https://meetup.com/umbraco-finland-code-net-cms/events/316661668",
+   "title": "Umbraco Finland – Umbraco Compose Demo – Jordan McFarlane",
+   "link": "https://www.meetup.com/umbraco-finland-code-net-cms/events/316661668/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-26T14:00:00+02:00",
+   "location": "Online",
+   "summary": "Umbraco Compose is a powerful SaaS platform for composing content from multiple sources into a single unified output. Jordan McFarlane is one of the great minds behind Umbraco. He's a Head of Orchestration and a familiar face on stage at Codegarden, the tech conference held in Denmark. Now he’s joining us to give us a demo of Umbraco Compose! See you there!",
+   "first_seen": "2026-11-07T13:11:46.480540+00:00"
+  },
+  {
    "key": "url:https://meetup.com/baig-academy-of-ai/events/317297747",
    "title": "ChatGPT, Claude or Gemini? Make AI Useful in 60 Minutes",
    "link": "https://www.meetup.com/baig-academy-of-ai/events/317297747/",
@@ -281,8 +346,8 @@
    "link": "https://www.meetup.com/bucharest-xdevops-meetup-group/events/316850587/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-11-13T21:00:00+02:00",
    "location": "Online",
    "summary": "AI for DevOps & SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…",
@@ -320,8 +385,8 @@
    "link": "https://www.meetup.com/baig-academy-of-ai/events/317187066/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-11-19T19:00:00+02:00",
    "location": "Online",
    "summary": "## What you'll learn * **Automating daily workflows** Turn a repeatable daily process into an AI workflow that handles each step with less manual intervention. * **Schedule AI agents to run tasks in the background** Schedule AI workflows to run in the background, handling routine tasks while you focus on higher-value work. * **Put AI agents to work across your daily operations** Build AI agents that work with your calendar, meetings, documents, and files to automate everyday tasks. * **Guardrails and reliability** Set context, permissions, and boundaries so your AI agent works reliably and knows when to stop or ask for approval. ## Why this topic matters Your workday is filled with tasks AI …",

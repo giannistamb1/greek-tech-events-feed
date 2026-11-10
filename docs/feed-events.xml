@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Mon, 09 Nov 2026 19:52:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 03:37:11 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[10 Nov] EU AI Act in Practice: Classify AI Systems Yourself</title>
+<link>https://www.meetup.com/demystifying-ai-governance-daig-paris/events/316933810/</link>
+<guid isPermaLink="false">url:https://meetup.com/demystifying-ai-governance-daig-paris/events/316933810</guid>
+<pubDate>Tue, 10 Nov 2026 03:37:11 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 10 November 2026, 13:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**⚠️ IMPORTANT REGISTRATION NOTICE** **(YOU HAVE TO JOIN THROUGH LUMA TO BE REGISTERED FOR THE EVENT (LINK PROVIDED).** Understanding the EU AI Act risk tiers is one thing. Applying them to a real AI system is another. ​This 2-hour live workshop is the practical continuation of the EU AI Act Risk Tiers session. It's for anyone who wants to move from knowing the tiers to confidently classifying AI systems themselves. ​ ​WHAT YOU'LL DO * ​Work through real-world scenarios using a digital classification tool * ​Tackle the edge cases that trip most teams up, from exceptions to role changes * ​Compare and defend your reasoning with others in small groups * ​Classify an AI system from your own wor…&lt;/p&gt;</description>
+</item>
 <item>
 <title>[13 Nov] Live: Breaking an AI-Built App in 30 Minutes — for CTOs and Founders</title>
 <link>https://www.meetup.com/luxembourg-vibe-coding-meetup-group/events/317009427/</link>
@@ -18,6 +27,15 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 13 November 2026, 13:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Your team releases faster with AI coding tools. But who checks what those tools leave behind? In this 45-minute online session I will take an app built with AI tools and break it live, step by step. You will see how API keys are pulled out of an installed app, how one user can read another user's data through a badly configured backend, and what an attacker finds in data stored on the phone. Then we turn it round: five checks you can ask your team to run on Monday, and the questions to ask before you sign off the next release. WHO IT IS FOR CTOs, technical founders, heads of engineering and product leads who are accountable for releases and customer data. This is not a beginner's coding clas…&lt;/p&gt;</description>
 </item>
 <item>
+<title>[14 Nov] Saturday Social at Mint Bar – Meet, Talk &amp; See Where the Night Goes</title>
+<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317134669/</link>
+<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317134669</guid>
+<pubDate>Sun, 08 Nov 2026 22:12:37 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 14 November 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
+</item>
+<item>
 <title>[26 Nov] 68th Agile Greece Meetup: We’ve Added AI Agents. Now We Need to Change.</title>
 <link>https://www.meetup.com/agile-greece/events/317331135/</link>
 <guid isPermaLink="false">url:https://meetup.com/agile-greece/events/317331135</guid>
@@ -25,6 +43,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; The Snappi Hub, Korai 5, Athina 105 64, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;### ***Registration — Limited Seating Capacity*** Due to limited seating capacity, please complete the registration form to secure your spot. Seats will be confirmed by email, subject to availability. **[Registration Form — [https://forms.gle/PgorJATqKBA48VEW7](https://forms.gle/PgorJATqKBA48VEW7)]** Dear Agileans, Since 2013, Agile Greece has brought together people *from the trenches*. Practitioners sharing real experiences, lessons learned, and practical knowledge about how organizations can evolve. Today, we believe it's time for another important conversation. **AI agents are no longer just tools. They're becoming part of how organizations work.** But what does that really mean for our …&lt;/p&gt;</description>
+</item>
+<item>
+<title>[01 Dec] What can you do with a DAX query? | Zoe Douglas</title>
+<link>https://www.meetup.com/d-c_powerbi/events/316998859/</link>
+<guid isPermaLink="false">url:https://meetup.com/d-c_powerbi/events/316998859</guid>
+<pubDate>Sun, 08 Nov 2026 10:29:27 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 01 December 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**What can you do with a DAX query? \| Zoe Douglas** Power BI has a query language to get data out of the semantic model -- the DAX query. This is different from DAX formulas you find in calculated columns, tables, and measures. With DAX query view you can quickly use this to understand your data, try out new formulas, and troubleshoot formulas you already have. If you were ever curious about what a DAX query was or want to know more, come and find out! **Zoe Douglas, Product Manager at Microsoft** I am a product manager for Power BI at Microsoft. I focus on unlocking awesome features for visuals and dedicated to helping all customers get the most out of their data!&lt;/p&gt;</description>
 </item>
 <item>
 <title>[12 Nov] 🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥</title>
@@ -45,6 +72,15 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 18 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**📆 Date:** November 18, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online 💸 Free event **🎙 Speaker and topic:** **Topic:** Field Research, Unpacked: A Real-World Case Study in Service Design, Ops, and AI **Speaker:** [Joel Barr](https://www.linkedin.com/in/joelmbarr/), the Founder of FloatGoat, a Researcher, Service Designer, and an Accessibility Specialist **Moderator:** [Petra Rajkov](https://sk.linkedin.com/in/petra-rajkov-b75511225), User Researcher @UXtweak **🧐 About the presentation:** AI can analyze data, but it can’t walk into a real workplace and see what’s actually happening. In this session, Joel shares how he does tactical user research in th…&lt;/p&gt;</description>
 </item>
 <item>
+<title>[26 Nov] Umbraco Finland – Umbraco Compose Demo – Jordan McFarlane</title>
+<link>https://www.meetup.com/umbraco-finland-code-net-cms/events/316661668/</link>
+<guid isPermaLink="false">url:https://meetup.com/umbraco-finland-code-net-cms/events/316661668</guid>
+<pubDate>Sat, 07 Nov 2026 13:11:46 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 14:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Umbraco Compose is a powerful SaaS platform for composing content from multiple sources into a single unified output. Jordan McFarlane is one of the great minds behind Umbraco. He's a Head of Orchestration and a familiar face on stage at Codegarden, the tech conference held in Denmark. Now he’s joining us to give us a demo of Umbraco Compose! See you there!&lt;/p&gt;</description>
+</item>
+<item>
 <title>[12 Nov] ChatGPT, Claude or Gemini? Make AI Useful in 60 Minutes</title>
 <link>https://www.meetup.com/baig-academy-of-ai/events/317297747/</link>
 <guid isPermaLink="false">url:https://meetup.com/baig-academy-of-ai/events/317297747</guid>
@@ -59,8 +95,8 @@
 <guid isPermaLink="false">url:https://meetup.com/bucharest-xdevops-meetup-group/events/316850587</guid>
 <pubDate>Thu, 05 Nov 2026 23:41:04 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 13 November 2026, 21:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;AI for DevOps &amp;amp; SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 13 November 2026, 21:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;AI for DevOps &amp;amp; SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[03 Dec] "You’re Absolutely Right, I Missed This”: Build an LLM Pipeline That Works</title>
@@ -77,8 +113,8 @@
 <guid isPermaLink="false">url:https://meetup.com/baig-academy-of-ai/events/317187066</guid>
 <pubDate>Wed, 04 Nov 2026 06:34:18 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;## What you'll learn * **Automating daily workflows** Turn a repeatable daily process into an AI workflow that handles each step with less manual intervention. * **Schedule AI agents to run tasks in the background** Schedule AI workflows to run in the background, handling routine tasks while you focus on higher-value work. * **Put AI agents to work across your daily operations** Build AI agents that work with your calendar, meetings, documents, and files to automate everyday tasks. * **Guardrails and reliability** Set context, permissions, and boundaries so your AI agent works reliably and knows when to stop or ask for approval. ## Why this topic matters Your workday is filled with tasks AI …&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;## What you'll learn * **Automating daily workflows** Turn a repeatable daily process into an AI workflow that handles each step with less manual intervention. * **Schedule AI agents to run tasks in the background** Schedule AI workflows to run in the background, handling routine tasks while you focus on higher-value work. * **Put AI agents to work across your daily operations** Build AI agents that work with your calendar, meetings, documents, and files to automate everyday tasks. * **Guardrails and reliability** Set context, permissions, and boundaries so your AI agent works reliably and knows when to stop or ask for approval. ## Why this topic matters Your workday is filled with tasks AI …&lt;/p&gt;</description>
 </item>
 <item>
 <title>[26 Nov] ProductTank Athens: Building AI-powered products for the real, complex world</title>
