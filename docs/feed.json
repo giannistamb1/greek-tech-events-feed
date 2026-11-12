@@ -1,7 +1,85 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-11T17:13:25.492789+00:00",
+ "built": "2026-11-12T00:47:43.572753+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/ux-research-meetups/events/317366711",
+   "title": "[Workshop] Getting started with UXtweak",
+   "link": "https://www.meetup.com/ux-research-meetups/events/317366711/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-26T19:00:00+02:00",
+   "location": "Online",
+   "summary": "**📆 Date:** November 26, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online **💸 Free event** New to UXtweak, or curious what it can do for your research? Join us for a live workshop, where you choose what we explore. **What we'll cover:** * A quick introduction to UXtweak and how it fits into your UX research workflow * A tour of the main tools: usability testing, interviews, card sorting, tree testing, surveys, and more * A live, step-by-step study setup of the study of your choice, so you can see exactly how a study goes from idea to launch * Open Q&A: bring your questions and we'll answer them on the spot **By the end, you'll be able to:** * Choose the …",
+   "first_seen": "2026-11-12T00:47:43.572753+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/mitsotakis-i-ellada-diekdikei-rolo-ependitikou-komvou-se-evropi-mesogeio-kai-mesi-anatoli",
+   "title": "Μητσοτάκης: «Η Ελλάδα διεκδικεί ρόλο επενδυτικού κόμβου σε Ευρώπη, Μεσόγειο και Μέση Ανατολή»",
+   "link": "https://www.fortunegreece.com/article/mitsotakis-i-ellada-diekdikei-rolo-ependitikou-komvou-se-evropi-mesogeio-kai-mesi-anatoli/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Μιλώντας στην ετήσια συνάντηση του Διεθνούς Φόρουμ κρατικών επενδυτικών ταμείων στην Αθήνα, ο πρωθυπουργός παρουσίασε τις επενδυτικές προοπτικές της χώρας, δίνοντας έμφαση στην ενέργεια, τις υποδομές, την τεχνολογία και τη γεωγραφική της θέση.",
+   "first_seen": "2026-11-11T21:47:05+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/politiki/432418/mitsotakis-i-ellada-einai-mia-hora-poy-prosferei-monadikes-prooptikes-gia",
+   "title": "Μητσοτάκης: Η Ελλάδα είναι μία χώρα που προσφέρει μοναδικές προοπτικές για θεσμικούς επενδυτές",
+   "link": "https://www.insider.gr/politiki/432418/mitsotakis-i-ellada-einai-mia-hora-poy-prosferei-monadikes-prooptikes-gia",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Ο πρωθυπουργός μίλησε το απόγευμα στην ετήσια συνάντηση του Διεθνούς Φόρουμ κρατικών επενδυτικών ταμ...",
+   "first_seen": "2026-11-11T19:06:21+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/politiki/243113_mitsotakis-i-ellada-prosferei-monadikes-prooptikes-gia-thesmikoys-ependytes",
+   "title": "Μητσοτάκης: Η Ελλάδα προσφέρει μοναδικές ευκαιρίες για επενδυτές",
+   "link": "https://www.businessdaily.gr/politiki/243113_mitsotakis-i-ellada-prosferei-monadikes-prooptikes-gia-thesmikoys-ependytes?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Ο πρωθυπουργός στην ετήσια συνάντηση του Διεθνούς Φόρουμ επενδυτικών ταμείων στην Αθήνα τόνισε τις μοναδικές προοπτικές της Ελλάδας για θεσμικούς...",
+   "first_seen": "2026-11-11T18:32:36+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/deep-tempest-hdmi-electromagnetic-leak",
+   "title": "Το καλώδιο που μπορεί να αποκαλύψει όσα εμφανίζονται στην οθόνη σου",
+   "link": "https://techmaniacs.gr/deep-tempest-hdmi-electromagnetic-leak/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Ερευνητές κυβερνοασφάλειας απέδειξαν ότι οι ανεπαίσθητες ηλεκτρομαγνητικές διαρροές των καλωδίων τύπου HDMI επαρκούν για την αναπαραγωγή κωδικών πρόσβασης, προσωπικών μηνυμάτων και απόρρητων εγγράφων, χωρίς να αφήσουν το παραμικρό ίχνος παραβίασης στο δίκτυο. Ακόμη κι αν ένας υπολογιστής είναι πλήρως απομονωμένος από το διαδίκτυο, ακόμη κι αν διαθέτει τα πλέον αυστηρά firewalls, ακόμη και αν δεν […] The post Το καλώδιο που μπορεί να αποκαλύψει όσα εμφανίζονται στην οθόνη σου appeared first on Techmaniacs .",
+   "first_seen": "2026-11-11T18:24:36+00:00"
+  },
+  {
+   "key": "url:https://businessvoice.gr/top-stories/998343/i-byd-parousiase-tin-technologia-flash-charging-me-robotiki-fortisi",
+   "title": "Η BYD παρουσίασε την τεχνολογία FLASH Charging με ρομποτική φόρτιση",
+   "link": "https://businessvoice.gr/top-stories/998343/i-byd-parousiase-tin-technologia-flash-charging-me-robotiki-fortisi/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "EMEA.gr",
+   "source_url": "https://www.emea.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Το σύστημα συνδυάζει την αξιοποίηση ανανεώσιμων πηγών ενέργειας με την εξαιρετικά ταχεία φόρτιση και τις τεχνολογίες αυτοματισμού οχημάτων, προσφέροντας μια νέα εμπειρία φόρτισης.",
+   "first_seen": "2026-11-11T18:00:28+00:00"
+  },
   {
    "key": "url:https://fortunegreece.com/article/dipa-dorean-ergastiria-gia-evresi-ergasias-kai-epixeirimatikotita-stin-athina-pote-pragmatopoieitai-to-jobready",
    "title": "ΔΥΠΑ: Δωρεάν εργαστήρια για εύρεση εργασίας και επιχειρηματικότητα στην Αθήνα – Πότε πραγματοποιείται το JobReady",
@@ -133,6 +211,19 @@
    "first_seen": "2026-11-11T06:36:04.618714+00:00"
   },
   {
+   "key": "url:https://meetup.com/the-ai-business-society/events/317273644",
+   "title": "Build Your First Mini App with Claude: A Live, No-Code Workshop [ONLINE]",
+   "link": "https://www.meetup.com/the-ai-business-society/events/317273644/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-24T20:00:00+02:00",
+   "location": "Online",
+   "summary": "That calculation or checklist you repeat every week could be a mini app. Shai builds one live with London owners, no code needed, shows how to share it with clients by link and shares a list of small tools to try next. **What we'll cover:** • What a 'mini app' is and which ones save owners the most time • Building a quote calculator or checklist live with Claude • Sharing your tool with your team or clients by link • Ideas list: 10 small tools you can build next **Format:** Live on Google Meet with business owners from London and the Bridges Network. We work through it together on screen, and questions are answered as we go. **Who it's for:** owners and managers who repeat the same calculati…",
+   "first_seen": "2026-11-11T06:36:04.618714+00:00"
+  },
+  {
    "key": "url:https://ictplus.gr/athens-ai-summit-2026-apo-ti-stratigiki-stin-paragogiki-leitourgia-i-epomeni-imera-tis-technitis-noimosynis-stin-ellada-2",
    "title": "Athens AI Summit 2026: Από τη στρατηγική στην παραγωγική λειτουργία – Η επόμενη ημέρα της Τεχνητής Νοημοσύνης στην Ελλάδα",
    "link": "https://www.ictplus.gr/athens-ai-summit-2026-apo-ti-stratigiki-stin-paragogiki-leitourgia-i-epomeni-imera-tis-technitis-noimosynis-stin-ellada-2/",
@@ -172,6 +263,19 @@
    "first_seen": "2026-11-10T21:19:57.777814+00:00"
   },
   {
+   "key": "url:https://meetup.com/aws-user-group-krakow/events/317102231",
+   "title": "AWS User Group KRK meetup #78 with Remitly",
+   "link": "https://www.meetup.com/aws-user-group-krakow/events/317102231/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-26T19:00:00+02:00",
+   "location": "Online",
+   "summary": "AWS meetup is back with a new chapter. Mark your calendar and stay in the loop for more info. 🗓 **Save the Date** **🍔** + 🍺 = Let's gather around appetizers and beverages at **Remitly** or Watch the stream on YouTube ([link](https://youtube.com/live/frkPeVh7TZs)) Hosted by: **Maciej Lelusz**, AWS Hero AWS Community Builders: **Maria Kmita & Paweł Kusiński** 🎤 **Speakers**: 〰️ **Marek Szlagor**, Staff Infrastructure Engineer at Remitly *From 1 to N: Splitting a Monolith EKS Cluster Without Breaking Production* 〰️ **Pawel Zapior,** Security Engineer at Remitly *Beyond Static Linting: Context-Aware IAM Change Evaluation in AWS* 💡 Details about Speakers & Talks💡 **Marek Szlagor:** Staff Infrastr…",
+   "first_seen": "2026-11-10T21:19:57.777814+00:00"
+  },
+  {
    "key": "url:https://fortunegreece.com/article/wall-street-i-politiki-anatropi-pou-klonizei-to-ependitiko-afigima-tis-texnitis-noimosinis",
    "title": "Wall Street: Η πολιτική ανατροπή που κλονίζει το επενδυτικό αφήγημα της τεχνητής νοημοσύνης",
    "link": "https://www.fortunegreece.com/article/wall-street-i-politiki-anatropi-pou-klonizei-to-ependitiko-afigima-tis-texnitis-noimosinis/",
@@ -196,19 +300,6 @@
    "location": "",
    "summary": "Οι αιτήσεις για το επίδομα θέρμανσης 2026-2027 γίνονται στο myΘέρμανση της ΑΑΔΕ από τις 10 Νοεμβρίου έως τις 4 Δεκεμβρίου 2026. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( myΘέρμανση: Η αίτηση για επίδομα έως 1.560 € σε 8 βήματα από το myAADE )",
    "first_seen": "2026-11-10T20:31:00+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/ai-syskevi-nothing-teaser-carl-pei-dekembrios",
-   "title": "Κάτι μεγάλο ετοιμάζει η Nothing!",
-   "link": "https://techmaniacs.gr/ai-syskevi-nothing-teaser-carl-pei-dekembrios/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Nothing δημοσίευσε ένα teaser μιας επερχόμενης συσκευής, στο οποίο αποκαλύπτεται η άκρη ενός γκρι ορθογώνιου αντικειμένου. Ακριβώς σε αυτή τη γωνία διακρίνεται ένα πλήκτρο εγγραφής πλαισιωμένο από κόκκινες και πράσινες φωτεινές ενδείξεις. Αν και η εταιρεία δεν διευκρινίζει το είδος της συσκευής στη λεζάντα της ανάρτησης, ο ίδιος ο Carl Pei είχε προαναγγείλει πριν […] The post Κάτι μεγάλο ετοιμάζει η Nothing! appeared first on Techmaniacs .",
-   "first_seen": "2026-11-10T19:04:03+00:00"
   },
   {
    "key": "url:https://techgear.gr/i-anthropic-mpainei-sto-chrimatistirio-me-stocho-to-1-4-trisekatommyria-dolaria-51284",
@@ -484,6 +575,19 @@
    "first_seen": "2026-11-09T06:45:00.883825+00:00"
   },
   {
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317134669",
+   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317134669/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-14T21:30:00+02:00",
+   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
+   "first_seen": "2026-11-08T22:12:37.742447+00:00"
+  },
+  {
    "key": "url:https://meetup.com/agile-greece/events/317331135",
    "title": "68th Agile Greece Meetup: We’ve Added AI Agents. Now We Need to Change.",
    "link": "https://www.meetup.com/agile-greece/events/317331135/",
@@ -554,8 +658,8 @@
    "link": "https://www.meetup.com/bucharest-xdevops-meetup-group/events/316850587/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-11-13T21:00:00+02:00",
    "location": "Online",
    "summary": "AI for DevOps & SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…",
@@ -638,19 +742,6 @@
    "location": "Kifisias 18 & Gkizi, Marousi, Greece, Kifisias 18 & Gkizi, Marousi, Greece, Athens, Athens",
    "summary": "Join us on our **6th Leaddev Athens Meetup** for an evening of ⚡ lightning talks, leadership insights, and relaxed networking — hosted at **Allwyn Lottery Solutions** offices. ⚠️ Space is limited — RSVP is required to attend. 🏠Venue Host: **Allwyn Lottery Solutions** 🍕Catering: Pizzas and soft drinks 📝Agenda • 18:15 \\- 19:00 \\| Pre\\-Session Bookclub: \"Build High Value Software Systems: How to eliminate waste across the software delivery lifecycle\" * Panagiotis\\-Christos Kyrmpatsos \\| Software Engineer in Research at Orfium • 19:00 \\- 19:15 \\| Welcome by the meetup host • 19:15 \\- 20:00 \\| Fireside Chat Panel: \"The state of the tech industry in 2026\" * Archontellis\\-Rafail Sotirchellis \\| Ass…",
    "first_seen": "2026-11-02T11:19:33.609659+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/d-c_powerbi/events/316695236",
-   "title": "See What Changed: AI & Semantic Models in Tabular Editor | Ruben Van de Voorde",
-   "link": "https://www.meetup.com/d-c_powerbi/events/316695236/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-17T20:00:00+02:00",
-   "location": "Online",
-   "summary": "The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \\- Connect an agent you already use\\, such as Claude Code or GitHub Copilot\\, to the model you have open through the MCP server\\, and delegate a task that involves multiple changes \\- Decide what the agent may do\\, for example edit the model's metadata without reading its data \\- Follow the agent's changes as it works\\, and revert all or only those changes you disagree with \\- Let the …",
-   "first_seen": "2026-10-31T12:41:44.657289+00:00"
   },
   {
    "key": "url:https://meetup.com/epic-studios-tech-talks/events/317142578",
