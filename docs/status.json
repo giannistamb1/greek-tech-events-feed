@@ -1,36 +1,36 @@
 {
-  "built": "2026-11-12T11:24:40.937494+00:00",
-  "items": 63,
+  "built": "2026-11-12T20:00:18.247254+00:00",
+  "items": 78,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 8,
+      "kept": 8,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 8,
+      "kept": 8,
       "error": ""
     },
     {
       "name": "Eventbrite — Greece science & tech",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/greece/science-and-tech--events/"
+      "fetched": 4,
+      "kept": 4,
+      "error": ""
     },
     {
       "name": "Eventbrite — Greece business (tech-filtered)",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/greece/business--events/"
+      "fetched": 7,
+      "kept": 5,
+      "error": ""
     },
     {
       "name": "Eventbrite — Athens startups",
-      "fetched": 0,
-      "kept": 0,
-      "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/greece--athens/startup/"
+      "fetched": 19,
+      "kept": 6,
+      "error": ""
     },
     {
       "name": "Stayhappening — Athens",
@@ -53,13 +53,13 @@
     {
       "name": "ICT Plus",
       "fetched": 21,
-      "kept": 7,
+      "kept": 5,
       "error": ""
     },
     {
       "name": "Techgear",
       "fetched": 50,
-      "kept": 4,
+      "kept": 6,
       "error": ""
     },
     {
@@ -77,37 +77,37 @@
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 0,
+      "kept": 3,
       "error": ""
     },
     {
       "name": "Insider.gr",
       "fetched": 60,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Fortune Greece",
-      "fetched": 177,
-      "kept": 9,
+      "fetched": 214,
+      "kept": 12,
       "error": ""
     },
     {
       "name": "Business Daily",
       "fetched": 40,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Techblog",
       "fetched": 20,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
@@ -124,9 +124,9 @@
     },
     {
       "name": "Tech.eu",
-      "fetched": 0,
+      "fetched": 20,
       "kept": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tech.eu/feed/"
+      "error": ""
     },
     {
       "name": "Silicon Canals",
