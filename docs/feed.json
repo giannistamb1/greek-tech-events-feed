@@ -1,19 +1,175 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-12T00:47:43.572753+00:00",
+ "built": "2026-11-12T11:24:40.937494+00:00",
  "items": [
   {
-   "key": "url:https://meetup.com/ux-research-meetups/events/317366711",
-   "title": "[Workshop] Getting started with UXtweak",
-   "link": "https://www.meetup.com/ux-research-meetups/events/317366711/",
+   "key": "url:https://meetup.com/gdg-cloud-thessaloniki/events/316887228",
+   "title": "DevFest 2026",
+   "link": "https://www.meetup.com/gdg-cloud-thessaloniki/events/316887228/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-26T19:00:00+02:00",
+   "starts": "2026-12-12T10:00:00+02:00",
+   "location": "OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki",
+   "summary": "Calling all infrastructure ninjas, terminal dwellers, code craftspeople, and production heroes who never push directly to main on a Friday! 🚀 Clear your cache and mark your calendars: **GDG Cloud Thessaloniki DevFest 2026** is landing right here in the heart of Thessaloniki—and it’s our biggest celebration of modern engineering yet! 🇬🇷 **Wait, what exactly is DevFest?** Think of it as the ultimate sandbox for builders. No buzzword fluff, no boring corporate decks—just raw technical deep dives, live architectural debates, world-class keynotes, and the kind of hallway-track conversations where tomorrow’s projects are born. **What’s in it for your terminal & your brain?** 💡 **Zero-Day Knowledge…",
+   "first_seen": "2026-11-12T11:24:40.937494+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/ml-paper-club/events/317029227",
+   "title": "WIRELESS LINK SCHEDULING WITH GRAPH SIGNAL DIFFUSION",
+   "link": "https://www.meetup.com/ml-paper-club/events/317029227/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-12T14:30:00+02:00",
    "location": "Online",
-   "summary": "**📆 Date:** November 26, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online **💸 Free event** New to UXtweak, or curious what it can do for your research? Join us for a live workshop, where you choose what we explore. **What we'll cover:** * A quick introduction to UXtweak and how it fits into your UX research workflow * A tour of the main tools: usability testing, interviews, card sorting, tree testing, surveys, and more * A live, step-by-step study setup of the study of your choice, so you can see exactly how a study goes from idea to launch * Open Q&A: bring your questions and we'll answer them on the spot **By the end, you'll be able to:** * Choose the …",
-   "first_seen": "2026-11-12T00:47:43.572753+00:00"
+   "summary": "In this session, Maran will be presenting [WIRELESS LINK SCHEDULING WITH GRAPH SIGNAL DIFFUSION](https://arxiv.org/pdf/2611.08274) by Teresa Shang, Romina Garcia Camargo, Yigit Berkay Uslu, Alejandro Ribeiro. \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\- We discuss a different research paper every week. We post each week's paper in our [GitHub repo](https://github.com/nplan-io/ml_paper_club) \\- please read it before the meetup\\. All events will be hosted on a[ Google Meet ](meet.google.com/rxp-gsrg-xsi)video call. Occasionally we also host an in-person event in our London office - watch this space fo…",
+   "first_seen": "2026-11-12T11:24:40.937494+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/dot-net-liverpool/events/317371617",
+   "title": "Smarter Architecture: Orchestrating Workflows & AI-Driven Modernisation",
+   "link": "https://www.meetup.com/dot-net-liverpool/events/317371617/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-24T20:00:00+02:00",
+   "location": "Online",
+   "summary": "For our November meet-up, we will be welcoming Christopher Daly & Samson Nwizugbe **Samson Nwizugbe** \\- Process Managers\\, Not Process\\-Aware Aggregates: Coordinating Long\\-Running Workflows in DDD with Wolverine When a workflow spans several aggregates, the logic tends to end up in one of two bad places. Either it sits in a god-class orchestrator that knows too much about everything downstream, or it leaks into the aggregates themselves until they're tracking steps, waiting on other aggregates and making decisions that have nothing to do with their own invariants. This talk walks through using Wolverine's Saga support as a dedicated process manager. It reacts to domain events, tracks where…",
+   "first_seen": "2026-11-12T11:24:40.937494+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/data-centers-ependitiko-endiaferon-eos-10-dis-evro-stin-ellada-kai-i-maxi-gia-ilektriko-xoro",
+   "title": "Data centers: Επενδυτικό ενδιαφέρον έως 10 δισ. ευρώ στην Ελλάδα και η μάχη για ηλεκτρικό χώρο",
+   "link": "https://www.fortunegreece.com/article/data-centers-ependitiko-endiaferon-eos-10-dis-evro-stin-ellada-kai-i-maxi-gia-ilektriko-xoro/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Οι αιτήσεις σύνδεσης αγγίζουν τα 11 GW, ενώ τα έργα που λειτουργούν ή κατασκευάζονται αποτιμώνται σε περίπου 1 δισ. ευρώ. Τι προβλέπει το νομοσχέδιο για την αγορά ηλεκτρικής ενέργειας που ψηφίστηκε χθες στη Βουλή και ποιες αλλαγές ζητά ο κλάδος.",
+   "first_seen": "2026-11-12T11:24:40.937494+00:00"
+  },
+  {
+   "key": "url:https://businessvoice.gr/epicheiriseis/998479/gitex-global-2026-10-ellinikes-epicheiriseis-kai-organismoi-symmetechoun-sti-diethni-ekthesi",
+   "title": "GITEX GLOBAL 2026: 10 ελληνικές επιχειρήσεις και οργανισμοί συμμετέχουν στη διεθνή έκθεση",
+   "link": "https://businessvoice.gr/epicheiriseis/998479/gitex-global-2026-10-ellinikes-epicheiriseis-kai-organismoi-symmetechoun-sti-diethni-ekthesi/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "EMEA.gr",
+   "source_url": "https://www.emea.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Ο ΣΕΠΕ δίνει ώθηση στην εξωστρέφεια του εγχώριου ψηφιακού οικοσυστήματος",
+   "first_seen": "2026-11-12T11:04:24+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/news/285443/synechizontai-oi-synantiseis-tis-kyvernisis-me-tis-platformes-koinonikis-diktyosis",
+   "title": "Συνεχίζονται οι συναντήσεις της Κυβέρνησης με τις πλατφόρμες κοινωνικής δικτύωσης",
+   "link": "https://startupper.gr/news/285443/synechizontai-oi-synantiseis-tis-kyvernisis-me-tis-platformes-koinonikis-diktyosis/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Στόχος είναι οι πλατφόρμες να σχεδιάσουν και να παρουσιάσουν αξιόπιστους μηχανισμούς επαλήθευσης ηλικίας, τους οποίους θα εφαρμόσουν από την 1η Ιανουαρίου 2027 The post Συνεχίζονται οι συναντήσεις της Κυβέρνησης με τις πλατφόρμες κοινωνικής δικτύωσης appeared first on STARTUPPER .",
+   "first_seen": "2026-11-12T10:52:41+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/105274-2",
+   "title": "Η ελληνική τεχνολογία ανοίγει τα φτερά της στην GITEX GLOBAL 2026",
+   "link": "https://www.ictplus.gr/105274-2/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "10 ελληνικές επιχειρήσεις και οργανισμοί συμμετέχουν στη διεθνή έκθεση, με τον ΣΕΠΕ να δίνει ώθηση στην εξωστρέφεια του εγχώριου ψηφιακού οικοσυστήματος Το άρθρο Η ελληνική τεχνολογία ανοίγει τα φτερά της στην GITEX GLOBAL 2026 εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-11-12T10:44:40+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/news/285433/gitex-global-2026-me-10-etaireies-kai-ethniko-periptero-i-elliniki-technologia-apovivazetai-sto-ntoubai",
+   "title": "GITEX GLOBAL 2026: Με 10 εταιρείες και εθνικό περίπτερο η ελληνική τεχνολογία «αποβιβάζεται» στο Ντουμπάι",
+   "link": "https://startupper.gr/news/285433/gitex-global-2026-me-10-etaireies-kai-ethniko-periptero-i-elliniki-technologia-apovivazetai-sto-ntoubai/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Ο Σύνδεσμος Επιχειρήσεων Πληροφορικής και Επικοινωνιών Ελλάδας (ΣΕΠΕ) διοργανώνει για δεύτερη συνεχή χρονιά την εθνική συμμετοχή της Ελλάδας στην GITEX GLOBAL 2026, τη μεγαλύτερη διεθνή έκθεση τεχνολογίας και καινοτομίας, η οποία θα πραγματοποιηθεί στο Ντουμπάι από τις 8 έως τις 11 Δεκεμβρίου 2026. Η ελληνική παρουσία, με Εθνικό Περίπτερο 98 τ.μ., υλοποιείται με την υποστήριξη […] The post GITEX GLOBAL 2026: Με 10 εταιρείες και εθνικό περίπτερο η ελληνική τεχνολογία «αποβιβάζεται» στο Ντουμπάι appeared first on STARTUPPER .",
+   "first_seen": "2026-11-12T10:06:54+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/athens-ai-summit-2026-i-techniti-noimosyni-perna-stin-praxi-ti-allazei-sto-dimosio-tis-epicheiriseis-kai-tin-ergasia",
+   "title": "Athens AI Summit 2026: Η Τεχνητή Νοημοσύνη περνά στην πράξη – Τι αλλάζει στο Δημόσιο, τις επιχειρήσεις και την εργασία",
+   "link": "https://www.ictplus.gr/athens-ai-summit-2026-i-techniti-noimosyni-perna-stin-praxi-ti-allazei-sto-dimosio-tis-epicheiriseis-kai-tin-ergasia/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Από τον ψηφιακό βοηθό που θα συγκεντρώνει αυτόματα τα δικαιολογητικά των πολιτών έως τον υπερυπολογιστή «Δαίδαλος» και την αυτοματοποίηση επιχειρησιακών διαδικασιών. Τα επόμενα βήματα της AI στην Ελλάδα, οι 50 δράσεις που παρουσιάστηκαν στον ΟΟΣΑ και οι προκλήσεις για την αγορά εργασίας και την ασφάλεια των δεδομένων Το άρθρο Athens AI Summit 2026: Η Τεχνητή Νοημοσύνη περνά στην πράξη – Τι αλλάζει στο Δημόσιο, τις επιχειρήσεις και την εργασία εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-11-12T09:49:02+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/athens-ai-summit-ta-prota-syberasmata-gia-ti-stratigiki-tis-technitis-noimosynis-stis-epicheiriseis-kai-ston-dimosio-tomea",
+   "title": "ATHENS AI SUMMIT: Τα πρώτα συμπεράσματα για τη στρατηγική της Τεχνητής Νοημοσύνης στις Επιχειρήσεις και στον Δημόσιο τομέα",
+   "link": "https://www.ictplus.gr/athens-ai-summit-ta-prota-syberasmata-gia-ti-stratigiki-tis-technitis-noimosynis-stis-epicheiriseis-kai-ston-dimosio-tomea/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Το Συνέδριο ATHENS AI SUMMIT θέτει στο επίκεντρο ένα από τα σημαντικότερα ζητήματα της επόμενης ημέρας για την ελληνική οικονομία και τη δημόσια διοίκηση: τη μετάβαση της Τεχνητής Νοημοσύνης από τη στρατηγική και τον τεχνολογικό πειραματισμό στην πραγματική παραγωγική αξιοποίηση. Με κεντρικό μήνυμα «AI: Από τη Στρατηγική στην Παραγωγική Λειτουργία», το συνέδριο αναδεικνύει ότι η […] Το άρθρο ATHENS AI SUMMIT: Τα πρώτα συμπεράσματα για τη στρατηγική της Τεχνητής Νοημοσύνης στις Επιχειρήσεις και στον Δημόσιο τομέα εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-11-12T08:00:24+00:00"
+  },
+  {
+   "key": "url:https://netweek.gr/to-mellon-ton-psifiakon-chrimatooikonomikon-ypiresion-irthe",
+   "title": "Το μέλλον των ψηφιακών χρηματοοικονομικών υπηρεσιών ήρθε",
+   "link": "https://netweek.gr/to-mellon-ton-psifiakon-chrimatooikonomikon-ypiresion-irthe/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "Netweek",
+   "source_url": "https://www.netweek.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Το Open Banking οδεύει γοργά προς το Open Finance, με συνέπεια οι χρηματοοικονομικές υπηρεσίες να ενσωματώνονται σε ολοένα περισσότερες ψηφιακές εμπειρίες, δημιουργώντας νέες δυνατότητες και νέες απαιτήσεις σε επίπεδο τεχνολογίας, ασφάλειας, δεδομένων και συνεργασιών.",
+   "first_seen": "2026-11-12T06:38:32+00:00"
+  },
+  {
+   "key": "url:https://netweek.gr/voice-logica-pos-einai-o-idanikos-ai-voice-agent",
+   "title": "Voice Logica: Πώς είναι ο ιδανικός AI Voice Agent;",
+   "link": "https://netweek.gr/voice-logica-pos-einai-o-idanikos-ai-voice-agent/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "Netweek",
+   "source_url": "https://www.netweek.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Ο Χρήστος Μελισσουργός, Founder & CTO της Voice Logica, εξηγεί πώς οι AI Voice Agents περνούν από την απλή συνομιλία στην εκτέλεση πραγματικών εργασιών, πώς μαθαίνουν από τους ανθρώπους και γιατί η αξιοπιστία τους δεν κρίνεται μόνο από όσα λένε, αλλά κυρίως από όσα κάνουν.",
+   "first_seen": "2026-11-12T06:36:46+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/news/285387/gov-gr-o-chartis-ton-allagon-apo-to-2027-kai-ta-dikaiologitika-pou-katargountai",
+   "title": "Gov.gr: Ο χάρτης των αλλαγών από το 2027 και τα δικαιολογητικά που καταργούνται",
+   "link": "https://startupper.gr/news/285387/gov-gr-o-chartis-ton-allagon-apo-to-2027-kai-ta-dikaiologitika-pou-katargountai/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Ο υπουργός Ψηφιακής Διακυβέρνησης και Τεχνητής Νοημοσύνης, Δημήτρης Παπαστεργίου, παρουσίασε τον οδικό χάρτη του gov.gr για τις αρχές του 2027, όπου οι δημόσιες υπηρεσίες θα αντλούν μόνες τους τα δικαιολογητικά με ένα κλικ συναίνεσης The post Gov.gr: Ο χάρτης των αλλαγών από το 2027 και τα δικαιολογητικά που καταργούνται appeared first on STARTUPPER .",
+   "first_seen": "2026-11-12T06:05:40+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/mitsotakis-i-ellada-diekdikei-rolo-ependitikou-komvou-se-evropi-mesogeio-kai-mesi-anatoli",
@@ -29,32 +185,6 @@
    "first_seen": "2026-11-11T21:47:05+00:00"
   },
   {
-   "key": "url:https://insider.gr/politiki/432418/mitsotakis-i-ellada-einai-mia-hora-poy-prosferei-monadikes-prooptikes-gia",
-   "title": "Μητσοτάκης: Η Ελλάδα είναι μία χώρα που προσφέρει μοναδικές προοπτικές για θεσμικούς επενδυτές",
-   "link": "https://www.insider.gr/politiki/432418/mitsotakis-i-ellada-einai-mia-hora-poy-prosferei-monadikes-prooptikes-gia",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Ο πρωθυπουργός μίλησε το απόγευμα στην ετήσια συνάντηση του Διεθνούς Φόρουμ κρατικών επενδυτικών ταμ...",
-   "first_seen": "2026-11-11T19:06:21+00:00"
-  },
-  {
-   "key": "url:https://businessdaily.gr/politiki/243113_mitsotakis-i-ellada-prosferei-monadikes-prooptikes-gia-thesmikoys-ependytes",
-   "title": "Μητσοτάκης: Η Ελλάδα προσφέρει μοναδικές ευκαιρίες για επενδυτές",
-   "link": "https://www.businessdaily.gr/politiki/243113_mitsotakis-i-ellada-prosferei-monadikes-prooptikes-gia-thesmikoys-ependytes?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Ο πρωθυπουργός στην ετήσια συνάντηση του Διεθνούς Φόρουμ επενδυτικών ταμείων στην Αθήνα τόνισε τις μοναδικές προοπτικές της Ελλάδας για θεσμικούς...",
-   "first_seen": "2026-11-11T18:32:36+00:00"
-  },
-  {
    "key": "url:https://techmaniacs.gr/deep-tempest-hdmi-electromagnetic-leak",
    "title": "Το καλώδιο που μπορεί να αποκαλύψει όσα εμφανίζονται στην οθόνη σου",
    "link": "https://techmaniacs.gr/deep-tempest-hdmi-electromagnetic-leak/",
@@ -68,19 +198,6 @@
    "first_seen": "2026-11-11T18:24:36+00:00"
   },
   {
-   "key": "url:https://businessvoice.gr/top-stories/998343/i-byd-parousiase-tin-technologia-flash-charging-me-robotiki-fortisi",
-   "title": "Η BYD παρουσίασε την τεχνολογία FLASH Charging με ρομποτική φόρτιση",
-   "link": "https://businessvoice.gr/top-stories/998343/i-byd-parousiase-tin-technologia-flash-charging-me-robotiki-fortisi/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το σύστημα συνδυάζει την αξιοποίηση ανανεώσιμων πηγών ενέργειας με την εξαιρετικά ταχεία φόρτιση και τις τεχνολογίες αυτοματισμού οχημάτων, προσφέροντας μια νέα εμπειρία φόρτισης.",
-   "first_seen": "2026-11-11T18:00:28+00:00"
-  },
-  {
    "key": "url:https://fortunegreece.com/article/dipa-dorean-ergastiria-gia-evresi-ergasias-kai-epixeirimatikotita-stin-athina-pote-pragmatopoieitai-to-jobready",
    "title": "ΔΥΠΑ: Δωρεάν εργαστήρια για εύρεση εργασίας και επιχειρηματικότητα στην Αθήνα – Πότε πραγματοποιείται το JobReady",
    "link": "https://www.fortunegreece.com/article/dipa-dorean-ergastiria-gia-evresi-ergasias-kai-epixeirimatikotita-stin-athina-pote-pragmatopoieitai-to-jobready/",
@@ -92,19 +209,6 @@
    "location": "",
    "summary": "Το Σάββατο 14 Νοεμβρίου επιστρέφει στην Αθήνα το «JobReady by DYPA», με δωρεάν εργαστήρια για βιογραφικά, συνεντεύξεις εργασίας, επαγγελματικές δεξιότητες και επιχειρηματικότητα. Η εκδήλωση θα πραγματοποιηθεί στο Divani Caravel Hotel, με τη συμμετοχή στελεχών HR και συμβούλων σταδιοδρομίας.",
    "first_seen": "2026-11-11T17:13:25.492789+00:00"
-  },
-  {
-   "key": "url:https://insider.gr/oikonomia/432379/komision-neoi-kanones-gia-tin-prostasia-ton-katanaloton-stin-psifiaki-epohi",
-   "title": "Κομισιόν: Νέοι κανόνες για την προστασία των καταναλωτών στην ψηφιακή εποχή",
-   "link": "https://www.insider.gr/oikonomia/432379/komision-neoi-kanones-gia-tin-prostasia-ton-katanaloton-stin-psifiaki-epohi",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Η Κομισιόν παρουσίασε σήμερα την πρότασή της για μια Πράξη για την Ψηφιακή Δικαιοσύνη (DFA), μια σημ...",
-   "first_seen": "2026-11-11T14:41:28+00:00"
   },
   {
    "key": "url:https://techblog.gr/mobile/one-ui-9-5-ta-galaxy-isos-grafoun-kliseis-whatsapp-kai-telegram",
@@ -157,32 +261,6 @@
    "location": "",
    "summary": "Η διοίκηση της εταιρείας πραγματοποίησε συναντήσεις με θεσμικούς επενδυτές και εκπροσώπους της επενδυτικής κοινότητας, κατά τις οποίες παρουσίασε την πορεία και τις δραστηριότητες του ομίλου.",
    "first_seen": "2026-11-11T10:58:54+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/news/285267/urban-futures-2026-sti-lefkosia-to-synedrio-gia-to-mellon-tis-kinitikotitas-se-ellada-kypro-kai-valkania",
-   "title": "Urban Futures 2026: Στη Λευκωσία το συνέδριο για το μέλλον της κινητικότητας σε Ελλάδα, Κύπρο και Βαλκάνια",
-   "link": "https://startupper.gr/news/285267/urban-futures-2026-sti-lefkosia-to-synedrio-gia-to-mellon-tis-kinitikotitas-se-ellada-kypro-kai-valkania/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Το SocialTech Lab, με την υποστήριξη του EIT Urban Mobility, συγκεντρώνει στις 26–27 Νοεμβρίου 2026 στο ARTos House κορυφαίους φορείς και startups από την Ελλάδα, την Κύπρο, την Τουρκία και τα Δυτικά Βαλκάνια The post Urban Futures 2026: Στη Λευκωσία το συνέδριο για το μέλλον της κινητικότητας σε Ελλάδα, Κύπρο και Βαλκάνια appeared first on STARTUPPER .",
-   "first_seen": "2026-11-11T10:06:04+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/news/285254/startup-universe-greece-2026-anoigoun-oi-aitiseis-gia-to-dorean-online-programma-ekpaidefsis-kai-mentoring-startups",
-   "title": "Startup Universe Greece 2026: Ανοίγουν οι αιτήσεις για το δωρεάν online πρόγραμμα εκπαίδευσης και mentoring startups",
-   "link": "https://startupper.gr/news/285254/startup-universe-greece-2026-anoigoun-oi-aitiseis-gia-to-dorean-online-programma-ekpaidefsis-kai-mentoring-startups/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Το Startup Universe Greece επιστρέφει από τις 23 Νοεμβρίου έως τις 19 Δεκεμβρίου 2026, προσφέροντας εντελώς δωρεάν webinars, πρακτικά workshops, 1-on-1 mentoring και στοχευμένα office hours με έμπειρα στελέχη της αγοράς The post Startup Universe Greece 2026: Ανοίγουν οι αιτήσεις για το δωρεάν online πρόγραμμα εκπαίδευσης και mentoring startups appeared first on STARTUPPER .",
-   "first_seen": "2026-11-11T09:42:14+00:00"
   },
   {
    "key": "url:https://techgear.gr/instagram-effect-builder-dimioyrgia-custom-ai-filtron-meso-grapton-entolon-51295",
@@ -263,19 +341,6 @@
    "first_seen": "2026-11-10T21:19:57.777814+00:00"
   },
   {
-   "key": "url:https://meetup.com/aws-user-group-krakow/events/317102231",
-   "title": "AWS User Group KRK meetup #78 with Remitly",
-   "link": "https://www.meetup.com/aws-user-group-krakow/events/317102231/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-26T19:00:00+02:00",
-   "location": "Online",
-   "summary": "AWS meetup is back with a new chapter. Mark your calendar and stay in the loop for more info. 🗓 **Save the Date** **🍔** + 🍺 = Let's gather around appetizers and beverages at **Remitly** or Watch the stream on YouTube ([link](https://youtube.com/live/frkPeVh7TZs)) Hosted by: **Maciej Lelusz**, AWS Hero AWS Community Builders: **Maria Kmita & Paweł Kusiński** 🎤 **Speakers**: 〰️ **Marek Szlagor**, Staff Infrastructure Engineer at Remitly *From 1 to N: Splitting a Monolith EKS Cluster Without Breaking Production* 〰️ **Pawel Zapior,** Security Engineer at Remitly *Beyond Static Linting: Context-Aware IAM Change Evaluation in AWS* 💡 Details about Speakers & Talks💡 **Marek Szlagor:** Staff Infrastr…",
-   "first_seen": "2026-11-10T21:19:57.777814+00:00"
-  },
-  {
    "key": "url:https://fortunegreece.com/article/wall-street-i-politiki-anatropi-pou-klonizei-to-ependitiko-afigima-tis-texnitis-noimosinis",
    "title": "Wall Street: Η πολιτική ανατροπή που κλονίζει το επενδυτικό αφήγημα της τεχνητής νοημοσύνης",
    "link": "https://www.fortunegreece.com/article/wall-street-i-politiki-anatropi-pou-klonizei-to-ependitiko-afigima-tis-texnitis-noimosinis/",
@@ -287,19 +352,6 @@
    "location": "",
    "summary": "Τα αποτελέσματα των ενδιάμεσν εκλογών στις ΗΠΑ αναζωπύρωσαν τις ανησυχίες για την ανάπτυξη των data centers και το κόστος των επενδύσεων στην AI. Hedge funds και μικροεπενδυτές περιόρισαν την έκθεσή τους, ενώ οι αγορές αναζητούν απαντήσεις για το αν η πτώση αποτελεί προσωρινή διόρθωση ή προάγγελο ευρύτερης αναθεώρησης των αποτιμήσεων.",
    "first_seen": "2026-11-10T21:19:57.777814+00:00"
-  },
-  {
-   "key": "url:https://techblog.gr/howto/mythermansi-i-aitisi-gia-epidoma-eos-1-560-e-se-8-vimata-apo-to-myaade",
-   "title": "myΘέρμανση: Η αίτηση για επίδομα έως 1.560 € σε 8 βήματα από το myAADE",
-   "link": "https://techblog.gr/howto/mythermansi-i-aitisi-gia-epidoma-eos-1-560-e-se-8-vimata-apo-to-myaade/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techblog",
-   "source_url": "https://techblog.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι αιτήσεις για το επίδομα θέρμανσης 2026-2027 γίνονται στο myΘέρμανση της ΑΑΔΕ από τις 10 Νοεμβρίου έως τις 4 Δεκεμβρίου 2026. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( myΘέρμανση: Η αίτηση για επίδομα έως 1.560 € σε 8 βήματα από το myAADE )",
-   "first_seen": "2026-11-10T20:31:00+00:00"
   },
   {
    "key": "url:https://techgear.gr/i-anthropic-mpainei-sto-chrimatistirio-me-stocho-to-1-4-trisekatommyria-dolaria-51284",
@@ -315,19 +367,6 @@
    "first_seen": "2026-11-10T18:25:00+00:00"
   },
   {
-   "key": "url:https://techblog.gr/software/claude-fable-5-2-kai-mythos-5-2-i-anthropic-parousiase-dyo-nea-montela-ai",
-   "title": "Claude Fable 5.2 και Mythos 5.2: Η Anthropic παρουσίασε δύο νέα μοντέλα AI",
-   "link": "https://techblog.gr/software/claude-fable-5-2-kai-mythos-5-2-i-anthropic-parousiase-dyo-nea-montela-ai/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techblog",
-   "source_url": "https://techblog.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Anthropic παρουσίασε τα Claude Fable 5.2 και Mythos 5.2. Το Fable 5.2 είναι διαθέσιμο, το Mythos μόνο σε ελεγμένους οργανισμούς. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Claude Fable 5.2 και Mythos 5.2: Η Anthropic παρουσίασε δύο νέα μοντέλα AI )",
-   "first_seen": "2026-11-10T17:30:18+00:00"
-  },
-  {
    "key": "url:https://fortunegreece.com/article/anthropic-sto-xrimatistirio-me-apotimisi-eos-14-tris-dolaria-ipo-mamouth-eos-644-dis-dolarion",
    "title": "Anthropic: Στο Χρηματιστήριο με αποτίμηση έως 1,4 τρισ. δολάρια – IPO-μαμούθ έως 64,4 δισ. δολαρίων",
    "link": "https://www.fortunegreece.com/article/anthropic-sto-xrimatistirio-me-apotimisi-eos-14-tris-dolaria-ipo-mamouth-eos-644-dis-dolarion/",
@@ -339,19 +378,6 @@
    "location": "",
    "summary": "Η δημιουργός του Claude ετοιμάζεται για μία από τις μεγαλύτερες δημόσιες εγγραφές στην ιστορία της Wall Street, με τιμή διάθεσης 70–78 δολάρια ανά μετοχή και στόχο την εισαγωγή στον Nasdaq στις 19 Νοεμβρίου. Παρά την εκρηκτική αύξηση των εσόδων της, οι τεράστιες ζημιές και οι ανησυχίες για το κόστος της τεχνητής νοημοσύνης δοκιμάζουν το επενδυτικό ενδιαφέρον.",
    "first_seen": "2026-11-10T17:08:56+00:00"
-  },
-  {
-   "key": "url:https://techblog.gr/computers/amd-sfalma-se-voithitiko-programma-ton-driver-grafei-astamatita-ston-ssd",
-   "title": "AMD: Σφάλμα σε βοηθητικό πρόγραμμα των driver γράφει ασταμάτητα στον SSD",
-   "link": "https://techblog.gr/computers/amd-sfalma-se-voithitiko-programma-ton-driver-grafei-astamatita-ston-ssd/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techblog",
-   "source_url": "https://techblog.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "AMD driver SSD: το External Events Utility γράφει συνεχώς στον δίσκο, έως 1,5 MB/s κατά χρήστες. Δύο προσωρινές λύσεις μέχρι να βγει διόρθωση. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( AMD: Σφάλμα σε βοηθητικό πρόγραμμα των driver γράφει ασταμάτητα στον SSD )",
-   "first_seen": "2026-11-10T16:00:41+00:00"
   },
   {
    "key": "url:https://meetup.com/dotnet-greece/events/317312916",
@@ -385,8 +411,8 @@
    "link": "https://www.meetup.com/service-designers-connect/events/313924054/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-11-19T20:30:00+02:00",
    "location": "Online",
    "summary": "**What’s this session about?** Over the past decade, a quiet shift has happened. As research moved online, creativity got left behind. Semi-structured interviews became the default, and with them, we lost the richness and diversity of methods that help us uncover what people *really* think, feel, and do. Becky Mallaband and Rebecca Partridge are on a mission to change that. In this session, they'll share how a more creative approach to research (both in person and online) can help you go deeper, surface tacit knowledge, and get far more valuable insights from every session you run. After attending this session, you'll leave with: 1. A clearer understanding of the different levels of knowledg…",
@@ -497,71 +523,6 @@
    "first_seen": "2026-11-09T20:32:00+00:00"
   },
   {
-   "key": "url:https://fortunegreece.com/article/google-dievrinei-ti-seira-tsip-texnitis-noimosinis-kai-antagonizetai-ti-nvidia",
-   "title": "Google: Διευρύνει τη σειρά τσιπ τεχνητής νοημοσύνης και ανταγωνίζεται τη Nvidia",
-   "link": "https://www.fortunegreece.com/article/google-dievrinei-ti-seira-tsip-texnitis-noimosinis-kai-antagonizetai-ti-nvidia/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Google παρουσίασε δύο νέες εκδοχές των τσιπ TPU, με στόχο να καλύψει εξειδικευμένες ανάγκες τεχνητής νοημοσύνης και να ενισχύσει τη θέση της στην αγορά υποδομών AI.",
-   "first_seen": "2026-11-09T19:52:28.382067+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/nvidia-i-kina-aporriptei-tis-katigories-gia-kataskopeia-se-varos-tou-tzensen-xouangk-ti-apanta-to-pekino",
-   "title": "Nvidia: Η Κίνα απορρίπτει τις κατηγορίες για κατασκοπεία σε βάρος του Τζένσεν Χουάνγκ – Τι απαντά το Πεκίνο",
-   "link": "https://www.fortunegreece.com/article/nvidia-i-kina-aporriptei-tis-katigories-gia-kataskopeia-se-varos-tou-tzensen-xouangk-ti-apanta-to-pekino/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Για «αβάσιμες συκοφαντίες» κάνει λόγο η Κίνα, απορρίπτοντας τις καταγγελίες ότι επιχείρησε να συλλέξει απόρρητες πληροφορίες μέσω γυναίκας που διατηρούσε προσωπική σχέση με τον επικεφαλής της Nvidia. Η υπόθεση έχει προκαλέσει ανεξάρτητη έρευνα από την εταιρεία και την παρέμβαση του αμερικανικού Κογκρέσου, ενώ η μετοχή του τεχνολογικού κολοσσού δέχθηκε πιέσεις στις προσυνεδριακές συναλλαγές.",
-   "first_seen": "2026-11-09T14:17:10+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/e-efka-apo-simera-ilektronika-oi-aitiseis-gia-sintaxi-logo-thanatou-sto-dimosio-ta-vimata",
-   "title": "e-ΕΦΚΑ: Από σήμερα ηλεκτρονικά οι αιτήσεις για σύνταξη λόγω θανάτου στο Δημόσιο – Τα βήματα",
-   "link": "https://www.fortunegreece.com/article/e-efka-apo-simera-ilektronika-oi-aitiseis-gia-sintaxi-logo-thanatou-sto-dimosio-ta-vimata/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Αποκλειστικά μέσω διαδικτύου υποβάλλονται από τη Δευτέρα 9 Νοεμβρίου οι αιτήσεις συνταξιοδότησης λόγω θανάτου ασφαλισμένου του Δημοσίου, καθώς τίθεται σε εφαρμογή η νέα ψηφιακή διαδικασία του e-ΕΦΚΑ. Η αλλαγή αφορά κύριες και επικουρικές συντάξεις, εφάπαξ παροχές και το Μετοχικό Ταμείο Πολιτικών Υπαλλήλων, με στόχο τη μείωση της γραφειοκρατίας και την ταχύτερη εξυπηρέτηση των δικαιούχων.",
-   "first_seen": "2026-11-09T12:15:03+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/to-mistiko-ergastirio-tis-anthropic-ai-ekpaidevei-nea-ai-me-ilingiodi-taxitita",
-   "title": "Το «μυστικό εργαστήριο» της Anthropic: AI εκπαιδεύει νέα AI με ιλιγγιώδη ταχύτητα",
-   "link": "https://www.fortunegreece.com/article/to-mistiko-ergastirio-tis-anthropic-ai-ekpaidevei-nea-ai-me-ilingiodi-taxitita/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι αποκαλύψεις της METR για τρία απόρρητα μοντέλα και η λογοκρισία στοιχείων κινδύνου».",
-   "first_seen": "2026-11-09T10:48:45+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/to-25-ton-xriston-smartphones-stin-ellada-tha-xrisimopoiei-ai-agents-eos-to-2030",
-   "title": "Το 25% των χρηστών smartphones στην Ελλάδα θα χρησιμοποιεί AI agents έως το 2030",
-   "link": "https://www.fortunegreece.com/article/to-25-ton-xriston-smartphones-stin-ellada-tha-xrisimopoiei-ai-agents-eos-to-2030/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η έρευνα της Ericsson ConsumerLab καταγράφει την αύξηση της καθημερινής χρήσης της τεχνητής νοημοσύνης, τις νέες απαιτήσεις για τα τηλεπικοινωνιακά δίκτυα και τις ανησυχίες για την ασφάλεια των ψηφιακών βοηθών.",
-   "first_seen": "2026-11-09T09:29:34+00:00"
-  },
-  {
    "key": "url:https://meetup.com/luxembourg-vibe-coding-meetup-group/events/317009427",
    "title": "Live: Breaking an AI-Built App in 30 Minutes — for CTOs and Founders",
    "link": "https://www.meetup.com/luxembourg-vibe-coding-meetup-group/events/317009427/",
@@ -598,19 +559,6 @@
    "starts": "2026-11-26T18:00:00+02:00",
    "location": "The Snappi Hub, Korai 5, Athina 105 64, Greece, Athina, Athina",
    "summary": "### ***Registration — Limited Seating Capacity*** Due to limited seating capacity, please complete the registration form to secure your spot. Seats will be confirmed by email, subject to availability. **[Registration Form — [https://forms.gle/PgorJATqKBA48VEW7](https://forms.gle/PgorJATqKBA48VEW7)]** Dear Agileans, Since 2013, Agile Greece has brought together people *from the trenches*. Practitioners sharing real experiences, lessons learned, and practical knowledge about how organizations can evolve. Today, we believe it's time for another important conversation. **AI agents are no longer just tools. They're becoming part of how organizations work.** But what does that really mean for our …",
-   "first_seen": "2026-11-08T10:29:27.370401+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/d-c_powerbi/events/316998859",
-   "title": "What can you do with a DAX query? | Zoe Douglas",
-   "link": "https://www.meetup.com/d-c_powerbi/events/316998859/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-12-01T20:00:00+02:00",
-   "location": "Online",
-   "summary": "**What can you do with a DAX query? \\| Zoe Douglas** Power BI has a query language to get data out of the semantic model -- the DAX query. This is different from DAX formulas you find in calculated columns, tables, and measures. With DAX query view you can quickly use this to understand your data, try out new formulas, and troubleshoot formulas you already have. If you were ever curious about what a DAX query was or want to know more, come and find out! **Zoe Douglas, Product Manager at Microsoft** I am a product manager for Power BI at Microsoft. I focus on unlocking awesome features for visuals and dedicated to helping all customers get the most out of their data!",
    "first_seen": "2026-11-08T10:29:27.370401+00:00"
   },
   {
@@ -651,19 +599,6 @@
    "location": "Online",
    "summary": "## What you'll learn * **Get answers you can use, actually** See why AI gives incorrect answers, practise habits that make its responses more useful. No \"the AI lied to me\" again. * **Pick the right AI for the job** Compare ChatGPT, Claude, Gemini and Copilot for writing, research, images and fact-checking. * **Hand AI part of your everyday work** Emails, documents, meeting prep: see live what AI can take off your desk this week, and what still needs your judgement. * **Bring your team along, safely** Start AI with colleagues, your team: what never to share, shared rules, why people who learn together keep using it. ## Why this topic matters AI tools can help with everyday work, but useful r…",
    "first_seen": "2026-11-06T06:55:40.982825+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/bucharest-xdevops-meetup-group/events/316850587",
-   "title": "AI for DevOps & SRE: From Impressive Demos to Operational Trust",
-   "link": "https://www.meetup.com/bucharest-xdevops-meetup-group/events/316850587/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-13T21:00:00+02:00",
-   "location": "Online",
-   "summary": "AI for DevOps & SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…",
-   "first_seen": "2026-11-05T23:41:04.618908+00:00"
   },
   {
    "key": "url:https://meetup.com/ai-for-devs-athens/events/317254871",
@@ -742,6 +677,19 @@
    "location": "Kifisias 18 & Gkizi, Marousi, Greece, Kifisias 18 & Gkizi, Marousi, Greece, Athens, Athens",
    "summary": "Join us on our **6th Leaddev Athens Meetup** for an evening of ⚡ lightning talks, leadership insights, and relaxed networking — hosted at **Allwyn Lottery Solutions** offices. ⚠️ Space is limited — RSVP is required to attend. 🏠Venue Host: **Allwyn Lottery Solutions** 🍕Catering: Pizzas and soft drinks 📝Agenda • 18:15 \\- 19:00 \\| Pre\\-Session Bookclub: \"Build High Value Software Systems: How to eliminate waste across the software delivery lifecycle\" * Panagiotis\\-Christos Kyrmpatsos \\| Software Engineer in Research at Orfium • 19:00 \\- 19:15 \\| Welcome by the meetup host • 19:15 \\- 20:00 \\| Fireside Chat Panel: \"The state of the tech industry in 2026\" * Archontellis\\-Rafail Sotirchellis \\| Ass…",
    "first_seen": "2026-11-02T11:19:33.609659+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/the-online-ai-skills-builder-community/events/317161330",
+   "title": "7 Practical Ways to Generate Passive Income with AI",
+   "link": "https://www.meetup.com/the-online-ai-skills-builder-community/events/317161330/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-12T21:30:00+02:00",
+   "location": "Online",
+   "summary": "[⏰ ](https://newfuturepublish--clientsandconsulting.thrivecart.com/7-ways-to-monetise-ai/)**[Click here to register your place now](https://newfuturepublish--clientsandconsulting.thrivecart.com/7-ways-to-monetise-ai/)**[ ✨](https://newfuturepublish--clientsandconsulting.thrivecart.com/7-ways-to-monetise-ai/) 💡 **Free Workshop: 7 Proven Ways To Generate Passive Income With A.I.** Most people know AI is changing how we work. Far fewer know exactly how to use it to create a realistic, sustainable income from home. This free, one-hour workshop clarifies that possibility with practical guidance you can actually use. In one session you will discover: ✅ The 7 most accessible ways to monetise AI tod…",
+   "first_seen": "2026-11-01T06:16:39.780364+00:00"
   },
   {
    "key": "url:https://meetup.com/epic-studios-tech-talks/events/317142578",
