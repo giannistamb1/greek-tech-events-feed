@@ -1,136 +1,71 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-12T20:00:18.247254+00:00",
+ "built": "2026-11-13T01:53:02.483123+00:00",
  "items": [
   {
-   "key": "url:https://eventbrite.ca/e/hxos-eikona-show-2026-tickets-2003166067632",
-   "title": "HXOS EIKONA SHOW 2026",
-   "link": "https://www.eventbrite.ca/e/hxos-eikona-show-2026-tickets-2003166067632",
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317209034",
+   "title": "🌙Thuersday social night|Meet new people in Athens@ Mint Bar 🔥",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317209034/",
    "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Greece science & tech",
-   "source_url": "https://www.eventbrite.com/d/greece/science-and-tech--events/",
-   "starts": "2026-11-21T00:00:00+02:00",
-   "location": "Wyndham Grand Athens, 2 Megalou Alexandrou, Athina",
-   "summary": "HXOS EIKONA SHOW 2026: Hi-Fi, home cinema, OLED & live demos. 21-22 Νοεμβρίου, Wyndham Grand Athens. Δωρεάν είσοδος με πρόσκληση!",
-   "first_seen": "2026-11-12T20:00:18.247254+00:00"
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-19T20:30:00+02:00",
+   "location": "Mint Music bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) 🤍 A new season of meeting people starts here. Coming alone? New in Athens? Shy or a little introverted? You’re exactly who we want to welcome. ✨ Every Thursday, we meet at Mint Bar for a relaxed social night where you can come alone, meet new people, and feel comfortable from the moment you arrive. No need to bring friends. No need to be super outgoing. Just come as you are. 🫶 🌍 Locals • Travellers • Expats • Couples • Friends • Solo people Everyone is welcome. Come for good conversati…",
+   "first_seen": "2026-11-13T01:53:02.483123+00:00"
   },
   {
-   "key": "url:https://eventbrite.com/e/o-m-arduino-registration-2004757382297",
-   "title": "O Mαγικός Κόσμος του Arduino",
-   "link": "https://www.eventbrite.com/e/o-m-arduino-registration-2004757382297",
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317209033",
+   "title": "🌙 Thursday Social Night | Meet New People in Athens@Mint bar",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317209033/",
    "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Greece science & tech",
-   "source_url": "https://www.eventbrite.com/d/greece/science-and-tech--events/",
-   "starts": "2026-11-28T00:00:00+02:00",
-   "location": "JOIST Innovation Space Ioannina, 1 Leoforos Konstantinoupoleos, Ioannina",
-   "summary": "Εργαστήριο Arduino για παιδιά 10-13 ετών στα Ιωάννινα! Μια δημιουργική εμπειρία με ηλεκτρονικά κυκλώματα, πειραματισμό και προγραμματισμό.",
-   "first_seen": "2026-11-12T20:00:18.247254+00:00"
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-19T20:30:00+02:00",
+   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) 🤍 A new season of meeting people starts here. Coming alone? New in Athens? Shy or a little introverted? You’re exactly who we want to welcome. ✨ Every Thursday, we meet at Mint Bar for a relaxed social night where you can come alone, meet new people, and feel comfortable from the moment you arrive. No need to bring friends. No need to be super outgoing. Just come as you are. 🫶 🌍 Locals • Travellers • Expats • Couples • Friends • Solo people Everyone is welcome. Come for good conversati…",
+   "first_seen": "2026-11-13T01:53:02.483123+00:00"
   },
   {
-   "key": "url:https://eventbrite.com/e/1993436249484",
-   "title": "ΑΝΙΧΝΕΥΤΕΣ ΤΗΣ ΤΕΧΝΗΣ ΤΟΥ ΔΙΑΣΤΗΜΑΤΟΣ",
-   "link": "https://www.eventbrite.com/e/1993436249484",
+   "key": "url:https://meetup.com/umbraco-virtual/events/316959484",
+   "title": "Umbraco Builders Day",
+   "link": "https://www.meetup.com/umbraco-virtual/events/316959484/",
    "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Greece science & tech",
-   "source_url": "https://www.eventbrite.com/d/greece/science-and-tech--events/",
-   "starts": "2026-11-19T00:00:00+02:00",
-   "location": "NCSR Demokritos, Patriarchou Grigoriou E, Agia Paraskevi",
-   "summary": "90’ ΔΗΜΙΟΥΡΓΙΚΗ ΔΡΑΣΗ ΟΠΟΥ ΕΠΙΣΤΗΜΗ ΚΑΙ ΤΕΧΝΗ ΣΥΝΔΥΑΖΟΝΤΑΙ ΓΙΑ ΝΑ ΑΝΑΚΑΛΥΨΟΥΜΕ ΤΟ ΑΟΡΑΤΟ ΣΥΜΠΑΝ – ΚΑΘΕ ΠΕΜΠΤΗ, ΓΙΑ ΜΑΘΗΤΕΣ Γ’-Ε’ ΔΗΜΟΤΙΚΟΥ.",
-   "first_seen": "2026-11-12T20:00:18.247254+00:00"
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-13T11:00:00+02:00",
+   "location": "Online",
+   "summary": "Umbraco Builders Day brings Umbraco community and HQ folks together for a relaxed day of building - helping each other shape ideas, get unstuck and find people to team up with. Regulars will know it as our virtual hackathon (new name, same friendly faces!), and if you’ve never been to one, it’s the perfect first event. Hack together on anything that extends or uses an Umbraco product. Bring an idea, find collaborators, build something. Drop in and out whenever you like. Come for an hour or stay all day, it’s completely up to you. **What to expect** * A relaxed day of building. No pitches, no judges, no pressure. * Umbraco HQ people around all day to help or point you to the right person. * O…",
+   "first_seen": "2026-11-13T01:53:02.483123+00:00"
   },
   {
-   "key": "url:https://eventbrite.com/e/2004163625354",
-   "title": "Κυκλική Οικονομία Μονόδρομος για την βιώσιμη ανάπτυξη",
-   "link": "https://www.eventbrite.com/e/2004163625354",
+   "key": "url:https://meetup.com/wpninjasdk/events/317220369",
+   "title": "Workplace Ninjas Denmark - November 2026",
+   "link": "https://www.meetup.com/wpninjasdk/events/317220369/",
    "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Greece science & tech",
-   "source_url": "https://www.eventbrite.com/d/greece/science-and-tech--events/",
-   "starts": "2026-11-20T00:00:00+02:00",
-   "location": "Νέο Λιμάνι Πάτρας, Αίθουσα Ερασμία Κάνιστρα, Ακτή Δυμαίων, Πάτρα",
-   "summary": "Μέσα από case studies & επιτυχημένων καλών πρακτικών αναδεικνύουμε τη σημασία της κυκλικής οικονομίας ως ένα επιτυχημένο οικονομικό μοντέλο",
-   "first_seen": "2026-11-12T20:00:18.247254+00:00"
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-13T10:00:00+02:00",
+   "location": "Online",
+   "summary": "🎯 **Join us for the November 2026 Edition of the Workplace Ninjas User Group Denmark!** 📅 **Date:** Friday, November 13th, 2026 💻 **Location:** Online via Microsoft Teams 💸 **Cost:** 100% free Get ready for a series of engaging sessions. Whether you're deep into the tech or just getting started, there’s something for everyone within Windows, Security, Copilot or Modern Workplace. 🗣️ Each session will run approximately **45 minutes**, followed by time for **Q&A**, so bring your questions! The overall agenda for the day is: **Agenda:** 09:00 Welcome 09:15 Intune alerting: dream or reality? (Bas de Wolf) 10:00 Beyond the Wow Effect: Why Copilot Pilots Fail – and How to Turn AI Experiments into …",
+   "first_seen": "2026-11-13T01:53:02.483123+00:00"
   },
   {
-   "key": "url:https://eventbrite.co.uk/e/15o-live-event-tickets-2004293376443",
-   "title": "15o Live Event Επιχειρηματικότητας Γυναικών",
-   "link": "https://www.eventbrite.co.uk/e/15o-live-event-tickets-2004293376443",
+   "key": "url:https://meetup.com/open-ux-design/events/316996119",
+   "title": "#25 How are we all doing in this transition to AI?",
+   "link": "https://www.meetup.com/open-ux-design/events/316996119/",
    "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Greece business (tech-filtered)",
-   "source_url": "https://www.eventbrite.com/d/greece/business--events/",
-   "starts": "2026-12-05T00:00:00+02:00",
-   "location": "Theartemis Palace, 26 Markou Portaliou, Rethymno",
-   "summary": "Γυναίκες επιχειρηματίες μοιράζονται την ιστορία τους. Μια βραδιά έμπνευσης και δικτύωσης στο Theartemis Palace!",
-   "first_seen": "2026-11-12T20:00:18.247254+00:00"
-  },
-  {
-   "key": "url:https://eventbrite.co.uk/e/property-deal-network-athens-pdn-property-networking-event-tickets-1999781210433",
-   "title": "Property Deal Network Athens - PDN - Property Networking Event",
-   "link": "https://www.eventbrite.co.uk/e/property-deal-network-athens-pdn-property-networking-event-tickets-1999781210433",
-   "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Greece business (tech-filtered)",
-   "source_url": "https://www.eventbrite.com/d/greece/business--events/",
-   "starts": "2027-01-06T00:00:00+02:00",
-   "location": "The Lazy Bulldog Pub, Orfeos & Persefonis, Athina",
-   "summary": "Free monthly real estate investor networking meetup in Athens. Bring a deal, find capital, JV partners, agents, lenders, developers.",
-   "first_seen": "2026-11-12T20:00:18.247254+00:00"
-  },
-  {
-   "key": "url:https://eventbrite.com/e/european-bridges-of-innovation-greece-france-italy-tickets-2003962456653",
-   "title": "European Bridges of Innovation | Greece × France × Italy",
-   "link": "https://www.eventbrite.com/e/european-bridges-of-innovation-greece-france-italy-tickets-2003962456653",
-   "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Greece business (tech-filtered)",
-   "source_url": "https://www.eventbrite.com/d/greece/business--events/",
-   "starts": "2026-12-04T00:00:00+02:00",
-   "location": "Eteron - Ινστιτούτο για την Έρευνα και την Κοινωνική Αλλαγή, 38 Leokoriou, Athens",
-   "summary": "Connecting Businesses, Ideas & Opportunities",
-   "first_seen": "2026-11-12T20:00:18.247254+00:00"
-  },
-  {
-   "key": "url:https://eventbrite.com/e/business-after-hours-tickets-2003334089189",
-   "title": "Business After Hours",
-   "link": "https://www.eventbrite.com/e/business-after-hours-tickets-2003334089189",
-   "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Greece business (tech-filtered)",
-   "source_url": "https://www.eventbrite.com/d/greece/business--events/",
-   "starts": "2026-11-24T00:00:00+02:00",
-   "location": "JOIST Innovation Space Larissa, 1st Parodos Filellinon 3-5, Larisa",
-   "summary": "Business After Hours στη Λάρισα: CRM, πωλήσεις, customer service & κυβερνοασφάλεια για πιο οργανωμένες, αποδοτικές και ασφαλείς επιχειρήσεις",
-   "first_seen": "2026-11-12T20:00:18.247254+00:00"
-  },
-  {
-   "key": "url:https://eventbrite.co.uk/e/hustle-athens-entrepreneur-networking-event-tickets-1999940532971",
-   "title": "HUSTLE Athens Entrepreneur Networking Event",
-   "link": "https://www.eventbrite.co.uk/e/hustle-athens-entrepreneur-networking-event-tickets-1999940532971",
-   "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Athens startups",
-   "source_url": "https://www.eventbrite.com/d/greece--athens/startup/",
-   "starts": "2027-01-06T00:00:00+02:00",
-   "location": "The Lazy Bulldog Pub, Orfeos & Persefonis, Athens",
-   "summary": "HUSTLE London Liverpool St Entrepreneur Networking Event",
-   "first_seen": "2026-11-12T20:00:18.247254+00:00"
-  },
-  {
-   "key": "url:https://eventbrite.com/e/founders-running-club-athens-tickets-1977914476443",
-   "title": "Founders Running Club :: Athens",
-   "link": "https://www.eventbrite.com/e/founders-running-club-athens-tickets-1977914476443",
-   "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Athens startups",
-   "source_url": "https://www.eventbrite.com/d/greece--athens/startup/",
-   "starts": "2026-11-14T00:00:00+02:00",
-   "location": "SuiHub Athens, 22 Agiou Markou, Athina",
-   "summary": "Global community and weekly runs for founders, investors, operators and creators. SF, Dubai, Cape Town, London, São Paulo and 55+ cities",
-   "first_seen": "2026-11-12T20:00:18.247254+00:00"
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-13T12:00:00+02:00",
+   "location": "Online",
+   "summary": "Designers and product folk! How are you? *Are you well*? Are you excited about your toolset opening up? Or are you worried about your craft? Are your employers foisting their AI FOMO on you? Or maybe it’s you pushing up, worried that your company will be left behind in the changing landscape? Whether you’re getting excited or growing concerned, come to this AI peer support session for working designers, researchers and product people. We won’t have any expert teachings for you (this is not another AI masterclass) but you WILL be able to say “hey, this is what I’m facing.” Moan, inspire, fret, reassure - it’s all welcome, and there will be learnings to be shared. **This session is exactly whe…",
+   "first_seen": "2026-11-13T01:53:02.483123+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/aade-telos-sti-grafeiokratia-gia-tin-apallagi-fpa-ti-allazei-gia-150-epixeiriseis",
@@ -159,19 +94,6 @@
    "first_seen": "2026-11-12T19:23:21+00:00"
   },
   {
-   "key": "url:https://naftemporiki.gr/finance/world/2187909/live-ektos-nvidia-o-tzensen-choyangk-i-pithani-apomakrynsi-sok-kai-i-epomeni-mera",
-   "title": "Live – Nvidia: Επιδημία αποκαλύψεων μετά την παραίτηση Χουάνγκ – Οι αναταράξεις και ο φόβος ντόμινο",
-   "link": "https://www.naftemporiki.gr/finance/world/2187909/live-ektos-nvidia-o-tzensen-choyangk-i-pithani-apomakrynsi-sok-kai-i-epomeni-mera/?utm_source=rss&utm_medium=rss&utm_campaign=live-ektos-nvidia-o-tzensen-choyangk-i-pithani-apomakrynsi-sok-kai-i-epomeni-mera",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Αυτό που ξεκίνησε το περασμένο Σάββατο σαν ερωτικό σκάνδαλο με ισχυρές δόσεις κατασκοπευτικού θρίλερ εξελίσσεται σε υπαρξιακή απειλή για τη φούσκα ΑΙ αλλά όχι μόνο: Κρατικά επενδυτικά ταμεία, κεντρικές τράπεζες… Live – Nvidia: Επιδημία αποκαλύψεων μετά την παραίτηση Χουάνγκ – Οι αναταράξεις και ο φόβος ντόμινο - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-11-12T18:52:31+00:00"
-  },
-  {
    "key": "url:https://techgear.gr/alphagenome-2-to-neo-ai-montelo-provlepsis-genetikon-astheneion-tis-google-deepmind-51313",
    "title": "AlphaGenome 2: Το νέο AI μοντέλο πρόβλεψης γενετικών ασθενειών της Google DeepMind",
    "link": "https://www.techgear.gr/alphagenome-2-to-neo-ai-montelo-provlepsis-genetikon-astheneion-tis-google-deepmind-51313",
@@ -183,19 +105,6 @@
    "location": "",
    "summary": "Σύνοψη Η Google DeepMind παρουσίασε επίσημα το AlphaGenome 2, ένα αναβαθμισμένο μοντέλο τεχνητής νοημοσύνης το οποίο προβλέπει τις επιπτώσεις των ...",
    "first_seen": "2026-11-12T18:51:00+00:00"
-  },
-  {
-   "key": "url:https://naftemporiki.gr/finance/world/2188427/i-lexi-sok-einai-i-katallili-dilonei-ependytis-stin-nvidia-gia-to-skandalo-kai-tin-paraitisi-choyangk",
-   "title": "«Η λέξη ”σοκ” είναι η κατάλληλη», δηλώνει επενδυτής στην Nvidia για το σκάνδαλο και την παραίτηση Χουάνγκ",
-   "link": "https://www.naftemporiki.gr/finance/world/2188427/i-lexi-sok-einai-i-katallili-dilonei-ependytis-stin-nvidia-gia-to-skandalo-kai-tin-paraitisi-choyangk/?utm_source=rss&utm_medium=rss&utm_campaign=i-lexi-sok-einai-i-katallili-dilonei-ependytis-stin-nvidia-gia-to-skandalo-kai-tin-paraitisi-choyangk",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο Στίβεν Γιου, επικεφαλής επενδύσεων του Blue Whale Growth Fund, δήλωσε ότι είναι «πολύ απογοητευτικό» το γεγονός ότι ο Τζένσεν Χουάνγκ βρέθηκε σε αυτή τη θέση. Η εταιρεία του Γιου… «Η λέξη ”σοκ” είναι η κατάλληλη», δηλώνει επενδυτής στην Nvidia για το σκάνδαλο και την παραίτηση Χουάνγκ - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-11-12T18:34:16+00:00"
   },
   {
    "key": "url:https://businessdaily.gr/koinonia/243310_brabeia-kainotomias-kai-exostrefeias-se-foititikes-omades-toy-apth-apo-ton-dimo",
@@ -276,19 +185,6 @@
    "first_seen": "2026-11-12T14:28:25+00:00"
   },
   {
-   "key": "url:https://techmaniacs.gr/zns-ssd-gaze-kaist-speed",
-   "title": "Το λειτουργικό σύστημα φρενάρει τον SSD, η ανακάλυψη που αλλάζει τα δεδομένα",
-   "link": "https://techmaniacs.gr/zns-ssd-gaze-kaist-speed/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Όταν κάποιος επιλέγει έναν κορυφαίο SSD, αναμένει ότι θα αποδίδει στο 100% των τεχνικών του προδιαγραφών. Ωστόσο, ακόμη και το ταχύτερο υλικό συχνά περιορίζεται από το λογισμικό που διαχειρίζεται τις εντολές του. Ερευνητική ομάδα του Κορεατικού Προηγμένου Ινστιτούτου Επιστήμης και Τεχνολογίας (KAIST), με επικεφαλής τον καθηγητή Youjip Won, παρουσίασε στο διεθνές συνέδριο ACM SOSP 2026 […] The post Το λειτουργικό σύστημα φρενάρει τον SSD, η ανακάλυψη που αλλάζει τα δεδομένα appeared first on Techmaniacs .",
-   "first_seen": "2026-11-12T14:22:29+00:00"
-  },
-  {
    "key": "url:https://ictplus.gr/skandalo-nvidia-paraitithike-o-tzensen-chouangk-prosorini-ceo-i-kolet-kres",
    "title": "Σκάνδαλο Nvidia: Παραιτήθηκε ο Τζένσεν Χουάνγκ – Προσωρινή CEO η Κολέτ Κρες",
    "link": "https://www.ictplus.gr/skandalo-nvidia-paraitithike-o-tzensen-chouangk-prosorini-ceo-i-kolet-kres/",
@@ -365,19 +261,6 @@
    "location": "",
    "summary": "Σύνοψη Σύμφωνα με νέα επιστημονικά δεδομένα που παρουσιάστηκαν στο American Heart Association, η κατανάλωση ενεργειακών ποτών και συμπληρωμάτων με ...",
    "first_seen": "2026-11-12T12:39:00+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/nvidia-senaria-apomakrynsis-toy-jensen-huang-meta-tin-apokalypsi-deyteris-exosyzikis-schesis",
-   "title": "Nvidia: Σενάρια απομάκρυνσης του Jensen Huang μετά την αποκάλυψη δεύτερης εξωσυζικής σχέσης",
-   "link": "https://techmaniacs.gr/nvidia-senaria-apomakrynsis-toy-jensen-huang-meta-tin-apokalypsi-deyteris-exosyzikis-schesis/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Ενημέρωση (12/11 – 16:00): Ραγδαίες εξελίξεις στην υπόθεση, καθώς λίγη ώρα μετά τα δημοσιεύματα ο Jensen Huang υπέβαλε οριστικά την παραίτησή του από CEO της Nvidia. Μια μεγάλη κρίση περνάει η Nvidia, καθώς ο CEO της, Jensen Huang, ενδέχεται να απομακρυνθεί από τη θέση του στη χειρότερη δυνατή περίοδο. Λόγος για αυτά τα σενάρια είναι […] The post Nvidia: Σενάρια απομάκρυνσης του Jensen Huang μετά την αποκάλυψη δεύτερης εξωσυζικής σχέσης appeared first on Techmaniacs .",
-   "first_seen": "2026-11-12T12:12:37+00:00"
   },
   {
    "key": "url:https://startupper.gr/news/285460/hellas-space-2-0-ston-aera-o-diagonismos-69-ekat-evro-gia-treis-ellinikous-optikous-doryforous",
@@ -495,6 +378,19 @@
    "location": "",
    "summary": "Ο Χρήστος Μελισσουργός, Founder & CTO της Voice Logica, εξηγεί πώς οι AI Voice Agents περνούν από την απλή συνομιλία στην εκτέλεση πραγματικών εργασιών, πώς μαθαίνουν από τους ανθρώπους και γιατί η αξιοπιστία τους δεν κρίνεται μόνο από όσα λένε, αλλά κυρίως από όσα κάνουν.",
    "first_seen": "2026-11-12T06:36:46+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/ux-research-meetups/events/317366711",
+   "title": "[Workshop] Getting started with UXtweak",
+   "link": "https://www.meetup.com/ux-research-meetups/events/317366711/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-26T19:00:00+02:00",
+   "location": "Online",
+   "summary": "**📆 Date:** November 26, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online **💸 Free event** New to UXtweak, or curious what it can do for your research? Join us for a live workshop, where you choose what we explore. **What we'll cover:** * A quick introduction to UXtweak and how it fits into your UX research workflow * A tour of the main tools: usability testing, interviews, card sorting, tree testing, surveys, and more * A live, step-by-step study setup of the study of your choice, so you can see exactly how a study goes from idea to launch * Open Q&A: bring your questions and we'll answer them on the spot **By the end, you'll be able to:** * Choose the …",
+   "first_seen": "2026-11-12T00:47:43.572753+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/mitsotakis-i-ellada-diekdikei-rolo-ependitikou-komvou-se-evropi-mesogeio-kai-mesi-anatoli",
@@ -666,6 +562,19 @@
    "first_seen": "2026-11-10T14:58:27.318863+00:00"
   },
   {
+   "key": "url:https://meetup.com/service-designers-connect/events/313924054",
+   "title": "Bringing back creative research methods",
+   "link": "https://www.meetup.com/service-designers-connect/events/313924054/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-19T20:30:00+02:00",
+   "location": "Online",
+   "summary": "**What’s this session about?** Over the past decade, a quiet shift has happened. As research moved online, creativity got left behind. Semi-structured interviews became the default, and with them, we lost the richness and diversity of methods that help us uncover what people *really* think, feel, and do. Becky Mallaband and Rebecca Partridge are on a mission to change that. In this session, they'll share how a more creative approach to research (both in person and online) can help you go deeper, surface tacit knowledge, and get far more valuable insights from every session you run. After attending this session, you'll leave with: 1. A clearer understanding of the different levels of knowledg…",
+   "first_seen": "2026-11-10T14:58:27.318863+00:00"
+  },
+  {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316972047",
    "title": "Saturday Social at Mint Bar – International Mingle event",
    "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316972047/",
@@ -676,19 +585,6 @@
    "starts": "2026-11-14T21:30:00+02:00",
    "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
    "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-11-10T14:58:27.318863+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/service-designers-connect/events/313924054",
-   "title": "Bringing back creative research methods",
-   "link": "https://www.meetup.com/service-designers-connect/events/313924054/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-19T20:30:00+02:00",
-   "location": "Online",
-   "summary": "**What’s this session about?** Over the past decade, a quiet shift has happened. As research moved online, creativity got left behind. Semi-structured interviews became the default, and with them, we lost the richness and diversity of methods that help us uncover what people *really* think, feel, and do. Becky Mallaband and Rebecca Partridge are on a mission to change that. In this session, they'll share how a more creative approach to research (both in person and online) can help you go deeper, surface tacit knowledge, and get far more valuable insights from every session you run. After attending this session, you'll leave with: 1. A clearer understanding of the different levels of knowledg…",
    "first_seen": "2026-11-10T14:58:27.318863+00:00"
   },
   {
@@ -744,26 +640,13 @@
    "first_seen": "2026-11-10T12:04:38+00:00"
   },
   {
-   "key": "url:https://techgear.gr/claude-fable-5-2-kai-mythos-5-2-entyposiakes-epidoseis-ston-programmatismo-kai-ayximeni-tachytita-51266",
-   "title": "Claude Fable 5.2 και Mythos 5.2: Εντυπωσιακές επιδόσεις στον προγραμματισμό και αυξημένη ταχύτητα",
-   "link": "https://www.techgear.gr/claude-fable-5-2-kai-mythos-5-2-entyposiakes-epidoseis-ston-programmatismo-kai-ayximeni-tachytita-51266",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techgear",
-   "source_url": "https://www.techgear.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Σύνοψη Η Anthropic παρουσίασε επισήμως τα νέα γλωσσικά μοντέλα Claude Fable 5.2 και Claude Mythos 5.2, τα οποία απευθύνονται σε προγραμματιστές και ...",
-   "first_seen": "2026-11-09T20:32:00+00:00"
-  },
-  {
    "key": "url:https://meetup.com/luxembourg-vibe-coding-meetup-group/events/317009427",
    "title": "Live: Breaking an AI-Built App in 30 Minutes — for CTOs and Founders",
    "link": "https://www.meetup.com/luxembourg-vibe-coding-meetup-group/events/317009427/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
    "starts": "2026-11-13T13:30:00+02:00",
    "location": "Online",
    "summary": "Your team releases faster with AI coding tools. But who checks what those tools leave behind? In this 45-minute online session I will take an app built with AI tools and break it live, step by step. You will see how API keys are pulled out of an installed app, how one user can read another user's data through a badly configured backend, and what an attacker finds in data stored on the phone. Then we turn it round: five checks you can ask your team to run on Monday, and the questions to ask before you sign off the next release. WHO IT IS FOR CTOs, technical founders, heads of engineering and product leads who are accountable for releases and customer data. This is not a beginner's coding clas…",
@@ -796,17 +679,17 @@
    "first_seen": "2026-11-08T10:29:27.370401+00:00"
   },
   {
-   "key": "url:https://meetup.com/ux-research-meetups/events/317312838",
-   "title": "[Webinar] Field Research, Unpacked: A Service Design Case Study",
-   "link": "https://www.meetup.com/ux-research-meetups/events/317312838/",
+   "key": "url:https://meetup.com/d-c_powerbi/events/316998859",
+   "title": "What can you do with a DAX query? | Zoe Douglas",
+   "link": "https://www.meetup.com/d-c_powerbi/events/316998859/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-18T19:00:00+02:00",
+   "starts": "2026-12-01T20:00:00+02:00",
    "location": "Online",
-   "summary": "**📆 Date:** November 18, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online 💸 Free event **🎙 Speaker and topic:** **Topic:** Field Research, Unpacked: A Real-World Case Study in Service Design, Ops, and AI **Speaker:** [Joel Barr](https://www.linkedin.com/in/joelmbarr/), the Founder of FloatGoat, a Researcher, Service Designer, and an Accessibility Specialist **Moderator:** [Petra Rajkov](https://sk.linkedin.com/in/petra-rajkov-b75511225), User Researcher @UXtweak **🧐 About the presentation:** AI can analyze data, but it can’t walk into a real workplace and see what’s actually happening. In this session, Joel shares how he does tactical user research in th…",
-   "first_seen": "2026-11-07T13:11:46.480540+00:00"
+   "summary": "**What can you do with a DAX query? \\| Zoe Douglas** Power BI has a query language to get data out of the semantic model -- the DAX query. This is different from DAX formulas you find in calculated columns, tables, and measures. With DAX query view you can quickly use this to understand your data, try out new formulas, and troubleshoot formulas you already have. If you were ever curious about what a DAX query was or want to know more, come and find out! **Zoe Douglas, Product Manager at Microsoft** I am a product manager for Power BI at Microsoft. I focus on unlocking awesome features for visuals and dedicated to helping all customers get the most out of their data!",
+   "first_seen": "2026-11-08T10:29:27.370401+00:00"
   },
   {
    "key": "url:https://meetup.com/ai-for-devs-athens/events/317254871",
@@ -898,32 +781,6 @@
    "location": "",
    "summary": "Νέο πρόγραμμα οικονομικής αρωγής έως €15.000 και δωρεάν υπηρεσιών επιχειρηματικής ανάπτυξης Υποβολή αιτήσεων: 1η Νοεμβρίου 2026 έως 31 Ιανουαρίου 2027",
    "first_seen": "2026-10-12T13:21:09+00:00"
-  },
-  {
-   "key": "url:https://eventbrite.co.uk/e/hxg-expo-2027-tickets-1976718613585",
-   "title": "HXG Expo 2027",
-   "link": "https://www.eventbrite.co.uk/e/hxg-expo-2027-tickets-1976718613585",
-   "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Greece business (tech-filtered)",
-   "source_url": "https://www.eventbrite.com/d/greece/business--events/",
-   "starts": "2027-06-19T00:00:00+03:00",
-   "location": "Mediterranean Exhibition Centre, Lavriou 301, Athina",
-   "summary": "HXG Expo 2027 is the ultimate in-person hangout for tech lovers and innovators to connect and explore new ideas!",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
-   "key": "url:https://eventbrite.com/e/odoo-business-show-athens-tickets-2002792959656",
-   "title": "Odoo Business Show Athens",
-   "link": "https://www.eventbrite.com/e/odoo-business-show-athens-tickets-2002792959656",
-   "kind": "events",
-   "category": "Eventbrite",
-   "source": "Eventbrite — Athens startups",
-   "source_url": "https://www.eventbrite.com/d/greece--athens/startup/",
-   "starts": "2026-11-26T00:00:00+02:00",
-   "location": "Divani Caravel Hotel, 2 Leoforos Vasileos Alexandrou, Athina",
-   "summary": "Come and discover Odoo, the integrated multifunctional software that simplifies everyday life in your company.",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
    "key": "url:https://stayhappening.com/e/techniques-2026-charlotte-de-witte-in-athens-E2ISYR0NXM5",
