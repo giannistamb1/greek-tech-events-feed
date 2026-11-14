@@ -6,7 +6,7 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 18:12:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 22:30:30 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>Διαζύγιο Τζένσεν Χουάνγκ: Ο τεράστιος διακανονισμός που επισκιάζει Μπέζος και Γκέιτς μαζί</title>
@@ -36,13 +36,13 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Η Xiaomi ετοιμάζεται για την επίσημη παγκόσμια παρουσίαση των Xiaomi 18 Pro και 18 Pro Max στις 17 Νοεμβρίου στο Παρίσι, μια κυκλοφορία που αφορά άμεσα και την ελληνική αγορά. Οι νέες ναυαρχίδες, πέρα από κορυφαίες επιδόσεις, μεγάλες μπαταρίες και αναβαθμισμένες κάμερες, φέρνουν ως βασικό στοιχείο διαφοροποίησης τη δεύτερη οθόνη στην πλάτη, ένα χαρακτηριστικό που […] The post Xiaomi 18 Pro: Έρχεται για να αξιοποιήσει περισσότερο την δεύτερη οθόνη appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
-<title>Business Monitor: Από την ψηφιακή ασφάλεια στους AI agents</title>
+<title>Business Monitor: Η μάχη για τα δεδομένα και το επόμενο μεγάλο στοίχημα της AI</title>
 <link>https://www.fortunegreece.com/article/business-monitor-apo-tin-psifiaki-asfaleia-stous-ai-agents/</link>
 <guid isPermaLink="false">url:https://fortunegreece.com/article/business-monitor-apo-tin-psifiaki-asfaleia-stous-ai-agents</guid>
 <pubDate>Sat, 14 Nov 2026 10:35:09 +0000</pubDate>
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Σήμερα στις 19.00 στο ONE Channel: Οι σημαντικότερες παρεμβάσεις από το Innovate with Data in Greece της Dell Technologies και μια συζήτηση με τον Γιώργο Νικολετάκη, Co-founder &amp;amp; CEO του 100mentors, για το 5ο GenAI Summit, στο νέο επεισόδιο του Business Monitor.&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Οι σημαντικότερες παρεμβάσεις από το Innovate with Data in Greece της Dell Technologies και μια συζήτηση με τον Γιώργο Νικολετάκη, Co-founder &amp;amp; CEO του 100mentors, για το 5ο GenAI Summit, στο νέο επεισόδιο του Business Monitor.&lt;/p&gt;</description>
 </item>
 <item>
 <title>Τεχνητή Νοημοσύνη στις ελληνικές ΜμΕ: 1 στις 2 τη χρησιμοποιεί – Πόσες βλέπουν μετρήσιμα αποτελέσματα</title>
@@ -52,15 +52,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Σύμφωνα με τη δεύτερη ετήσια έρευνα της ENTERSOFTONE και του εργαστηρίου ELTRUN του Οικονομικού Πανεπιστημίου Αθηνών (ΟΠΑ).&lt;/p&gt;</description>
-</item>
-<item>
-<title>Στη γραμμή εκκίνησης το νέο επενδυτικό κύμα στην αποθήκευση – Ποιοι «πέρασαν» έργα στην πρόσκληση του ΥΠΕΝ</title>
-<link>https://www.insider.gr/oikonomia/432737/sti-grammi-ekkinisis-neo-ependytiko-kyma-stin-apothikeysi-poioi-perasan-erga-stin</link>
-<guid isPermaLink="false">url:https://insider.gr/oikonomia/432737/sti-grammi-ekkinisis-neo-ependytiko-kyma-stin-apothikeysi-poioi-perasan-erga-stin</guid>
-<pubDate>Sat, 14 Nov 2026 06:44:45 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Έργα αποθηκευτικής ισχύος 7,7 GW περιλαμβάνονται στους πίνακες κατάταξης του ΥΠΕΝ με συνολικά 4,7 GW...&lt;/p&gt;</description>
 </item>
 <item>
 <title>AI και προσωπικά δεδομένα: Τι συμβαίνει στις συνομιλίες μας όταν μια εταιρεία χρεοκοπεί;</title>
@@ -259,15 +250,6 @@
 <category>Tech media</category>
 <source url="https://www.techgear.gr/">Techgear</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Το τμήμα DeepMind της Google παρουσίασε το Gemini Robotics 2.5, ένα προηγμένο μοντέλο όρασης-γλώσσας-δράσης (Vision-Language-Action) ικανό να ...&lt;/p&gt;</description>
-</item>
-<item>
-<title>Η Anthropic μπαίνει στο χρηματιστήριο με στόχο το 1,4 τρισεκατομμύρια δολάρια!</title>
-<link>https://www.techgear.gr/i-anthropic-mpainei-sto-chrimatistirio-me-stocho-to-1-4-trisekatommyria-dolaria-51284</link>
-<guid isPermaLink="false">url:https://techgear.gr/i-anthropic-mpainei-sto-chrimatistirio-me-stocho-to-1-4-trisekatommyria-dolaria-51284</guid>
-<pubDate>Tue, 10 Nov 2026 18:25:00 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://www.techgear.gr/">Techgear</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techgear · Tech media&lt;/p&gt;&lt;p&gt;Σύνοψη Η Anthropic ξεκινά τις παρουσιάσεις στους επενδυτές (roadshow) ενόψει της Αρχικής Δημόσιας Εγγραφής της (IPO), επιδιώκοντας συνολική αποτίμηση...&lt;/p&gt;</description>
 </item>
 <item>
 <title>Zero-Waste Entrepreneurship Hackathon: Οι νέοι δημιουργούν βιώσιμες επιχειρηματικές ιδέες για ένα πιο κυκλικό μέλλον</title>

@@ -6,8 +6,35 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 18:12:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 22:30:30 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[21 Nov] Saturday Social at Mint Bar – International Mingle event</title>
+<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317244108/</link>
+<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317244108</guid>
+<pubDate>Sat, 14 Nov 2026 22:30:30 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 21 November 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[20 Nov] Latinos Night | Where Social Meets Latin Rhythm 🎶</title>
+<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317222771/</link>
+<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317222771</guid>
+<pubDate>Sat, 14 Nov 2026 22:30:30 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 20 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Athens, 0, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;This is not just another Friday night — it is a real Latin social experience. 🇱🇦🔥 Location: https://maps.app.goo.gl/9cEtfXNj91suh7TM9?g_st=ac If you have been looking for a night where you can meet new people, talk, laugh, move around, dance a little, and feel the energy, this is the one. Latinos Night | Kallithea is back every second Friday at El Latino Café Bar — a cozy hidden Latin spot just a short walk from Kallithea Metro 🚇 The concept is simple: a social night with real connection, great music, and the freedom to do both — stand, sit, mingle, dance, and enjoy the vibe exactly how you like it. 🎧 Latin DJ all night 💃 Social atmosphere with movement and connection 🍹 Happy Hour 8:30–10:00…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[26 Nov] 🚀 Data Thursday - Automated Data Governance</title>
+<link>https://www.meetup.com/data-thursday/events/312574917/</link>
+<guid isPermaLink="false">url:https://meetup.com/data-thursday/events/312574917</guid>
+<pubDate>Sat, 14 Nov 2026 22:30:30 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;# **Data Thursday - From Spreadsheet Chaos to Automated Data Governance: 3 Days to 3 Minutes!** **What if you could turn three days of manual data updates into just three minutes?** Sounds too good to be true? Not when Data Engineering, Automation and Data Governance come together! Join us for another edition of **Data Thursday**, where we explore how technology, collaboration and smart data solutions can make a real difference. ### 🎤 The Talk: From Spreadsheet Chaos to Automated Data Governance **Speaker: Felicity Shiyu Fan** Imagine a pan-European network of more than **850 community foundations**, collaborating through shared Excel spreadsheets. No automated notifications, limited transpa…&lt;/p&gt;</description>
+</item>
 <item>
 <title>[25 Nov] Athens Python Meetup: Weaponizing Python + Template Injection Workshop</title>
 <link>https://www.meetup.com/athens-python-users-meetup/events/317407775/</link>
@@ -63,6 +90,15 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 24 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;For our November meet-up, we will be welcoming Christopher Daly &amp;amp; Samson Nwizugbe **Samson Nwizugbe** \- Process Managers\, Not Process\-Aware Aggregates: Coordinating Long\-Running Workflows in DDD with Wolverine When a workflow spans several aggregates, the logic tends to end up in one of two bad places. Either it sits in a god-class orchestrator that knows too much about everything downstream, or it leaks into the aggregates themselves until they're tracking steps, waiting on other aggregates and making decisions that have nothing to do with their own invariants. This talk walks through using Wolverine's Saga support as a dedicated process manager. It reacts to domain events, tracks where…&lt;/p&gt;</description>
 </item>
 <item>
+<title>[26 Nov] [Workshop] Getting started with UXtweak</title>
+<link>https://www.meetup.com/ux-research-meetups/events/317366711/</link>
+<guid isPermaLink="false">url:https://meetup.com/ux-research-meetups/events/317366711</guid>
+<pubDate>Thu, 12 Nov 2026 00:47:43 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**📆 Date:** November 26, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online **💸 Free event** New to UXtweak, or curious what it can do for your research? Join us for a live workshop, where you choose what we explore. **What we'll cover:** * A quick introduction to UXtweak and how it fits into your UX research workflow * A tour of the main tools: usability testing, interviews, card sorting, tree testing, surveys, and more * A live, step-by-step study setup of the study of your choice, so you can see exactly how a study goes from idea to launch * Open Q&amp;amp;A: bring your questions and we'll answer them on the spot **By the end, you'll be able to:** * Choose the …&lt;/p&gt;</description>
+</item>
+<item>
 <title>[23 Nov] FinOps for ML and GenAI on Google Cloud: Cost per Task, Not Cost per Token</title>
 <link>https://www.meetup.com/gdg-cloud-thessaloniki/events/317372972/</link>
 <guid isPermaLink="false">url:https://meetup.com/gdg-cloud-thessaloniki/events/317372972</guid>
@@ -86,8 +122,8 @@
 <guid isPermaLink="false">url:https://meetup.com/aws-user-group-krakow/events/317102231</guid>
 <pubDate>Tue, 10 Nov 2026 21:19:57 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;AWS meetup is back with a new chapter. Mark your calendar and stay in the loop for more info. 🗓 **Save the Date** **🍔** + 🍺 = Let's gather around appetizers and beverages at **Remitly** or Watch the stream on YouTube ([link](https://youtube.com/live/frkPeVh7TZs)) Hosted by: **Maciej Lelusz**, AWS Hero AWS Community Builders: **Maria Kmita &amp;amp; Paweł Kusiński** 🎤 **Speakers**: 〰️ **Marek Szlagor**, Staff Infrastructure Engineer at Remitly *From 1 to N: Splitting a Monolith EKS Cluster Without Breaking Production* 〰️ **Pawel Zapior,** Security Engineer at Remitly *Beyond Static Linting: Context-Aware IAM Change Evaluation in AWS* 💡 Details about Speakers &amp;amp; Talks💡 **Marek Szlagor:** Staff Infrastr…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;AWS meetup is back with a new chapter. Mark your calendar and stay in the loop for more info. 🗓 **Save the Date** **🍔** + 🍺 = Let's gather around appetizers and beverages at **Remitly** or Watch the stream on YouTube ([link](https://youtube.com/live/frkPeVh7TZs)) Hosted by: **Maciej Lelusz**, AWS Hero AWS Community Builders: **Maria Kmita &amp;amp; Paweł Kusiński** 🎤 **Speakers**: 〰️ **Marek Szlagor**, Staff Infrastructure Engineer at Remitly *From 1 to N: Splitting a Monolith EKS Cluster Without Breaking Production* 〰️ **Pawel Zapior,** Security Engineer at Remitly *Beyond Static Linting: Context-Aware IAM Change Evaluation in AWS* 💡 Details about Speakers &amp;amp; Talks💡 **Marek Szlagor:** Staff Infrastr…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[26 Nov] Introducing .NET 11 &amp; AI-Enhanced .NET Debugging</title>
@@ -97,24 +133,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 18:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Michalakopoulou 80, Michalakopoulou 80, Athina 115 27, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Dear friends, We are delighted to invite you to a new dotNETZone meetup featuring two talks! The event will take place at the XM offices at 80 Michalakopoulou Street in Athens. To find out more about XM, please [visit their careers page](https://www.xm.com/careers). We warmly thank XM for their generous sponsorship. ***Attendees must bring valid photo ID, as this is required by building security.*** **18:30 Doors open** **19:00 Eirik George Tsarpalis - What's new in .NET 11** .NET 11 is here! The new release brings performance improvements, powerful new language capabilities, and thousands of additional library and tooling improvements. Join me as I give you a high-level overview of some of …&lt;/p&gt;</description>
-</item>
-<item>
-<title>[14 Nov] Saturday Social at Mint Bar – International Mingle event</title>
-<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/316972047/</link>
-<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/316972047</guid>
-<pubDate>Tue, 10 Nov 2026 14:58:27 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 14 November 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[19 Nov] Bringing back creative research methods</title>
-<link>https://www.meetup.com/service-designers-connect/events/313924054/</link>
-<guid isPermaLink="false">url:https://meetup.com/service-designers-connect/events/313924054</guid>
-<pubDate>Tue, 10 Nov 2026 14:58:27 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 20:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**What’s this session about?** Over the past decade, a quiet shift has happened. As research moved online, creativity got left behind. Semi-structured interviews became the default, and with them, we lost the richness and diversity of methods that help us uncover what people *really* think, feel, and do. Becky Mallaband and Rebecca Partridge are on a mission to change that. In this session, they'll share how a more creative approach to research (both in person and online) can help you go deeper, surface tacit knowledge, and get far more valuable insights from every session you run. After attending this session, you'll leave with: 1. A clearer understanding of the different levels of knowledg…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[12 Dec] DevFest Thessaloniki 2026</title>
@@ -133,15 +151,6 @@
 <category>Conferences &amp; expos</category>
 <source url="https://dev.events/EU/GR/tech">dev.events — Greece</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 19 July 2027, 03:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Crete, Greece, Crete&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; dev.events — Greece · Conferences &amp;amp; expos&lt;/p&gt;&lt;p&gt;Tech conference in Crete, Greece&lt;/p&gt;</description>
-</item>
-<item>
-<title>[14 Nov] Saturday Social at Mint Bar – Meet, Talk &amp; See Where the Night Goes</title>
-<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317134669/</link>
-<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317134669</guid>
-<pubDate>Sun, 08 Nov 2026 22:12:37 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 14 November 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[26 Nov] 68th Agile Greece Meetup: We’ve Added AI Agents. Now We Need to Change.</title>
@@ -205,6 +214,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 21 November 2026, 13:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[17 Nov] See What Changed: AI &amp; Semantic Models in Tabular Editor | Ruben Van de Voorde</title>
+<link>https://www.meetup.com/d-c_powerbi/events/316695236/</link>
+<guid isPermaLink="false">url:https://meetup.com/d-c_powerbi/events/316695236</guid>
+<pubDate>Sat, 31 Oct 2026 12:41:44 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 17 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \- Connect an agent you already use\, such as Claude Code or GitHub Copilot\, to the model you have open through the MCP server\, and delegate a task that involves multiple changes \- Decide what the agent may do\, for example edit the model's metadata without reading its data \- Follow the agent's changes as it works\, and revert all or only those changes you disagree with \- Let the …&lt;/p&gt;</description>
 </item>
 <item>
 <title>[05 Dec] TECHNIQUES 2026: CHARLOTTE DE WITTE IN ATHENS</title>
