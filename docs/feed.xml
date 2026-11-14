@@ -6,25 +6,70 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sat, 14 Nov 2026 01:28:33 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 10:35:09 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>[14 Nov] Build &amp; Learn: From Data Science to AI Engineering Week 7(ONLINE DEMO)</title>
-<link>https://www.meetup.com/build-learn-data-science-saturdays/events/316622518/</link>
-<guid isPermaLink="false">url:https://meetup.com/build-learn-data-science-saturdays/events/316622518</guid>
-<pubDate>Sat, 14 Nov 2026 01:28:33 +0000</pubDate>
+<title>[25 Nov] Athens Python Meetup: Weaponizing Python + Template Injection Workshop</title>
+<link>https://www.meetup.com/athens-python-users-meetup/events/317407775/</link>
+<guid isPermaLink="false">url:https://meetup.com/athens-python-users-meetup/events/317407775</guid>
+<pubDate>Sat, 14 Nov 2026 10:35:09 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 14 November 2026, 11:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**📅 Week 7: Demo Day** This is the final event in our seven-week AI Engineering program and we are doing it online. After building an end-to-end AI application step by step, it’s time to share what you created. This week, we’ll focus on presenting our projects and reflecting on the full development journey: This is the final event in our seven-week AI Engineering program. This week is about sharing what you built, explored or learned—the project does not need to be complete. You can **choose** what you would like to present yourself, here is a list of possibilities : * Demo your complete AI application. * Focus on one technical component, such as LLM calls, RAG, APIs, databases, evaluation o…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 25 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Likourgou 1, Likourgou 1, Athina 105 51, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Καλημέρα σε όλους! Την Τετάρτη 25 Νοεμβρίου στις 19:00 συναντιόμαστε στα γραφεία της Yodeck (Λυκούργου 1, Αθήνα) για ένα Athens Python Meetup διαφορετικό από τα συνηθισμένα. Αυτή τη φορά βλέπουμε τη Python από την άλλη πλευρά: πώς τη χρησιμοποιούν οι attackers, και πώς μπορείς να την υπερασπιστείς. **🎤 Talk: "Python is the new C, Weaponizing Python for fun, profit and Malware Development"** Ο Παναγιώτης Φισκίλης, senior red team operator στην NVISO Security, θα μας δείξει τις τελευταίες τάσεις στην οπλοποίηση της Python από APT ομάδες και red teamers. Θα κάνουμε reverse engineering σε γνωστά trojanized repositories και σε προηγμένα (και ακριβά) implants, θα δούμε πώς ένα μόνο compromised pac…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[22 Nov] Build a Reasoning Model (From Scratch)</title>
-<link>https://www.meetup.com/llm-reading-club/events/317353488/</link>
-<guid isPermaLink="false">url:https://meetup.com/llm-reading-club/events/317353488</guid>
-<pubDate>Sat, 14 Nov 2026 01:28:33 +0000</pubDate>
+<title>[24 Nov] Athens iOS Meetup is back: Relaunch Night at Plum</title>
+<link>https://www.meetup.com/athens-ios-meetups/events/317366629/</link>
+<guid isPermaLink="false">url:https://meetup.com/athens-ios-meetups/events/317366629</guid>
+<pubDate>Sat, 14 Nov 2026 10:35:09 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 22 November 2026, 17:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;We are working through *Build a Reasoning Model (From Scratch)* by Sebastian Raschka. During each meetup, we will discuss the key concepts from the chapter or pages under review. In this session we'll discuss the **Chapter 7. Improving GRPO for Reinforcement Learning.** Raschka provides a hands-on guide to understanding and building modern reasoning models. Starting with a conventional pretrained LLM, the book explores evaluation, inference-time reasoning techniques, reinforcement learning with verifiable rewards, and knowledge distillation. Please note that the session is not recorded, and participants are responsible for obtaining their own copy of the book. **Buy the book** (affiliate lin…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 24 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Plum, Stadiou 3A, 8th floor, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Athens iOS Meetup is back! 🚀 Join us for our relaunch night: the first event of Athens iOS Meetup as an independent, community-led meetup for anyone building for Apple platforms in Athens. Whether you're a senior engineer, a junior just starting out, a designer or simply curious, you're welcome. **When:** Tuesday 24 November 2026, doors open at 19:00 **Where:** Plum, Stadiou 3A, 8th floor, Athens **Language:** talks are in English **Agenda** * 19:00 Doors open * 19:30 Welcome from the organizers * 19:40 **Reimagining the Technical Interview with AI**, by Anastasia Eleftheriadi (Senior iOS Engineer, Plum) * 20:10 **You are absolutely right!** by Konstantinos Natsios, Organizer Athens iOS Meet…&lt;/p&gt;</description>
+</item>
+<item>
+<title>Business Monitor: Από την ψηφιακή ασφάλεια στους AI agents</title>
+<link>https://www.fortunegreece.com/article/business-monitor-apo-tin-psifiaki-asfaleia-stous-ai-agents/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/business-monitor-apo-tin-psifiaki-asfaleia-stous-ai-agents</guid>
+<pubDate>Sat, 14 Nov 2026 10:35:09 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Σήμερα στις 19.00 στο ONE Channel: Οι σημαντικότερες παρεμβάσεις από το Innovate with Data in Greece της Dell Technologies και μια συζήτηση με τον Γιώργο Νικολετάκη, Co-founder &amp;amp; CEO του 100mentors, για το 5ο GenAI Summit, στο νέο επεισόδιο του Business Monitor.&lt;/p&gt;</description>
+</item>
+<item>
+<title>Τεχνητή Νοημοσύνη στις ελληνικές ΜμΕ: 1 στις 2 τη χρησιμοποιεί – Πόσες βλέπουν μετρήσιμα αποτελέσματα</title>
+<link>https://www.fortunegreece.com/article/texniti-noimosini-stis-ellinikes-mme-1-stis-2-ti-xrisimopoiei-poses-vlepoun-metrisima-apotelesmata/</link>
+<guid isPermaLink="false">url:https://fortunegreece.com/article/texniti-noimosini-stis-ellinikes-mme-1-stis-2-ti-xrisimopoiei-poses-vlepoun-metrisima-apotelesmata</guid>
+<pubDate>Sat, 14 Nov 2026 09:19:55 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Σύμφωνα με τη δεύτερη ετήσια έρευνα της ENTERSOFTONE και του εργαστηρίου ELTRUN του Οικονομικού Πανεπιστημίου Αθηνών (ΟΠΑ).&lt;/p&gt;</description>
+</item>
+<item>
+<title>H OpenAI δίνει στους AI agents το δικό τους… πορτοφόλι</title>
+<link>https://www.naftemporiki.gr/techscience/2189019/h-openai-dinei-stoys-ai-agents-to-diko-toys-portofoli/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=h-openai-dinei-stoys-ai-agents-to-diko-toys-portofoli</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/techscience/2189019/h-openai-dinei-stoys-ai-agents-to-diko-toys-portofoli</guid>
+<pubDate>Sat, 14 Nov 2026 08:53:34 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η OpenAI παρουσίασε το ChatGPT Wallet, μια νέα λειτουργία πληρωμών που επιτρέπει στους «dots» βοηθούς της να πραγματοποιούν αγορές για λογαριασμό των χρηστών. Οι dots είναι AI agents της OpenAI… H OpenAI δίνει στους AI agents το δικό τους… πορτοφόλι - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
+</item>
+<item>
+<title>Στη γραμμή εκκίνησης το νέο επενδυτικό κύμα στην αποθήκευση – Ποιοι «πέρασαν» έργα στην πρόσκληση του ΥΠΕΝ</title>
+<link>https://www.insider.gr/oikonomia/432737/sti-grammi-ekkinisis-neo-ependytiko-kyma-stin-apothikeysi-poioi-perasan-erga-stin</link>
+<guid isPermaLink="false">url:https://insider.gr/oikonomia/432737/sti-grammi-ekkinisis-neo-ependytiko-kyma-stin-apothikeysi-poioi-perasan-erga-stin</guid>
+<pubDate>Sat, 14 Nov 2026 06:44:45 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.insider.gr/rss.xml">Insider.gr</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Insider.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Έργα αποθηκευτικής ισχύος 7,7 GW περιλαμβάνονται στους πίνακες κατάταξης του ΥΠΕΝ με συνολικά 4,7 GW...&lt;/p&gt;</description>
+</item>
+<item>
+<title>Ανοίγει για το κοινό το ΥΠΕΘΑ – Στατική έκθεση οπλικών συστημάτων και επίσκεψη στην «Κιβωτό Εθνικής Μνήμης»</title>
+<link>https://www.naftemporiki.gr/politics/2188984/anoigei-gia-to-koino-to-ypetha-statiki-ekthesi-oplikon-systimaton-kai-episkepsi-stin-kivoto-ethnikis-mnimis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=anoigei-gia-to-koino-to-ypetha-statiki-ekthesi-oplikon-systimaton-kai-episkepsi-stin-kivoto-ethnikis-mnimis</link>
+<guid isPermaLink="false">url:https://naftemporiki.gr/politics/2188984/anoigei-gia-to-koino-to-ypetha-statiki-ekthesi-oplikon-systimaton-kai-episkepsi-stin-kivoto-ethnikis-mnimis</guid>
+<pubDate>Sat, 14 Nov 2026 06:12:32 +0000</pubDate>
+<category>Business &amp; tech media</category>
+<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Το Υπουργείο Εθνικής Άμυνας, μετά τις στρατιωτικές παρελάσεις «καινοτομίας», ανοίγουν τις πύλες για το κοινό ενόψει του Εορτασμού των Ενόπλων Δυνάμεων. Με τελευταία την στρατιωτική παρέλαση της 28η Οκτωβρίου στη… Ανοίγει για το κοινό το ΥΠΕΘΑ – Στατική έκθεση οπλικών συστημάτων και επίσκεψη στην «Κιβωτό Εθνικής Μνήμης» - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
 </item>
 <item>
 <title>AI και προσωπικά δεδομένα: Τι συμβαίνει στις συνομιλίες μας όταν μια εταιρεία χρεοκοπεί;</title>
@@ -34,15 +79,6 @@
 <category>Business &amp; tech media</category>
 <source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η κατάρρευση της Character.AI φέρνει στο προσκήνιο έναν λιγότερο συζητημένο κίνδυνο της τεχνητής νοημοσύνης: οι προσωπικές συνομιλίες εκατομμυρίων χρηστών μπορεί να αποτελέσουν περιουσιακό στοιχείο προς πώληση σε περίπτωση πτώχευσης.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Έκθεση Fed: Η τεχνητή νοημοσύνη η μεγαλύτερη ανησυχία για το χρηματοπιστωτικό σύστημα</title>
-<link>https://www.naftemporiki.gr/finance/world/2188948/ekthesi-fed-i-techniti-noimosyni-i-megalyteri-anisychia-gia-to-chrimatopistotiko-systima/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ekthesi-fed-i-techniti-noimosyni-i-megalyteri-anisychia-gia-to-chrimatopistotiko-systima</link>
-<guid isPermaLink="false">url:https://naftemporiki.gr/finance/world/2188948/ekthesi-fed-i-techniti-noimosyni-i-megalyteri-anisychia-gia-to-chrimatopistotiko-systima</guid>
-<pubDate>Fri, 13 Nov 2026 21:25:49 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.naftemporiki.gr/feed/">Naftemporiki</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Naftemporiki · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Οι κίνδυνοι που συνδέονται με τον τομέα της τεχνητής νοημοσύνης αυξήθηκαν ραγδαία, αναδεικνυόμενοι στην κύρια ανησυχία για τη χρηματοπιστωτική σταθερότητα, σύμφωνα με εξαμηνιαία έκθεση που δημοσίευσε την Παρασκευή η Ομοσπονδιακή… Έκθεση Fed: Η τεχνητή νοημοσύνη η μεγαλύτερη ανησυχία για το χρηματοπιστωτικό σύστημα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ&lt;/p&gt;</description>
 </item>
 <item>
 <title>Τεντ Τέρνερ: Πώς μοιράζεται η περιουσία των 2,5 δισ. δολαρίων – Εκτός κληρονομιάς η Τζέιν Φόντα</title>
@@ -81,15 +117,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Σε ιστορικά χαμηλά επίπεδα επενδυτικής εμπιστοσύνης βρίσκεται η Nvidia, καταγράφοντας το μακροβιότερο σερί εβδομαδιαίων απωλειών της τελευταίας δεκαετίας.&lt;/p&gt;</description>
 </item>
 <item>
-<title>Κυβέρνηση: Το ΠΑΣΟΚ να ανταποκριθεί στις απαιτήσεις της συγκυρίας</title>
-<link>https://www.businessdaily.gr/politiki/243498_kritiki-kybernisis-sto-pasok-gia-ti-stasi-toy-stin-epilogi-proedroy-tis-arhis?utm_source=Feedelio&amp;utm_medium=news&amp;utm_campaign=ape&amp;utm_content=auto</link>
-<guid isPermaLink="false">url:https://businessdaily.gr/politiki/243498_kritiki-kybernisis-sto-pasok-gia-ti-stasi-toy-stin-epilogi-proedroy-tis-arhis</guid>
-<pubDate>Fri, 13 Nov 2026 17:01:36 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.businessdaily.gr/rss.xml">Business Daily</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Business Daily · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Κυβερνητικές πηγές κατηγορούν τον κ. Δουδωνή για αντιφάσεις σχετικά με τη στάση ΠΑΣΟΚ στην επιλογή Προέδρου της Αρχής Προστασίας Δεδομένων,...&lt;/p&gt;</description>
-</item>
-<item>
 <title>Social media: Συνάντηση Σκέρτσου και Παπαστεργίου με Google και YouTube για το ηλικιακό όριο των 15 ετών</title>
 <link>https://www.fortunegreece.com/article/social-media-sinantisi-skertsou-kai-papastergiou-me-google-kai-youtube-gia-to-ilikiako-orio-ton-15-eton/</link>
 <guid isPermaLink="false">url:https://fortunegreece.com/article/social-media-sinantisi-skertsou-kai-papastergiou-me-google-kai-youtube-gia-to-ilikiako-orio-ton-15-eton</guid>
@@ -115,15 +142,6 @@
 <category>Startups</category>
 <source url="https://startupper.gr/">Startupper</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Startupper · Startups&lt;/p&gt;&lt;p&gt;Η Google παρουσίασε το Gemini 4 Hydrogen, χαρακτηρίζοντάς το ως τη «μεγαλύτερη αναβάθμιση μοντέλου στην ιστορία της Αναζήτησης», φέρνοντας επιδόσεις 2,5 φορές ταχύτερες από το Gemini 3.8 Flash The post Google Search: Η μεγαλύτερη αναβάθμιση στην ιστορία της με το Gemini 4 Hydrogen appeared first on STARTUPPER .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Ψηφιακή Διακίνηση Αποθεμάτων – The Game Changer</title>
-<link>https://businessvoice.gr/top-stories/998796/psifiaki-diakinisi-apothematon-the-game-changer/</link>
-<guid isPermaLink="false">url:https://businessvoice.gr/top-stories/998796/psifiaki-diakinisi-apothematon-the-game-changer</guid>
-<pubDate>Fri, 13 Nov 2026 15:30:14 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.emea.gr/feed/">EMEA.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; EMEA.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Το βιβλίο «Ψηφιακή Διακίνηση Αποθεμάτων – The Game Changer» του Νικολάου Σπυρόπουλου, Business Software Evangelist και team leader της i-spirit, είναι ένα πρακτικό και τεχνικό εγχειρίδιο για επιχειρήσεις και λογιστικά γραφεία, που συνδέει τις απαιτήσεις της ψηφιακής διακίνησης με όσα συμβαίνουν καθημερινά στην αποθήκη, στη μεταφορά, στην τιμολόγηση και στο λογιστήριο&lt;/p&gt;</description>
 </item>
 <item>
 <title>H ομάδα OptiServe κατέκτησε την κορυφή στον διαγωνισμό του ΕΚΠΑ</title>
@@ -279,51 +297,6 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Οι αιτήσεις σύνδεσης αγγίζουν τα 11 GW, ενώ τα έργα που λειτουργούν ή κατασκευάζονται αποτιμώνται σε περίπου 1 δισ. ευρώ. Τι προβλέπει το νομοσχέδιο για την αγορά ηλεκτρικής ενέργειας που ψηφίστηκε χθες στη Βουλή και ποιες αλλαγές ζητά ο κλάδος.&lt;/p&gt;</description>
 </item>
 <item>
-<title>[26 Nov] [Workshop] Getting started with UXtweak</title>
-<link>https://www.meetup.com/ux-research-meetups/events/317366711/</link>
-<guid isPermaLink="false">url:https://meetup.com/ux-research-meetups/events/317366711</guid>
-<pubDate>Thu, 12 Nov 2026 00:47:43 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;**📆 Date:** November 26, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online **💸 Free event** New to UXtweak, or curious what it can do for your research? Join us for a live workshop, where you choose what we explore. **What we'll cover:** * A quick introduction to UXtweak and how it fits into your UX research workflow * A tour of the main tools: usability testing, interviews, card sorting, tree testing, surveys, and more * A live, step-by-step study setup of the study of your choice, so you can see exactly how a study goes from idea to launch * Open Q&amp;amp;A: bring your questions and we'll answer them on the spot **By the end, you'll be able to:** * Choose the …&lt;/p&gt;</description>
-</item>
-<item>
-<title>Μητσοτάκης: «Η Ελλάδα διεκδικεί ρόλο επενδυτικού κόμβου σε Ευρώπη, Μεσόγειο και Μέση Ανατολή»</title>
-<link>https://www.fortunegreece.com/article/mitsotakis-i-ellada-diekdikei-rolo-ependitikou-komvou-se-evropi-mesogeio-kai-mesi-anatoli/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/mitsotakis-i-ellada-diekdikei-rolo-ependitikou-komvou-se-evropi-mesogeio-kai-mesi-anatoli</guid>
-<pubDate>Wed, 11 Nov 2026 21:47:05 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Μιλώντας στην ετήσια συνάντηση του Διεθνούς Φόρουμ κρατικών επενδυτικών ταμείων στην Αθήνα, ο πρωθυπουργός παρουσίασε τις επενδυτικές προοπτικές της χώρας, δίνοντας έμφαση στην ενέργεια, τις υποδομές, την τεχνολογία και τη γεωγραφική της θέση.&lt;/p&gt;</description>
-</item>
-<item>
-<title>ΔΥΠΑ: Δωρεάν εργαστήρια για εύρεση εργασίας και επιχειρηματικότητα στην Αθήνα – Πότε πραγματοποιείται το JobReady</title>
-<link>https://www.fortunegreece.com/article/dipa-dorean-ergastiria-gia-evresi-ergasias-kai-epixeirimatikotita-stin-athina-pote-pragmatopoieitai-to-jobready/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/dipa-dorean-ergastiria-gia-evresi-ergasias-kai-epixeirimatikotita-stin-athina-pote-pragmatopoieitai-to-jobready</guid>
-<pubDate>Wed, 11 Nov 2026 17:13:25 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Το Σάββατο 14 Νοεμβρίου επιστρέφει στην Αθήνα το «JobReady by DYPA», με δωρεάν εργαστήρια για βιογραφικά, συνεντεύξεις εργασίας, επαγγελματικές δεξιότητες και επιχειρηματικότητα. Η εκδήλωση θα πραγματοποιηθεί στο Divani Caravel Hotel, με τη συμμετοχή στελεχών HR και συμβούλων σταδιοδρομίας.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Τουρκία: Σκάνδαλο 20 δισ. δολαρίων με 500.000 επενδυτές – Παραίτηση στην τραπεζική εποπτεία και νέες συλλήψεις</title>
-<link>https://www.fortunegreece.com/article/tourkia-skandalo-20-dis-dolarion-me-500-000-ependites-paraitisi-stin-trapeziki-epopteia-kai-nees-sillipseis/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/tourkia-skandalo-20-dis-dolarion-me-500-000-ependites-paraitisi-stin-trapeziki-epopteia-kai-nees-sillipseis</guid>
-<pubDate>Wed, 11 Nov 2026 13:45:18 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Νέους κλυδωνισμούς προκαλεί στο χρηματοπιστωτικό σύστημα της Τουρκίας η υπόθεση φερόμενης χειραγώγησης επενδυτικών κεφαλαίων. Ο επικεφαλής της τραπεζικής εποπτείας ζήτησε την αποχώρησή του, ενώ τρία ακόμη στελέχη του χρηματοπιστωτικού κλάδου προφυλακίστηκαν. Στο επίκεντρο βρίσκονται 131 επενδυτικά κεφάλαια, συνολικού ενεργητικού άνω των 20 δισ. δολαρίων.&lt;/p&gt;</description>
-</item>
-<item>
-<title>Στο Euronext Athens Mid Cap Conference 2026 η Performance Technologies</title>
-<link>https://www.fortunegreece.com/article/sto-euronext-athens-mid-cap-conference-2026-i-performance-technologies/</link>
-<guid isPermaLink="false">url:https://fortunegreece.com/article/sto-euronext-athens-mid-cap-conference-2026-i-performance-technologies</guid>
-<pubDate>Wed, 11 Nov 2026 10:58:54 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.fortunegreece.com/feed/">Fortune Greece</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Fortune Greece · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Η διοίκηση της εταιρείας πραγματοποίησε συναντήσεις με θεσμικούς επενδυτές και εκπροσώπους της επενδυτικής κοινότητας, κατά τις οποίες παρουσίασε την πορεία και τις δραστηριότητες του ομίλου.&lt;/p&gt;</description>
-</item>
-<item>
 <title>Instagram Effect Builder: Δημιουργία custom AI φίλτρων μέσω γραπτών εντολών</title>
 <link>https://www.techgear.gr/instagram-effect-builder-dimioyrgia-custom-ai-filtron-meso-grapton-entolon-51295</link>
 <guid isPermaLink="false">url:https://techgear.gr/instagram-effect-builder-dimioyrgia-custom-ai-filtron-meso-grapton-entolon-51295</guid>
@@ -365,8 +338,8 @@
 <guid isPermaLink="false">url:https://meetup.com/aws-user-group-krakow/events/317102231</guid>
 <pubDate>Tue, 10 Nov 2026 21:19:57 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;AWS meetup is back with a new chapter. Mark your calendar and stay in the loop for more info. 🗓 **Save the Date** **🍔** + 🍺 = Let's gather around appetizers and beverages at **Remitly** or Watch the stream on YouTube ([link](https://youtube.com/live/frkPeVh7TZs)) Hosted by: **Maciej Lelusz**, AWS Hero AWS Community Builders: **Maria Kmita &amp;amp; Paweł Kusiński** 🎤 **Speakers**: 〰️ **Marek Szlagor**, Staff Infrastructure Engineer at Remitly *From 1 to N: Splitting a Monolith EKS Cluster Without Breaking Production* 〰️ **Pawel Zapior,** Security Engineer at Remitly *Beyond Static Linting: Context-Aware IAM Change Evaluation in AWS* 💡 Details about Speakers &amp;amp; Talks💡 **Marek Szlagor:** Staff Infrastr…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;AWS meetup is back with a new chapter. Mark your calendar and stay in the loop for more info. 🗓 **Save the Date** **🍔** + 🍺 = Let's gather around appetizers and beverages at **Remitly** or Watch the stream on YouTube ([link](https://youtube.com/live/frkPeVh7TZs)) Hosted by: **Maciej Lelusz**, AWS Hero AWS Community Builders: **Maria Kmita &amp;amp; Paweł Kusiński** 🎤 **Speakers**: 〰️ **Marek Szlagor**, Staff Infrastructure Engineer at Remitly *From 1 to N: Splitting a Monolith EKS Cluster Without Breaking Production* 〰️ **Pawel Zapior,** Security Engineer at Remitly *Beyond Static Linting: Context-Aware IAM Change Evaluation in AWS* 💡 Details about Speakers &amp;amp; Talks💡 **Marek Szlagor:** Staff Infrastr…&lt;/p&gt;</description>
 </item>
 <item>
 <title>Η Anthropic μπαίνει στο χρηματιστήριο με στόχο το 1,4 τρισεκατομμύρια δολάρια!</title>
@@ -401,8 +374,8 @@
 <guid isPermaLink="false">url:https://meetup.com/service-designers-connect/events/313924054</guid>
 <pubDate>Tue, 10 Nov 2026 14:58:27 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 20:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;**What’s this session about?** Over the past decade, a quiet shift has happened. As research moved online, creativity got left behind. Semi-structured interviews became the default, and with them, we lost the richness and diversity of methods that help us uncover what people *really* think, feel, and do. Becky Mallaband and Rebecca Partridge are on a mission to change that. In this session, they'll share how a more creative approach to research (both in person and online) can help you go deeper, surface tacit knowledge, and get far more valuable insights from every session you run. After attending this session, you'll leave with: 1. A clearer understanding of the different levels of knowledg…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 19 November 2026, 20:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**What’s this session about?** Over the past decade, a quiet shift has happened. As research moved online, creativity got left behind. Semi-structured interviews became the default, and with them, we lost the richness and diversity of methods that help us uncover what people *really* think, feel, and do. Becky Mallaband and Rebecca Partridge are on a mission to change that. In this session, they'll share how a more creative approach to research (both in person and online) can help you go deeper, surface tacit knowledge, and get far more valuable insights from every session you run. After attending this session, you'll leave with: 1. A clearer understanding of the different levels of knowledg…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[12 Dec] DevFest Thessaloniki 2026</title>
@@ -450,6 +423,15 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 01 December 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**What can you do with a DAX query? \| Zoe Douglas** Power BI has a query language to get data out of the semantic model -- the DAX query. This is different from DAX formulas you find in calculated columns, tables, and measures. With DAX query view you can quickly use this to understand your data, try out new formulas, and troubleshoot formulas you already have. If you were ever curious about what a DAX query was or want to know more, come and find out! **Zoe Douglas, Product Manager at Microsoft** I am a product manager for Power BI at Microsoft. I focus on unlocking awesome features for visuals and dedicated to helping all customers get the most out of their data!&lt;/p&gt;</description>
 </item>
 <item>
+<title>[20 Nov] AI for DevOps &amp; SRE: From Impressive Demos to Operational Trust</title>
+<link>https://www.meetup.com/bucharest-xdevops-meetup-group/events/316850587/</link>
+<guid isPermaLink="false">url:https://meetup.com/bucharest-xdevops-meetup-group/events/316850587</guid>
+<pubDate>Thu, 05 Nov 2026 23:41:04 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 20 November 2026, 21:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;AI for DevOps &amp;amp; SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…&lt;/p&gt;</description>
+</item>
+<item>
 <title>[03 Dec] "You’re Absolutely Right, I Missed This”: Build an LLM Pipeline That Works</title>
 <link>https://www.meetup.com/ai-for-devs-athens/events/317254871/</link>
 <guid isPermaLink="false">url:https://meetup.com/ai-for-devs-athens/events/317254871</guid>
@@ -486,13 +468,13 @@
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Startup.gr · Startups&lt;/p&gt;&lt;p&gt;Μια ολοήμερη δράση βιώσιμης επιχειρηματικότητας, καινοτομίας και συνεργασίας έρχεται στις 27 Νοεμβρίου στην Περαία, με δωρεάν συμμετοχή για νέους και νέες 18-30 ετών. To InfinityGreece, με τη συνδιοργάνωση του Δήμου Θερμαϊκού και του Δημοτικού Συμβουλίου Νέων Θερμαϊκού, παρουσιάζει το Zero-Waste Entrepreneurship Hackathon (ZWE Hackathon), μια ολοήμερη εκπαιδευτική και συμμετοχική δράση που συνδέει τη νεανική επιχειρηματικότητα […]&lt;/p&gt;</description>
 </item>
 <item>
-<title>[17 Nov] See What Changed: AI &amp; Semantic Models in Tabular Editor | Ruben Van de Voorde</title>
-<link>https://www.meetup.com/d-c_powerbi/events/316695236/</link>
-<guid isPermaLink="false">url:https://meetup.com/d-c_powerbi/events/316695236</guid>
-<pubDate>Sat, 31 Oct 2026 12:41:44 +0000</pubDate>
+<title>[21 Nov] Google Map Software Architecture</title>
+<link>https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/</link>
+<guid isPermaLink="false">url:https://meetup.com/software-architecture-or-system-design-training/events/317171014</guid>
+<pubDate>Sun, 01 Nov 2026 00:10:51 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 17 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \- Connect an agent you already use\, such as Claude Code or GitHub Copilot\, to the model you have open through the MCP server\, and delegate a task that involves multiple changes \- Decide what the agent may do\, for example edit the model's metadata without reading its data \- Follow the agent's changes as it works\, and revert all or only those changes you disagree with \- Let the …&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 21 November 2026, 13:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…&lt;/p&gt;</description>
 </item>
 <item>
 <title>Το The People’s Trust στηρίζει την επιχειρηματικότητα στη Δυτική Μακεδονία</title>
