@@ -1,7 +1,33 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-14T22:30:30.974377+00:00",
+ "built": "2026-11-15T06:42:51.765788+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/agent-builders/events/316959125",
+   "title": "\"How I Did 4 Years of Work in 4 months\"",
+   "link": "https://www.meetup.com/agent-builders/events/316959125/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-26T20:00:00+02:00",
+   "location": "Online",
+   "summary": "Agentic engineering is building software by directing AI coding agents rather than writing the code yourself. The engineering part comes from how you direct the agents - the goal, the rules, the checks, the coding standards, the tests, the code reviews etc. It speeds things up a lot as Agents are incredibly quick at producing code, much faster than humans, and it allows you much more flexibility in what you build, as you are not just limited to your own knowledge, language or domain expertise. The more time consuming part now, is not the writing code, but the verifying, the testing, the workflow you use to ensure code quality and goal adherence. This is for anyone curious about building soft…",
+   "first_seen": "2026-11-15T06:42:51.765788+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/tehnologia/243657_psifiakes-ypiresies-stoys-dimoys-meiosi-grafeiokratias-kai-kalyteri-exypiretisi",
+   "title": "Ψηφιακά εργαλεία στους Δήμους: 293.280 ηλεκτρονικές επιδόσεις εγγράφων",
+   "link": "https://www.businessdaily.gr/tehnologia/243657_psifiakes-ypiresies-stoys-dimoys-meiosi-grafeiokratias-kai-kalyteri-exypiretisi?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=Sokratis%20Psaltis",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Πάνω από 293.000 έγγραφα έχουν διανεμηθεί ψηφιακά μέσω gov.gr, ενώ ετοιμάζεται ενιαίο σύστημα για δημοτικά τέλη και φόρους. Στόχος η μείωση...",
+   "first_seen": "2026-11-15T06:12:09+00:00"
+  },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317244108",
    "title": "Saturday Social at Mint Bar – International Mingle event",
@@ -26,19 +52,6 @@
    "starts": "2026-11-20T20:00:00+02:00",
    "location": "Athens, 0, Athens, Athens",
    "summary": "This is not just another Friday night — it is a real Latin social experience. 🇱🇦🔥 Location: https://maps.app.goo.gl/9cEtfXNj91suh7TM9?g_st=ac If you have been looking for a night where you can meet new people, talk, laugh, move around, dance a little, and feel the energy, this is the one. Latinos Night | Kallithea is back every second Friday at El Latino Café Bar — a cozy hidden Latin spot just a short walk from Kallithea Metro 🚇 The concept is simple: a social night with real connection, great music, and the freedom to do both — stand, sit, mingle, dance, and enjoy the vibe exactly how you like it. 🎧 Latin DJ all night 💃 Social atmosphere with movement and connection 🍹 Happy Hour 8:30–10:00…",
-   "first_seen": "2026-11-14T22:30:30.974377+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/data-thursday/events/312574917",
-   "title": "🚀 Data Thursday - Automated Data Governance",
-   "link": "https://www.meetup.com/data-thursday/events/312574917/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-26T19:00:00+02:00",
-   "location": "Online",
-   "summary": "# **Data Thursday - From Spreadsheet Chaos to Automated Data Governance: 3 Days to 3 Minutes!** **What if you could turn three days of manual data updates into just three minutes?** Sounds too good to be true? Not when Data Engineering, Automation and Data Governance come together! Join us for another edition of **Data Thursday**, where we explore how technology, collaboration and smart data solutions can make a real difference. ### 🎤 The Talk: From Spreadsheet Chaos to Automated Data Governance **Speaker: Felicity Shiyu Fan** Imagine a pan-European network of more than **850 community foundations**, collaborating through shared Excel spreadsheets. No automated notifications, limited transpa…",
    "first_seen": "2026-11-14T22:30:30.974377+00:00"
   },
   {
@@ -131,6 +144,19 @@
    "location": "",
    "summary": "Σύμφωνα με τη δεύτερη ετήσια έρευνα της ENTERSOFTONE και του εργαστηρίου ELTRUN του Οικονομικού Πανεπιστημίου Αθηνών (ΟΠΑ).",
    "first_seen": "2026-11-14T09:19:55+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/news/285777/oi-treis-foititikes-omades-pou-katektisan-tin-koryfi-ston-diagonismo-tou-opa-kai-tou-dimou-athinaion",
+   "title": "Οι τρεις φοιτητικές ομάδες που κατέκτησαν την κορυφή στον διαγωνισμό του ΟΠΑ και του Δήμου Αθηναίων",
+   "link": "https://startupper.gr/news/285777/oi-treis-foititikes-omades-pou-katektisan-tin-koryfi-ston-diagonismo-tou-opa-kai-tou-dimou-athinaion/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Με την παρουσίαση έξι ολοκληρωμένων επιχειρηματικών προτάσεων ολοκληρώθηκε το IDEA Factory 2026, το πρόγραμμα επιχειρηματικότητας που υλοποιεί για έκτη συνεχόμενη χρονιά η Μονάδα Μεταφοράς Τεχνολογίας και Καινοτομίας (ACE) του Οικονομικού Πανεπιστημίου Αθηνών και για δεύτερη χρονιά σε σύμπραξη με την Αναπτυξιακή Εταιρεία του Δήμου Αθηναίων The post Οι τρεις φοιτητικές ομάδες που κατέκτησαν την κορυφή στον διαγωνισμό του ΟΠΑ και του Δήμου Αθηναίων appeared first on STARTUPPER .",
+   "first_seen": "2026-11-14T07:03:23+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/ai-kai-prosopika-dedomena-ti-simvainei-stis-sinomilies-mas-otan-mia-etaireia-xreokopei",
