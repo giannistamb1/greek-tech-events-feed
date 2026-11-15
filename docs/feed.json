@@ -1,7 +1,85 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-15T06:42:51.765788+00:00",
+ "built": "2026-11-15T16:24:49.322415+00:00",
  "items": [
+  {
+   "key": "url:https://fortunegreece.com/article/texniti-noimosini-i-ellada-ton-dio-taxititon-to-xasma-37-me-7-pou-apeilei-tin-antagonistikotita",
+   "title": "Τεχνητή νοημοσύνη: Η Ελλάδα των δύο ταχυτήτων – Το χάσμα 37% με 7% που απειλεί την ανταγωνιστικότητα",
+   "link": "https://www.fortunegreece.com/article/texniti-noimosini-i-ellada-ton-dio-taxititon-to-xasma-37-me-7-pou-apeilei-tin-antagonistikotita/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Οι μεγάλες ελληνικές επιχειρήσεις υιοθετούν την τεχνητή νοημοσύνη με πολύ ταχύτερους ρυθμούς από τις μικρές, σύμφωνα με τη νέα έκθεση του ΟΟΣΑ. Η χώρα παραμένει πίσω από τον ευρωπαϊκό μέσο όρο, ενώ το χάσμα σε ψηφιακές δεξιότητες, υποδομές και επενδύσεις δημιουργεί νέες προκλήσεις για την παραγωγικότητα.",
+   "first_seen": "2026-11-15T16:15:13+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/finance/world/2189302/economist-to-skandalo-poy-xeperna-kathe-proigoymeno-apo-tin-krevatokamara-stin-apolyti-katastrofi",
+   "title": "Economist: Το σκάνδαλο που ξεπερνά κάθε προηγούμενο – Από την κρεβατοκάμαρα στην απόλυτη καταστροφή",
+   "link": "https://www.naftemporiki.gr/finance/world/2189302/economist-to-skandalo-poy-xeperna-kathe-proigoymeno-apo-tin-krevatokamara-stin-apolyti-katastrofi/?utm_source=rss&utm_medium=rss&utm_campaign=economist-to-skandalo-poy-xeperna-kathe-proigoymeno-apo-tin-krevatokamara-stin-apolyti-katastrofi",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Εξωσυζυγικές σχέσεις, υποψίες κινεζικής κατασκοπείας, ένας Αμερικανός πρόεδρος που παρεμβαίνει, ένςα υπουργός στο στόχαστρο, η παραίτηση του ισχυρότερου ανθρώπου της AI και εκατοντάδες δισεκατομμύρια δολάρια που εξαϋλώνονται από το χρηματιστήριο.… Economist: Το σκάνδαλο που ξεπερνά κάθε προηγούμενο – Από την κρεβατοκάμαρα στην απόλυτη καταστροφή - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-11-15T13:29:44+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/zelenski-oi-ipa-proteinan-paraxorisi-tou-ntonmpas-me-antallagma-tin-entaxi-tis-oukranias-sto-nato",
+   "title": "Ζελένσκι: Οι ΗΠΑ πρότειναν παραχώρηση του Ντονμπάς με αντάλλαγμα την ένταξη της Ουκρανίας στο ΝΑΤΟ",
+   "link": "https://www.fortunegreece.com/article/zelenski-oi-ipa-proteinan-paraxorisi-tou-ntonmpas-me-antallagma-tin-entaxi-tis-oukranias-sto-nato/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Νέα δεδομένα στις διαπραγματεύσεις για τον τερματισμό του πολέμου στην Ουκρανία, καθώς ο Βολοντίμιρ Ζελένσκι αποκάλυψε ότι η Ουάσιγκτον έθεσε για πρώτη φορά το ενδεχόμενο εδαφικών παραχωρήσεων με αντάλλαγμα την ένταξη του Κιέβου στο ΝΑΤΟ. Χωρίς ουσιαστική συμφωνία ολοκληρώθηκαν οι συνομιλίες στο Αμπού Ντάμπι, με την Ευρώπη να διεκδικεί ενεργό ρόλο στις επόμενες διαπραγματεύσεις.",
+   "first_seen": "2026-11-15T11:15:03+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/eidiseis/432823/psifiaka-ergaleia-stoys-dimoys-me-293280-ilektronikes-epidoseis-eggrafon",
+   "title": "Ψηφιακά εργαλεία στους Δήμους με 293.280 ηλεκτρονικές επιδόσεις εγγράφων",
+   "link": "https://www.insider.gr/eidiseis/432823/psifiaka-ergaleia-stoys-dimoys-me-293280-ilektronikes-epidoseis-eggrafon",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Προχωρά η δημιουργία ενιαίου πληροφοριακού συστήματος για τον υπολογισμό και την παρακολούθηση των δ...",
+   "first_seen": "2026-11-15T09:45:05+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/news/285827/oosa-protoi-stin-techniti-noimosyni-oi-ellines-neoi-me-835-molis-sto-7-oi-mikres-etaireies",
+   "title": "ΟΟΣΑ: Πρώτοι στην Τεχνητή Νοημοσύνη οι Έλληνες νέοι με 83,5%, μόλις στο 7% οι μικρές εταιρείες",
+   "link": "https://startupper.gr/news/285827/oosa-protoi-stin-techniti-noimosyni-oi-ellines-neoi-me-835-molis-sto-7-oi-mikres-etaireies/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Μια ψηφιακή οικονομία δύο ταχυτήτων αποκαλύπτει η νέα έκθεση «OECD Digital Economy and Society Outlook 2026» για τη διείσδυση της Τεχνητής Νοημοσύνης στη χώρα μας The post ΟΟΣΑ: Πρώτοι στην Τεχνητή Νοημοσύνη οι Έλληνες νέοι με 83,5%, μόλις στο 7% οι μικρές εταιρείες appeared first on STARTUPPER .",
+   "first_seen": "2026-11-15T09:07:13+00:00"
+  },
+  {
+   "key": "url:https://techblog.gr/software/chatgpt-wallet-oi-ai-agents-tis-openai-kanoun-pleon-kai-tin-agora",
+   "title": "ChatGPT Wallet: Οι AI agents της OpenAI κάνουν πλέον και την αγορά",
+   "link": "https://techblog.gr/software/chatgpt-wallet-oi-ai-agents-tis-openai-kanoun-pleon-kai-tin-agora/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η OpenAI παρουσίασε το ChatGPT Wallet: οι AI agents dots ολοκληρώνουν αγορές για τον χρήστη. Αρχικά μόνο για συνδρομητές Pro στις ΗΠΑ. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( ChatGPT Wallet: Οι AI agents της OpenAI κάνουν πλέον και την αγορά )",
+   "first_seen": "2026-11-15T08:37:31+00:00"
+  },
   {
    "key": "url:https://meetup.com/agent-builders/events/316959125",
    "title": "\"How I Did 4 Years of Work in 4 months\"",
@@ -16,19 +94,6 @@
    "first_seen": "2026-11-15T06:42:51.765788+00:00"
   },
   {
-   "key": "url:https://businessdaily.gr/tehnologia/243657_psifiakes-ypiresies-stoys-dimoys-meiosi-grafeiokratias-kai-kalyteri-exypiretisi",
-   "title": "Ψηφιακά εργαλεία στους Δήμους: 293.280 ηλεκτρονικές επιδόσεις εγγράφων",
-   "link": "https://www.businessdaily.gr/tehnologia/243657_psifiakes-ypiresies-stoys-dimoys-meiosi-grafeiokratias-kai-kalyteri-exypiretisi?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=Sokratis%20Psaltis",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Πάνω από 293.000 έγγραφα έχουν διανεμηθεί ψηφιακά μέσω gov.gr, ενώ ετοιμάζεται ενιαίο σύστημα για δημοτικά τέλη και φόρους. Στόχος η μείωση...",
-   "first_seen": "2026-11-15T06:12:09+00:00"
-  },
-  {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317244108",
    "title": "Saturday Social at Mint Bar – International Mingle event",
    "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317244108/",
@@ -39,19 +104,6 @@
    "starts": "2026-11-21T21:30:00+02:00",
    "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
    "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-11-14T22:30:30.974377+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317222771",
-   "title": "Latinos Night | Where Social Meets Latin Rhythm 🎶",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317222771/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-20T20:00:00+02:00",
-   "location": "Athens, 0, Athens, Athens",
-   "summary": "This is not just another Friday night — it is a real Latin social experience. 🇱🇦🔥 Location: https://maps.app.goo.gl/9cEtfXNj91suh7TM9?g_st=ac If you have been looking for a night where you can meet new people, talk, laugh, move around, dance a little, and feel the energy, this is the one. Latinos Night | Kallithea is back every second Friday at El Latino Café Bar — a cozy hidden Latin spot just a short walk from Kallithea Metro 🚇 The concept is simple: a social night with real connection, great music, and the freedom to do both — stand, sit, mingle, dance, and enjoy the vibe exactly how you like it. 🎧 Latin DJ all night 💃 Social atmosphere with movement and connection 🍹 Happy Hour 8:30–10:00…",
    "first_seen": "2026-11-14T22:30:30.974377+00:00"
   },
   {
@@ -79,19 +131,6 @@
    "location": "",
    "summary": "Ως τον υπ’ αριθμόν ένα κίνδυνο για τη σταθερότητα του παγκόσμιου χρηματοπιστωτικού συστήματος αναδεικνύει την Τεχνητή Νοημοσύνη (AI) η εξαμηνιαία έκθεση της Ομοσπονδιακής Τράπεζας των ΗΠΑ (Fed).",
    "first_seen": "2026-11-14T16:00:02+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/xiaomi18-pro-erchetai-gia-na-axiopoiisei-perissotero-tin-deyteri-othoni",
-   "title": "Xiaomi 18 Pro: Έρχεται για να αξιοποιήσει περισσότερο την δεύτερη οθόνη",
-   "link": "https://techmaniacs.gr/xiaomi18-pro-erchetai-gia-na-axiopoiisei-perissotero-tin-deyteri-othoni/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Xiaomi ετοιμάζεται για την επίσημη παγκόσμια παρουσίαση των Xiaomi 18 Pro και 18 Pro Max στις 17 Νοεμβρίου στο Παρίσι, μια κυκλοφορία που αφορά άμεσα και την ελληνική αγορά. Οι νέες ναυαρχίδες, πέρα από κορυφαίες επιδόσεις, μεγάλες μπαταρίες και αναβαθμισμένες κάμερες, φέρνουν ως βασικό στοιχείο διαφοροποίησης τη δεύτερη οθόνη στην πλάτη, ένα χαρακτηριστικό που […] The post Xiaomi 18 Pro: Έρχεται για να αξιοποιήσει περισσότερο την δεύτερη οθόνη appeared first on Techmaniacs .",
-   "first_seen": "2026-11-14T13:32:11+00:00"
   },
   {
    "key": "url:https://meetup.com/athens-python-users-meetup/events/317407775",
@@ -367,19 +406,6 @@
    "first_seen": "2026-11-13T01:53:02.483123+00:00"
   },
   {
-   "key": "url:https://fortunegreece.com/article/aade-telos-sti-grafeiokratia-gia-tin-apallagi-fpa-ti-allazei-gia-150-epixeiriseis",
-   "title": "ΑΑΔΕ: Τέλος στη γραφειοκρατία για την απαλλαγή ΦΠΑ – Τι αλλάζει για 150 επιχειρήσεις",
-   "link": "https://www.fortunegreece.com/article/aade-telos-sti-grafeiokratia-gia-tin-apallagi-fpa-ti-allazei-gia-150-epixeiriseis/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Νέα ψηφιακή διαδικασία καταργεί τις χειρόγραφες βεβαιώσεις και τις φυσικές αιτήσεις στα τελωνεία, μειώνοντας το διοικητικό κόστος για επιχειρήσεις που δραστηριοποιούνται σε ειδικά τελωνειακά καθεστώτα.",
-   "first_seen": "2026-11-12T19:31:38+00:00"
-  },
-  {
    "key": "url:https://techgear.gr/alphagenome-2-to-neo-ai-montelo-provlepsis-genetikon-astheneion-tis-google-deepmind-51313",
    "title": "AlphaGenome 2: Το νέο AI μοντέλο πρόβλεψης γενετικών ασθενειών της Google DeepMind",
    "link": "https://www.techgear.gr/alphagenome-2-to-neo-ai-montelo-provlepsis-genetikon-astheneion-tis-google-deepmind-51313",
@@ -391,32 +417,6 @@
    "location": "",
    "summary": "Σύνοψη Η Google DeepMind παρουσίασε επίσημα το AlphaGenome 2, ένα αναβαθμισμένο μοντέλο τεχνητής νοημοσύνης το οποίο προβλέπει τις επιπτώσεις των ...",
    "first_seen": "2026-11-12T18:51:00+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/tzensen-xouangk-apo-ena-estiatorio-to-1993-se-mia-aftokratoria-4-tris-dolarion-to-telos-mias-epoxis-gia-ti-nvidia",
-   "title": "Τζένσεν Χουάνγκ: Από ένα εστιατόριο το 1993 σε μια αυτοκρατορία 4 τρισ. δολαρίων – Το τέλος μιας εποχής για τη NVIDIA",
-   "link": "https://www.fortunegreece.com/article/tzensen-xouangk-apo-ena-estiatorio-to-1993-se-mia-aftokratoria-4-tris-dolarion-to-telos-mias-epoxis-gia-ti-nvidia/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η παραίτηση του ανθρώπου που μετέτρεψε μια μικρή startup σε κυρίαρχη δύναμη της τεχνητής νοημοσύνης κλείνει έναν κύκλο 33 ετών.",
-   "first_seen": "2026-11-12T17:31:15+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/hellas-space-2-0-prokirixthike-o-protos-diagonismos-ipsous-69-ekat-evro-i-ellada-apokta-neous-optikous-doriforous-poli-ipsilis-analisis",
-   "title": "HELLAS–SPACE 2.0: Προκηρύχθηκε ο πρώτος διαγωνισμός ύψους 69 εκατ. ευρώ – Η Ελλάδα αποκτά νέους οπτικούς δορυφόρους πολύ υψηλής ανάλυσης",
-   "link": "https://www.fortunegreece.com/article/hellas-space-2-0-prokirixthike-o-protos-diagonismos-ipsous-69-ekat-evro-i-ellada-apokta-neous-optikous-doriforous-poli-ipsilis-analisis/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το έργο αφορά στην ανάπτυξη εθνικού αστερισμού τριών οπτικών δορυφόρων Παρατήρησης της Γης πολύ υψηλής χωρικής ανάλυσης, με στόχο την ενίσχυση της αυτονομίας της χώρας στην πρόσβαση σε δορυφορικά δεδομένα και την κάλυψη επιχειρησιακών αναγκών των Δημόσιων Υπηρεσιών.",
-   "first_seen": "2026-11-12T13:45:24+00:00"
   },
   {
    "key": "url:https://techgear.gr/ereyna-ta-energeiaka-pota-syndeontai-me-11plasio-kindyno-kardiakis-anakopis-stoys-neoys-51309",
@@ -455,19 +455,6 @@
    "starts": "2026-11-24T20:00:00+02:00",
    "location": "Online",
    "summary": "For our November meet-up, we will be welcoming Christopher Daly & Samson Nwizugbe **Samson Nwizugbe** \\- Process Managers\\, Not Process\\-Aware Aggregates: Coordinating Long\\-Running Workflows in DDD with Wolverine When a workflow spans several aggregates, the logic tends to end up in one of two bad places. Either it sits in a god-class orchestrator that knows too much about everything downstream, or it leaks into the aggregates themselves until they're tracking steps, waiting on other aggregates and making decisions that have nothing to do with their own invariants. This talk walks through using Wolverine's Saga support as a dedicated process manager. It reacts to domain events, tracks where…",
-   "first_seen": "2026-11-12T11:24:40.937494+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/data-centers-ependitiko-endiaferon-eos-10-dis-evro-stin-ellada-kai-i-maxi-gia-ilektriko-xoro",
-   "title": "Data centers: Επενδυτικό ενδιαφέρον έως 10 δισ. ευρώ στην Ελλάδα και η μάχη για ηλεκτρικό χώρο",
-   "link": "https://www.fortunegreece.com/article/data-centers-ependitiko-endiaferon-eos-10-dis-evro-stin-ellada-kai-i-maxi-gia-ilektriko-xoro/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι αιτήσεις σύνδεσης αγγίζουν τα 11 GW, ενώ τα έργα που λειτουργούν ή κατασκευάζονται αποτιμώνται σε περίπου 1 δισ. ευρώ. Τι προβλέπει το νομοσχέδιο για την αγορά ηλεκτρικής ενέργειας που ψηφίστηκε χθες στη Βουλή και ποιες αλλαγές ζητά ο κλάδος.",
    "first_seen": "2026-11-12T11:24:40.937494+00:00"
   },
   {
