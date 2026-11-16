@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 06:40:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 19:39:40 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[12 Dec] DevFest Athens 2026</title>
+<link>https://dev.events/conferences/dev-fest-athens-2026-wf18v18j</link>
+<guid isPermaLink="false">url:https://dev.events/conferences/dev-fest-athens-2026-wf18v18j</guid>
+<pubDate>Mon, 16 Nov 2026 19:39:40 +0000</pubDate>
+<category>Conferences &amp; expos</category>
+<source url="https://dev.events/EU/GR/tech">dev.events — Greece</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 12 December 2026, 02:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Moschato, Greece, Moschato&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; dev.events — Greece · Conferences &amp;amp; expos&lt;/p&gt;&lt;p&gt;Tech conference in Moschato, Greece&lt;/p&gt;</description>
+</item>
 <item>
 <title>[21 Nov] Saturday Social at Mint Bar – Meet, Talk &amp; See Where the Night Goes</title>
 <link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317244074/</link>
@@ -171,15 +180,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; The Snappi Hub, Korai 5, Athina 105 64, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;### ***Registration — Limited Seating Capacity*** Due to limited seating capacity, please complete the registration form to secure your spot. Seats will be confirmed by email, subject to availability. **[Registration Form — [https://forms.gle/PgorJATqKBA48VEW7](https://forms.gle/PgorJATqKBA48VEW7)]** Dear Agileans, Since 2013, Agile Greece has brought together people *from the trenches*. Practitioners sharing real experiences, lessons learned, and practical knowledge about how organizations can evolve. Today, we believe it's time for another important conversation. **AI agents are no longer just tools. They're becoming part of how organizations work.** But what does that really mean for our …&lt;/p&gt;</description>
 </item>
 <item>
-<title>[01 Dec] What can you do with a DAX query? | Zoe Douglas</title>
-<link>https://www.meetup.com/d-c_powerbi/events/316998859/</link>
-<guid isPermaLink="false">url:https://meetup.com/d-c_powerbi/events/316998859</guid>
-<pubDate>Sun, 08 Nov 2026 10:29:27 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 01 December 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**What can you do with a DAX query? \| Zoe Douglas** Power BI has a query language to get data out of the semantic model -- the DAX query. This is different from DAX formulas you find in calculated columns, tables, and measures. With DAX query view you can quickly use this to understand your data, try out new formulas, and troubleshoot formulas you already have. If you were ever curious about what a DAX query was or want to know more, come and find out! **Zoe Douglas, Product Manager at Microsoft** I am a product manager for Power BI at Microsoft. I focus on unlocking awesome features for visuals and dedicated to helping all customers get the most out of their data!&lt;/p&gt;</description>
-</item>
-<item>
 <title>[20 Nov] AI for DevOps &amp; SRE: From Impressive Demos to Operational Trust</title>
 <link>https://www.meetup.com/bucharest-xdevops-meetup-group/events/316850587/</link>
 <guid isPermaLink="false">url:https://meetup.com/bucharest-xdevops-meetup-group/events/316850587</guid>
@@ -223,6 +223,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 21 November 2026, 13:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[17 Nov] See What Changed: AI &amp; Semantic Models in Tabular Editor | Ruben Van de Voorde</title>
+<link>https://www.meetup.com/d-c_powerbi/events/316695236/</link>
+<guid isPermaLink="false">url:https://meetup.com/d-c_powerbi/events/316695236</guid>
+<pubDate>Sat, 31 Oct 2026 12:41:44 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 17 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \- Connect an agent you already use\, such as Claude Code or GitHub Copilot\, to the model you have open through the MCP server\, and delegate a task that involves multiple changes \- Decide what the agent may do\, for example edit the model's metadata without reading its data \- Follow the agent's changes as it works\, and revert all or only those changes you disagree with \- Let the …&lt;/p&gt;</description>
 </item>
 <item>
 <title>[05 Dec] TECHNIQUES 2026: CHARLOTTE DE WITTE IN ATHENS</title>

@@ -1,6 +1,6 @@
 {
-  "built": "2026-11-16T06:40:36.179363+00:00",
-  "items": 59,
+  "built": "2026-11-16T19:39:40.463943+00:00",
+  "items": 62,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -40,8 +40,8 @@
     },
     {
       "name": "dev.events — Greece",
-      "fetched": 8,
-      "kept": 8,
+      "fetched": 9,
+      "kept": 9,
       "error": ""
     },
     {
@@ -53,13 +53,13 @@
     {
       "name": "ICT Plus",
       "fetched": 21,
-      "kept": 3,
+      "kept": 5,
       "error": ""
     },
     {
       "name": "Techgear",
       "fetched": 50,
-      "kept": 5,
+      "kept": 4,
       "error": ""
     },
     {
@@ -77,25 +77,25 @@
     {
       "name": "Naftemporiki",
       "fetched": 30,
-      "kept": 3,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Insider.gr",
       "fetched": 60,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Fortune Greece",
-      "fetched": 75,
-      "kept": 6,
+      "fetched": 141,
+      "kept": 7,
       "error": ""
     },
     {
       "name": "Business Daily",
       "fetched": 40,
-      "kept": 2,
+      "kept": 0,
       "error": ""
     },
     {
@@ -107,13 +107,13 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 0,
+      "kept": 2,
       "error": ""
     },
     {
       "name": "Netweek",
       "fetched": 10,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
