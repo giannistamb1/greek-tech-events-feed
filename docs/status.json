@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-16T19:39:40.463943+00:00",
+  "built": "2026-11-17T03:57:07.260322+00:00",
   "items": 62,
   "sources": [
     {
@@ -88,14 +88,14 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 141,
+      "fetched": 145,
       "kept": 7,
       "error": ""
     },
     {
       "name": "Business Daily",
       "fetched": 40,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
@@ -107,7 +107,7 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {

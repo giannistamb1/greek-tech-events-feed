@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-16T19:39:40.463943+00:00",
+ "built": "2026-11-17T03:57:07.260322+00:00",
  "items": [
+  {
+   "key": "url:https://businessdaily.gr/politiki/243931_i-tehniti-noimosyni-os-mohlos-antagonistikotitas-kai-anaptyxis-ston-toyrismo",
+   "title": "Κεφαλογιάννη: ΤΝ με αξία για τουρισμό και προορισμούς",
+   "link": "https://www.businessdaily.gr/politiki/243931_i-tehniti-noimosyni-os-mohlos-antagonistikotitas-kai-anaptyxis-ston-toyrismo?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Η Όλγα Κεφαλογιάννη στο 5ο GenAI Summit τόνισε τη σημασία της τεχνητής νοημοσύνης για την ανταγωνιστικότητα και βιώσιμη ανάπτυξη του τουρισμού,...",
+   "first_seen": "2026-11-16T20:40:12+00:00"
+  },
   {
    "key": "url:https://dev.events/conferences/dev-fest-athens-2026-wf18v18j",
    "title": "DevFest Athens 2026",
@@ -131,19 +144,6 @@
    "location": "",
    "summary": "Η αιφνιδιαστική παραίτηση του συνιδρυτή και επί δεκαετίες ηγέτη της Nvidia βύθισε τον κολοσσό των ημιαγωγών σε βαθιά κρίση, πυροδοτώντας έναν πρωτοφανή εμφύλιο ισχύος ανάμεσα στην τεχνολογική αγορά και την Ουάσινγκτον The post Nvidia: Παρασκηνιακός «πυρετός» στη Silicon Valley για την επιστροφή του Τζένσεν Χουάνγκ appeared first on STARTUPPER .",
    "first_seen": "2026-11-16T12:35:08+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/nasa-strepste-fakoys-kai-kinita-pros-ton-oyrano-stis-17-noemvrioy",
-   "title": "NASA: Στρέψτε φακούς και κινητά προς τον ουρανό στις 17 Νοεμβρίου",
-   "link": "https://techmaniacs.gr/nasa-strepste-fakoys-kai-kinita-pros-ton-oyrano-stis-17-noemvrioy/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η NASA έστειλε μια ξεχωριστή πρόσκληση στους ανθρώπους σε όλο τον κόσμο για το βράδυ της 17ης Νοεμβρίου. Σε αυτή, ζητάει από όσους θέλουν να συμμετάσχουν, να στρέψουν έναν φακό ή το κινητό τους προς τον ουρανό και να αναβοσβήσουν ένα σύντομο μήνυμα σε κώδικα Μορς. Όχι, στόχος δεν είναι να επικοινωνήσουμε με εξωγήινους, αλλά […] The post NASA: Στρέψτε φακούς και κινητά προς τον ουρανό στις 17 Νοεμβρίου appeared first on Techmaniacs .",
-   "first_seen": "2026-11-16T12:34:55+00:00"
   },
   {
    "key": "url:https://startupper.gr/all-connected/285937/pos-oi-foritoi-ssd-kai-oi-kartes-microsd-express-apantoun-stin-ekrixi-ton-100-gb",
@@ -510,19 +510,6 @@
    "first_seen": "2026-11-12T11:24:40.937494+00:00"
   },
   {
-   "key": "url:https://meetup.com/ux-research-meetups/events/317366711",
-   "title": "[Workshop] Getting started with UXtweak",
-   "link": "https://www.meetup.com/ux-research-meetups/events/317366711/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-26T19:00:00+02:00",
-   "location": "Online",
-   "summary": "**📆 Date:** November 26, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online **💸 Free event** New to UXtweak, or curious what it can do for your research? Join us for a live workshop, where you choose what we explore. **What we'll cover:** * A quick introduction to UXtweak and how it fits into your UX research workflow * A tour of the main tools: usability testing, interviews, card sorting, tree testing, surveys, and more * A live, step-by-step study setup of the study of your choice, so you can see exactly how a study goes from idea to launch * Open Q&A: bring your questions and we'll answer them on the spot **By the end, you'll be able to:** * Choose the …",
-   "first_seen": "2026-11-12T00:47:43.572753+00:00"
-  },
-  {
    "key": "url:https://meetup.com/gdg-cloud-thessaloniki/events/317372972",
    "title": "FinOps for ML and GenAI on Google Cloud: Cost per Task, Not Cost per Token",
    "link": "https://www.meetup.com/gdg-cloud-thessaloniki/events/317372972/",
@@ -611,6 +598,19 @@
    "starts": "2026-11-26T18:00:00+02:00",
    "location": "The Snappi Hub, Korai 5, Athina 105 64, Greece, Athina, Athina",
    "summary": "### ***Registration — Limited Seating Capacity*** Due to limited seating capacity, please complete the registration form to secure your spot. Seats will be confirmed by email, subject to availability. **[Registration Form — [https://forms.gle/PgorJATqKBA48VEW7](https://forms.gle/PgorJATqKBA48VEW7)]** Dear Agileans, Since 2013, Agile Greece has brought together people *from the trenches*. Practitioners sharing real experiences, lessons learned, and practical knowledge about how organizations can evolve. Today, we believe it's time for another important conversation. **AI agents are no longer just tools. They're becoming part of how organizations work.** But what does that really mean for our …",
+   "first_seen": "2026-11-08T10:29:27.370401+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/d-c_powerbi/events/316998859",
+   "title": "What can you do with a DAX query? | Zoe Douglas",
+   "link": "https://www.meetup.com/d-c_powerbi/events/316998859/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-12-01T20:00:00+02:00",
+   "location": "Online",
+   "summary": "**What can you do with a DAX query? \\| Zoe Douglas** Power BI has a query language to get data out of the semantic model -- the DAX query. This is different from DAX formulas you find in calculated columns, tables, and measures. With DAX query view you can quickly use this to understand your data, try out new formulas, and troubleshoot formulas you already have. If you were ever curious about what a DAX query was or want to know more, come and find out! **Zoe Douglas, Product Manager at Microsoft** I am a product manager for Power BI at Microsoft. I focus on unlocking awesome features for visuals and dedicated to helping all customers get the most out of their data!",
    "first_seen": "2026-11-08T10:29:27.370401+00:00"
   },
   {

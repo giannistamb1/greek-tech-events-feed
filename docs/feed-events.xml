@@ -6,7 +6,7 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Mon, 16 Nov 2026 19:39:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 03:57:07 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
 <title>[12 Dec] DevFest Athens 2026</title>
@@ -108,15 +108,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 24 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;For our November meet-up, we will be welcoming Christopher Daly &amp;amp; Samson Nwizugbe **Samson Nwizugbe** \- Process Managers\, Not Process\-Aware Aggregates: Coordinating Long\-Running Workflows in DDD with Wolverine When a workflow spans several aggregates, the logic tends to end up in one of two bad places. Either it sits in a god-class orchestrator that knows too much about everything downstream, or it leaks into the aggregates themselves until they're tracking steps, waiting on other aggregates and making decisions that have nothing to do with their own invariants. This talk walks through using Wolverine's Saga support as a dedicated process manager. It reacts to domain events, tracks where…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[26 Nov] [Workshop] Getting started with UXtweak</title>
-<link>https://www.meetup.com/ux-research-meetups/events/317366711/</link>
-<guid isPermaLink="false">url:https://meetup.com/ux-research-meetups/events/317366711</guid>
-<pubDate>Thu, 12 Nov 2026 00:47:43 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**📆 Date:** November 26, 2026 **🕔 Time:** 12:00 p.m. EST / 6:00 p.m. CET / 9:00 a.m. PST **📍 Location:** Online **💸 Free event** New to UXtweak, or curious what it can do for your research? Join us for a live workshop, where you choose what we explore. **What we'll cover:** * A quick introduction to UXtweak and how it fits into your UX research workflow * A tour of the main tools: usability testing, interviews, card sorting, tree testing, surveys, and more * A live, step-by-step study setup of the study of your choice, so you can see exactly how a study goes from idea to launch * Open Q&amp;amp;A: bring your questions and we'll answer them on the spot **By the end, you'll be able to:** * Choose the …&lt;/p&gt;</description>
-</item>
-<item>
 <title>[23 Nov] FinOps for ML and GenAI on Google Cloud: Cost per Task, Not Cost per Token</title>
 <link>https://www.meetup.com/gdg-cloud-thessaloniki/events/317372972/</link>
 <guid isPermaLink="false">url:https://meetup.com/gdg-cloud-thessaloniki/events/317372972</guid>
@@ -178,6 +169,15 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 18:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; The Snappi Hub, Korai 5, Athina 105 64, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;### ***Registration — Limited Seating Capacity*** Due to limited seating capacity, please complete the registration form to secure your spot. Seats will be confirmed by email, subject to availability. **[Registration Form — [https://forms.gle/PgorJATqKBA48VEW7](https://forms.gle/PgorJATqKBA48VEW7)]** Dear Agileans, Since 2013, Agile Greece has brought together people *from the trenches*. Practitioners sharing real experiences, lessons learned, and practical knowledge about how organizations can evolve. Today, we believe it's time for another important conversation. **AI agents are no longer just tools. They're becoming part of how organizations work.** But what does that really mean for our …&lt;/p&gt;</description>
+</item>
+<item>
+<title>[01 Dec] What can you do with a DAX query? | Zoe Douglas</title>
+<link>https://www.meetup.com/d-c_powerbi/events/316998859/</link>
+<guid isPermaLink="false">url:https://meetup.com/d-c_powerbi/events/316998859</guid>
+<pubDate>Sun, 08 Nov 2026 10:29:27 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 01 December 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**What can you do with a DAX query? \| Zoe Douglas** Power BI has a query language to get data out of the semantic model -- the DAX query. This is different from DAX formulas you find in calculated columns, tables, and measures. With DAX query view you can quickly use this to understand your data, try out new formulas, and troubleshoot formulas you already have. If you were ever curious about what a DAX query was or want to know more, come and find out! **Zoe Douglas, Product Manager at Microsoft** I am a product manager for Power BI at Microsoft. I focus on unlocking awesome features for visuals and dedicated to helping all customers get the most out of their data!&lt;/p&gt;</description>
 </item>
 <item>
 <title>[20 Nov] AI for DevOps &amp; SRE: From Impressive Demos to Operational Trust</title>
