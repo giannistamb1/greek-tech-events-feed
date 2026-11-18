@@ -1,7 +1,241 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-18T00:59:40.103299+00:00",
+ "built": "2026-11-18T11:51:00.492273+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/aws-user-group-athens/events/317470320",
+   "title": "Cloud, Costs & Christmas: AI Tokenomics & Scaling on AWS",
+   "link": "https://www.meetup.com/aws-user-group-athens/events/317470320/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-12-10T18:00:00+02:00",
+   "location": "Epignosis, Likourgou 1, Athina 105 51, Greece, Athina, Athina",
+   "summary": "Greetings, AWS Enthusiasts! 🎄 We’re wrapping up the year with an AWS User Group Athens Christmas special: practical conversations about AI spend, scaling cloud operations, and a festive evening with the community. Join us for a deep dive into tokenomics with Babatunde Akinoso, followed by a fireside chat with Sotiris Tsimbonis and Moritz Guertler on the lessons from Hellas Direct’s collaboration with DoiT. Expect melomakarona, kourampiedes, **swag from DoiT**, and a happy hour at **Tales of Ales**, sponsored by **DoiT**. Come for the cloud insights, stay for the Christmas cheer! 🍻 **🕓 Meetup Outline** 18:00 – 18:30: Warm welcome, Christmas treats & networking 18:30 – 19:20: Where Did Our AI …",
+   "first_seen": "2026-11-18T11:51:00.492273+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/english/2190819/bozou-google-at-naftemporikis-5th-economic-conference-ai-presents-a-major-opportunity-and-a-challenge-for-greece",
+   "title": "Bozou (Google) at Naftemporiki’s 5th Economic Conference: AI presents a major opportunity – and a challenge – for Greece",
+   "link": "https://www.naftemporiki.gr/english/2190819/bozou-google-at-naftemporikis-5th-economic-conference-ai-presents-a-major-opportunity-and-a-challenge-for-greece/?utm_source=rss&utm_medium=rss&utm_campaign=bozou-google-at-naftemporikis-5th-economic-conference-ai-presents-a-major-opportunity-and-a-challenge-for-greece",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Artificial intelligence represents a major opportunity but also a significant challenge for Greece, said Eugenia Bozou, Google’s Director of Government Affairs and Public Policy for Greece, Cyprus and Malta, speaking… Bozou (Google) at Naftemporiki’s 5th Economic Conference: AI presents a major opportunity – and a challenge – for Greece - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-11-18T11:36:01+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/english/2190804/sabatakakis-accenture-at-naftemporikis-5th-economic-conference-artificial-intelligence-delivers-added-value",
+   "title": "Sabatakakis (Accenture) at Naftemporiki’s 5th Economic Conference: Artificial intelligence delivers added value",
+   "link": "https://www.naftemporiki.gr/english/2190804/sabatakakis-accenture-at-naftemporikis-5th-economic-conference-artificial-intelligence-delivers-added-value/?utm_source=rss&utm_medium=rss&utm_campaign=sabatakakis-accenture-at-naftemporikis-5th-economic-conference-artificial-intelligence-delivers-added-value",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "“Artificial intelligence delivers added value,” said Dr Kyriakos Sabatakakis, Chairman and CEO of Accenture, speaking at Naftemporiki’s 5th Economic Conference, held at Conrad Athens – The Ilisian under the central… Sabatakakis (Accenture) at Naftemporiki’s 5th Economic Conference: Artificial intelligence delivers added value - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-11-18T11:09:13+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/stanlei-ntrakenmiler-short-ston-xalko-proeidopoiisi-gia-oikonomiki-adinamia-to-2027-kai-strofi-stis-efarmoges-ai",
+   "title": "Στάνλεϊ Ντράκενμιλερ: «Short» στον χαλκό, προειδοποίηση για οικονομική αδυναμία το 2027 και στροφή στις εφαρμογές AI",
+   "link": "https://www.fortunegreece.com/article/stanlei-ntrakenmiler-short-ston-xalko-proeidopoiisi-gia-oikonomiki-adinamia-to-2027-kai-strofi-stis-efarmoges-ai/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Ο δισεκατομμυριούχος επενδυτής υιοθετεί αμυντική στάση, μειώνει την έκθεση σε μετοχές, ποντάρει στην πτώση του χαλκού και στρέφεται από τις υποδομές AI στις πρακτικές εφαρμογές τεχνητής νοημοσύνης.",
+   "first_seen": "2026-11-18T11:05:53+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/finance/economy/2190785/t-theodorikakos-sto-5o-oikonomiko-synedrio-tis-naytemporikis-i-paragogikotita-einai-to-megalo-ethniko-stoichima",
+   "title": "Τ. Θεοδωρικάκος στο 5ο Οικονομικό Συνέδριο της Ναυτεμπορικής: Η παραγωγικότητα είναι το μεγάλο εθνικό στοίχημα",
+   "link": "https://www.naftemporiki.gr/finance/economy/2190785/t-theodorikakos-sto-5o-oikonomiko-synedrio-tis-naytemporikis-i-paragogikotita-einai-to-megalo-ethniko-stoichima/?utm_source=rss&utm_medium=rss&utm_campaign=t-theodorikakos-sto-5o-oikonomiko-synedrio-tis-naytemporikis-i-paragogikotita-einai-to-megalo-ethniko-stoichima",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Την ανάγκη επιτάχυνσης του παραγωγικού μετασχηματισμού της ελληνικής οικονομίας, με αιχμή τη βιομηχανία, την ενέργεια, την τεχνολογία και την καινοτομία, ανέδειξε ο υπουργός Ανάπτυξης Τάκης Θεοδωρικάκος, μιλώντας στο 5ο Οικονομικό… Τ. Θεοδωρικάκος στο 5ο Οικονομικό Συνέδριο της Ναυτεμπορικής: Η παραγωγικότητα είναι το μεγάλο εθνικό στοίχημα - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-11-18T10:52:40+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/papathanasis-100-ekat-evro-apo-to-espa-gia-ependyseis-se-stratigikes-technologies-amyna-kai-asfaleia",
+   "title": "Παπαθανάσης: 100 εκατ. ευρώ από το ΕΣΠΑ για επενδύσεις σε στρατηγικές τεχνολογίες, Άμυνα και Ασφάλεια",
+   "link": "https://www.ictplus.gr/papathanasis-100-ekat-evro-apo-to-espa-gia-ependyseis-se-stratigikes-technologies-amyna-kai-asfaleia/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Την Πρόσκληση της Δράσης «Ενίσχυση Μεσαίων και Μεγάλων Επιχειρήσεων σε τομείς Στρατηγικών Τεχνολογιών για την Ευρώπη (STEP) και Άμυνας & Ασφάλειας (Defence)» του Προγράμματος ΕΣΠΑ «Ανταγωνιστικότητα 2021- 2027» για την ανάπτυξη κρίσιμων τεχνολογιών, την ενίσχυση της παραγωγικής βάσης και τη στήριξη της ευρωπαϊκής στρατηγικής αυτονομίας, υπέγραψε ο αναπληρωτής υπουργός Εθνικής Οικονομίας και Οικονομικών Νίκος Παπαθανάσης. […] Το άρθρο Παπαθανάσης: 100 εκατ. ευρώ από το ΕΣΠΑ για επενδύσεις σε στρατηγικές τεχνολογίες, Άμυνα και Ασφάλεια εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-11-18T10:43:42+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/business/2190783/espa-100-ekat-eyro-gia-ependyseis-mesaion-kai-megalon-epicheiriseon-se-stratigikes-technologies-gia-tin-eyropi-kai-stoys-tomeis-amynas-asfaleias",
+   "title": "ΕΣΠΑ: 100 εκατ. ευρώ για επενδύσεις μεσαίων και μεγάλων επιχειρήσεων σε στρατηγικές τεχνολογίες για την Ευρώπη και σε Άμυνα-Ασφάλεια",
+   "link": "https://www.naftemporiki.gr/business/2190783/espa-100-ekat-eyro-gia-ependyseis-mesaion-kai-megalon-epicheiriseon-se-stratigikes-technologies-gia-tin-eyropi-kai-stoys-tomeis-amynas-asfaleias/?utm_source=rss&utm_medium=rss&utm_campaign=espa-100-ekat-eyro-gia-ependyseis-mesaion-kai-megalon-epicheiriseon-se-stratigikes-technologies-gia-tin-eyropi-kai-stoys-tomeis-amynas-asfaleias",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Την πρόσκληση της Δράσης «Ενίσχυση Μεσαίων και Μεγάλων Επιχειρήσεων σε τομείς Στρατηγικών Τεχνολογιών για την Ευρώπη (STEP) και Άμυνας & Ασφάλειας (Defence)» του Προγράμματος ΕΣΠΑ «Ανταγωνιστικότητα 2021-2027» για την ανάπτυξη… ΕΣΠΑ: 100 εκατ. ευρώ για επενδύσεις μεσαίων και μεγάλων επιχειρήσεων σε στρατηγικές τεχνολογίες για την Ευρώπη και σε Άμυνα-Ασφάλεια - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-11-18T10:40:10+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/finance/economy/2190788/ey-mpozoy-google-sto-5o-oikonomiko-synedrio-tis-n-megali-eykairia-alla-kai-stoichima-gia-tin-ellada-i-techniti-noimosyni",
+   "title": "Ευ. Μπόζου (Google) στο 5ο Οικονομικό Συνέδριο της «Ν»: Μεγάλη ευκαιρία αλλά και στοίχημα για την Ελλάδα η τεχνητή νοημοσύνη",
+   "link": "https://www.naftemporiki.gr/finance/economy/2190788/ey-mpozoy-google-sto-5o-oikonomiko-synedrio-tis-n-megali-eykairia-alla-kai-stoichima-gia-tin-ellada-i-techniti-noimosyni/?utm_source=rss&utm_medium=rss&utm_campaign=ey-mpozoy-google-sto-5o-oikonomiko-synedrio-tis-n-megali-eykairia-alla-kai-stoichima-gia-tin-ellada-i-techniti-noimosyni",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Μεγάλη ευκαιρία αλλά και στοίχημα για την Ελλάδα χαρακτήρισε την τεχνητή νοημοσύνη η διευθύντρια Κυβερνητικών Υποθέσεων & Δημόσιας Πολιτικής της Google για την Ελλάδα, την Κύπρο και τη Μάλτα, Ευγενία… Ευ. Μπόζου (Google) στο 5ο Οικονομικό Συνέδριο της «Ν»: Μεγάλη ευκαιρία αλλά και στοίχημα για την Ελλάδα η τεχνητή νοημοσύνη - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-11-18T10:38:17+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/google-ta-prosorina-nimata-einai-pleon-diathesima-sti-leitourgia-ai-tis-anazitisis",
+   "title": "Google: Τα προσωρινά νήματα είναι πλέον διαθέσιμα στη λειτουργία AI της αναζήτησης",
+   "link": "https://www.ictplus.gr/google-ta-prosorina-nimata-einai-pleon-diathesima-sti-leitourgia-ai-tis-anazitisis/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Google ανακοίνωσε τη διάθεση των Προσωρινών Νημάτων (Temporary Threads) στη Λειτουργία AI (AI Mode) της Αναζήτησης, μιας νέας δυνατότητας που επιτρέπει στους χρήστες να εξερευνούν ιδέες και να υποβάλλουν ερωτήσεις, χωρίς οι συνομιλίες τους να αποθηκεύονται στο ιστορικό ή να επηρεάζουν τη μελλοντική εξατομίκευση. Η συγκεκριμένη λειτουργία γίνεται σταδιακά διαθέσιμη παγκοσμίως σε προγράμματα περιήγησης […] Το άρθρο Google: Τα προσωρινά νήματα είναι πλέον διαθέσιμα στη λειτουργία AI της αναζήτησης εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-11-18T10:33:57+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/politiki/244227_espa-100-ekat-eyro-gia-ependyseis-se-stratigikes-tehnologies-amyna-kai-asfaleia",
+   "title": "100 εκατ. ευρώ από το ΕΣΠΑ για επενδύσεις σε τεχνολογίες Άμυνας",
+   "link": "https://www.businessdaily.gr/politiki/244227_espa-100-ekat-eyro-gia-ependyseis-se-stratigikes-tehnologies-amyna-kai-asfaleia?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Υπεγράφη η πρόσκληση για ενίσχυση επενδύσεων μεσαίων και μεγάλων επιχειρήσεων στους τομείς στρατηγικών τεχνολογιών και άμυνας μέσω του ΕΣΠΑ, με 100...",
+   "first_seen": "2026-11-18T10:32:43+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/oikonomia/433231/ekt-tripli-proeidopoiisi-gia-tehniti-noimosyni-hrei-kai-geopolitiki",
+   "title": "ΕΚΤ: Τριπλή προειδοποίηση για τεχνητή νοημοσύνη, χρέη και γεωπολιτική",
+   "link": "https://www.insider.gr/oikonomia/433231/ekt-tripli-proeidopoiisi-gia-tehniti-noimosyni-hrei-kai-geopolitiki",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Στην έκθεση Χρηματοπιστωτικής Σταθερότητας του Νοεμβρίου 2026, που δημοσιεύθηκε σήμερα, η ΕΚΤ επισημ...",
+   "first_seen": "2026-11-18T10:20:55+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/finance/economy/2190769/k-sampatakakis-accenture-sto-5o-oikonomiko-synedrio-tis-n-i-techniti-noimosyni-echei-prostithemeni-axia",
+   "title": "Κ. Σαμπατακάκης (Accenture) στο 5ο Οικονομικό Συνέδριο της «Ν»: Η τεχνητή νοημοσύνη έχει προστιθέμενη αξία",
+   "link": "https://www.naftemporiki.gr/finance/economy/2190769/k-sampatakakis-accenture-sto-5o-oikonomiko-synedrio-tis-n-i-techniti-noimosyni-echei-prostithemeni-axia/?utm_source=rss&utm_medium=rss&utm_campaign=k-sampatakakis-accenture-sto-5o-oikonomiko-synedrio-tis-n-i-techniti-noimosyni-echei-prostithemeni-axia",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "«Η τεχνητή νοημοσύνη έχει προστιθέμενη αξία» δήλωσε ο Δρ Κυριάκος Σαμπατακάκης, Πρόεδρος και Διευθύνων Σύμβουλος, Accenture στο 5ο Οικονομικό Συνέδριο της Ναυτεμπορικής, που πραγματοποιείται στο Conrad Athens – The Ilisian,… Κ. Σαμπατακάκης (Accenture) στο 5ο Οικονομικό Συνέδριο της «Ν»: Η τεχνητή νοημοσύνη έχει προστιθέμενη αξία - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-11-18T10:15:47+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/agores/433224/prosynedriako-rali-gia-nvidia-apo-ishyro-g-trimino-sti-meta-hoyangk-epohi",
+   "title": "Προσυνεδριακό ράλι για Nvidia από το ισχυρό γ&#039; τρίμηνο στη μετα-Χουάνγκ εποχή",
+   "link": "https://www.insider.gr/agores/433224/prosynedriako-rali-gia-nvidia-apo-ishyro-g-trimino-sti-meta-hoyangk-epohi",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Άλμα και τους τίτλους των «neoclouds»: η CoreWeave κάνει άλμα 6,43%, η Nebius σκαρφαλώνει 8,22% και ...",
+   "first_seen": "2026-11-18T09:38:44+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/nvidia-oristiki-porta-ston-tzensen-xouangk-xekina-i-anazitisi-monimou-ceo",
+   "title": "Nvidia: Οριστική «πόρτα» στον Τζένσεν Χουάνγκ – Ξεκινά η αναζήτηση μόνιμου CEO",
+   "link": "https://www.fortunegreece.com/article/nvidia-oristiki-porta-ston-tzensen-xouangk-xekina-i-anazitisi-monimou-ceo/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Ξεκάθαρο μήνυμα του προέδρου του Δ.Σ. Χάρβεϊ Τζόουνς προς τους επενδυτές ότι δεν τίθεται θέμα επαναφοράς του Χουάνγκ μετά την παραίτησή του την περασμένη εβδομάδα.",
+   "first_seen": "2026-11-18T09:29:37+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/wall-street-nees-apoleies-850-monadon-gia-ton-dow-jones-kai-anisychies-gia-tin-techniti-noimosyni",
+   "title": "Wall Street: Νέες απώλειες 850 μονάδων για τον Dow Jones και ανησυχίες για την τεχνητή νοημοσύνη",
+   "link": "https://www.ictplus.gr/wall-street-nees-apoleies-850-monadon-gia-ton-dow-jones-kai-anisychies-gia-tin-techniti-noimosyni/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Οι αμφιβολίες για την απόδοση των τεράστιων επενδύσεων σε υποδομές τεχνητής νοημοσύνης, η αναταραχή γύρω από τη Nvidia και οι φόβοι για νέες αυξήσεις επιτοκίων εντείνουν τις ρευστοποιήσεις. Ο δείκτης S&P 500 υποχώρησε στο χαμηλότερο επίπεδο από τον Ιούλιο. Με σημαντικές απώλειες ολοκληρώθηκε η συνεδρίαση της Τρίτης 17 Νοεμβρίου στη Wall Street, καθώς οι επενδυτές […] Το άρθρο Wall Street: Νέες απώλειες 850 μονάδων για τον Dow Jones και ανησυχίες για την τεχνητή νοημοσύνη εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-11-18T09:06:56+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/metka-anoigei-to-vivlio-prosforon-gia-250-ekat-evro-sta-10-me-1150-evro-i-timi-diathesis",
+   "title": "ΜΕΤΚΑ: Ανοίγει το βιβλίο προσφορών για 250 εκατ. ευρώ – Στα 10 με 11,50 ευρώ η τιμή διάθεσης",
+   "link": "https://www.fortunegreece.com/article/metka-anoigei-to-vivlio-prosforon-gia-250-ekat-evro-sta-10-me-1150-evro-i-timi-diathesis/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Από σήμερα έως τις 20 Νοεμβρίου οι εγγραφές, με εύρος τιμής 10–11,50 ευρώ ανά μετοχή. Πώς διαμορφώνεται η προσφορά, τι προβλέπεται για τους ιδιώτες επενδυτές και πότε προγραμματίζεται το χρηματιστηριακό ντεμπούτο.",
+   "first_seen": "2026-11-18T08:59:14+00:00"
+  },
+  {
+   "key": "url:https://techblog.gr/software/microsoft-nea-dika-tis-montela-ai-gia-kodika-eikones-kai-apofaseis",
+   "title": "Microsoft: Νέα δικά της μοντέλα AI για κώδικα, εικόνες και αποφάσεις",
+   "link": "https://techblog.gr/software/microsoft-nea-dika-tis-montela-ai-gia-kodika-eikones-kai-apofaseis/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Microsoft παρουσίασε τα μοντέλα MAI-Code-2 και MAI-Image-2.7 και το Microsoft-Decision-1.1, με 68 μονάδες στο Decision Index και διπλάσια ταχύτητα. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Microsoft: Νέα δικά της μοντέλα AI για κώδικα, εικόνες και αποφάσεις )",
+   "first_seen": "2026-11-18T07:15:17+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/news/286173/ellinofinlandiki-technologiki-symmachia-i-apovasi-180-ellinon-sto-slush-2026-o-pytheas-kai-oi-startups-pou-symmetechoun",
+   "title": "Ελληνοφινλανδική τεχνολογική συμμαχία: Η απόβαση 180+ Ελλήνων στο Slush 2026, ο Πυθέας και oι Startups που συμμετέχουν",
+   "link": "https://startupper.gr/news/286173/ellinofinlandiki-technologiki-symmachia-i-apovasi-180-ellinon-sto-slush-2026-o-pytheas-kai-oi-startups-pou-symmetechoun/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Με περισσότερους από 180 εκπροσώπους του εγχώριου τεχνολογικού και επενδυτικού οικοσυστήματος, η πρωτοβουλία της Endeavor Greece στο Slush Summit 2026 του Ελσίνκι σημειώνει ρεκόρ συμμετοχής. Κάτω από την κοινή ταυτότητα του #OneCommunity, ιδρυτές ταχέως αναπτυσσόμενων startups, venture capital επενδυτές, θεσμικοί παράγοντες, ακαδημαϊκοί ερευνητές και κυβερνητικά στελέχη ταξίδεψαν στη φινλανδική πρωτεύουσα και φυσικά media και το […] The post Ελληνοφινλανδική τεχνολογική συμμαχία: Η απόβαση 180+ Ελλήνων στο Slush 2026, ο Πυθέας και oι Startups που συμμετέχουν appeared first on STARTUPPER .",
+   "first_seen": "2026-11-18T06:42:57+00:00"
+  },
   {
    "key": "url:https://meetup.com/thessaloniki-devops-meetup/events/317328528",
    "title": "Meetup #199",
@@ -14,32 +248,6 @@
    "location": "OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki",
    "summary": "The sequence keeps growing consistently randomly; next one is #199... And this time the topic is: **Nightmare Before Christmas: Ιστορίες Τρέλας δίπλα στο τζάκι του OK!Thess** We will come together with (y)our stories from the trenches, and share these moments of madness, on 3am, weekends, holidays. Sitting around a fake fireplace we will talk about the times we had to turn (y)ourselves into firefighters. 🧑‍💻 => 🧑‍🚒 For this special edition, we will not follow the traditional presentation format. **We ask all of you to share your stories** with our new, fabulous [talk submission form](https://www.thessdevops.org/submit-talk/)! Send us your stories and make sure you choose the *Fireside 🔥* opt…",
    "first_seen": "2026-11-18T00:59:40.103299+00:00"
-  },
-  {
-   "key": "url:https://businessdaily.gr/hrimatistiriakes-anakoinoseis/244147_anakoinosi-prosklisi-pros-ependytes",
-   "title": "ΑΝΑΚΟΙΝΩΣΗ – ΠΡΟΣΚΛΗΣΗ ΠΡΟΣ ΕΠΕΝΔΥΤΕΣ",
-   "link": "https://www.businessdaily.gr/hrimatistiriakes-anakoinoseis/244147_anakoinosi-prosklisi-pros-ependytes",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Δείτε την ανακοίνωση",
-   "first_seen": "2026-11-17T22:56:51+00:00"
-  },
-  {
-   "key": "url:https://naftemporiki.gr/finance/world/2190661/simantikes-apoleies-kategrapse-ek-neoy-i-wall-street",
-   "title": "Σημαντικές απώλειες κατέγραψε εκ νέου η Wall Street",
-   "link": "https://www.naftemporiki.gr/finance/world/2190661/simantikes-apoleies-kategrapse-ek-neoy-i-wall-street/?utm_source=rss&utm_medium=rss&utm_campaign=simantikes-apoleies-kategrapse-ek-neoy-i-wall-street",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Σημαντικές απώλειες κατέγραψε και στη σημερινή συνεδρίαση η Wall Street, με τον τεχνολογικό δείκτη Nasdaq να διολισθαίνει στο χαμηλότερο επίπεδο των τελευταίων περίπου επτά μηνών, καθώς οι επενδυτές προχώρησαν σε… Σημαντικές απώλειες κατέγραψε εκ νέου η Wall Street - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-11-17T21:39:47+00:00"
   },
   {
    "key": "url:https://fortunegreece.com/article/anthropic-prosfores-toulaxiston-10-dis-dolarion-gia-tin-ipo",
@@ -66,19 +274,6 @@
    "location": "",
    "summary": "Η μεταβατική CEO καλείται να αποκαταστήσει την εμπιστοσύνη των επενδυτών, καθώς η Nvidia βρίσκεται αντιμέτωπη με ερωτήματα για τις οικονομικές της προβλέψεις, τη διαδοχή στην ηγεσία, τις επενδύσεις στην τεχνητή νοημοσύνη και την πορεία των περιθωρίων κέρδους.",
    "first_seen": "2026-11-17T20:35:29+00:00"
-  },
-  {
-   "key": "url:https://businessdaily.gr/politiki/244128_g-moralis-enishysi-topikis-epiheirimatikotitas-meso-synergasias-ston-peiraia",
-   "title": "Γ. Μώραλης: Χαιρετισμός στην εκδήλωση του Εμπορικού Συλλόγου Πειραιά",
-   "link": "https://www.businessdaily.gr/politiki/244128_g-moralis-enishysi-topikis-epiheirimatikotitas-meso-synergasias-ston-peiraia?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Ο δήμαρχος Πειραιά Γιάννης Μώραλης τόνισε την ανάγκη ενίσχυσης της τοπικής επιχειρηματικότητας και στενής συνεργασίας με φορείς, σε εκδήλωση του...",
-   "first_seen": "2026-11-17T19:25:22+00:00"
   },
   {
    "key": "url:https://techmaniacs.gr/anazitisi-google-me-ai-mode-rotas-choris-na-se-gnorizei-pleon",
@@ -133,45 +328,6 @@
    "first_seen": "2026-11-17T15:36:15+00:00"
   },
   {
-   "key": "url:https://businessvoice.gr/top-stories/999493/bofa-se-chamilo-20etias-i-ekthesi-ton-funds-stin-technologia",
-   "title": "BofA: Σε χαμηλό 20ετίας η έκθεση των funds στην τεχνολογία",
-   "link": "https://businessvoice.gr/top-stories/999493/bofa-se-chamilo-20etias-i-ekthesi-ton-funds-stin-technologia/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "EMEA.gr",
-   "source_url": "https://www.emea.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι επενδυτές στέλνουν επίσης ένα «ηχηρό» μήνυμα ότι οι εταιρείες θα πρέπει να αναστείλουν ή να περιορίσουν τις δαπάνες τους για την τεχνητή νοημοσύνη, σύμφωνα με τον στρατηγικό αναλυτή της BofA, Μάικλ Χάρτνετ",
-   "first_seen": "2026-11-17T14:20:20+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/android-fast-switch-enas-arithmos-kinitoy-se-plithos-syskeyes",
-   "title": "Android Fast Switch: Ένας αριθμός κινητού σε 2 συσκευές",
-   "link": "https://techmaniacs.gr/android-fast-switch-enas-arithmos-kinitoy-se-plithos-syskeyes/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Apple παρουσίασε πρόσφατα, στο πλαίσιο της ανακοίνωσης των iPhone 18, μια νέα λειτουργία με την ονομασία Handoff. Η Google εργάζεται ήδη στη δική της απάντηση με την ονομασία Fast Switch, προσφέροντας έναν εύκολο τρόπο κοινής χρήσης μίας κάρτας SIM και ενός τηλεφωνικού αριθμού σε δύο διαφορετικά Android κινητά. Συγκεκριμένα, η ομάδα του Android Authority […] The post Android Fast Switch: Ένας αριθμός κινητού σε 2 συσκευές appeared first on Techmaniacs .",
-   "first_seen": "2026-11-17T13:52:53+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/technopoli-thessalonikis-20-chronia-stin-anaptyxi-tis-kainotomias-tis-erevnas-kai-ton-psifiakon-technologion-sti-makedonia",
-   "title": "Τεχνόπολη Θεσσαλονίκης: 20 χρόνια στην ανάπτυξη της καινοτομίας, της έρευνας και των ψηφιακών τεχνολογιών στη Μακεδονία",
-   "link": "https://www.ictplus.gr/technopoli-thessalonikis-20-chronia-stin-anaptyxi-tis-kainotomias-tis-erevnas-kai-ton-psifiakon-technologion-sti-makedonia/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Ο πρόεδρος και διευθύνων σύμβουλος της Τεχνόπολης Θεσσαλονίκης, Τάσος Τζήκας, παρουσιάζει σε συνέντευξη Τύπου την εικοσαετή διαδρομή του Φορέα και τις προοπτικές που διαμορφώνονται για την τεχνολογική ανάπτυξη της Βόρειας Ελλάδας, με αφορμή την επετειακή εκδήλωση με θέμα «ΕΛΛΑΔΑ 2030: Μπορεί η Ανάπτυξη να έρθει από την Περιφέρεια;». Η συμπλήρωση 20 χρόνων λειτουργίας της Τεχνόπολης […] Το άρθρο Τεχνόπολη Θεσσαλονίκης: 20 χρόνια στην ανάπτυξη της καινοτομίας, της έρευνας και των ψηφιακών τεχνολογιών στη Μακεδονία εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-11-17T13:45:52+00:00"
-  },
-  {
    "key": "url:https://startupper.gr/news/286117/kyriakos-pierrakakis-pliris-psifiopoiisi-tou-kratous-gia-to-ai-eos-to-2030-to-kabanaki-gia-evropaikes-startups-kai-kefalaia",
    "title": "Κυριάκος Πιερρακάκης: Πλήρης ψηφιοποίηση του κράτους για το AI έως το 2030 – Το «καμπανάκι» για ευρωπαϊκές startups και κεφάλαια",
    "link": "https://startupper.gr/news/286117/kyriakos-pierrakakis-pliris-psifiopoiisi-tou-kratous-gia-to-ai-eos-to-2030-to-kabanaki-gia-evropaikes-startups-kai-kefalaia/",
@@ -185,19 +341,6 @@
    "first_seen": "2026-11-17T13:31:17+00:00"
   },
   {
-   "key": "url:https://ictplus.gr/synedrio-aristotelis-2026-pos-i-ai-allazei-ti-dioikisi-ton-epicheiriseon",
-   "title": "Συνέδριο ΑΡΙΣΤΟΤΕΛΗΣ 2026: Η τεχνητή νοημοσύνη ξαναγράφει τους κανόνες της διοίκησης των επιχειρήσεων",
-   "link": "https://www.ictplus.gr/synedrio-aristotelis-2026-pos-i-ai-allazei-ti-dioikisi-ton-epicheiriseon/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η στρατηγική, η ηγεσία, το ανθρώπινο δυναμικό και η παραγωγή στην εποχή της Τεχνητής Νοημοσύνης στο επίκεντρο της διοργάνωσης της ΕΔΕΒΕ, στις 21 Νοεμβρίου στη Θεσσαλονίκη. Το άρθρο Συνέδριο ΑΡΙΣΤΟΤΕΛΗΣ 2026: Η τεχνητή νοημοσύνη ξαναγράφει τους κανόνες της διοίκησης των επιχειρήσεων εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-11-17T12:54:37+00:00"
-  },
-  {
    "key": "url:https://fortunegreece.com/article/ekt-kindinos-gia-ti-xrimatopistotiki-statherotita-apo-ton-daneismo-ton-amerikanikon-hyperscalers-se-evro",
    "title": "ΕΚΤ: Κίνδυνος για τη χρηματοπιστωτική σταθερότητα από τον δανεισμό των αμερικανικών hyperscalers σε ευρώ",
    "link": "https://www.fortunegreece.com/article/ekt-kindinos-gia-ti-xrimatopistotiki-statherotita-apo-ton-daneismo-ton-amerikanikon-hyperscalers-se-evro/",
@@ -209,45 +352,6 @@
    "location": "",
    "summary": "Η ανάλυση της Ευρωπαϊκής Κεντρικής Τράπεζας αποκαλύπτει πώς η έκδοση εταιρικών ομολόγων σε ευρώ από τους τεχνολογικούς κολοσσούς αυξάνει την έκθεση στην Τεχνητή Νοημοσύνη και τους κινδύνους μετάδοσης κρίσεων στην Ευρωζώνη.",
    "first_seen": "2026-11-17T12:40:17+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/kep-me-chat-kai-nea-paratasi-gia-data-centers-ti-allazei-sto-nomoschedio-impacts-edic-pou-katatethike-chthes-sti-vouli",
-   "title": "Στη Βουλή το νομοσχέδιο για την IMPACTS–EDIC: ΚΕΠ με chat και παράταση για data centers έως το 2027",
-   "link": "https://www.ictplus.gr/kep-me-chat-kai-nea-paratasi-gia-data-centers-ti-allazei-sto-nomoschedio-impacts-edic-pou-katatethike-chthes-sti-vouli/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Νέους τρόπους ψηφιακής και τηλεφωνικής εξυπηρέτησης στα ΚΕΠ, παράταση για τις απαιτήσεις πυροπροστασίας υφιστάμενων data centers και διασφάλιση της λειτουργίας των μητροπολιτικών δικτύων οπτικών ινών προβλέπει το νομοσχέδιο του υπουργείου Ψηφιακής Διακυβέρνησης, που κατατέθηκε χθες στη Βουλή. Το άρθρο Στη Βουλή το νομοσχέδιο για την IMPACTS–EDIC: ΚΕΠ με chat και παράταση για data centers έως το 2027 εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-11-17T10:11:02+00:00"
-  },
-  {
-   "key": "url:https://netweek.gr/4th-cyber-security-networking-summit-i-elliniki-koinotita-kyvernoasfaleias-synantietai-sta-meteora",
-   "title": "4th Cyber Security Networking Summit: Η ελληνική κοινότητα κυβερνοασφάλειας συναντιέται στα Μετέωρα",
-   "link": "https://netweek.gr/4th-cyber-security-networking-summit-i-elliniki-koinotita-kyvernoasfaleias-synantietai-sta-meteora/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "Netweek",
-   "source_url": "https://www.netweek.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "",
-   "first_seen": "2026-11-17T08:13:06+00:00"
-  },
-  {
-   "key": "url:https://startupper.gr/news/286027/michalis-bletsas-gia-ai-oi-megalyteroi-fovoi-mou-echoun-idi-pragmatopoiithei",
-   "title": "Μιχάλης Μπλέτσας για AI: «Οι μεγαλύτεροι φόβοι μου έχουν ήδη πραγματοποιηθεί»",
-   "link": "https://startupper.gr/news/286027/michalis-bletsas-gia-ai-oi-megalyteroi-fovoi-mou-echoun-idi-pragmatopoiithei/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Μιλώντας σε εκδήλωση στη Θεσσαλονίκη, ο διοικητής της Εθνικής Αρχής Κυβερνοασφάλειας, Μιχάλης Μπλέτσας, έκρουσε τον κώδωνα του κινδύνου για τις υπερβολικές υποσχέσεις με τις οποίες «σηκώνονται» κεφάλαια, τονίζοντας ότι το ζητούμενο είναι η φούσκα του AI να αποσυμπιεστεί ελεγχόμενα The post Μιχάλης Μπλέτσας για AI: «Οι μεγαλύτεροι φόβοι μου έχουν ήδη πραγματοποιηθεί» appeared first on STARTUPPER .",
-   "first_seen": "2026-11-17T06:05:03+00:00"
   },
   {
    "key": "url:https://dev.events/conferences/dev-fest-athens-2026-wf18v18j",
@@ -276,32 +380,6 @@
    "first_seen": "2026-11-16T14:46:17+00:00"
   },
   {
-   "key": "url:https://netweek.gr/simera-to-5o-genai-summit",
-   "title": "Σήμερα το 5o GenAI Summit",
-   "link": "https://netweek.gr/simera-to-5o-genai-summit/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "Netweek",
-   "source_url": "https://www.netweek.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "",
-   "first_seen": "2026-11-16T08:44:54+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317244074",
-   "title": "Saturday Social at Mint Bar – Meet, Talk & See Where the Night Goes",
-   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317244074/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-21T21:30:00+02:00",
-   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
-   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
-   "first_seen": "2026-11-16T06:40:36.179363+00:00"
-  },
-  {
    "key": "url:https://meetup.com/hack-the-box-meetup-thessaloniki-gr/events/317437625",
    "title": "0x19 You've got mail: Opening the door to attacks",
    "link": "https://www.meetup.com/hack-the-box-meetup-thessaloniki-gr/events/317437625/",
@@ -326,32 +404,6 @@
    "location": "",
    "summary": "Σύνοψη Η επίσημη ανακοίνωση των έξυπνων γυαλιών της Apple προγραμματίζεται για το συνέδριο WWDC τον Ιούνιο του 2027, με την εμπορική κυκλοφορία να ...",
    "first_seen": "2026-11-15T20:01:00+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/texniti-noimosini-i-ellada-ton-dio-taxititon-to-xasma-37-me-7-pou-apeilei-tin-antagonistikotita",
-   "title": "Τεχνητή νοημοσύνη: Η Ελλάδα των δύο ταχυτήτων – Το χάσμα 37% με 7% που απειλεί την ανταγωνιστικότητα",
-   "link": "https://www.fortunegreece.com/article/texniti-noimosini-i-ellada-ton-dio-taxititon-to-xasma-37-me-7-pou-apeilei-tin-antagonistikotita/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Οι μεγάλες ελληνικές επιχειρήσεις υιοθετούν την τεχνητή νοημοσύνη με πολύ ταχύτερους ρυθμούς από τις μικρές, σύμφωνα με τη νέα έκθεση του ΟΟΣΑ. Η χώρα παραμένει πίσω από τον ευρωπαϊκό μέσο όρο, ενώ το χάσμα σε ψηφιακές δεξιότητες, υποδομές και επενδύσεις δημιουργεί νέες προκλήσεις για την παραγωγικότητα.",
-   "first_seen": "2026-11-15T16:15:13+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/zelenski-oi-ipa-proteinan-paraxorisi-tou-ntonmpas-me-antallagma-tin-entaxi-tis-oukranias-sto-nato",
-   "title": "Ζελένσκι: Οι ΗΠΑ πρότειναν παραχώρηση του Ντονμπάς με αντάλλαγμα την ένταξη της Ουκρανίας στο ΝΑΤΟ",
-   "link": "https://www.fortunegreece.com/article/zelenski-oi-ipa-proteinan-paraxorisi-tou-ntonmpas-me-antallagma-tin-entaxi-tis-oukranias-sto-nato/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Νέα δεδομένα στις διαπραγματεύσεις για τον τερματισμό του πολέμου στην Ουκρανία, καθώς ο Βολοντίμιρ Ζελένσκι αποκάλυψε ότι η Ουάσιγκτον έθεσε για πρώτη φορά το ενδεχόμενο εδαφικών παραχωρήσεων με αντάλλαγμα την ένταξη του Κιέβου στο ΝΑΤΟ. Χωρίς ουσιαστική συμφωνία ολοκληρώθηκαν οι συνομιλίες στο Αμπού Ντάμπι, με την Ευρώπη να διεκδικεί ενεργό ρόλο στις επόμενες διαπραγματεύσεις.",
-   "first_seen": "2026-11-15T11:15:03+00:00"
   },
   {
    "key": "url:https://meetup.com/agent-builders/events/316959125",
@@ -404,19 +456,6 @@
    "location": "Plum, Stadiou 3A, 8th floor, Athens, Athens",
    "summary": "Athens iOS Meetup is back! 🚀 Join us for our relaunch night: the first event of Athens iOS Meetup as an independent, community-led meetup for anyone building for Apple platforms in Athens. Whether you're a senior engineer, a junior just starting out, a designer or simply curious, you're welcome. **When:** Tuesday 24 November 2026, doors open at 19:00 **Where:** Plum, Stadiou 3A, 8th floor, Athens **Language:** talks are in English **Agenda** * 19:00 Doors open * 19:30 Welcome from the organizers * 19:40 **Reimagining the Technical Interview with AI**, by Anastasia Eleftheriadi (Senior iOS Engineer, Plum) * 20:10 **You are absolutely right!** by Konstantinos Natsios, Organizer Athens iOS Meet…",
    "first_seen": "2026-11-14T10:35:09.686662+00:00"
-  },
-  {
-   "key": "url:https://techgear.gr/byd-neos-rompotikos-stathmos-1000kw-me-ensomatomena-fotovoltaika-kai-fortisi-sto-70-se-5-lepta-51317",
-   "title": "BYD: Νέος ρομποτικός σταθμός 1000kW με ενσωματωμένα φωτοβολταϊκά και φόρτιση στο 70% σε 5 λεπτά",
-   "link": "https://www.techgear.gr/byd-neos-rompotikos-stathmos-1000kw-me-ensomatomena-fotovoltaika-kai-fortisi-sto-70-se-5-lepta-51317",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techgear",
-   "source_url": "https://www.techgear.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Σύνοψη Η BYD παρουσίασε στο Άμπου Ντάμπι το πρώτο ολοκληρωμένο σύστημα που συνδυάζει παραγωγή ηλιακής ενέργειας, τοπική αποθήκευση και ...",
-   "first_seen": "2026-11-13T10:35:00+00:00"
   },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317209034",
@@ -484,19 +523,6 @@
    "first_seen": "2026-11-10T21:19:57.777814+00:00"
   },
   {
-   "key": "url:https://meetup.com/dotnet-greece/events/317312916",
-   "title": "Introducing .NET 11 & AI-Enhanced .NET Debugging",
-   "link": "https://www.meetup.com/dotnet-greece/events/317312916/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-26T18:30:00+02:00",
-   "location": "Michalakopoulou 80, Michalakopoulou 80, Athina 115 27, Greece, Athina, Athina",
-   "summary": "Dear friends, We are delighted to invite you to a new dotNETZone meetup featuring two talks! The event will take place at the XM offices at 80 Michalakopoulou Street in Athens. To find out more about XM, please [visit their careers page](https://www.xm.com/careers). We warmly thank XM for their generous sponsorship. ***Attendees must bring valid photo ID, as this is required by building security.*** **18:30 Doors open** **19:00 Eirik George Tsarpalis - What's new in .NET 11** .NET 11 is here! The new release brings performance improvements, powerful new language capabilities, and thousands of additional library and tooling improvements. Join me as I give you a high-level overview of some of …",
-   "first_seen": "2026-11-10T14:58:27.318863+00:00"
-  },
-  {
    "key": "url:https://meetup.com/service-designers-connect/events/313924054",
    "title": "Bringing back creative research methods",
    "link": "https://www.meetup.com/service-designers-connect/events/313924054/",
@@ -507,6 +533,19 @@
    "starts": "2026-11-19T20:30:00+02:00",
    "location": "Online",
    "summary": "**What’s this session about?** Over the past decade, a quiet shift has happened. As research moved online, creativity got left behind. Semi-structured interviews became the default, and with them, we lost the richness and diversity of methods that help us uncover what people *really* think, feel, and do. Becky Mallaband and Rebecca Partridge are on a mission to change that. In this session, they'll share how a more creative approach to research (both in person and online) can help you go deeper, surface tacit knowledge, and get far more valuable insights from every session you run. After attending this session, you'll leave with: 1. A clearer understanding of the different levels of knowledg…",
+   "first_seen": "2026-11-10T14:58:27.318863+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/dotnet-greece/events/317312916",
+   "title": "Introducing .NET 11 & AI-Enhanced .NET Debugging",
+   "link": "https://www.meetup.com/dotnet-greece/events/317312916/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-26T18:30:00+02:00",
+   "location": "Michalakopoulou 80, Michalakopoulou 80, Athina 115 27, Greece, Athina, Athina",
+   "summary": "Dear friends, We are delighted to invite you to a new dotNETZone meetup featuring two talks! The event will take place at the XM offices at 80 Michalakopoulou Street in Athens. To find out more about XM, please [visit their careers page](https://www.xm.com/careers). We warmly thank XM for their generous sponsorship. ***Attendees must bring valid photo ID, as this is required by building security.*** **18:30 Doors open** **19:00 Eirik George Tsarpalis - What's new in .NET 11** .NET 11 is here! The new release brings performance improvements, powerful new language capabilities, and thousands of additional library and tooling improvements. Join me as I give you a high-level overview of some of …",
    "first_seen": "2026-11-10T14:58:27.318863+00:00"
   },
   {
@@ -601,19 +640,6 @@
    "first_seen": "2026-11-03T06:55:02.066243+00:00"
   },
   {
-   "key": "url:https://startup.gr/zero-waste-entrepreneurship-hackathon-oi-neoi-dimiourgoun-viosimes-epicheirimatikes-idees-gia-ena-pio-kykliko-mellon",
-   "title": "Zero-Waste Entrepreneurship Hackathon: Οι νέοι δημιουργούν βιώσιμες επιχειρηματικές ιδέες για ένα πιο κυκλικό μέλλον",
-   "link": "https://startup.gr/zero-waste-entrepreneurship-hackathon-oi-neoi-dimiourgoun-viosimes-epicheirimatikes-idees-gia-ena-pio-kykliko-mellon/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startup.gr",
-   "source_url": "https://www.startup.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Μια ολοήμερη δράση βιώσιμης επιχειρηματικότητας, καινοτομίας και συνεργασίας έρχεται στις 27 Νοεμβρίου στην Περαία, με δωρεάν συμμετοχή για νέους και νέες 18-30 ετών. To InfinityGreece, με τη συνδιοργάνωση του Δήμου Θερμαϊκού και του Δημοτικού Συμβουλίου Νέων Θερμαϊκού, παρουσιάζει το Zero-Waste Entrepreneurship Hackathon (ZWE Hackathon), μια ολοήμερη εκπαιδευτική και συμμετοχική δράση που συνδέει τη νεανική επιχειρηματικότητα […]",
-   "first_seen": "2026-11-02T17:31:07+00:00"
-  },
-  {
    "key": "url:https://meetup.com/software-architecture-or-system-design-training/events/317171014",
    "title": "Google Map Software Architecture",
    "link": "https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/",
@@ -625,19 +651,6 @@
    "location": "Online",
    "summary": "Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…",
    "first_seen": "2026-11-01T00:10:51.583430+00:00"
-  },
-  {
-   "key": "url:https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia",
-   "title": "Το The People’s Trust στηρίζει την επιχειρηματικότητα στη Δυτική Μακεδονία",
-   "link": "https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startup.gr",
-   "source_url": "https://www.startup.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Νέο πρόγραμμα οικονομικής αρωγής έως €15.000 και δωρεάν υπηρεσιών επιχειρηματικής ανάπτυξης Υποβολή αιτήσεων: 1η Νοεμβρίου 2026 έως 31 Ιανουαρίου 2027",
-   "first_seen": "2026-10-12T13:21:09+00:00"
   },
   {
    "key": "url:https://stayhappening.com/e/techniques-2026-charlotte-de-witte-in-athens-E2ISYR0NXM5",
