@@ -1,7 +1,98 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-17T16:08:34.966809+00:00",
+ "built": "2026-11-18T00:59:40.103299+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/thessaloniki-devops-meetup/events/317328528",
+   "title": "Meetup #199",
+   "link": "https://www.meetup.com/thessaloniki-devops-meetup/events/317328528/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-12-17T19:00:00+02:00",
+   "location": "OK!Thess, ΚΥΔΩΝΙΩΝ 2, όπισθεν Σοφούλη 30, Thessaloniki 546 55, Greece, Thessaloniki, Thessaloniki",
+   "summary": "The sequence keeps growing consistently randomly; next one is #199... And this time the topic is: **Nightmare Before Christmas: Ιστορίες Τρέλας δίπλα στο τζάκι του OK!Thess** We will come together with (y)our stories from the trenches, and share these moments of madness, on 3am, weekends, holidays. Sitting around a fake fireplace we will talk about the times we had to turn (y)ourselves into firefighters. 🧑‍💻 => 🧑‍🚒 For this special edition, we will not follow the traditional presentation format. **We ask all of you to share your stories** with our new, fabulous [talk submission form](https://www.thessdevops.org/submit-talk/)! Send us your stories and make sure you choose the *Fireside 🔥* opt…",
+   "first_seen": "2026-11-18T00:59:40.103299+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/hrimatistiriakes-anakoinoseis/244147_anakoinosi-prosklisi-pros-ependytes",
+   "title": "ΑΝΑΚΟΙΝΩΣΗ – ΠΡΟΣΚΛΗΣΗ ΠΡΟΣ ΕΠΕΝΔΥΤΕΣ",
+   "link": "https://www.businessdaily.gr/hrimatistiriakes-anakoinoseis/244147_anakoinosi-prosklisi-pros-ependytes",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Δείτε την ανακοίνωση",
+   "first_seen": "2026-11-17T22:56:51+00:00"
+  },
+  {
+   "key": "url:https://naftemporiki.gr/finance/world/2190661/simantikes-apoleies-kategrapse-ek-neoy-i-wall-street",
+   "title": "Σημαντικές απώλειες κατέγραψε εκ νέου η Wall Street",
+   "link": "https://www.naftemporiki.gr/finance/world/2190661/simantikes-apoleies-kategrapse-ek-neoy-i-wall-street/?utm_source=rss&utm_medium=rss&utm_campaign=simantikes-apoleies-kategrapse-ek-neoy-i-wall-street",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Naftemporiki",
+   "source_url": "https://www.naftemporiki.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Σημαντικές απώλειες κατέγραψε και στη σημερινή συνεδρίαση η Wall Street, με τον τεχνολογικό δείκτη Nasdaq να διολισθαίνει στο χαμηλότερο επίπεδο των τελευταίων περίπου επτά μηνών, καθώς οι επενδυτές προχώρησαν σε… Σημαντικές απώλειες κατέγραψε εκ νέου η Wall Street - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+   "first_seen": "2026-11-17T21:39:47+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/anthropic-prosfores-toulaxiston-10-dis-dolarion-gia-tin-ipo",
+   "title": "Anthropic: Προσφορές τουλάχιστον 10 δισ. δολαρίων για την IPO",
+   "link": "https://www.fortunegreece.com/article/anthropic-prosfores-toulaxiston-10-dis-dolarion-gia-tin-ipo/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η εταιρεία αναμένεται να ορίσει την τιμή διάθεσης των μετοχών στο ανώτατο όριο του εύρους των 70-78 δολαρίων ή και υψηλότερα, καθώς η δημόσια εγγραφή προσελκύει ισχυρό επενδυτικό ενδιαφέρον.",
+   "first_seen": "2026-11-17T21:22:48+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/nvidia-exi-krisima-stoiximata-gia-tin-kolet-kres-stin-proti-parousiasi-apotelesmaton-xoris-ton-xouangk",
+   "title": "Nvidia: Έξι κρίσιμα στοιχήματα για την Κολέτ Κρες στην πρώτη παρουσίαση αποτελεσμάτων χωρίς τον Χουάνγκ",
+   "link": "https://www.fortunegreece.com/article/nvidia-exi-krisima-stoiximata-gia-tin-kolet-kres-stin-proti-parousiasi-apotelesmaton-xoris-ton-xouangk/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η μεταβατική CEO καλείται να αποκαταστήσει την εμπιστοσύνη των επενδυτών, καθώς η Nvidia βρίσκεται αντιμέτωπη με ερωτήματα για τις οικονομικές της προβλέψεις, τη διαδοχή στην ηγεσία, τις επενδύσεις στην τεχνητή νοημοσύνη και την πορεία των περιθωρίων κέρδους.",
+   "first_seen": "2026-11-17T20:35:29+00:00"
+  },
+  {
+   "key": "url:https://businessdaily.gr/politiki/244128_g-moralis-enishysi-topikis-epiheirimatikotitas-meso-synergasias-ston-peiraia",
+   "title": "Γ. Μώραλης: Χαιρετισμός στην εκδήλωση του Εμπορικού Συλλόγου Πειραιά",
+   "link": "https://www.businessdaily.gr/politiki/244128_g-moralis-enishysi-topikis-epiheirimatikotitas-meso-synergasias-ston-peiraia?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Business Daily",
+   "source_url": "https://www.businessdaily.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Ο δήμαρχος Πειραιά Γιάννης Μώραλης τόνισε την ανάγκη ενίσχυσης της τοπικής επιχειρηματικότητας και στενής συνεργασίας με φορείς, σε εκδήλωση του...",
+   "first_seen": "2026-11-17T19:25:22+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/anazitisi-google-me-ai-mode-rotas-choris-na-se-gnorizei-pleon",
+   "title": "Αναζήτηση Google με AI Mode: Ρωτάς χωρίς να σε γνωρίζει πλέον",
+   "link": "https://techmaniacs.gr/anazitisi-google-me-ai-mode-rotas-choris-na-se-gnorizei-pleon/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Μετά την κυκλοφορία του μοντέλου Gemini 4 Hydrogen και τη συνολική αναβάθμιση στη μηχανή αναζήτησης Google, το AI mode ενισχύεται με τη δυνατότητα έναρξης προσωρινών συνομιλιών (temporary threads). Η νέα επιλογή επιτρέπει στον χρήστη να πραγματοποιήσει έναν διάλογο ο οποίος δεν αποθηκεύεται στο ιστορικό της Google. Όπως ισχύει και στην εφαρμογή Gemini, η λειτουργία temporary […] The post Αναζήτηση Google με AI Mode: Ρωτάς χωρίς να σε γνωρίζει πλέον appeared first on Techmaniacs .",
+   "first_seen": "2026-11-17T19:20:11+00:00"
+  },
   {
    "key": "url:https://meetup.com/thessaloniki-not-only-java/events/317441815",
    "title": "Java is Dead... Again?",
@@ -29,32 +120,6 @@
    "first_seen": "2026-11-17T16:08:34.966809+00:00"
   },
   {
-   "key": "url:https://meetup.com/berlin-software-designers/events/317449533",
-   "title": "Architecture of Open Source Applications",
-   "link": "https://www.meetup.com/berlin-software-designers/events/317449533/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-17T19:00:00+02:00",
-   "location": "Online",
-   "summary": "We will read and comment one chapter from this book: [Architecture of Open Source Applications](https://aosabook.org/en/) Each chapter is the architecture of one open source app. Today's chapter is [Audacity, a popular sound recorder and audio editor](https://aosabook.org/en/v1/audacity.html) Organization: * we briefly skim through the chapter * we share our opinions on the chapter * we come up with follow up questions, and discuss them together Requirements: * do not join if your microphone does not work * read the chapter first, before joining the event * you are willing to commit 1.5 hours of your time",
-   "first_seen": "2026-11-17T16:08:34.966809+00:00"
-  },
-  {
-   "key": "url:https://naftemporiki.gr/deltia-typou/2190492/i-benefit-software-ekprosopei-ti-naytilia-sto-5o-genai-summit",
-   "title": "Η Benefit Software εκπροσωπεί τη ναυτιλία στο 5ο GenAI Summit",
-   "link": "https://www.naftemporiki.gr/deltia-typou/2190492/i-benefit-software-ekprosopei-ti-naytilia-sto-5o-genai-summit/?utm_source=rss&utm_medium=rss&utm_campaign=i-benefit-software-ekprosopei-ti-naytilia-sto-5o-genai-summit",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Naftemporiki",
-   "source_url": "https://www.naftemporiki.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το 5ο GenAI Summit, που θα πραγματοποιηθεί στις 16 Νοεμβρίου 2026 στο Κέντρο Πολιτισμού Ίδρυμα Σταύρος Νιάρχος (ΚΠΙΣΝ), συγκεντρώνει περισσότερους από 5.000 συμμετέχοντες, 1.200 εταιρείες και 200 ομιλητές από Nvidia,… Η Benefit Software εκπροσωπεί τη ναυτιλία στο 5ο GenAI Summit - Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
-   "first_seen": "2026-11-17T15:57:07+00:00"
-  },
-  {
    "key": "url:https://techmaniacs.gr/xiaomi-18-pro-kai-pro-max-global",
    "title": "Xiaomi 18 Pro και Xiaomi 18 Pro Max ανακοινώθηκαν και έρχονται στην Ελλάδα",
    "link": "https://techmaniacs.gr/xiaomi-18-pro-kai-pro-max-global/",
@@ -79,19 +144,6 @@
    "location": "",
    "summary": "Οι επενδυτές στέλνουν επίσης ένα «ηχηρό» μήνυμα ότι οι εταιρείες θα πρέπει να αναστείλουν ή να περιορίσουν τις δαπάνες τους για την τεχνητή νοημοσύνη, σύμφωνα με τον στρατηγικό αναλυτή της BofA, Μάικλ Χάρτνετ",
    "first_seen": "2026-11-17T14:20:20+00:00"
-  },
-  {
-   "key": "url:https://businessdaily.gr/oikonomia/244071_economic-summit-amcham-greece-oi-prokliseis-tis-pagkosmias-oikonomias",
-   "title": "Στις 1-2 Δεκεμβρίου το Economic Summit του Ελληνοαμερικανικού Επιμελητηρίου",
-   "link": "https://www.businessdaily.gr/oikonomia/244071_economic-summit-amcham-greece-oi-prokliseis-tis-pagkosmias-oikonomias?utm_source=Feedelio&utm_medium=news&utm_campaign=ape&utm_content=auto",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Business Daily",
-   "source_url": "https://www.businessdaily.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Το Economic Summit του AmCham Greece στην Αθήνα (1-2/12) θα επικεντρωθεί στις γεωπολιτικές, τεχνολογικές και οικονομικές αλλαγές ενόψει του 2027, με...",
-   "first_seen": "2026-11-17T14:19:48+00:00"
   },
   {
    "key": "url:https://techmaniacs.gr/android-fast-switch-enas-arithmos-kinitoy-se-plithos-syskeyes",
@@ -393,19 +445,6 @@
    "first_seen": "2026-11-13T01:53:02.483123+00:00"
   },
   {
-   "key": "url:https://techgear.gr/alphagenome-2-to-neo-ai-montelo-provlepsis-genetikon-astheneion-tis-google-deepmind-51313",
-   "title": "AlphaGenome 2: Το νέο AI μοντέλο πρόβλεψης γενετικών ασθενειών της Google DeepMind",
-   "link": "https://www.techgear.gr/alphagenome-2-to-neo-ai-montelo-provlepsis-genetikon-astheneion-tis-google-deepmind-51313",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techgear",
-   "source_url": "https://www.techgear.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Σύνοψη Η Google DeepMind παρουσίασε επίσημα το AlphaGenome 2, ένα αναβαθμισμένο μοντέλο τεχνητής νοημοσύνης το οποίο προβλέπει τις επιπτώσεις των ...",
-   "first_seen": "2026-11-12T18:51:00+00:00"
-  },
-  {
    "key": "url:https://meetup.com/gdg-cloud-thessaloniki/events/316887228",
    "title": "DevFest 2026",
    "link": "https://www.meetup.com/gdg-cloud-thessaloniki/events/316887228/",
@@ -445,19 +484,6 @@
    "first_seen": "2026-11-10T21:19:57.777814+00:00"
   },
   {
-   "key": "url:https://meetup.com/service-designers-connect/events/313924054",
-   "title": "Bringing back creative research methods",
-   "link": "https://www.meetup.com/service-designers-connect/events/313924054/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-19T20:30:00+02:00",
-   "location": "Online",
-   "summary": "**What’s this session about?** Over the past decade, a quiet shift has happened. As research moved online, creativity got left behind. Semi-structured interviews became the default, and with them, we lost the richness and diversity of methods that help us uncover what people *really* think, feel, and do. Becky Mallaband and Rebecca Partridge are on a mission to change that. In this session, they'll share how a more creative approach to research (both in person and online) can help you go deeper, surface tacit knowledge, and get far more valuable insights from every session you run. After attending this session, you'll leave with: 1. A clearer understanding of the different levels of knowledg…",
-   "first_seen": "2026-11-10T14:58:27.318863+00:00"
-  },
-  {
    "key": "url:https://meetup.com/dotnet-greece/events/317312916",
    "title": "Introducing .NET 11 & AI-Enhanced .NET Debugging",
    "link": "https://www.meetup.com/dotnet-greece/events/317312916/",
@@ -468,6 +494,19 @@
    "starts": "2026-11-26T18:30:00+02:00",
    "location": "Michalakopoulou 80, Michalakopoulou 80, Athina 115 27, Greece, Athina, Athina",
    "summary": "Dear friends, We are delighted to invite you to a new dotNETZone meetup featuring two talks! The event will take place at the XM offices at 80 Michalakopoulou Street in Athens. To find out more about XM, please [visit their careers page](https://www.xm.com/careers). We warmly thank XM for their generous sponsorship. ***Attendees must bring valid photo ID, as this is required by building security.*** **18:30 Doors open** **19:00 Eirik George Tsarpalis - What's new in .NET 11** .NET 11 is here! The new release brings performance improvements, powerful new language capabilities, and thousands of additional library and tooling improvements. Join me as I give you a high-level overview of some of …",
+   "first_seen": "2026-11-10T14:58:27.318863+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/service-designers-connect/events/313924054",
+   "title": "Bringing back creative research methods",
+   "link": "https://www.meetup.com/service-designers-connect/events/313924054/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-19T20:30:00+02:00",
+   "location": "Online",
+   "summary": "**What’s this session about?** Over the past decade, a quiet shift has happened. As research moved online, creativity got left behind. Semi-structured interviews became the default, and with them, we lost the richness and diversity of methods that help us uncover what people *really* think, feel, and do. Becky Mallaband and Rebecca Partridge are on a mission to change that. In this session, they'll share how a more creative approach to research (both in person and online) can help you go deeper, surface tacit knowledge, and get far more valuable insights from every session you run. After attending this session, you'll leave with: 1. A clearer understanding of the different levels of knowledg…",
    "first_seen": "2026-11-10T14:58:27.318863+00:00"
   },
   {
@@ -508,6 +547,19 @@
    "location": "The Snappi Hub, Korai 5, Athina 105 64, Greece, Athina, Athina",
    "summary": "### ***Registration — Limited Seating Capacity*** Due to limited seating capacity, please complete the registration form to secure your spot. Seats will be confirmed by email, subject to availability. **[Registration Form — [https://forms.gle/PgorJATqKBA48VEW7](https://forms.gle/PgorJATqKBA48VEW7)]** Dear Agileans, Since 2013, Agile Greece has brought together people *from the trenches*. Practitioners sharing real experiences, lessons learned, and practical knowledge about how organizations can evolve. Today, we believe it's time for another important conversation. **AI agents are no longer just tools. They're becoming part of how organizations work.** But what does that really mean for our …",
    "first_seen": "2026-11-08T10:29:27.370401+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/bucharest-xdevops-meetup-group/events/316850587",
+   "title": "AI for DevOps & SRE: From Impressive Demos to Operational Trust",
+   "link": "https://www.meetup.com/bucharest-xdevops-meetup-group/events/316850587/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-20T21:00:00+02:00",
+   "location": "Online",
+   "summary": "AI for DevOps & SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…",
+   "first_seen": "2026-11-05T23:41:04.618908+00:00"
   },
   {
    "key": "url:https://meetup.com/ai-for-devs-athens/events/317254871",
@@ -562,17 +614,17 @@
    "first_seen": "2026-11-02T17:31:07+00:00"
   },
   {
-   "key": "url:https://meetup.com/d-c_powerbi/events/316695236",
-   "title": "See What Changed: AI & Semantic Models in Tabular Editor | Ruben Van de Voorde",
-   "link": "https://www.meetup.com/d-c_powerbi/events/316695236/",
+   "key": "url:https://meetup.com/software-architecture-or-system-design-training/events/317171014",
+   "title": "Google Map Software Architecture",
+   "link": "https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-17T20:00:00+02:00",
+   "starts": "2026-11-21T13:30:00+02:00",
    "location": "Online",
-   "summary": "The art of developing semantic models is in flux, and so are the tools you wield. When AI agents are moving on your model, you need a clear view on what was changed and how it fits into the bigger picture of your model. In this session, we'll show you how that's done in Tabular Editor 3. We'll show you how to: \\- Connect an agent you already use\\, such as Claude Code or GitHub Copilot\\, to the model you have open through the MCP server\\, and delegate a task that involves multiple changes \\- Decide what the agent may do\\, for example edit the model's metadata without reading its data \\- Follow the agent's changes as it works\\, and revert all or only those changes you disagree with \\- Let the …",
-   "first_seen": "2026-10-31T12:41:44.657289+00:00"
+   "summary": "Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…",
+   "first_seen": "2026-11-01T00:10:51.583430+00:00"
   },
   {
    "key": "url:https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia",
