@@ -1,6 +1,6 @@
 {
-  "built": "2026-11-19T11:48:17.485222+00:00",
-  "items": 56,
+  "built": "2026-11-19T20:43:35.366040+00:00",
+  "items": 57,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -47,19 +47,19 @@
     {
       "name": "Startupper",
       "fetched": 10,
-      "kept": 3,
+      "kept": 2,
       "error": ""
     },
     {
       "name": "ICT Plus",
       "fetched": 21,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
       "name": "Techgear",
       "fetched": 50,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 197,
-      "kept": 10,
+      "fetched": 235,
+      "kept": 11,
       "error": ""
     },
     {
@@ -107,7 +107,7 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 4,
+      "kept": 6,
       "error": ""
     },
     {
