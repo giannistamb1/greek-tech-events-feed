@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-19T02:37:28.255256+00:00",
+  "built": "2026-11-19T11:48:17.485222+00:00",
   "items": 56,
   "sources": [
     {
@@ -53,7 +53,7 @@
     {
       "name": "ICT Plus",
       "fetched": 21,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {
@@ -71,7 +71,7 @@
     {
       "name": "EMEA.gr",
       "fetched": 15,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 229,
-      "kept": 7,
+      "fetched": 197,
+      "kept": 10,
       "error": ""
     },
     {
@@ -101,26 +101,26 @@
     {
       "name": "Techblog",
       "fetched": 20,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 3,
+      "kept": 4,
       "error": ""
     },
     {
       "name": "Netweek",
       "fetched": 10,
-      "kept": 3,
+      "kept": 0,
       "error": ""
     },
     {
       "name": "EU-Startups",
-      "fetched": 10,
+      "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.eu-startups.com/feed/"
     },
     {
       "name": "Tech.eu",

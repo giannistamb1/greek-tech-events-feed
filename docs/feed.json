@@ -1,19 +1,123 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-19T02:37:28.255256+00:00",
+ "built": "2026-11-19T11:48:17.485222+00:00",
  "items": [
   {
-   "key": "url:https://meetup.com/sgi-superwomen-in-tech/events/317268835",
-   "title": "From Self-Doubt to Authority",
-   "link": "https://www.meetup.com/sgi-superwomen-in-tech/events/317268835/",
+   "key": "url:https://meetup.com/leantech/events/315470544",
+   "title": "Unlocking Flow - Making KFC a £1Bn Digital Business",
+   "link": "https://www.meetup.com/leantech/events/315470544/",
    "kind": "events",
    "category": "Meetup",
    "source": "Meetup — Thessaloniki tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-25T14:00:00+02:00",
+   "starts": "2026-11-19T14:00:00+02:00",
    "location": "Online",
-   "summary": "*Welcome to our final SuperWomen in Tech session in 2026! As we close off the year, we're joined by* ***[Yesim G](https://www.linkedin.com/in/yesim-gozen/)*[ö](https://www.linkedin.com/in/yesim-gozen/)*[zen](https://www.linkedin.com/in/yesim-gozen/)*** *to discuss leadership and some practical steps you can implement in the new year.* **Reminder:** This webinar is hosted on Microsoft Teams. Please ensure you register on Microsoft, or you will not be able to join the session. **From Self-Doubt to Authority: *Stop Proving. Start Leading!*** In the fast-paced and demanding world of technology, women often navigate complex expectations, leadership stereotypes and organisational dynamics while st…",
-   "first_seen": "2026-11-18T20:38:03.305165+00:00"
+   "summary": "Digital transformation is often framed as a technology challenge. Organisations invest in platforms, applications, agile delivery methods, and transformation programmes in the hope of accelerating growth and improving customer experience. Yet technology alone rarely creates business success. Before COVID, digital was not a major priority for many Quick Service Restaurant businesses. Within a few years, home delivery, mobile ordering, kiosks, and digital customer journeys became critical growth channels across the industry. For KFC, this shift represented both a huge opportunity and a significant challenge. The opportunity was clear. As home delivery and aggregator platforms grew, KFC needed …",
+   "first_seen": "2026-11-19T11:48:17.485222+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/ekt-statheres-oi-kefalaiakes-apaitiseis-ton-trapezon-gia-to-2027-oi-kindinoi-pou-vriskontai-sto-mikroskopio",
+   "title": "ΕΚΤ: Σταθερές οι κεφαλαιακές απαιτήσεις των τραπεζών για το 2027 – Οι κίνδυνοι που βρίσκονται στο μικροσκόπιο",
+   "link": "https://www.fortunegreece.com/article/ekt-statheres-oi-kefalaiakes-apaitiseis-ton-trapezon-gia-to-2027-oi-kindinoi-pou-vriskontai-sto-mikroskopio/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Ευρωπαϊκή Κεντρική Τράπεζα διατηρεί σχεδόν αμετάβλητες τις κεφαλαιακές απαιτήσεις για τις τράπεζες της ευρωζώνης, δίνοντας έμφαση στη χρηματοπιστωτική και επιχειρησιακή ανθεκτικότητά τους απέναντι στις γεωπολιτικές αναταράξεις και τις τεχνολογικές απειλές.",
+   "first_seen": "2026-11-19T11:48:17.485222+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/everyday-tora-oi-sport-apaitiseis-exoun-ti-diki-tous-prostasia",
+   "title": "EveryDay: Τώρα οι sport απαιτήσεις έχουν τη δική τους προστασία",
+   "link": "https://www.fortunegreece.com/article/everyday-tora-oi-sport-apaitiseis-exoun-ti-diki-tous-prostasia/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Οι νέες σερβιέτες EveryDay Sport διαθέτουν τρεις καινοτομίες για σταθερή εφαρμογή, απορροφητικότητα και προστασία από διαρροές, ακόμη και στις πιο απαιτητικές προπονήσεις.",
+   "first_seen": "2026-11-19T11:48:17.485222+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/google-play-best-of-2026-oi-koryfaies-efarmoges-kai-ta-kalytera-paichnidia-tis-chronias",
+   "title": "Google Play Best of 2026: Οι κορυφαίες εφαρμογές και τα καλύτερα παιχνίδια της χρονιάς",
+   "link": "https://techmaniacs.gr/google-play-best-of-2026-oi-koryfaies-efarmoges-kai-ta-kalytera-paichnidia-tis-chronias/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Google ανακοίνωσε τους νικητές των ετήσιων βραβείων Google Play Best of 2026, ξεχωρίζοντας τις εφαρμογές και τα παιχνίδια που διακρίθηκαν για τη χρησιμότητα, τη δημιουργικότητα και τη συνολική εμπειρία χρήσης στο οικοσύστημα του Android. Στην κορυφή των φετινών επιλογών βρίσκονται το Notability και το Arknights: Endfield, ενώ η λίστα δίνει ξεκάθαρη προτεραιότητα σε εφαρμογές […] The post Google Play Best of 2026: Οι κορυφαίες εφαρμογές και τα καλύτερα παιχνίδια της χρονιάς appeared first on Techmaniacs .",
+   "first_seen": "2026-11-19T11:44:23+00:00"
+  },
+  {
+   "key": "url:https://businessvoice.gr/digital/999972/infinitum-nea-diktyaki-ypodomi-hpe-aruba-networking-stin-aftomatopoiimeni-apothiki-tis-intertrade-hellas",
+   "title": "Infinitum: Νέα δικτυακή υποδομή HPE Aruba Networking στην αυτοματοποιημένη αποθήκη της Intertrade Hellas",
+   "link": "https://businessvoice.gr/digital/999972/infinitum-nea-diktyaki-ypodomi-hpe-aruba-networking-stin-aftomatopoiimeni-apothiki-tis-intertrade-hellas/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "EMEA.gr",
+   "source_url": "https://www.emea.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Με τεχνολογία Wi-Fi 6E και ενιαία διαχείριση μέσω HPE Aruba Networking Central, το έργο διασφαλίζει αδιάλειπτη συνδεσιμότητα 24/7 για τα οχήματα αυτόματης καθοδήγησης (AGVs) σε ένα απαιτητικό περιβάλλον ύψους 18 μέτρων.",
+   "first_seen": "2026-11-19T11:37:44+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/metopiki-sigkrousi-mask-zelenski-gia-tous-doriforous-pano-apo-tin-oukrania-psevdetai-gia-to-starshield-arnoumaste-stratiotiki-xrisi-tou-emporikou-starlink",
+   "title": "Μετωπική σύγκρουση Μασκ–Ζελένσκι για τους δορυφόρους πάνω από την Ουκρανία: «Ψεύδεται για το Starshield, αρνούμαστε στρατιωτική χρήση του εμπορικού Starlink»",
+   "link": "https://www.fortunegreece.com/article/metopiki-sigkrousi-mask-zelenski-gia-tous-doriforous-pano-apo-tin-oukrania-psevdetai-gia-to-starshield-arnoumaste-stratiotiki-xrisi-tou-emporikou-starlink/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Σφοδρή επίθεση του ιδιοκτήτη της SpaceX κατά του Ουκρανού Προέδρου από το βήμα εκδήλωσης των New York Times την Τετάρτη — Το Κίεβο καταγγέλλει “κόφτη” ταχύτητας στα 160 χλμ./ώρα που αχρηστεύει τα drones αναχαίτισης κατά των αεριωθούμενων ρωσικών επιδρομών.",
+   "first_seen": "2026-11-19T10:15:36+00:00"
+  },
+  {
+   "key": "url:https://startupper.gr/international/286424/anthropic-istoriko-rekor-813-dis-dolarion-stin-ipo-xeperase-ti-spacex-me-apotimisi-15-tris-dolaria",
+   "title": "Anthropic: Ιστορικό ρεκόρ 81,3 δισ. δολαρίων στην IPO – Ξεπέρασε τη SpaceX με αποτίμηση 1,5 τρισ. δολάρια",
+   "link": "https://startupper.gr/international/286424/anthropic-istoriko-rekor-813-dis-dolarion-stin-ipo-xeperase-ti-spacex-me-apotimisi-15-tris-dolaria/",
+   "kind": "news",
+   "category": "Startups",
+   "source": "Startupper",
+   "source_url": "https://startupper.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Τη μεγαλύτερη δημόσια εγγραφή (IPO) στην παγκόσμια οικονομική ιστορία ολοκλήρωσε αργά το βράδυ της Τετάρτης η Anthropic, αψηφώντας την έντονη νευρικότητα των αγορών γύρω από τις μετοχές τεχνολογίας The post Anthropic: Ιστορικό ρεκόρ 81,3 δισ. δολαρίων στην IPO – Ξεπέρασε τη SpaceX με αποτίμηση 1,5 τρισ. δολάρια appeared first on STARTUPPER .",
+   "first_seen": "2026-11-19T09:22:46+00:00"
+  },
+  {
+   "key": "url:https://ictplus.gr/i-epsilonnet-anadeiknyei-ti-nea-epoxi-ton-agentic-ai-powered-lyseon-sto-genai-summit-5",
+   "title": "Η EPSILONNET αναδεικνύει τη νέα εποχή των Agentic AI-powered λύσεων στο GenAI Summit 5",
+   "link": "https://www.ictplus.gr/i-epsilonnet-anadeiknyei-ti-nea-epoxi-ton-agentic-ai-powered-lyseon-sto-genai-summit-5/",
+   "kind": "news",
+   "category": "Enterprise IT",
+   "source": "ICT Plus",
+   "source_url": "https://www.ictplus.gr/",
+   "starts": null,
+   "location": "",
+   "summary": "Η EPSILONNET συμμετείχε ως Diamond Sponsor στο GenAI Summit 5, που πραγματοποιήθηκε στις 16 Νοεμβρίου 2026, στο Κέντρο Πολιτισμού Ίδρυμα Σταύρος Νιάρχος, συμβάλλοντας ενεργά στον διάλογο για τις εφαρμογές της Agentic AI και τον ρόλο της στον μετασχηματισμό των ελληνικών επιχειρήσεων. Η Τεχνητή Νοημοσύνη δημιουργεί ένα νέο περιβάλλον για την επιχειρηματικότητα, με τους AI Agents […] Το άρθρο Η EPSILONNET αναδεικνύει τη νέα εποχή των Agentic AI-powered λύσεων στο GenAI Summit 5 εμφανίστηκε πρώτα στο ICTPLUS .",
+   "first_seen": "2026-11-19T09:01:38+00:00"
+  },
+  {
+   "key": "url:https://fortunegreece.com/article/ti-evgale-to-tet-a-tet-tramp-poutin-prin-apo-tin-trimeri-me-si-pirinika-kai-ai-stin-atzenta",
+   "title": "Τι «έβγαλε» το τετ α τετ Τραμπ-Πούτιν πριν από την τριμερή με Σι – Πυρηνικά και AI στην ατζέντα",
+   "link": "https://www.fortunegreece.com/article/ti-evgale-to-tet-a-tet-tramp-poutin-prin-apo-tin-trimeri-me-si-pirinika-kai-ai-stin-atzenta/",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Fortune Greece",
+   "source_url": "https://www.fortunegreece.com/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Ο Αμερικανός πρόεδρος εμφανίζεται αισιόδοξος για τις συνομιλίες στη Σεντζέν, επιδιώκοντας ένα νέο πλαίσιο ελέγχου των πυρηνικών εξοπλισμών. Οι διαφορές με το Πεκίνο και ο ανταγωνισμός για την προηγμένη τεχνολογία δυσκολεύουν τη συνεννόηση.",
+   "first_seen": "2026-11-19T08:30:01+00:00"
   },
   {
    "key": "url:https://techmaniacs.gr/iphone-20-pro-sxediasi-kyrto-gyali-2027",
@@ -81,19 +185,6 @@
    "first_seen": "2026-11-18T16:24:57+00:00"
   },
   {
-   "key": "url:https://startupper.gr/news/286321/google-i-epochi-ton-aftonomon-kyvernoepitheseon-einai-edo-pos-ta-ai-agents-chtypoun-epicheiriseis-kai-cloud",
-   "title": "Google: Η εποχή των αυτόνομων κυβερνοεπιθέσεων είναι εδώ – Πώς τα AI agents χτυπούν επιχειρήσεις και cloud",
-   "link": "https://startupper.gr/news/286321/google-i-epochi-ton-aftonomon-kyvernoepitheseon-einai-edo-pos-ta-ai-agents-chtypoun-epicheiriseis-kai-cloud/",
-   "kind": "news",
-   "category": "Startups",
-   "source": "Startupper",
-   "source_url": "https://startupper.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Στην έκθεση AI Threat Tracker, η Google Threat Intelligence Group (GTIG) και η Mandiant αποκαλύπτουν πώς κακόβουλοι παράγοντες αξιοποιούν αυτόνομα μοντέλα Τεχνητής Νοημοσύνης, όπως το εργαλείο exploit_agent και τα συστήματα CAIRN και PentAGI, για να μετατρέπουν τις ενημερώσεις λογισμικού σε όπλα, στοχεύοντας από ευρωπαϊκά ΜΜΕ μέχρι τον αμερικανικό αεροδιαστημικό κλάδο The post Google: Η εποχή των αυτόνομων κυβερνοεπιθέσεων είναι εδώ – Πώς τα AI agents χτυπούν επιχειρήσεις και cloud appeared first on STARTUPPER .",
-   "first_seen": "2026-11-18T15:50:59+00:00"
-  },
-  {
    "key": "url:https://techgear.gr/to-suno-visuals-dimioyrgei-ai-vinteo-kai-exofylla-apeytheias-apo-ta-tragoydia-sas-51380",
    "title": "Το Suno Visuals δημιουργεί AI βίντεο και εξώφυλλα απευθείας από τα τραγούδια σας!",
    "link": "https://www.techgear.gr/to-suno-visuals-dimioyrgei-ai-vinteo-kai-exofylla-apeytheias-apo-ta-tragoydia-sas-51380",
@@ -133,58 +224,6 @@
    "first_seen": "2026-11-18T11:05:53+00:00"
   },
   {
-   "key": "url:https://ictplus.gr/papathanasis-100-ekat-evro-apo-to-espa-gia-ependyseis-se-stratigikes-technologies-amyna-kai-asfaleia",
-   "title": "Παπαθανάσης: 100 εκατ. ευρώ από το ΕΣΠΑ για επενδύσεις σε στρατηγικές τεχνολογίες, Άμυνα και Ασφάλεια",
-   "link": "https://www.ictplus.gr/papathanasis-100-ekat-evro-apo-to-espa-gia-ependyseis-se-stratigikes-technologies-amyna-kai-asfaleia/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Την Πρόσκληση της Δράσης «Ενίσχυση Μεσαίων και Μεγάλων Επιχειρήσεων σε τομείς Στρατηγικών Τεχνολογιών για την Ευρώπη (STEP) και Άμυνας & Ασφάλειας (Defence)» του Προγράμματος ΕΣΠΑ «Ανταγωνιστικότητα 2021- 2027» για την ανάπτυξη κρίσιμων τεχνολογιών, την ενίσχυση της παραγωγικής βάσης και τη στήριξη της ευρωπαϊκής στρατηγικής αυτονομίας, υπέγραψε ο αναπληρωτής υπουργός Εθνικής Οικονομίας και Οικονομικών Νίκος Παπαθανάσης. […] Το άρθρο Παπαθανάσης: 100 εκατ. ευρώ από το ΕΣΠΑ για επενδύσεις σε στρατηγικές τεχνολογίες, Άμυνα και Ασφάλεια εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-11-18T10:43:42+00:00"
-  },
-  {
-   "key": "url:https://ictplus.gr/google-ta-prosorina-nimata-einai-pleon-diathesima-sti-leitourgia-ai-tis-anazitisis",
-   "title": "Google: Τα προσωρινά νήματα είναι πλέον διαθέσιμα στη λειτουργία AI της αναζήτησης",
-   "link": "https://www.ictplus.gr/google-ta-prosorina-nimata-einai-pleon-diathesima-sti-leitourgia-ai-tis-anazitisis/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "ICT Plus",
-   "source_url": "https://www.ictplus.gr/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Google ανακοίνωσε τη διάθεση των Προσωρινών Νημάτων (Temporary Threads) στη Λειτουργία AI (AI Mode) της Αναζήτησης, μιας νέας δυνατότητας που επιτρέπει στους χρήστες να εξερευνούν ιδέες και να υποβάλλουν ερωτήσεις, χωρίς οι συνομιλίες τους να αποθηκεύονται στο ιστορικό ή να επηρεάζουν τη μελλοντική εξατομίκευση. Η συγκεκριμένη λειτουργία γίνεται σταδιακά διαθέσιμη παγκοσμίως σε προγράμματα περιήγησης […] Το άρθρο Google: Τα προσωρινά νήματα είναι πλέον διαθέσιμα στη λειτουργία AI της αναζήτησης εμφανίστηκε πρώτα στο ICTPLUS .",
-   "first_seen": "2026-11-18T10:33:57+00:00"
-  },
-  {
-   "key": "url:https://netweek.gr/perifereia-attikis-diagonismos-e15-ekat-gia-antiplimmyriko-systima-iot",
-   "title": "Περιφέρεια Αττικής: Διαγωνισμός €15 εκατ. για αντιπλημμυρικό σύστημα IoT",
-   "link": "https://netweek.gr/perifereia-attikis-diagonismos-e15-ekat-gia-antiplimmyriko-systima-iot/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "Netweek",
-   "source_url": "https://www.netweek.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "",
-   "first_seen": "2026-11-18T09:36:57+00:00"
-  },
-  {
-   "key": "url:https://netweek.gr/5o-genai-summit-oi-praktores-analamvanoun-drasi",
-   "title": "5o GenAI Summit – Οι «πράκτορες» αναλαμβάνουν δράση",
-   "link": "https://netweek.gr/5o-genai-summit-oi-praktores-analamvanoun-drasi/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "Netweek",
-   "source_url": "https://www.netweek.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "",
-   "first_seen": "2026-11-18T09:36:03+00:00"
-  },
-  {
    "key": "url:https://fortunegreece.com/article/nvidia-oristiki-porta-ston-tzensen-xouangk-xekina-i-anazitisi-monimou-ceo",
    "title": "Nvidia: Οριστική «πόρτα» στον Τζένσεν Χουάνγκ – Ξεκινά η αναζήτηση μόνιμου CEO",
    "link": "https://www.fortunegreece.com/article/nvidia-oristiki-porta-ston-tzensen-xouangk-xekina-i-anazitisi-monimou-ceo/",
@@ -209,19 +248,6 @@
    "location": "",
    "summary": "Από σήμερα έως τις 20 Νοεμβρίου οι εγγραφές, με εύρος τιμής 10–11,50 ευρώ ανά μετοχή. Πώς διαμορφώνεται η προσφορά, τι προβλέπεται για τους ιδιώτες επενδυτές και πότε προγραμματίζεται το χρηματιστηριακό ντεμπούτο.",
    "first_seen": "2026-11-18T08:59:14+00:00"
-  },
-  {
-   "key": "url:https://techblog.gr/software/microsoft-nea-dika-tis-montela-ai-gia-kodika-eikones-kai-apofaseis",
-   "title": "Microsoft: Νέα δικά της μοντέλα AI για κώδικα, εικόνες και αποφάσεις",
-   "link": "https://techblog.gr/software/microsoft-nea-dika-tis-montela-ai-gia-kodika-eikones-kai-apofaseis/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techblog",
-   "source_url": "https://techblog.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Microsoft παρουσίασε τα μοντέλα MAI-Code-2 και MAI-Image-2.7 και το Microsoft-Decision-1.1, με 68 μονάδες στο Decision Index και διπλάσια ταχύτητα. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Microsoft: Νέα δικά της μοντέλα AI για κώδικα, εικόνες και αποφάσεις )",
-   "first_seen": "2026-11-18T07:15:17+00:00"
   },
   {
    "key": "url:https://meetup.com/thessaloniki-devops-meetup/events/317328528",
@@ -302,19 +328,6 @@
    "first_seen": "2026-11-17T12:40:17+00:00"
   },
   {
-   "key": "url:https://netweek.gr/4th-cyber-security-networking-summit-i-elliniki-koinotita-kyvernoasfaleias-synantietai-sta-meteora",
-   "title": "4th Cyber Security Networking Summit: Η ελληνική κοινότητα κυβερνοασφάλειας συναντιέται στα Μετέωρα",
-   "link": "https://netweek.gr/4th-cyber-security-networking-summit-i-elliniki-koinotita-kyvernoasfaleias-synantietai-sta-meteora/",
-   "kind": "news",
-   "category": "Enterprise IT",
-   "source": "Netweek",
-   "source_url": "https://www.netweek.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "",
-   "first_seen": "2026-11-17T08:13:06+00:00"
-  },
-  {
    "key": "url:https://dev.events/conferences/dev-fest-athens-2026-wf18v18j",
    "title": "DevFest Athens 2026",
    "link": "https://dev.events/conferences/dev-fest-athens-2026-wf18v18j",
@@ -326,19 +339,6 @@
    "location": "Moschato, Greece, Moschato",
    "summary": "Tech conference in Moschato, Greece",
    "first_seen": "2026-11-16T19:39:40.463943+00:00"
-  },
-  {
-   "key": "url:https://fortunegreece.com/article/rekor-eisagogon-zimies-gia-ependites-to-paradoxo-ton-ipo-sti-wall-street",
-   "title": "Ρεκόρ εισαγωγών, ζημιές για επενδυτές: Το παράδοξο των IPO στη Wall Street",
-   "link": "https://www.fortunegreece.com/article/rekor-eisagogon-zimies-gia-ependites-to-paradoxo-ton-ipo-sti-wall-street/",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Fortune Greece",
-   "source_url": "https://www.fortunegreece.com/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η αξία των νέων εισαγωγών βρίσκεται σε υψηλό δεκαετίας, αλλά οι αποδόσεις απογοητεύουν. Η επικείμενη δημόσια εγγραφή της δημιουργού του Claude έρχεται σε μια περίοδο αυξανόμενων ανησυχιών για την τεχνητή νοημοσύνη.",
-   "first_seen": "2026-11-16T14:46:17+00:00"
   },
   {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317244074",
