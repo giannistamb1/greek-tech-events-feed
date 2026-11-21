@@ -1,6 +1,6 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-20T20:28:25.970676+00:00",
+ "built": "2026-11-21T02:24:01.397615+00:00",
  "items": [
   {
    "key": "url:https://meetup.com/club-futuristico-thessaloniki/events/317159503",
@@ -754,32 +754,6 @@
    "starts": "2026-12-10T02:00:00+02:00",
    "location": "",
    "summary": "Tech masterclass Online",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
-   "key": "url:https://dev.events/conferences/open-conf-2026-9rmra74l",
-   "title": "Open Conf 2026",
-   "link": "https://dev.events/conferences/open-conf-2026-9rmra74l",
-   "kind": "events",
-   "category": "Conferences & expos",
-   "source": "dev.events — Greece",
-   "source_url": "https://dev.events/EU/GR/tech",
-   "starts": "2026-11-20T02:00:00+02:00",
-   "location": "Athens, Greece, Athens",
-   "summary": "Tech conference in Athens, Greece",
-   "first_seen": "2026-10-08T10:58:00.575311+00:00"
-  },
-  {
-   "key": "url:https://dev.events/conferences/voxxed-days-thessaloniki-kuyehxi4",
-   "title": "Voxxed Days Thessaloniki",
-   "link": "https://dev.events/conferences/voxxed-days-thessaloniki-kuyehxi4",
-   "kind": "events",
-   "category": "Conferences & expos",
-   "source": "dev.events — Greece",
-   "source_url": "https://dev.events/EU/GR/tech",
-   "starts": "2026-11-20T02:00:00+02:00",
-   "location": "Thessaloniki, Greece, Thessaloniki",
-   "summary": "Tech conference in Thessaloniki, Greece",
    "first_seen": "2026-10-08T10:58:00.575311+00:00"
   },
   {
