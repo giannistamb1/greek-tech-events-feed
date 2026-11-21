@@ -1,7 +1,98 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-21T11:15:13.723803+00:00",
+ "built": "2026-11-21T19:22:59.880883+00:00",
  "items": [
+  {
+   "key": "url:https://techmaniacs.gr/elon-musk-stathmoys-vasis-se-steges-spition-etoimazei-i-spacex-gia-to-starlink",
+   "title": "Elon Musk: Σταθμούς βάσης σε στέγες σπιτιών ετοιμάζει η SpaceX για το Starlink",
+   "link": "https://techmaniacs.gr/elon-musk-stathmoys-vasis-se-steges-spition-etoimazei-i-spacex-gia-to-starlink/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Μικρού μεγέθους σταθμούς βάσης που μπορούν να τοποθετηθούν σε στέγες σπιτιών ετοιμάζει η SpaceX, σύμφωνα με τον Elon Musk, σε μια προσπάθεια να ενισχύσει την κάλυψη σε εσωτερικούς χώρους και πυκνοκατοικημένες περιοχές για τη νέα υπηρεσία κινητής τηλεφωνίας Starlink Mobile. Μιλώντας στο συνέδριο DealBook Summit των New York Times, ο Musk δήλωσε ότι ο σχεδιασμός […] The post Elon Musk: Σταθμούς βάσης σε στέγες σπιτιών ετοιμάζει η SpaceX για το Starlink appeared first on Techmaniacs .",
+   "first_seen": "2026-11-21T18:51:13+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/i-nvidia-diorthose-to-bug-poy-skotone-ssd-pos-na-katevaseis-to-patch",
+   "title": "Η Nvidia διόρθωσε το bug που «σκότωνε» SSD – Πώς να κατεβάσεις το patch",
+   "link": "https://techmaniacs.gr/i-nvidia-diorthose-to-bug-poy-skotone-ssd-pos-na-katevaseis-to-patch/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Οι τελευταίοι drivers της Nvidia είχαν αρχίσει να προκαλούν σοβαρή ανησυχία στους χρήστες GeForce καρτών γραφικών, καθώς έγραφαν ανεξέλεγκτα gigabytes στους SSD, επιταχύνοντας πρόωρα τη γήρανσή τους. Αναφορές χρηστών έκαναν λόγο ακόμα και για 30GB εγγραφών ανά ώρα, την ώρα που ο υπολογιστής βρισκόταν σε πλήρη αδράνεια. Η Nvidia έδωσε άμεσα λύση με νέους drivers, […] The post Η Nvidia διόρθωσε το bug που «σκότωνε» SSD – Πώς να κατεβάσεις το patch appeared first on Techmaniacs .",
+   "first_seen": "2026-11-21T17:55:37+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/ypothesi-riemann-claude-anthropic",
+   "title": "Η Claude της Anthropic φέρεται να έλυσε την Υπόθεση Riemann μετά από 167 χρόνια",
+   "link": "https://techmaniacs.gr/ypothesi-riemann-claude-anthropic/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Στις 20 Νοεμβρίου, ο Levent Alpöge, διακεκριμένος θεωρητικός αριθμών και στέλεχος της Anthropic, ανακοίνωσε ότι κατάφερε να αποδείξει την Υπόθεση του Riemann σε συνεργασία με το Claude. Το ερώτημα παραμένει ανοιχτό από το 1859. Θεωρείται το σημαντικότερο άλυτο πρόβλημα στα καθαρά μαθηματικά και συνοδεύεται από επικήρυξη ενός εκατομμυρίου δολαρίων από το Clay Mathematics Institute. Τι […] The post Η Claude της Anthropic φέρεται να έλυσε την Υπόθεση Riemann μετά από 167 χρόνια appeared first on Techmaniacs .",
+   "first_seen": "2026-11-21T14:04:26+00:00"
+  },
+  {
+   "key": "url:https://insider.gr/epiheiriseis/433684/neos-ponokefalos-gia-tin-nvidia-i-epitropi-kefalaiagoras-ton-ipa-exetazei-tis",
+   "title": "Νέος πονοκέφαλος για την Nvidia: Η Επιτροπή Κεφαλαιαγοράς των ΗΠΑ εξετάζει τις λογιστικές πρακτικές της",
+   "link": "https://www.insider.gr/epiheiriseis/433684/neos-ponokefalos-gia-tin-nvidia-i-epitropi-kefalaiagoras-ton-ipa-exetazei-tis",
+   "kind": "news",
+   "category": "Business & tech media",
+   "source": "Insider.gr",
+   "source_url": "https://www.insider.gr/rss.xml",
+   "starts": null,
+   "location": "",
+   "summary": "Η αποκάλυψη προκάλεσε έντονη ανησυχία στους επενδυτές, με τη μετοχή να «κατρακυλά» 14% στη συνεδρίασ...",
+   "first_seen": "2026-11-21T13:34:15+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/paroysiastike-o-elegoo-centauri-x-ultra-systima-4-kefalon-enantia-sti-spatali-ylikoy",
+   "title": "Παρουσιάστηκε ο Elegoo Centauri X Ultra: Σύστημα 4 κεφαλών ενάντια στη σπατάλη υλικού",
+   "link": "https://techmaniacs.gr/paroysiastike-o-elegoo-centauri-x-ultra-systima-4-kefalon-enantia-sti-spatali-ylikoy/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Elegoo παρουσίασε στη διεθνή έκθεση Formnext τον Centauri X Ultra, έναν CoreXY FDM 3D printer τεχνολογίας toolchanger. Η συσκευή ενσωματώνει τέσσερις πλήρως ανεξάρτητες κεφαλές εκτύπωσης, αλλάζοντας ριζικά τον τρόπο διαχείρισης των πολύχρωμων και πολυϋλικών εφαρμογών σε σύγκριση με τα συστήματα μονού ακροφυσίου. Πώς λειτουργεί το σύστημα Toolchanger και γιατί καταργεί τη σπατάλη Στα συμβατικά […] The post Παρουσιάστηκε ο Elegoo Centauri X Ultra: Σύστημα 4 κεφαλών ενάντια στη σπατάλη υλικού appeared first on Techmaniacs .",
+   "first_seen": "2026-11-21T12:37:10+00:00"
+  },
+  {
+   "key": "url:https://techblog.gr/mobile/huawei-mate-90-air-emfanistike-sto-katastima-tis-huawei-parousiasi-stis-24-noemvriou",
+   "title": "Huawei Mate 90 Air: Εμφανίστηκε στο κατάστημα της Huawei, παρουσίαση στις 24 Νοεμβρίου",
+   "link": "https://techblog.gr/mobile/huawei-mate-90-air-emfanistike-sto-katastima-tis-huawei-parousiasi-stis-24-noemvriou/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techblog",
+   "source_url": "https://techblog.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Huawei ανέβασε το Mate 90 Air στο επίσημο online κατάστημά της, πριν από την παρουσίασή του στις 24 Νοεμβρίου 2026, με 12 GB RAM και 256 ή… Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Huawei Mate 90 Air: Εμφανίστηκε στο κατάστημα της Huawei, παρουσίαση στις 24 Νοεμβρίου )",
+   "first_seen": "2026-11-21T12:32:11+00:00"
+  },
+  {
+   "key": "url:https://techmaniacs.gr/telekom-call-connect-via-funk",
+   "title": "Telekom: Η συσκευή που αντικατέστησε στη Γερμανία το καλώδιο του σταθερού: Η περίπτωση της Ελλάδας",
+   "link": "https://techmaniacs.gr/telekom-call-connect-via-funk/",
+   "kind": "news",
+   "category": "Tech media",
+   "source": "Techmaniacs",
+   "source_url": "https://techmaniacs.gr/feed/",
+   "starts": null,
+   "location": "",
+   "summary": "Η Deutsche Telekom παρουσίασε στη Γερμανία το Call Connect via Funk, μια νέα συσκευή που επιτρέπει τη λειτουργία της σταθερής τηλεφωνίας μέσα από το δίκτυο κινητής, διατηρώντας κανονικά τον υφιστάμενο αριθμό κλήσης. Η κίνηση αυτή συνδέεται άμεσα με τη σταδιακή απόσυρση του παλαιού δικτύου χαλκού (PSTN και ISDN). Σύμφωνα με τα στοιχεία της εταιρείας, περίπου […] The post Telekom: Η συσκευή που αντικατέστησε στη Γερμανία το καλώδιο του σταθερού: Η περίπτωση της Ελλάδας appeared first on Techmaniacs .",
+   "first_seen": "2026-11-21T11:56:14+00:00"
+  },
   {
    "key": "url:https://meetup.com/berlin-software-designers/events/317449498",
    "title": "[job hunting] reinventing yourself after a layoff",
@@ -66,45 +157,6 @@
    "location": "",
    "summary": "Οι καταγεγραμμένες ασφαλιστικές ζημιές δεν αποτυπώνουν ακόμη την πραγματική έκθεση των επιχειρήσεων, σύμφωνα με νέα έκθεση της Allianz Commercial. Τα περιστατικά που συνδέονται με την AI αυξήθηκαν κατά περισσότερο από 150% μέσα σε δύο χρόνια, ενώ ορισμένα σενάρια θα μπορούσαν να προκαλέσουν ζημιές έως και 100 εκατ. δολαρίων.",
    "first_seen": "2026-11-20T18:46:48+00:00"
-  },
-  {
-   "key": "url:https://insider.gr/epiheiriseis/433639/i-aplekton-holdings-protimiteos-ependytis-gia-ippiko-kentro-markopoyloy",
-   "title": "Η Aplekton Holdings προτιμητέος επενδυτής για το Ιππικό Κέντρο Μαρκόπουλου",
-   "link": "https://www.insider.gr/epiheiriseis/433639/i-aplekton-holdings-protimiteos-ependytis-gia-ippiko-kentro-markopoyloy",
-   "kind": "news",
-   "category": "Business & tech media",
-   "source": "Insider.gr",
-   "source_url": "https://www.insider.gr/rss.xml",
-   "starts": null,
-   "location": "",
-   "summary": "Ο διαγωνισμός αφορά έκταση περίπου 1.027 στρεμμάτων και προβλέπει τη σύσταση και μεταβίβαση δικαιώμα...",
-   "first_seen": "2026-11-20T18:43:51+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/nova-q-vip-to-kartokinito-tis-nova-sta-99-eyro-gia-1-chrono-anti-gia-140-eyro",
-   "title": "Nova Q VIP: Το καρτοκινητό της Nova στα 99 ευρώ για 1 χρόνο αντί για 140 ευρώ",
-   "link": "https://techmaniacs.gr/nova-q-vip-to-kartokinito-tis-nova-sta-99-eyro-gia-1-chrono-anti-gia-140-eyro/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Το Techmaniacs.gr έλαβε ενημέρωση για μια νέα προσφορά Black Friday που παρέχει απεριόριστο ίντερνετ, απεριόριστη ομιλία και 300 SMS με 99 ευρώ για έναν ολόκληρο χρόνο. Η προσφορά αφορά το πακέτο Nova Q VIP και είναι διαθέσιμη σε συνδρομητές σε οποιοδήποτε σημείο της Ελλάδας. Nova Q VIP με 99 ευρώ: Παροχές, διάρκεια και τρόπος απόκτησης […] The post Nova Q VIP: Το καρτοκινητό της Nova στα 99 ευρώ για 1 χρόνο αντί για 140 ευρώ appeared first on Techmaniacs .",
-   "first_seen": "2026-11-20T17:26:27+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/anthropic-megali-ptosi-meta-tin-istoriki-ipo-ton-81-3-dis",
-   "title": "Anthropic: Μεγάλη πτώση μετά την ιστορική IPO των 81,3 δισ.",
-   "link": "https://techmaniacs.gr/anthropic-megali-ptosi-meta-tin-istoriki-ipo-ton-81-3-dis/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Η Anthropic, η εταιρεία πίσω από το Claude, πραγματοποίησε ένα από τα μεγαλύτερα χρηματιστηριακά ντεμπούτα όλων των εποχών. Η δημόσια εγγραφή της συγκέντρωσε 81,3 δισεκατομμύρια δολάρια, με την εταιρεία να αποτιμάται στα 1,5 τρισεκατομμύρια δολάρια στην τιμή διάθεσης των μετοχών. Η υποδοχή από την αγορά ήταν εντυπωσιακή, ωστόσο ο ενθουσιασμός αποδείχθηκε βραχύβιος. Μόλις μία ημέρα […] The post Anthropic: Μεγάλη πτώση μετά την ιστορική IPO των 81,3 δισ. appeared first on Techmaniacs .",
-   "first_seen": "2026-11-20T16:29:21+00:00"
   },
   {
    "key": "url:https://startupper.gr/news/286695/alter-ego-media-schedio-diplasiasmou-stin-trietia-me-nees-exagores-kai-merismata",
@@ -419,19 +471,6 @@
    "first_seen": "2026-11-18T00:59:40.103299+00:00"
   },
   {
-   "key": "url:https://meetup.com/greek-cryptocurrency-community/events/317449765",
-   "title": "GCC Social Meet-up in Thessaloniki",
-   "link": "https://www.meetup.com/greek-cryptocurrency-community/events/317449765/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Thessaloniki tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
-   "starts": "2026-11-21T18:00:00+02:00",
-   "location": "Πλατεία Θεάτρου, Καφέ / Μπαρ/Εστιατόριο, Eth. Aminis 4, Thessaloniki, Thessaloniki",
-   "summary": "Σας προσκαλούμε στο social meet-up του Greek Cryptocurrency Community το Σάββατο 21/11/26 και ώρα 18:00. Το meet-up θα διεξαχθεί στη Θεσσαλονίκη στο Καφέ Πλατείας Θεάτρου, επί της οδού Εθνικής Αμύνης, αριθμός 4. Με τη συμμετοχή σας στο meet-up, θα λάβετε και ένα \"POAP\" (Proof Of Attendance Protocol). Kατεβάστε την εφαρμογή από εδώ: https://www.poap.xyz/",
-   "first_seen": "2026-11-17T16:08:34.966809+00:00"
-  },
-  {
    "key": "url:https://dev.events/conferences/dev-fest-athens-2026-wf18v18j",
    "title": "DevFest Athens 2026",
    "link": "https://dev.events/conferences/dev-fest-athens-2026-wf18v18j",
@@ -491,7 +530,7 @@
    "category": "Meetup",
    "source": "Meetup — Athens tech",
    "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-25T19:00:00+02:00",
+   "starts": "2026-12-02T19:00:00+02:00",
    "location": "Likourgou 1, Likourgou 1, Athina 105 51, Greece, Athina, Athina",
    "summary": "Καλημέρα σε όλους! Την Τετάρτη 25 Νοεμβρίου στις 19:00 συναντιόμαστε στα γραφεία της Yodeck (Λυκούργου 1, Αθήνα) για ένα Athens Python Meetup διαφορετικό από τα συνηθισμένα. Αυτή τη φορά βλέπουμε τη Python από την άλλη πλευρά: πώς τη χρησιμοποιούν οι attackers, και πώς μπορείς να την υπερασπιστείς. **🎤 Talk: \"Python is the new C, Weaponizing Python for fun, profit and Malware Development\"** Ο Παναγιώτης Φισκίλης, senior red team operator στην NVISO Security, θα μας δείξει τις τελευταίες τάσεις στην οπλοποίηση της Python από APT ομάδες και red teamers. Θα κάνουμε reverse engineering σε γνωστά trojanized repositories και σε προηγμένα (και ακριβά) implants, θα δούμε πώς ένα μόνο compromised pac…",
    "first_seen": "2026-11-14T10:35:09.686662+00:00"
@@ -664,19 +703,6 @@
    "location": "",
    "summary": "Μια ολοήμερη δράση βιώσιμης επιχειρηματικότητας, καινοτομίας και συνεργασίας έρχεται στις 27 Νοεμβρίου στην Περαία, με δωρεάν συμμετοχή για νέους και νέες 18-30 ετών. To InfinityGreece, με τη συνδιοργάνωση του Δήμου Θερμαϊκού και του Δημοτικού Συμβουλίου Νέων Θερμαϊκού, παρουσιάζει το Zero-Waste Entrepreneurship Hackathon (ZWE Hackathon), μια ολοήμερη εκπαιδευτική και συμμετοχική δράση που συνδέει τη νεανική επιχειρηματικότητα […]",
    "first_seen": "2026-11-02T17:31:07+00:00"
-  },
-  {
-   "key": "url:https://meetup.com/software-architecture-or-system-design-training/events/317171014",
-   "title": "Google Map Software Architecture",
-   "link": "https://www.meetup.com/software-architecture-or-system-design-training/events/317171014/",
-   "kind": "events",
-   "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
-   "starts": "2026-11-21T13:30:00+02:00",
-   "location": "Online",
-   "summary": "Learn How Google Map Scales to Millions of users across the globe, how is Google Map reliable. How does Google Map able to tell you the distance and time between two locations? When you’re travelling in your vehicle and the traffic situation changes how does Google Map able to tune and inform you the traffic situation has changed and takes more time to reach your destination, etc Network with other like-minded people in the community. Note: the objective of this session is to teach how the MAP works and your able to reach your destination using Maps. We are using Google Map in the Subject since people can easily relate to Google Map. Ignore the term Google Here. Join via zoom link https://us…",
-   "first_seen": "2026-11-01T00:10:51.583430+00:00"
   },
   {
    "key": "url:https://startup.gr/to-the-peoples-trust-stirizei-tin-epicheirimatikotita-sti-dytiki-makedonia",
