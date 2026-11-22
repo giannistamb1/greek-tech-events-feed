@@ -1,6 +1,6 @@
 {
-  "built": "2026-11-22T11:34:54.368929+00:00",
-  "items": 73,
+  "built": "2026-11-22T19:46:37.753361+00:00",
+  "items": 52,
   "sources": [
     {
       "name": "Meetup — Athens tech",
@@ -10,27 +10,27 @@
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
       "name": "Eventbrite — Greece science & tech",
-      "fetched": 8,
-      "kept": 8,
-      "error": ""
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/greece/science-and-tech--events/"
     },
     {
       "name": "Eventbrite — Greece business (tech-filtered)",
-      "fetched": 7,
-      "kept": 5,
-      "error": ""
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/greece/business--events/"
     },
     {
       "name": "Eventbrite — Athens startups",
-      "fetched": 19,
-      "kept": 11,
-      "error": ""
+      "fetched": 0,
+      "kept": 0,
+      "error": "HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/greece--athens/startup/"
     },
     {
       "name": "Stayhappening — Athens",
@@ -71,7 +71,7 @@
     {
       "name": "EMEA.gr",
       "fetched": 15,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 122,
+      "fetched": 137,
       "kept": 6,
       "error": ""
     },
@@ -107,7 +107,7 @@
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 3,
+      "kept": 2,
       "error": ""
     },
     {
@@ -124,9 +124,9 @@
     },
     {
       "name": "Tech.eu",
-      "fetched": 20,
+      "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://tech.eu/feed/"
     },
     {
       "name": "Silicon Canals",

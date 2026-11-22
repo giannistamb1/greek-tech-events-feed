@@ -6,16 +6,25 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-news.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Sun, 22 Nov 2026 11:34:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 19:46:37 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>AI, GovTech, HealthTech: Οι βασικές προτεραιότητες για την ανάδειξη της Ελλάδας σε κόμβο ψηφιακής τεχνολογίας</title>
-<link>https://businessvoice.gr/digital/1000452/ai-govtech-healthtech-oi-vasikes-proteraiotites-gia-tin-anadeixi-tis-elladas-se-komvo-psifiakis-technologias/</link>
-<guid isPermaLink="false">url:https://businessvoice.gr/digital/1000452/ai-govtech-healthtech-oi-vasikes-proteraiotites-gia-tin-anadeixi-tis-elladas-se-komvo-psifiakis-technologias</guid>
-<pubDate>Sun, 22 Nov 2026 08:40:25 +0000</pubDate>
-<category>Business &amp; tech media</category>
-<source url="https://www.emea.gr/feed/">EMEA.gr</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; EMEA.gr · Business &amp;amp; tech media&lt;/p&gt;&lt;p&gt;Μελέτη της Deloitte για τον ΣΕΠΕ, που θα παρουσιαστεί στο πλαίσιο του digital economy forum 2026: “Building Intelligence”, εκτιμά ότι η ανάπτυξη ψηφιακών κόμβων μπορεί να συμβάλει στην προσέλκυση επενδύσεων, στη δημιουργία εξειδικευμένων θέσεων εργασίας, καθώς και στην ανάπτυξη της οικονομίας.&lt;/p&gt;</description>
+<title>Λάβαμε email για αλλαγές στο Gemini: Διατηρείς τις συνομιλίες χωρίς να εκπαιδεύεις την AI</title>
+<link>https://techmaniacs.gr/lavame-email-gia-allages-sto-gemini-diatireis-tis-synomilies-choris-na-ekpaideyeis-tin-ai/</link>
+<guid isPermaLink="false">url:https://techmaniacs.gr/lavame-email-gia-allages-sto-gemini-diatireis-tis-synomilies-choris-na-ekpaideyeis-tin-ai</guid>
+<pubDate>Sun, 22 Nov 2026 19:45:45 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Η Google διαχωρίζει το ιστορικό συνομιλιών από την εκπαίδευση των μοντέλων τεχνητής νοημοσύνης στο Gemini, εισάγοντας δύο ανεξάρτητες ρυθμίσεις απορρήτου. Όπως προκύπτει από επίσημο ενημερωτικό email που έλαβε το Techmaniacs.gr στον λογαριασμό του στην Ελλάδα, οι χρήστες θα μπορούν πλέον να διατηρούν αποθηκευμένες τις συνομιλίες τους χωρίς να παραχωρούν το περιεχόμενό τους για τη βελτίωση […] The post Λάβαμε email για αλλαγές στο Gemini: Διατηρείς τις συνομιλίες χωρίς να εκπαιδεύεις την AI appeared first on Techmaniacs .&lt;/p&gt;</description>
+</item>
+<item>
+<title>Antonino Flachi: Δημιούργησε ψηφιακή «μαύρη τρύπα» σε τσιπ, παρουσίασε διαρροή από ένα μόνο bit</title>
+<link>https://techmaniacs.gr/antonino-flachi-dimioyrgise-psifiaki-mayri-trypa-se-tsip-paroysiase-diarroi-apo-ena-mono-bit/</link>
+<guid isPermaLink="false">url:https://techmaniacs.gr/antonino-flachi-dimioyrgise-psifiaki-mayri-trypa-se-tsip-paroysiase-diarroi-apo-ena-mono-bit</guid>
+<pubDate>Sun, 22 Nov 2026 18:38:11 +0000</pubDate>
+<category>Tech media</category>
+<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
+<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Ένα νέο πείραμα προσφέρει στους επιστήμονες έναν νέο τρόπο να μελετήσουν τη συμπεριφορά των μαύρων τρυπών. Ο φυσικός Antonino Flachi από το Πανεπιστήμιο Keio της Ιαπωνίας δημιούργησε μια ψηφιακή προσομοίωση μαύρης τρύπας σε ένα προγραμματιζόμενο ολοκληρωμένο κύκλωμα (FPGA), χρησιμοποιώντας αποκλειστικά ψηφιακά κυκλώματα και λογικές πύλες. Το πείραμα παρουσιάζει ιδιαίτερο ενδιαφέρον, καθώς ο ερευνητής κατάφερε να […] The post Antonino Flachi: Δημιούργησε ψηφιακή «μαύρη τρύπα» σε τσιπ, παρουσίασε διαρροή από ένα μόνο bit appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
 <title>Honor: Μεσαίο κινητό με μπαταρία 13.500 mAh</title>
@@ -25,33 +34,6 @@
 <category>Tech media</category>
 <source url="https://techblog.gr/feed/">Techblog</source>
 <description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techblog · Tech media&lt;/p&gt;&lt;p&gt;Η Honor φέρεται να ετοιμάζει μεσαίο κινητό με μπαταρία 13.500 mAh και οθόνη 6,96 ή 7 ιντσών, με παρουσίαση πριν από τις 6 Φεβρουαρίου 2027. Συνεχίστε την ανάγνωση στο Techblog.gr Το άρθρο δημοσιεύτηκε αρχικά στο Techblog ( Honor: Μεσαίο κινητό με μπαταρία 13.500 mAh )&lt;/p&gt;</description>
-</item>
-<item>
-<title>Elon Musk: Σταθμούς βάσης σε στέγες σπιτιών ετοιμάζει η SpaceX για το Starlink</title>
-<link>https://techmaniacs.gr/elon-musk-stathmoys-vasis-se-steges-spition-etoimazei-i-spacex-gia-to-starlink/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/elon-musk-stathmoys-vasis-se-steges-spition-etoimazei-i-spacex-gia-to-starlink</guid>
-<pubDate>Sat, 21 Nov 2026 18:51:13 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Μικρού μεγέθους σταθμούς βάσης που μπορούν να τοποθετηθούν σε στέγες σπιτιών ετοιμάζει η SpaceX, σύμφωνα με τον Elon Musk, σε μια προσπάθεια να ενισχύσει την κάλυψη σε εσωτερικούς χώρους και πυκνοκατοικημένες περιοχές για τη νέα υπηρεσία κινητής τηλεφωνίας Starlink Mobile. Μιλώντας στο συνέδριο DealBook Summit των New York Times, ο Musk δήλωσε ότι ο σχεδιασμός […] The post Elon Musk: Σταθμούς βάσης σε στέγες σπιτιών ετοιμάζει η SpaceX για το Starlink appeared first on Techmaniacs .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Η Nvidia διόρθωσε το bug που «σκότωνε» SSD – Πώς να κατεβάσεις το patch</title>
-<link>https://techmaniacs.gr/i-nvidia-diorthose-to-bug-poy-skotone-ssd-pos-na-katevaseis-to-patch/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/i-nvidia-diorthose-to-bug-poy-skotone-ssd-pos-na-katevaseis-to-patch</guid>
-<pubDate>Sat, 21 Nov 2026 17:55:37 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Οι τελευταίοι drivers της Nvidia είχαν αρχίσει να προκαλούν σοβαρή ανησυχία στους χρήστες GeForce καρτών γραφικών, καθώς έγραφαν ανεξέλεγκτα gigabytes στους SSD, επιταχύνοντας πρόωρα τη γήρανσή τους. Αναφορές χρηστών έκαναν λόγο ακόμα και για 30GB εγγραφών ανά ώρα, την ώρα που ο υπολογιστής βρισκόταν σε πλήρη αδράνεια. Η Nvidia έδωσε άμεσα λύση με νέους drivers, […] The post Η Nvidia διόρθωσε το bug που «σκότωνε» SSD – Πώς να κατεβάσεις το patch appeared first on Techmaniacs .&lt;/p&gt;</description>
-</item>
-<item>
-<title>Η Claude της Anthropic φέρεται να έλυσε την Υπόθεση Riemann μετά από 167 χρόνια</title>
-<link>https://techmaniacs.gr/ypothesi-riemann-claude-anthropic/</link>
-<guid isPermaLink="false">url:https://techmaniacs.gr/ypothesi-riemann-claude-anthropic</guid>
-<pubDate>Sat, 21 Nov 2026 14:04:26 +0000</pubDate>
-<category>Tech media</category>
-<source url="https://techmaniacs.gr/feed/">Techmaniacs</source>
-<description>&lt;p&gt;&lt;b&gt;Source:&lt;/b&gt; Techmaniacs · Tech media&lt;/p&gt;&lt;p&gt;Στις 20 Νοεμβρίου, ο Levent Alpöge, διακεκριμένος θεωρητικός αριθμών και στέλεχος της Anthropic, ανακοίνωσε ότι κατάφερε να αποδείξει την Υπόθεση του Riemann σε συνεργασία με το Claude. Το ερώτημα παραμένει ανοιχτό από το 1859. Θεωρείται το σημαντικότερο άλυτο πρόβλημα στα καθαρά μαθηματικά και συνοδεύεται από επικήρυξη ενός εκατομμυρίου δολαρίων από το Clay Mathematics Institute. Τι […] The post Η Claude της Anthropic φέρεται να έλυσε την Υπόθεση Riemann μετά από 167 χρόνια appeared first on Techmaniacs .&lt;/p&gt;</description>
 </item>
 <item>
 <title>Huawei Mate 90 Air: Εμφανίστηκε στο κατάστημα της Huawei, παρουσίαση στις 24 Νοεμβρίου</title>
