@@ -1,17 +1,17 @@
 {
-  "built": "2026-11-21T19:22:59.880883+00:00",
-  "items": 60,
+  "built": "2026-11-22T01:23:11.046598+00:00",
+  "items": 62,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 11,
-      "kept": 11,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 10,
-      "kept": 10,
+      "fetched": 12,
+      "kept": 12,
       "error": ""
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "name": "Fortune Greece",
-      "fetched": 182,
+      "fetched": 184,
       "kept": 11,
       "error": ""
     },
@@ -118,9 +118,9 @@
     },
     {
       "name": "EU-Startups",
-      "fetched": 0,
+      "fetched": 10,
       "kept": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.eu-startups.com/feed/"
+      "error": ""
     },
     {
       "name": "Tech.eu",
