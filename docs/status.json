@@ -1,17 +1,17 @@
 {
-  "built": "2026-11-23T01:47:28.489831+00:00",
-  "items": 55,
+  "built": "2026-11-23T12:59:15.823638+00:00",
+  "items": 53,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
       "name": "Meetup — Thessaloniki tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
@@ -53,13 +53,13 @@
     {
       "name": "ICT Plus",
       "fetched": 21,
-      "kept": 8,
+      "kept": 5,
       "error": ""
     },
     {
       "name": "Techgear",
       "fetched": 50,
-      "kept": 1,
+      "kept": 4,
       "error": ""
     },
     {
@@ -83,13 +83,13 @@
     {
       "name": "Insider.gr",
       "fetched": 60,
-      "kept": 0,
+      "kept": 1,
       "error": ""
     },
     {
       "name": "Fortune Greece",
-      "fetched": 138,
-      "kept": 6,
+      "fetched": 106,
+      "kept": 3,
       "error": ""
     },
     {
@@ -101,7 +101,7 @@
     {
       "name": "Techblog",
       "fetched": 20,
-      "kept": 2,
+      "kept": 3,
       "error": ""
     },
     {
@@ -113,14 +113,14 @@
     {
       "name": "Netweek",
       "fetched": 10,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
       "name": "EU-Startups",
-      "fetched": 0,
+      "fetched": 10,
       "kept": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.eu-startups.com/feed/"
+      "error": ""
     },
     {
       "name": "Tech.eu",
