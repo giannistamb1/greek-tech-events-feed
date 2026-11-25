@@ -6,25 +6,52 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 23:55:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 08:43:55 +0000</lastBuildDate>
 <ttl>180</ttl>
 <item>
-<title>[01 Dec] Hack The Box Meetup: NTHW Cyber Advent 2026</title>
-<link>https://www.meetup.com/hack-the-box-meetup-poland/events/317486606/</link>
-<guid isPermaLink="false">url:https://meetup.com/hack-the-box-meetup-poland/events/317486606</guid>
-<pubDate>Tue, 24 Nov 2026 23:55:44 +0000</pubDate>
+<title>[10 Dec] The 8th Athens Causal Data Science Meetup</title>
+<link>https://www.meetup.com/causal-data-science-athens/events/317558802/</link>
+<guid isPermaLink="false">url:https://meetup.com/causal-data-science-athens/events/317558802</guid>
+<pubDate>Wed, 25 Nov 2026 08:43:55 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 01 December 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;🎄 CyberAdvent 2026: a cybersecurity advent calendar Free cybersecurity knowledge, one window a day. Right up to Christmas Eve we open new windows of the calendar, with 23 cybersecurity talks waiting behind them. The windows are revealed on **[Not The Hidden Wiki](https://www.linkedin.com/company/not-the-hidden-wiki)**'s LinkedIn page. Who's behind the window? It's a surprise: we reveal the speaker and topic in the morning, and meet live in the evening. 📅 When: 1–24 December 2026, daily at 18:00 CET 📍 Where: online, on Google Meet. You'll see the meeting link once you RSVP. The link stays the same for every session. 🗣️ Language: talks in Polish and English (depending on the prelection) 🎓 Cert…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 10 December 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Impact Hub Athens, Karaiskaki 28 10554, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;🗓️ Το **Causal Data Science Meetup της Αθήνας** σας περιμένει στις **10 Δεκεμβρίου, 7:00 μμ** για την **8η συνάντησή του**! Καλεσμένος μας ο [Ioannis Tsamardinos](https://www.iacm.forth.gr/people/tsama/), με θέμα ομιλίας **"From Data to Decisions: Automating Causal Analysis at Scale"**. Πώς μπορούμε να περάσουμε από την πρόβλεψη στην κατανόηση του γιατί συμβαίνει κάτι και, κυρίως, τι μπορούμε να κάνουμε για να το αλλάξουμε; Η ομιλία θα παρουσιάσει πώς το automated causal discovery μπορεί να απλοποιήσει αυτά τα ερωτήματα, μειώνοντας την ανάγκη για εξειδικευμένη γνώση και manual ανάλυση. Μέσα από το ETIA, μια νέα πλατφόρμα που συνδυάζει causal discovery και conversational AI, θα δούμε πώς μπορ…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[25 Nov] Online meetup: Building Agents: You're hiring a teammate not shipping a feature</title>
-<link>https://www.meetup.com/cambridge-product-management-network/events/317325414/</link>
-<guid isPermaLink="false">url:https://meetup.com/cambridge-product-management-network/events/317325414</guid>
-<pubDate>Tue, 24 Nov 2026 23:55:44 +0000</pubDate>
+<title>[29 Nov] Thessaloniki Verified Locals Meet From Home</title>
+<link>https://www.meetup.com/pixel-novices-play-and-build-club/events/317570881/</link>
+<guid isPermaLink="false">url:https://meetup.com/pixel-novices-play-and-build-club/events/317570881</guid>
+<pubDate>Wed, 25 Nov 2026 08:43:55 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 25 November 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Building agents is not like traditional feature development; it requires a new product management playbook. This session will give you the lifecycle for treating your agent like an employee: defining an it's role, onboarding and training, supervision through evals, upskilling through experiments and expanding its authority. **About our speaker** Robbie McFarlane is a Senior II Product Manager at HubSpot. He has spent the last 18 months working exclusively on AI agents. He has built and improved agents that resolve HubSpot support queries and capture and convert demand. He has learned what it takes to move an agent from a promising demo to a trusted teammate that delivers customer outcomes. I…&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 29 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; 34 Vasileos Irakleiou, Vasileos Irakleiou 34, Thessaloniki 546 24, Greece, Thessaloniki, Thessaloniki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**❤️‍🔥 Online Speed Dating – Real Thessaloniki Locals, Live on Zoom** Genuine conversations with real locals — all from your living room. Each round is a brief one-on-one Zoom chat with a Thessaloniki local paired by age and personality. A host keeps the pace comfortable. **Pick your age group and sign up:** * **Ages 18-32** → [REGISTER HERE](https://theliveround.com/product?productId=758&amp;amp;productType=onlineSpeedDating&amp;amp;city=Thessaloniki&amp;amp;groupurlname=pixel-novices-play-and-build-club&amp;amp;ar=18-32&amp;amp;face_v=5080) * **Ages 30-46** → [REGISTER HERE](https://theliveround.com/product?productId=758&amp;amp;productType=onlineSpeedDating&amp;amp;city=Thessaloniki&amp;amp;groupurlname=pixel-novices-play-and-build-club&amp;amp;ar=30-46&amp;amp;face_…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[25 Nov] MeDS Club: Israel’s AI in Healthcare Regulatory Sandbox</title>
+<link>https://www.meetup.com/medical-data-science-meetup-group/events/317451386/</link>
+<guid isPermaLink="false">url:https://meetup.com/medical-data-science-meetup-group/events/317451386</guid>
+<pubDate>Wed, 25 Nov 2026 08:43:55 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 25 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;As AI moves from supporting clinical decisions to making them, new regulatory challenges emerge. How can we enable innovation while ensuring patient safety? Join us for a talk with Yael Gabay, Health Programs Manager at the Israel Innovation Authority (IIA), to learn how the IIA supports healthcare innovation and explore Israel’s AI in Healthcare Regulatory Sandbox, a joint initiative with the Ministry of Health. We’ll discuss the real-world needs behind the initiative, the regulatory challenges facing AI-driven medical technologies, and how the sandbox aims to support safe and responsible innovation. Whether you’re a researcher, developer, or simply interested in AI in healthcare, come lear…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[25 Nov] November 2026 - M365 Security &amp; Compliance User Group</title>
+<link>https://www.meetup.com/m365sandcug/events/317251703/</link>
+<guid isPermaLink="false">url:https://meetup.com/m365sandcug/events/317251703</guid>
+<pubDate>Wed, 25 Nov 2026 08:43:55 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 25 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Hey everyone, hope you can join us for this user group. We will kick off with a rundown of the latest Microsoft security news, then have two awesome speaker sessions, ending with prizes and giveaways. Times below in UTC+1/UK. * 1800-1815 -- Kick off and latest Microsoft security news * 1815-1900 -- **Thomas Naunheim** and **Mike Soule** - **Automating Azure Landing Zone RBAC in Identity Governance** * 1915-200 -- **Jon Hope** - **Azure: The Hidden Power Behind Identity Security** * 2000 -- Packt + ENow giveaways - books + vouchers **Please note that sessions are NOT recorded.** Do not ask. Slides may be shared by speakers via our [GitHub](https://github.com/M365SCUG/events) later.&lt;/p&gt;</description>
+</item>
+<item>
+<title>[25 Nov] Plan Your Week in 15 Minutes: Let Claude Do the Rest [ONLINE]</title>
+<link>https://www.meetup.com/manchester-ai-founders-entrepreneurs-society/events/317416959/</link>
+<guid isPermaLink="false">url:https://meetup.com/manchester-ai-founders-entrepreneurs-society/events/317416959</guid>
+<pubDate>Wed, 25 Nov 2026 08:43:55 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 25 November 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Fifteen minutes on Monday, a quick review on Friday, and Claude handles the in-between. May sets up the routine live with Manchester founders. **What we'll cover:** • Planning your week with Claude in 15 minutes on Monday • Letting Claude draft the emails, notes and proposals you keep putting off • Follow-ups that go out on time without you remembering them • The 15-minute Friday review that keeps the system running **Format:** Live on Google Meet with business owners from Manchester and the Bridges Network. We work through it together on screen, and questions are answered as we go. **Who it's for:** owners and managers whose week runs through them. **Bring:** a laptop, a free Claude account…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[02 Dec] Generative AI - AI As A Scientist</title>
@@ -45,24 +72,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 28 November 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[28 Nov] Saturday Social at Mint Bar – Meet, Talk &amp; See Where the Night Goes</title>
-<link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317287549/</link>
-<guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317287549</guid>
-<pubDate>Sun, 22 Nov 2026 01:23:11 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 28 November 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[02 Dec] Online Networking for Woman in Tech (Europe)</title>
-<link>https://www.meetup.com/woman-in-technogy-barcelona/events/315794325/</link>
-<guid isPermaLink="false">url:https://meetup.com/woman-in-technogy-barcelona/events/315794325</guid>
-<pubDate>Sun, 22 Nov 2026 01:23:11 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 02 December 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Event Summary** 5 minutes. Two women. One spark. Online. Rotate through 1-on-1 video conversations with 15+ women in tech and find your next partner, mentor, co-founder, or collaborator, from wherever you are. **Description** Want to meet interesting women in tech without the pressure, and without leaving home? This is online speed networking: a gentle, human format where you have 1-on-1 conversations with women you’d actually want to know. No pitches. No performing. Just real talks with real people. **How it works:** We all meet in a group video call to say hello and set the tone. Then the platform pairs you with another woman in a private video room. You have 5 minutes to talk. Ask each …&lt;/p&gt;</description>
-</item>
-<item>
 <title>[26 Nov] 🌙 Thursday Social Night | Meet New People in Athens@Mint bar</title>
 <link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317287547/</link>
 <guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317287547</guid>
@@ -79,15 +88,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 26 November 2026, 20:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint Music bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) 🤍 A new season of meeting people starts here. Coming alone? New in Athens? Shy or a little introverted? You’re exactly who we want to welcome. ✨ Every Thursday, we meet at Mint Bar for a relaxed social night where you can come alone, meet new people, and feel comfortable from the moment you arrive. No need to bring friends. No need to be super outgoing. Just come as you are. 🫶 🌍 Locals • Travellers • Expats • Couples • Friends • Solo people Everyone is welcome. Come for good conversati…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[03 Dec] Engineering, Product &amp; Design | Dot Net Liverpool × Build Better Liverpool</title>
-<link>https://www.meetup.com/dot-net-liverpool/events/317387185/</link>
-<guid isPermaLink="false">url:https://meetup.com/dot-net-liverpool/events/317387185</guid>
-<pubDate>Thu, 19 Nov 2026 20:43:35 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 03 December 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;We’re bringing two local tech communities together for a December evening to remember! 🎉 **Dot Net Liverpool × Build Better Liverpool** are joining forces for a special event packed with talks, new connections and **prize giveaways**. Whether you’re a regular at either meetup or joining us for the first time, we hope you’ll be part of it. Liverpool’s tech scene is full of brilliant people. This is a chance to bring our communities together, share ideas across disciplines and celebrate the people building great things across the North West. **What’s in store?** 🎤 **Talks across Product, Marketing and Development**, featuring Benjamin Villette, James Kennedy and Samson Nwizugbe. 🗣️ **An Ask Me…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[25 Nov] From Self-Doubt to Authority</title>
