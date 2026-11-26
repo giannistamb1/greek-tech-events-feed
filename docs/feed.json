@@ -1,7 +1,20 @@
 {
  "title": "Greek Tech Events & Meetups",
- "built": "2026-11-25T19:22:11.474976+00:00",
+ "built": "2026-11-26T03:37:03.106118+00:00",
  "items": [
+  {
+   "key": "url:https://meetup.com/meeting-cpp-online/events/316763496",
+   "title": "Meeting C++ 2026",
+   "link": "https://www.meetup.com/meeting-cpp-online/events/316763496/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-26T10:00:00+02:00",
+   "location": "Online",
+   "summary": "Meeting C++ 2026! Get your tickets while you can! Tickets are available in the [online shop at Tito](https://ti.to/meetingcpp/meetingcpp-2026) Access will be provided to ticket holders only. This event is what makes Meeting C++ all year possible. **[Meeting C++ 2026](https://meetingcpp.com/2026)** - [Schedule of 2026](https://meetingcpp.com/mcpp/schedule) This years Meeting C++ is a hybrid event in **Berlin** and **online** on **26th - 28th November 2026**. The conference will be again hybrid - just like last year, attendees will join us on [location](https://meetingcpp.com/2025/Location.html) in Berlin, but the conference will be also featuring online and onsite only content. * Meeting C++ …",
+   "first_seen": "2026-11-26T03:37:03.106118+00:00"
+  },
   {
    "key": "url:https://businessdaily.gr/oikonomia/245629_apothikeysi-energeias-apo-thesmiko-plaisio-stin-ependytiki-praxi",
    "title": "Αποθήκευση ενέργειας: Από το θεσμικό πλαίσιο στην επενδυτική πράξη",
@@ -118,19 +131,6 @@
    "location": "",
    "summary": "Εντυπωσιακές οθόνες, προηγμένες λύσεις προβολής και ειδικά σχεδιασμένοι εκθεσιακοί χώροι ανέδειξαν το εύρος των προτάσεων της Hisense στην εικόνα και τον ήχο Το άρθρο Hisense στη HES 2026: Όταν η τεχνολογία γίνεται θέαμα εμφανίστηκε πρώτα στο ICTPLUS .",
    "first_seen": "2026-11-25T12:08:03+00:00"
-  },
-  {
-   "key": "url:https://techmaniacs.gr/vodafone-cu-etisio-paketo-300gb-95-euro",
-   "title": "Vodafone CU: Λανσάρει νέο ετήσιο πακέτο καρτοκινητής με 300GB στα 7,91€ / μήνα (με προπληρωμή 95€)",
-   "link": "https://techmaniacs.gr/vodafone-cu-etisio-paketo-300gb-95-euro/",
-   "kind": "news",
-   "category": "Tech media",
-   "source": "Techmaniacs",
-   "source_url": "https://techmaniacs.gr/feed/",
-   "starts": null,
-   "location": "",
-   "summary": "Στα 95 ευρώ εφάπαξ διαθέτει η Vodafone το ετήσιο προπληρωμένο πακέτο καρτοκινητής του Vodafone CU, στη χαμηλότερη τιμή που έχει εμφανιστεί μέσα στη χρονιά. Με μία πληρωμή ενεργοποιούνται για 12 μήνες απεριόριστα λεπτά ομιλίας προς όλους, 300 GB ίντερνετ και 100 SMS κάθε μήνα, μαζί με 30 ευρώ στη Snappi για όσους δεν έχουν κάνει […] The post Vodafone CU: Λανσάρει νέο ετήσιο πακέτο καρτοκινητής με 300GB στα 7,91€ / μήνα (με προπληρωμή 95€) appeared first on Techmaniacs .",
-   "first_seen": "2026-11-25T10:32:44+00:00"
   },
   {
    "key": "url:https://techblog.gr/gadgets/nothing-ear-note-ai-akoustika-pou-grafoun-syskepseis-kai-kliseis",
@@ -354,6 +354,32 @@
    "first_seen": "2026-11-23T01:47:28.489831+00:00"
   },
   {
+   "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317287551",
+   "title": "Saturday Social at Mint Bar – International Mingle event",
+   "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317287551/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Athens tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "starts": "2026-11-28T21:30:00+02:00",
+   "location": "Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
+   "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…",
+   "first_seen": "2026-11-22T11:34:54.368929+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/woman-in-technogy-barcelona/events/315794325",
+   "title": "Online Networking for Woman in Tech (Europe)",
+   "link": "https://www.meetup.com/woman-in-technogy-barcelona/events/315794325/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-12-02T19:00:00+02:00",
+   "location": "Online",
+   "summary": "**Event Summary** 5 minutes. Two women. One spark. Online. Rotate through 1-on-1 video conversations with 15+ women in tech and find your next partner, mentor, co-founder, or collaborator, from wherever you are. **Description** Want to meet interesting women in tech without the pressure, and without leaving home? This is online speed networking: a gentle, human format where you have 1-on-1 conversations with women you’d actually want to know. No pitches. No performing. Just real talks with real people. **How it works:** We all meet in a group video call to say hello and set the tone. Then the platform pairs you with another woman in a private video room. You have 5 minutes to talk. Ask each …",
+   "first_seen": "2026-11-22T01:23:11.046598+00:00"
+  },
+  {
    "key": "url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317287547",
    "title": "🌙 Thursday Social Night | Meet New People in Athens@Mint bar",
    "link": "https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317287547/",
@@ -377,6 +403,19 @@
    "starts": "2026-11-26T20:30:00+02:00",
    "location": "Mint Music bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens",
    "summary": "Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) 🤍 A new season of meeting people starts here. Coming alone? New in Athens? Shy or a little introverted? You’re exactly who we want to welcome. ✨ Every Thursday, we meet at Mint Bar for a relaxed social night where you can come alone, meet new people, and feel comfortable from the moment you arrive. No need to bring friends. No need to be super outgoing. Just come as you are. 🫶 🌍 Locals • Travellers • Expats • Couples • Friends • Solo people Everyone is welcome. Come for good conversati…",
+   "first_seen": "2026-11-19T20:43:35.366040+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/dot-net-liverpool/events/317387185",
+   "title": "Engineering, Product & Design | Dot Net Liverpool × Build Better Liverpool",
+   "link": "https://www.meetup.com/dot-net-liverpool/events/317387185/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-12-03T20:00:00+02:00",
+   "location": "Online",
+   "summary": "We’re bringing two local tech communities together for a December evening to remember! 🎉 **Dot Net Liverpool × Build Better Liverpool** are joining forces for a special event packed with talks, new connections and **prize giveaways**. Whether you’re a regular at either meetup or joining us for the first time, we hope you’ll be part of it. Liverpool’s tech scene is full of brilliant people. This is a chance to bring our communities together, share ideas across disciplines and celebrate the people building great things across the North West. **What’s in store?** 🎤 **Talks across Product, Marketing and Development**, featuring Benjamin Villette, James Kennedy and Samson Nwizugbe. 🗣️ **An Ask Me…",
    "first_seen": "2026-11-19T20:43:35.366040+00:00"
   },
   {
@@ -424,12 +463,25 @@
    "link": "https://www.meetup.com/agent-builders/events/316959125/",
    "kind": "events",
    "category": "Meetup",
-   "source": "Meetup — Athens tech",
-   "source_url": "https://www.meetup.com/find/?location=gr--Athens&source=EVENTS&categoryId=546",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
    "starts": "2026-11-26T20:00:00+02:00",
    "location": "Online",
    "summary": "Agentic engineering is building software by directing AI coding agents rather than writing the code yourself. The engineering part comes from how you direct the agents - the goal, the rules, the checks, the coding standards, the tests, the code reviews etc. It speeds things up a lot as Agents are incredibly quick at producing code, much faster than humans, and it allows you much more flexibility in what you build, as you are not just limited to your own knowledge, language or domain expertise. The more time consuming part now, is not the writing code, but the verifying, the testing, the workflow you use to ensure code quality and goal adherence. This is for anyone curious about building soft…",
    "first_seen": "2026-11-15T06:42:51.765788+00:00"
+  },
+  {
+   "key": "url:https://meetup.com/data-thursday/events/312574917",
+   "title": "🚀 Data Thursday - Automated Data Governance",
+   "link": "https://www.meetup.com/data-thursday/events/312574917/",
+   "kind": "events",
+   "category": "Meetup",
+   "source": "Meetup — Thessaloniki tech",
+   "source_url": "https://www.meetup.com/find/?location=gr--Thessaloniki&source=EVENTS&categoryId=546",
+   "starts": "2026-11-26T19:00:00+02:00",
+   "location": "Online",
+   "summary": "# Data Thursday \\| From Spreadsheet Chaos to Automated Data Governance: 3 Days to 3 Minutes\\! **What if updating your data could take three minutes instead of three days?** Imagine a pan-European network of more than 850 community foundations across 22 countries, keeping its directory up to date using shared Excel files. Multiple collaborators. Manual updates. No audit trail. No automatic notifications. And an administrator left wondering who changed what. Sound familiar? ### 🎤 Our speaker: Felicity Fan For this edition of Data Thursday, we're welcoming **Felicity Fan**, AI Automation Specialist at Cassini Technologies. Through CorrelAid, Felicity built a custom WordPress plugin for the Euro…",
+   "first_seen": "2026-11-14T22:30:30.974377+00:00"
   },
   {
    "key": "url:https://meetup.com/athens-python-users-meetup/events/317407775",
