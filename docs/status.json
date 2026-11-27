@@ -1,11 +1,11 @@
 {
-  "built": "2026-11-27T12:36:08.638804+00:00",
-  "items": 52,
+  "built": "2026-11-27T23:29:49.013324+00:00",
+  "items": 47,
   "sources": [
     {
       "name": "Meetup — Athens tech",
-      "fetched": 12,
-      "kept": 12,
+      "fetched": 11,
+      "kept": 11,
       "error": ""
     },
     {
@@ -47,31 +47,31 @@
     {
       "name": "Startupper",
       "fetched": 10,
-      "kept": 3,
+      "kept": 0,
       "error": ""
     },
     {
       "name": "ICT Plus",
       "fetched": 21,
-      "kept": 4,
+      "kept": 2,
       "error": ""
     },
     {
       "name": "Techgear",
       "fetched": 50,
-      "kept": 0,
-      "error": ""
-    },
-    {
-      "name": "Startup.gr",
-      "fetched": 6,
       "kept": 1,
       "error": ""
     },
     {
+      "name": "Startup.gr",
+      "fetched": 0,
+      "kept": 0,
+      "error": "ValueError: not a valid feed (<unknown>:94:2: mismatched tag)"
+    },
+    {
       "name": "EMEA.gr",
       "fetched": 15,
-      "kept": 0,
+      "kept": 2,
       "error": ""
     },
     {
@@ -83,13 +83,13 @@
     {
       "name": "Insider.gr",
       "fetched": 60,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
       "name": "Fortune Greece",
-      "fetched": 178,
-      "kept": 4,
+      "fetched": 211,
+      "kept": 6,
       "error": ""
     },
     {
@@ -101,20 +101,20 @@
     {
       "name": "Techblog",
       "fetched": 20,
-      "kept": 4,
+      "kept": 2,
       "error": ""
     },
     {
       "name": "Techmaniacs",
       "fetched": 12,
-      "kept": 4,
+      "kept": 2,
       "error": ""
     },
     {
       "name": "Netweek",
-      "fetched": 10,
+      "fetched": 0,
       "kept": 0,
-      "error": ""
+      "error": "ValueError: not a valid feed (<unknown>:94:2: mismatched tag)"
     },
     {
       "name": "EU-Startups",

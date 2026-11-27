@@ -6,8 +6,17 @@
 <atom:link href="https://giannistamb1.github.io/greek-tech-events-feed/feed-events.xml" rel="self" type="application/rss+xml"/>
 <description>Tech, startup, AI, developer and innovation events across Greece, merged from event platforms, community calendars and Greek tech media.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 12:36:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 23:29:49 +0000</lastBuildDate>
 <ttl>180</ttl>
+<item>
+<title>[14 Dec] Eighth Online Func Prog Sweden 2026</title>
+<link>https://www.meetup.com/func-prog-sweden/events/317047537/</link>
+<guid isPermaLink="false">url:https://meetup.com/func-prog-sweden/events/317047537</guid>
+<pubDate>Fri, 27 Nov 2026 23:29:49 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Monday 14 December 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Welcome to the eighth online Func Prog Sweden MeetUp 2026 This MeetUp will be streamed live online on the Func Prog Sweden YouTube channel: https://www.youtube.com/c/FuncProgSweden The program starts at 18:00. * Intro by Magnus Sedlacek * Soccer Analytics with F# by Sudipta Mukherjee * Welcome to Karuta: Logic Programming on the BEAM! by Eduardo Lemos **Soccer Analytics with F#** Modern soccer generates vast amounts of spatial and event-based tracking data, yet transforming raw coordinates into meaningful tactical insight is often hindered by mutable state and brittle imperative scripts. This talk explores how F# and Plotly.NET enable a clean, composable, and reproducible pipeline for explor…&lt;/p&gt;</description>
+</item>
 <item>
 <title>[18 Dec] Kubernetes Athens vol29</title>
 <link>https://www.meetup.com/athens-kubernetes-meetup/events/317598199/</link>
@@ -36,24 +45,6 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 18 December 2026, 09:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Moikka ninjaseni! Tässä joulukuun tapahtuman agenda. **🕘 Ohjelma** * 9.00–9.10 Tervetuloa ja ajankohtaiset WPNinjasFI-asiat * 9.10–10.00 Windows Resiliency: Is Your WinRE Healthy?, Martin Himken * 10.00–10.10 Lyhyt tauko * 10.10–11.00 Windows Application allow listing – Notes from the field, Kim Oppalfens and Tom Degreef * 11.00–11.15 Kysy ninjoilta – yhteistä keskustelua ja kysymyksiä **Windows Resiliency: Is Your WinRE Healthy?** Is your recovery environment ready when Windows won't boot? The Windows Recovery Environment (WinRE) is easy to overlook until you need it. In this 50-minute session, you will learn how WinRE supports modern recovery options, such as Quick Machine Recovery, Point-…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[27 Nov] Governing &amp; Cost Savings in AI: Ai Cost savings + EU AI Operators</title>
-<link>https://www.meetup.com/the-devops-world-meetup-group/events/316008947/</link>
-<guid isPermaLink="false">url:https://meetup.com/the-devops-world-meetup-group/events/316008947</guid>
-<pubDate>Fri, 27 Nov 2026 12:36:08 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 27 November 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;- 18:30 - 18:40 – Welcome, Community updates and Intro - 18:40 - 19:10 – Topic 1 **Speaker**: Bishwas Jha **Topic Title**: Let’s Save Some AI Costs! [Part-1]💸 Claude, Copilot &amp;amp; AI Agents — Same Quality, Less Spending *A two\-part\, hands\-on session \| 30 \+ 30 minutes* **Details**: AI is making us more productive, but are we spending more than necessary? In this session, we'll explore practical ways to get more from Claude subscriptions, reduce API token costs, optimize GitHub Copilot usage, and build cost-efficient AI agents and workflows. From prompt caching and context optimization to intelligent model routing, specialized decision models and smarter agent orchestration, we'll demonstrat…&lt;/p&gt;</description>
-</item>
-<item>
-<title>[27 Nov] In Charge of AI Transformation in Your SDLC? Open Q&amp;A for Engineering Leaders</title>
-<link>https://www.meetup.com/software-engineering-for-the-ai-era-by-max-piechota/events/317410332/</link>
-<guid isPermaLink="false">url:https://meetup.com/software-engineering-for-the-ai-era-by-max-piechota/events/317410332</guid>
-<pubDate>Fri, 27 Nov 2026 01:45:57 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 27 November 2026, 17:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;⚠️ IMPORTANT — this is a small remote session on Google Meet with limited seats. To get the join link you must register on Luma here 👉 https://luma.com/hozinay6 (an RSVP here alone won't get you in.) You've been put in charge of AI transformation, and the goal came without the how. Individual engineers picked the tools up and some of them are flying, yet the way your organisation delivers software has barely moved. It's a lonely seat. The people above you expect a plan, your teams have strong opinions in every direction, and there's rarely anyone at your level, inside your company or outside it, who has done this before and can tell you whether what you're seeing is normal. This session is a…&lt;/p&gt;</description>
-</item>
-<item>
 <title>[03 Dec] 🌙 Thursday Social Night | Meet New People in Athens@Mint bar</title>
 <link>https://www.meetup.com/digital-nomads-and-socialites-in-athens/events/317414546/</link>
 <guid isPermaLink="false">url:https://meetup.com/digital-nomads-and-socialites-in-athens/events/317414546</guid>
@@ -70,6 +61,24 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 29 November 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; 36 Chalkokondili, Chalkokondili 36, Athina 104 32, Greece, Athina, Athina&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;**✨ Athens Zoom Speed Dating – Personality &amp;amp; Age Matched** Speed dating from home — connect with real Athens singles on Zoom. Each round is a brief one-on-one Zoom chat with a Athens local paired by age and personality. A host keeps the pace comfortable. **Register under your age group:** * **Ages 18-32** → [REGISTER HERE](https://theliveround.com/product?productId=758&amp;amp;productType=onlineSpeedDating&amp;amp;city=Athens&amp;amp;groupurlname=pixel-novices-play-and-build-club&amp;amp;ar=18-32&amp;amp;face_v=5080) * **Ages 30-46** → [REGISTER HERE](https://theliveround.com/product?productId=758&amp;amp;productType=onlineSpeedDating&amp;amp;city=Athens&amp;amp;groupurlname=pixel-novices-play-and-build-club&amp;amp;ar=30-46&amp;amp;face_v=5080) * **Ages 40-58** → [REGI…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[13 Dec] Build a Reasoning Model (From Scratch)</title>
+<link>https://www.meetup.com/llm-reading-club/events/317550479/</link>
+<guid isPermaLink="false">url:https://meetup.com/llm-reading-club/events/317550479</guid>
+<pubDate>Fri, 27 Nov 2026 01:45:57 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 13 December 2026, 17:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;We are working through *Build a Reasoning Model (From Scratch)* by Sebastian Raschka. During each meetup, we will discuss the key concepts from the chapter or pages under review. In this session we'll discuss the **Chapter 8. Distilling Reasoning Models for Efficient Reasoning.** Raschka provides a hands-on guide to understanding and building modern reasoning models. Starting with a conventional pretrained LLM, the book explores evaluation, inference-time reasoning techniques, reinforcement learning with verifiable rewards, and knowledge distillation. Please note that the session is not recorded, and participants are responsible for obtaining their own copy of the book. **Buy the book** (aff…&lt;/p&gt;</description>
+</item>
+<item>
+<title>[03 Dec] Rust Hack and Learn</title>
+<link>https://www.meetup.com/rust-berlin/events/316907782/</link>
+<guid isPermaLink="false">url:https://meetup.com/rust-berlin/events/316907782</guid>
+<pubDate>Fri, 27 Nov 2026 01:45:57 +0000</pubDate>
+<category>Meetup</category>
+<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Thursday 03 December 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;This event is happening online! Check all instructions on our website: https://berline.rs/ \-\-\- Rust is a language empowering everyone to build reliable and efficient software. Let's meet for open hacking and (co)-learning in our bi-weekly learning group! Everyone is welcome. Rusties of all skill levels meet and hack on cool Rust stuff. Please bring a computer. Bring your ideas, questions &amp;amp; projects and let’s meet. * What did you work on this week? * What problems did you solve this week with Rust? * Are you just learning Rust and want some topic explained? * Found an interesting crate you want to talk about? Feel free to join and drop out at any point. Everyone is invited to join us, no t…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[08 Dec] SKG JS Meetup #10: Markets &amp; Modernization</title>
@@ -104,8 +113,8 @@
 <guid isPermaLink="false">url:https://meetup.com/generative-ai-belgium/events/317367666</guid>
 <pubDate>Mon, 23 Nov 2026 01:47:28 +0000</pubDate>
 <category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 02 December 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;Hey Everyone! 👋 **Location:** * On-site: Wintercircus, Miriam Makebaplein 2, 9000 Gent (next to De Krook) * Public Transport: 30 min. walk from Ghent Sint Pieters &amp;amp; Ghent Dampoort with public transport to "Zuid". * By bike: Parking on the street available. * By Car: Paid parking at Parking Zuid * Online: Zoom link in the event page. **Practicalities for the evening on Wednesday, December 2:** * 18:30: Doors Open, drinks * 19:00: Speaker Talks * 20:30: Networking &amp;amp; Drinks **Welcome to edition 17 of the Generative AI Belgium Meetup! 🚀** What should be the role of AI in scientific discovery? 🧬🧮 From AlphaFold 2's breakthrough in protein structure prediction in 2020 to AI systems tackling mathem…&lt;/p&gt;</description>
+<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 02 December 2026, 19:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Hey Everyone! 👋 **Location:** * On-site: Wintercircus, Miriam Makebaplein 2, 9000 Gent (next to De Krook) * Public Transport: 30 min. walk from Ghent Sint Pieters &amp;amp; Ghent Dampoort with public transport to "Zuid". * By bike: Parking on the street available. * By Car: Paid parking at Parking Zuid * Online: Zoom link in the event page. **Practicalities for the evening on Wednesday, December 2:** * 18:30: Doors Open, drinks * 19:00: Speaker Talks * 20:30: Networking &amp;amp; Drinks **Welcome to edition 17 of the Generative AI Belgium Meetup! 🚀** What should be the role of AI in scientific discovery? 🧬🧮 From AlphaFold 2's breakthrough in protein structure prediction in 2020 to AI systems tackling mathem…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[28 Nov] Saturday Social at Mint Bar – International Mingle event</title>
@@ -126,13 +135,13 @@
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Saturday 28 November 2026, 21:30&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Mint bar, Mint Music Bar, Ag. Anargiron 3, Athina 105 54, Athens, Athens&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;Jump in our whtsapp group,introduce yourself, start connect,put your ideas and lets hangout and make friends [https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt](https://chat.whatsapp.com/EDf4HaUjK4gLMMQeiOsllt) ✨ Saturday Starts With People ✨ Coming to Athens alone? New in town? Not sure where to go or who to meet? Start your Saturday with us. 🤍 Every Saturday, people from different countries, backgrounds, and social circles come together at Mint Bar to meet, chat, laugh, have a drink, and see where the night goes. 🌍 You can come solo, with friends, or as a couple. You don’t need to know anyone before you arrive. I’ll be there to welcome you, introduce people, and help you get into the group.…&lt;/p&gt;</description>
 </item>
 <item>
-<title>[02 Dec] Online Networking for Woman in Tech (Europe)</title>
-<link>https://www.meetup.com/woman-in-technogy-barcelona/events/315794325/</link>
-<guid isPermaLink="false">url:https://meetup.com/woman-in-technogy-barcelona/events/315794325</guid>
-<pubDate>Sun, 22 Nov 2026 01:23:11 +0000</pubDate>
+<title>[27 Dec] First event: Humanoids</title>
+<link>https://www.meetup.com/club-futuristico-thessaloniki/events/317159503/</link>
+<guid isPermaLink="false">url:https://meetup.com/club-futuristico-thessaloniki/events/317159503</guid>
+<pubDate>Fri, 20 Nov 2026 20:28:25 +0000</pubDate>
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Wednesday 02 December 2026, 19:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**Event Summary** 5 minutes. Two women. One spark. Online. Rotate through 1-on-1 video conversations with 15+ women in tech and find your next partner, mentor, co-founder, or collaborator, from wherever you are. **Description** Want to meet interesting women in tech without the pressure, and without leaving home? This is online speed networking: a gentle, human format where you have 1-on-1 conversations with women you’d actually want to know. No pitches. No performing. Just real talks with real people. **How it works:** We all meet in a group video call to say hello and set the tone. Then the platform pairs you with another woman in a private video room. You have 5 minutes to talk. Ask each …&lt;/p&gt;</description>
+<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Sunday 27 December 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Flantza_cafebar, Mavili 21, Thessaloniki 546 30, Greece, Thessaloniki, Thessaloniki&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;This is the first event ever! Let's kickstart this with a bang! The hot topic will be Humanoid Robots. How soon are they coming? Are you getting one? It's going to be an open topic with a small introduction and then drinks and socializing. If you are bringing people, let them join the group first. The group is specifically for people interested in the future in different ways, artists are welcome too. \*This isn't a developer event. Talk about programming, jobs hunting and business networking are discouraged\*.&lt;/p&gt;</description>
 </item>
 <item>
 <title>[03 Dec] Engineering, Product &amp; Design | Dot Net Liverpool × Build Better Liverpool</title>
@@ -214,15 +223,6 @@
 <category>Meetup</category>
 <source url="https://www.meetup.com/find/?location=gr--Thessaloniki&amp;source=EVENTS&amp;categoryId=546">Meetup — Thessaloniki tech</source>
 <description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Tuesday 01 December 2026, 20:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Thessaloniki tech · Meetup&lt;/p&gt;&lt;p&gt;**What can you do with a DAX query? \| Zoe Douglas** Power BI has a query language to get data out of the semantic model -- the DAX query. This is different from DAX formulas you find in calculated columns, tables, and measures. With DAX query view you can quickly use this to understand your data, try out new formulas, and troubleshoot formulas you already have. If you were ever curious about what a DAX query was or want to know more, come and find out! **Zoe Douglas, Product Manager at Microsoft** I am a product manager for Power BI at Microsoft. I focus on unlocking awesome features for visuals and dedicated to helping all customers get the most out of their data!&lt;/p&gt;</description>
-</item>
-<item>
-<title>[27 Nov] AI for DevOps &amp; SRE: From Impressive Demos to Operational Trust</title>
-<link>https://www.meetup.com/bucharest-xdevops-meetup-group/events/316850587/</link>
-<guid isPermaLink="false">url:https://meetup.com/bucharest-xdevops-meetup-group/events/316850587</guid>
-<pubDate>Thu, 05 Nov 2026 23:41:04 +0000</pubDate>
-<category>Meetup</category>
-<source url="https://www.meetup.com/find/?location=gr--Athens&amp;source=EVENTS&amp;categoryId=546">Meetup — Athens tech</source>
-<description>&lt;p&gt;&lt;b&gt;When:&lt;/b&gt; Friday 27 November 2026, 21:00&lt;br&gt;&lt;b&gt;Where:&lt;/b&gt; Online&lt;br&gt;&lt;b&gt;Source:&lt;/b&gt; Meetup — Athens tech · Meetup&lt;/p&gt;&lt;p&gt;AI for DevOps &amp;amp; SRE: From Impressive Demos to Operational Trust What would make you trust an AI agent with operational changes? An agent can generate a valid command and still misunderstand the objective. It can mistake missing telemetry for a healthy service, or choose an action outside the scope you authorized. How do we recognize these failures before they affect real systems? Join Bucharest XDevOps Meetup for a practical, vendor-neutral session exploring the risks of AI-assisted operations and the controls that help manage them. We’ll work through three synthetic scenarios in isolated environments: 1. The command is valid, but the objective is wrong. 2. The query returns no data, but the…&lt;/p&gt;</description>
 </item>
 <item>
 <title>[03 Dec] "You’re Absolutely Right, I Missed This”: Build an LLM Pipeline That Works</title>
